@@ -1,12 +1,13 @@
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import { pagesConfig, categoryNames, type Category } from '@/lib/pages-config';
 import { AdBanner } from '@/components/AdBanner';
 import * as Icons from 'lucide-react';
 import { LucideIcon } from 'lucide-react';
 
-export default function HomePage({ params }: { params: Promise<{ locale: string }> }) {
-  const t = useTranslations('pages');
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations('pages');
 
   // Group pages by category
   const pagesByCategory = pagesConfig.reduce((acc, page) => {

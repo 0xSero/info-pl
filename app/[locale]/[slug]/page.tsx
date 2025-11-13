@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import { pagesConfig } from '@/lib/pages-config';
 import { AdBanner } from '@/components/AdBanner';
@@ -63,8 +63,8 @@ export default async function PageDetail({ params }: PageProps) {
     notFound();
   }
 
-  const t = useTranslations('pages');
-  const tc = useTranslations('content');
+  const t = await getTranslations('pages');
+  const tc = await getTranslations('content');
 
   // Get related pages from the same category
   const relatedPages = pagesConfig
