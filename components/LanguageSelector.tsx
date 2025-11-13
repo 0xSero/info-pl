@@ -1,17 +1,25 @@
 'use client';
 
-import { useState } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import { useLocale } from 'next-intl';
-import { Globe, ChevronDown } from 'lucide-react';
+import { Globe, Check } from 'lucide-react';
 import { locales, localeNames, type Locale } from '@/i18n';
+import { Button } from '@/components/ui/button';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+  DropdownMenuSeparator,
+  DropdownMenuLabel,
+} from '@/components/ui/dropdown-menu';
+import { cn } from '@/lib/utils';
 
 interface LanguageSelectorProps {
   mobile?: boolean;
 }
 
 export function LanguageSelector({ mobile = false }: LanguageSelectorProps) {
-  const [isOpen, setIsOpen] = useState(false);
   const router = useRouter();
   const pathname = usePathname();
   const currentLocale = useLocale();
@@ -19,29 +27,26 @@ export function LanguageSelector({ mobile = false }: LanguageSelectorProps) {
   const handleLocaleChange = (newLocale: Locale) => {
     const path = pathname.split('/').slice(2).join('/');
     router.push(`/${newLocale}/${path}`);
-    setIsOpen(false);
   };
 
   if (mobile) {
     return (
       <div className="space-y-2">
-        <div className="flex items-center space-x-2 px-3 py-2 text-sm font-medium text-gray-700">
-          <Globe size={18} />
-          <span>Language</span>
-        </div>
+        <DropdownMenuLabel className="flex items-center gap-2">
+          <Globe className="h-4 w-4" />
+          Language
+        </DropdownMenuLabel>
         <div className="grid grid-cols-2 gap-2 px-3">
           {locales.map((locale) => (
-            <button
+            <Button
               key={locale}
               onClick={() => handleLocaleChange(locale)}
-              className={`rounded-md px-3 py-2 text-sm ${
-                currentLocale === locale
-                  ? 'bg-red-600 text-white'
-                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-              }`}
+              variant={currentLocale === locale ? "default" : "outline"}
+              size="sm"
+              className="w-full justify-start"
             >
               {localeNames[locale]}
-            </button>
+            </Button>
           ))}
         </div>
       </div>
@@ -49,41 +54,35 @@ export function LanguageSelector({ mobile = false }: LanguageSelectorProps) {
   }
 
   return (
-    <div className="relative">
-      <button
-        onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center space-x-2 rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50"
-      >
-        <Globe size={18} />
-        <span>{localeNames[currentLocale as Locale]}</span>
-        <ChevronDown size={16} />
-      </button>
-
-      {isOpen && (
-        <>
-          <div
-            className="fixed inset-0 z-10"
-            onClick={() => setIsOpen(false)}
-          />
-          <div className="absolute right-0 z-20 mt-2 max-h-96 w-64 overflow-y-auto rounded-md border border-gray-200 bg-white shadow-lg">
-            <div className="grid grid-cols-2 gap-1 p-2">
-              {locales.map((locale) => (
-                <button
-                  key={locale}
-                  onClick={() => handleLocaleChange(locale)}
-                  className={`rounded px-3 py-2 text-left text-sm ${
-                    currentLocale === locale
-                      ? 'bg-red-600 text-white'
-                      : 'text-gray-700 hover:bg-gray-100'
-                  }`}
-                >
-                  {localeNames[locale]}
-                </button>
-              ))}
-            </div>
-          </div>
-        </>
-      )}
-    </div>
+    <DropdownMenu>
+      <DropdownMenuTrigger asChild>
+        <Button variant="outline" size="default" className="gap-2">
+          <Globe className="h-4 w-4" />
+          <span className="hidden sm:inline-block">{localeNames[currentLocale as Locale]}</span>
+        </Button>
+      </DropdownMenuTrigger>
+      <DropdownMenuContent align="end" className="w-64 max-h-96 overflow-y-auto">
+        <DropdownMenuLabel>Select Language</DropdownMenuLabel>
+        <DropdownMenuSeparator />
+        <div className="grid grid-cols-2 gap-1 p-1">
+          {locales.map((locale) => (
+            <DropdownMenuItem
+              key={locale}
+              onClick={() => handleLocaleChange(locale)}
+              className={cn(
+                "cursor-pointer",
+                currentLocale === locale && "bg-primary text-primary-foreground"
+              )}
+            >
+              <Check className={cn(
+                "mr-2 h-4 w-4",
+                currentLocale === locale ? "opacity-100" : "opacity-0"
+              )} />
+              {localeNames[locale]}
+            </DropdownMenuItem>
+          ))}
+        </div>
+      </DropdownMenuContent>
+    </DropdownMenu>
   );
 }
