@@ -72,6 +72,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         locales.map((l) => [l, `${baseUrl}/${l}`])
       ),
     },
+    viewport: {
+      width: 'device-width',
+      initialScale: 1,
+      maximumScale: 5,
+    },
+    other: {
+      'google-adsense-account': 'ca-pub-XXXXXXXXXXXXXXXX',
+    },
   };
 }
 
@@ -119,7 +127,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <head>
+      <body>
         {/* Google AdSense - Replace with your actual publisher ID */}
         <Script
           async
@@ -135,10 +143,6 @@ export default async function LocaleLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
 
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXXXXXXXX" />
-      </head>
-      <body>
         <NextIntlClientProvider messages={messages}>
           <div className="flex min-h-screen flex-col">
             <Header />
