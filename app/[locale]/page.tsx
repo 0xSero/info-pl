@@ -68,7 +68,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                       return (
                         <Link
                           key={page.slug}
-                          href={`/${page.slug}`}
+                          href={`/${locale}/${page.slug}`}
                           className="group relative overflow-hidden rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-all hover:border-red-500 hover:shadow-md"
                         >
                           <div className="mb-3 flex items-start justify-between">
@@ -110,19 +110,19 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             Most Popular Topics
           </h2>
           <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-4">
-            <Link href="/sunday-shopping-laws" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
+            <Link href={`/${locale}/sunday-shopping-laws`} className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
               <div className="text-2xl">🛒</div>
               <h3 className="mt-2 font-semibold">Sunday Shopping</h3>
             </Link>
-            <Link href="/pesel-number" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
+            <Link href={`/${locale}/pesel-number`} className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
               <div className="text-2xl">📋</div>
               <h3 className="mt-2 font-semibold">PESEL Number</h3>
             </Link>
-            <Link href="/polish-holidays" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
+            <Link href={`/${locale}/polish-holidays`} className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
               <div className="text-2xl">📅</div>
               <h3 className="mt-2 font-semibold">Polish Holidays</h3>
             </Link>
-            <Link href="/nfz-health-insurance" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
+            <Link href={`/${locale}/nfz-health-insurance`} className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
               <div className="text-2xl">🏥</div>
               <h3 className="mt-2 font-semibold">Healthcare (NFZ)</h3>
             </Link>
