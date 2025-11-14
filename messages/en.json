@@ -2036,6 +2036,241 @@
       "faq3A": "New cars: first inspection after 3 years. Cars 3+ years: annual inspection required. Check certificate date - if expired, must inspect before registration. Costs 100-150 PLN at diagnostic station (stacja kontroli pojazdów).",
       "faq4Q": "Can I drive car with foreign plates in Poland?",
       "faq4A": "Temporarily yes if: you're tourist, car registered abroad, have valid insurance. Residents: must register within 30 days of bringing car to Poland. Foreign-plated cars common near borders but technically illegal for residents."
+    },
+    "tax-deductions": {
+      "overview": "Polish tax system offers numerous deductions (odliczenia) and credits (ulgi) to reduce taxable income and tax liability. Common deductions: donations, internet costs, rehabilitation expenses, child tax credits. Youth under 26 get significant tax break (ulga dla młodych). Proper documentation essential. Claim deductions in annual PIT tax return.",
+      "req1": "Receipts and documentation for all deductible expenses",
+      "req2": "Annual PIT tax return filing (by April 30th)",
+      "req3": "Meeting specific conditions for each deduction type",
+      "req4": "Proper categorization of expenses",
+      "step1": {
+        "title": "Understand Available Deductions",
+        "description": "Major deductions: internet (up to 760 PLN/year), donations to charities, child tax credit (1,112.04 PLN per child annually), rehabilitation costs (unlimited if disabled), education expenses (in some cases), pension contributions. Check annually as rules change."
+      },
+      "step2": {
+        "title": "Keep Proper Documentation",
+        "description": "Save all receipts, invoices, certificates throughout year. Required docs: donation receipts from registered charities (OPP), internet provider invoices, medical certificates for rehabilitation, child birth certificates. Without documentation, deduction rejected."
+      },
+      "step3": {
+        "title": "Calculate Deductible Amounts",
+        "description": "Internet: max 760 PLN yearly (not monthly!). Donations: up to 6% of income. Child credit: 92.67 PLN monthly reduction. Married couples: can split deductions optimally between spouses. Sum total deductions - reduces tax base or directly reduces tax owed."
+      },
+      "step4": {
+        "title": "Claim in PIT Tax Return",
+        "description": "File PIT-37 (employees) or PIT-36 (other income) by April 30th. Online system pre-fills some data. Manually add deductions with amounts. Attach supporting documents if requested. Common mistake: forgetting to claim - review all possible deductions before filing."
+      },
+      "step5": {
+        "title": "Receive Tax Refund or Pay Less",
+        "description": "If deductions create overpayment: refund within 45 days to bank account. If reduce tax owed: pay smaller amount by deadline. Tax office may audit deductions - keep documentation for 5 years. Rejected deductions: can appeal within 14 days."
+      },
+      "doc1": "Receipts for deductible expenses (internet, donations, etc.)",
+      "doc2": "Medical certificates for rehabilitation expenses",
+      "doc3": "Child birth certificates for child tax credit",
+      "doc4": "Donation confirmations from registered charities",
+      "costs": "Tax deductions save money by reducing tax owed - no cost to claim them.",
+      "cost1": "Filing tax return with deductions",
+      "cost1Amount": "Free (0 PLN) if self-filed",
+      "cost2": "Tax advisor to maximize deductions",
+      "cost2Amount": "200-500 PLN (optional)",
+      "tip1": "Ulga dla młodych (youth tax relief): If under 26, first 85,528 PLN income is completely tax-free! Huge benefit. Automatically applied if eligible, but verify in tax return.",
+      "tip2": "Married couples: filing jointly (wspólne rozliczenie) can save significantly if one spouse earns much less. System calculates automatically - compare joint vs separate to see savings.",
+      "tip3": "Donate to charity? Get 1% of your tax donated to OPP organization of choice at no cost to you, PLUS deduct donation from income if made separately. Double benefit!",
+      "faq1Q": "What's the internet tax deduction?",
+      "faq1A": "Can deduct up to 760 PLN yearly for internet costs (not 760 PLN monthly - that's total for year!). Requires invoices from provider. Applies if use internet for work/education.",
+      "faq2Q": "How much is child tax credit?",
+      "faq2A": "92.67 PLN monthly per child (1,112.04 PLN yearly). Directly reduces tax owed (not taxable income). For first child, only if income under certain threshold. Second+ children: no income limit.",
+      "faq3Q": "Can I deduct medical expenses?",
+      "faq3A": "General medical expenses: no. Exception: rehabilitation expenses for disabled person (certified) are fully deductible with no limit. Requires medical certificate and receipts.",
+      "faq4Q": "What if I forget to claim deduction?",
+      "faq4A": "Can file corrected tax return (korekta) within 5 years. Common to miss deductions first year in Poland - review and file correction to get refund of overpaid tax."
+    },
+    "cryptocurrency-regulations": {
+      "overview": "Cryptocurrency trading and ownership is legal in Poland. Crypto income taxed as capital gains (19% PIT) or business income (depending on activity level). Must report all crypto transactions in annual tax return. No specific crypto regulations - treated as property/asset. Exchanges operating legally. VAT exemption for crypto confirmed. Growing adoption but still relatively niche.",
+      "req1": "Records of all cryptocurrency transactions (buys, sells, trades)",
+      "req2": "Calculation of gains/losses in PLN",
+      "req3": "Annual tax return (PIT-38 for capital gains)",
+      "req4": "Understanding of tax treatment (hobby vs business)",
+      "step1": {
+        "title": "Determine Tax Category",
+        "description": "Hobby/occasional trading: capital gains tax (PIT-38, 19% flat). Professional/frequent trading: business income (PIT-36, progressive 12-32% or flat 19%). Threshold unclear - case-by-case. Hundreds of transactions yearly likely business."
+      },
+      "step2": {
+        "title": "Track All Transactions",
+        "description": "Record for each transaction: date, cryptocurrency type, amount bought/sold, price in PLN, exchange used, purpose. Use crypto tax software (Koinly, CoinTracking) to auto-track. Convert all values to PLN at transaction time using NBP rates."
+      },
+      "step3": {
+        "title": "Calculate Taxable Gains",
+        "description": "Taxable when: sell crypto for PLN, trade one crypto for another, use crypto to buy goods/services. Not taxed: just holding, transferring between own wallets. Calculate gain: sale price minus purchase price (FIFO method typically). Losses can offset gains."
+      },
+      "step4": {
+        "title": "File Annual Tax Return",
+        "description": "Capital gains: file PIT-38 by April 30th, pay 19% on net gains. Business: PIT-36 or register działalność (self-employment). Declare total gains, pay tax. Failure to report: penalties + interest. Tax office increasingly scrutinizing crypto."
+      },
+      "step5": {
+        "title": "Stay Compliant",
+        "description": "Keep records 5 years. Be prepared to prove source of funds if large deposits. Banks may ask about crypto income. Some banks refuse crypto-related transactions - consider crypto-friendly banks (Millennium, mBank better than traditional)."
+      },
+      "doc1": "Complete transaction history from exchanges",
+      "doc2": "Calculations of gains/losses in PLN",
+      "doc3": "Exchange screenshots/CSV exports",
+      "doc4": "Proof of acquisition costs (original purchase receipts)",
+      "costs": "Crypto transactions themselves have costs, plus tax liability on gains.",
+      "cost1": "Capital gains tax on crypto profits",
+      "cost1Amount": "19% of net gains",
+      "cost2": "Crypto tax software (optional)",
+      "cost2Amount": "50-200 USD/year",
+      "tip1": "Use crypto tax software - manual tracking of hundreds of transactions impossible. Koinly, CoinTracking integrate with exchanges, auto-calculate PLN values, generate tax reports.",
+      "tip2": "Losses offset gains - if you lost money on some coins, can deduct from gains on others. Net calculation for year. Even losing trades should be reported.",
+      "tip3": "Don't try to hide crypto income - exchanges increasingly reporting to tax authorities. Better to pay 19% tax than face penalties (20-300% of unpaid tax) plus criminal liability.",
+      "faq1Q": "Do I pay tax on cryptocurrency in Poland?",
+      "faq1A": "Yes, 19% capital gains tax when you sell, trade, or spend crypto. Just holding (HODL) not taxed. Must report in annual PIT-38 tax return. Applies to all profits from crypto.",
+      "faq2Q": "Is cryptocurrency legal in Poland?",
+      "faq2A": "Yes, completely legal to own, buy, sell, trade. No specific crypto regulations. Treated as property/asset for tax purposes. Exchanges operating legally. No plans to ban.",
+      "faq3Q": "Do I need to register business for crypto trading?",
+      "faq3A": "Depends on frequency. Occasional/hobby trading: no, just capital gains tax (19%). Professional/frequent trading: may be considered business, need działalność registration. Gray area - consult tax advisor if very active.",
+      "faq4Q": "Can I use crypto to pay for things?",
+      "faq4A": "Legally yes, but very few places accept. Using crypto for payment is taxable event - pay capital gains on appreciation since purchase. Most people convert to PLN first."
+    },
+    "real-estate-agencies": {
+      "overview": "Real estate agencies (agencje nieruchomości) help find apartments, negotiate deals, handle paperwork. Most charge 1 month's rent as commission from tenant. Popular agencies: Otodom (largest portal), Gratka, OLX (free listings), local agencies. English-speaking agents available in major cities. Agencies verify listings (reduce scams), arrange viewings, assist with contracts. Can also use direct landlord listings (bezpośrednio od właściciela) to avoid commission.",
+      "req1": "Valid ID/passport and PESEL (or temporary status)",
+      "req2": "Proof of income or employment contract",
+      "req3": "Budget defined (rent + commission + deposit)",
+      "req4": "Understanding of agency commission structure (typically 1 month rent)",
+      "step1": {
+        "title": "Choose Agency or Portal",
+        "description": "Major portals: Otodom.pl (biggest, verified listings), Gratka.pl, OLX.pl (free ads, more scams). Professional agencies: Metrohouse, Home Broker, local agencies. English speakers: look for 'English' tag on agent profile. Portal listings: mix of agencies + direct owners. Direct owner (bez prowizji) = no commission."
+      },
+      "step2": {
+        "title": "Search and Filter Listings",
+        "description": "Search by city, district, price range, size (m²), rooms. Key filters: furnished/unfurnished, pets allowed, floor number, parking. Price: expect 2,000-4,000 PLN for 1BR in major cities. Check photos carefully - misleading angles common. Read Polish descriptions with translator - important details often only in Polish."
+      },
+      "step3": {
+        "title": "Contact and Arrange Viewings",
+        "description": "Contact via phone/email/portal message. English: say 'Mówię po angielsku' (I speak English). Schedule multiple viewings same day to compare. Viewing etiquette: remove shoes, don't bring large groups. Ask about: utilities included?, contract length?, renewal terms?, maintenance responsibility? Check: water pressure, heating, windows, appliances, internet connection, phone signal."
+      },
+      "step4": {
+        "title": "Negotiate Terms and Commission",
+        "description": "Negotiable: rent price (5-10% possible), contract length, furnished items. Commission: standard 1 month rent, sometimes negotiable. Direct owners: no commission but less professional. Red flags: demand for deposit before contract, no viewing allowed, suspiciously cheap. Request written agreement on all terms before committing."
+      },
+      "step5": {
+        "title": "Finalize Through Agency",
+        "description": "Agency prepares rental contract (umowa najmu). Review all terms - get Polish friend or translator to check. Pay: first month rent + deposit + agency commission. Commission receipt: keep for records. Good agencies: help with meldunek, utility setup, ongoing issues. Bad experience: can complain to UFG (Office of Competition and Consumer Protection)."
+      },
+      "doc1": "ID/passport and PESEL number",
+      "doc2": "Proof of income (employment contract or bank statements)",
+      "doc3": "Previous landlord reference (optional but helpful)",
+      "doc4": "Agency commission payment receipt",
+      "costs": "Agency commission is main extra cost beyond rent and deposit.",
+      "cost1": "Agency commission (if using agency)",
+      "cost1Amount": "1 month rent (2,000-5,000 PLN typical)",
+      "cost2": "Direct owner listing (no commission)",
+      "cost2Amount": "0 PLN in commission",
+      "tip1": "Otodom 'Sprawdzone' (verified) badge = listing verified by Otodom staff. Much safer than unverified. Worth filtering for verified only to avoid scams and fake listings.",
+      "tip2": "Negotiate commission - some agencies accept half month or include viewings for free. Market competitive in tenant's favor currently (2024). Don't accept first offer.",
+      "tip3": "Use 'bez prowizji' (no commission) filter to find direct owner listings. Save 2,000-4,000 PLN. Legitimate owners exist - just be extra careful verifying ownership before paying.",
+      "faq1Q": "How much do real estate agencies charge?",
+      "faq1A": "Typically 1 month's rent as commission from tenant. For 3,000 PLN/month apartment = 3,000 PLN commission. Sometimes negotiable to 0.5 month. Direct owner listings = 0 commission.",
+      "faq2Q": "Are agencies worth the commission?",
+      "faq2A": "Benefits: verified listings, professional contracts, viewings arranged, paperwork help, ongoing support. Worth it if new to Poland or limited Polish. Skip if Polish-speaking and want to save money.",
+      "faq3Q": "How do I avoid real estate scams?",
+      "faq3A": "Red flags: no viewing before payment, rent way below market, landlord 'abroad' cannot meet, Western Union payment requested. Safe: verify ownership docs, meet in person at property, use Otodom verified listings, never pay before signed contract.",
+      "faq4Q": "Can I get English-speaking agents?",
+      "faq4A": "Yes, major cities have English-speaking agents. Look for 'English' tag on Otodom profiles. International agencies like Metrohouse have English staff. Smaller cities: fewer English options, bring translator."
+    },
+    "security-deposits": {
+      "overview": "Security deposits (kaucja) protect landlords against damages, unpaid rent, unpaid bills. Standard: 1-2 months rent. Held by landlord during tenancy. Returned after move-out if no damages (within 7-30 days). Not legally mandatory but almost universal. Must be stated in rental contract. Separate from rent payment. Disputes common - document apartment condition carefully at move-in and move-out. Small claims court available if deposit wrongfully withheld.",
+      "req1": "Rental contract specifying deposit amount and return conditions",
+      "req2": "Documentation of apartment condition at move-in (photos/video)",
+      "req3": "Payment receipt for security deposit",
+      "req4": "Final utility bills settlement before moving out",
+      "step1": {
+        "title": "Understand Deposit Amount",
+        "description": "Standard: 1-2 months rent. Expensive apartments: sometimes 3 months. Negotiable before signing contract. Example: 3,000 PLN rent = 3,000-6,000 PLN deposit typical. Deposit separate from first month rent - budget accordingly. Total move-in cost: first month + deposit + agency commission (if any) = expensive!"
+      },
+      "step2": {
+        "title": "Document Condition at Move-In",
+        "description": "CRITICAL: Take photos/video of EVERYTHING before moving in. Document: scratches, stains, broken items, wear and tear, appliance condition, walls, floors. Timestamp photos. Written inventory list: create with landlord, both sign. Send photos to landlord via email (proof of delivery). This protects your deposit later."
+      },
+      "step3": {
+        "title": "Pay and Get Receipt",
+        "description": "Pay deposit via bank transfer (przelew) - creates paper trail. Cash: demand signed receipt (pokwitowanie). Receipt must state: amount, date, purpose (kaucja), landlord name, your name. Contract should specify: deposit amount, return conditions, timeline for return. Keep all documentation safely."
+      },
+      "step4": {
+        "title": "Maintain Property During Tenancy",
+        "description": "Your responsibility: keep clean, minor repairs (burned bulb), report major issues promptly. Landlord responsibility: structural repairs, appliances, heating system. Normal wear and tear: NOT deductible from deposit. Damage beyond normal use: deductible. Collect receipts for any repairs you pay for - can offset against deposit disputes."
+      },
+      "step5": {
+        "title": "Move-Out and Deposit Return",
+        "description": "Before moving out: clean thoroughly, minor repairs, settle all utilities. Move-out inspection: landlord checks apartment, compare to move-in condition. Take photos again. Deposit return: 7-30 days typical (check contract). Landlord deducts damages: must provide receipts/invoices. Dispute: request itemized list, negotiate, small claims court (last resort). Bank transfer return = safest."
+      },
+      "doc1": "Rental contract with deposit terms clearly stated",
+      "doc2": "Deposit payment receipt (bank transfer confirmation or written receipt)",
+      "doc3": "Move-in condition documentation (photos, videos, signed inventory)",
+      "doc4": "Move-out condition documentation and utility bills settlement",
+      "costs": "Deposit is returnable - not a cost unless wrongfully withheld or legitimate damages.",
+      "cost1": "Security deposit (held, then returned)",
+      "cost1Amount": "1-2 months rent (3,000-8,000 PLN typical)",
+      "cost2": "Potential deductions for damages",
+      "cost2Amount": "Varies (0 PLN if no damages)",
+      "tip1": "Take VIDEO walkthrough at move-in with audio timestamp (say date out loud). More convincing than photos. Open/close every door, cupboard, appliance. Turn on all lights, taps, heating. 10 minutes = deposit protection.",
+      "tip2": "Email photos to landlord immediately after move-in. Their receipt = acknowledged condition. If dispute later, you have proof they saw and accepted initial state documentation.",
+      "tip3": "Polish tenancy law: deposit disputes go to small claims court (do 20,000 PLN). Filing fee ~300 PLN. Process ~6 months. Often settles before court. Don't let landlord steal deposit - you have rights!",
+      "faq1Q": "How much is a typical security deposit?",
+      "faq1A": "1-2 months rent is standard. For 3,000 PLN/month rent, expect 3,000-6,000 PLN deposit. Higher deposits (3+ months) unusual and negotiable. Budget for first month + deposit when moving in.",
+      "faq2Q": "When do I get my deposit back?",
+      "faq2A": "After moving out and final inspection. Timeline: 7-30 days typical, though legally can take longer. Check contract for specific terms. Should be bank transfer. If not returned within reasonable time (30-60 days), follow up in writing.",
+      "faq3Q": "Can landlord keep deposit for normal wear and tear?",
+      "faq3A": "No. Normal wear and tear (faded paint, minor scratches from regular use) is NOT deductible. Only damage beyond normal use. Landlord must prove damage with receipts/invoices. Many landlords don't know law - push back if unreasonable.",
+      "faq4Q": "What if landlord refuses to return deposit unfairly?",
+      "faq4A": "1) Request itemized deduction list in writing 2) Negotiate/dispute unreasonable items 3) Threaten small claims court 4) File claim if necessary (court filing ~300 PLN). Many landlords return after threat of court. Keep all documentation."
+    },
+    "rental-contracts": {
+      "overview": "Rental contracts (umowa najmu) are legal agreements between landlord (wynajmujący) and tenant (najemca). Essential document for housing rights, meldunek, legal protection. Two types: fixed-term (określony) or indefinite (nieokreślony). Must include: parties, property address, rent amount, payment terms, duration, notice period. Standard contracts protect both parties. Can be in Polish only - get translation. Register long contracts (10+ years) with notary. Breach consequences: eviction possible but requires court order (months process).",
+      "req1": "Valid ID/passport for identity verification",
+      "req2": "PESEL number (or temporary status for contract registration)",
+      "req3": "First month's rent and security deposit ready",
+      "req4": "Understanding of contract terms (get translation if needed)",
+      "step1": {
+        "title": "Review Contract Terms",
+        "description": "Essential clauses: rent amount (czynsz), payment date, contract duration, notice period (wypowiedzenie), deposit amount/conditions, maintenance responsibility, subletting rules. Fixed-term: specific end date, harder to terminate early. Indefinite: rolling contract, 3-month notice typical. Red flags: no deposit return terms, immediate eviction clauses (illegal), unlimited landlord access."
+      },
+      "step2": {
+        "title": "Get Translation and Legal Review",
+        "description": "Contract usually in Polish only. Get Polish-speaking friend or translator to review. Professional translation: 100-200 PLN, worth it for legal clarity. Check: utilities included or separate? Who pays property tax? Renovation allowed? Pets allowed? Guests allowed? Critical: notice period (how much advance to terminate). Standard: 3 months for indefinite, fixed-term requires mutual agreement to end early."
+      },
+      "step3": {
+        "title": "Negotiate Unfavorable Terms",
+        "description": "Negotiable: rent amount, contract length, deposit amount, renewal terms, furnished items included, pet policies. Non-negotiable basics: property address, parties' identities. Request changes in writing. Landlord refuses: decide if acceptable or find different apartment. NEVER sign without understanding fully - legally binding!"
+      },
+      "step4": {
+        "title": "Sign and Get Your Copy",
+        "description": "Both parties sign (landlord + tenant). Each gets original copy. Witnesses not required but recommended. Notary not required (unless 10+ years). Date contract clearly. Your copy essential for: meldunek registration, proof of residency, legal disputes. Keep safely. Photograph/scan as backup."
+      },
+      "step5": {
+        "title": "Register for Meldunek",
+        "description": "Within 30 days of moving: register address (meldunek). Need landlord consent form + rental contract. Landlord refuses meldunek: illegal but common (tax avoidance). No meldunek: technically illegal for you, but many survive without. Contract = proof of residency for bank accounts, permits. If contract ends: notify Urząd Miasta within 30 days."
+      },
+      "doc1": "Signed rental contract (umowa najmu) - your original copy",
+      "doc2": "Landlord's ID copy and property ownership proof",
+      "doc3": "Deposit payment receipt and first rent payment receipt",
+      "doc4": "Landlord's consent for meldunek registration (oświadczenie)",
+      "costs": "Contract preparation usually free (landlord provides template). Optional legal review costs.",
+      "cost1": "Contract preparation by landlord",
+      "cost1Amount": "Free (0 PLN) typically",
+      "cost2": "Professional translation of contract",
+      "cost2Amount": "100-200 PLN (optional)",
+      "tip1": "Insist on written contract - never rent with verbal agreement only! Verbal agreements legal but impossible to prove terms. No contract = no meldunek, no legal protection, easy to exploit you.",
+      "tip2": "Notice period is CRUCIAL - check carefully! Standard 3 months for indefinite contracts. Fixed-term: often no early termination allowed without penalty. Plan accordingly - breaking contract early = potential deposit loss.",
+      "tip3": "Landlord required to register rental income and pay tax. Many don't (tax evasion). They may refuse meldunek to hide income. This is THEIR problem, not yours. You can insist on contract + meldunek or report to tax office.",
+      "faq1Q": "Do I need a written rental contract?",
+      "faq1A": "Not legally required, but STRONGLY recommended. Written contract = proof of terms, legal protection, needed for meldunek, evidence in disputes. Verbal agreements legal but unenforceable in practice. Always insist on written.",
+      "faq2Q": "What if contract is only in Polish?",
+      "faq2A": "Common situation. Get Polish-speaking friend to translate and explain terms. Professional translation: 100-200 PLN. Key sections: rent amount, payment terms, duration, notice period, deposit return, maintenance responsibility. Don't sign blind!",
+      "faq3Q": "Can I terminate rental contract early?",
+      "faq3A": "Depends on contract type. Indefinite: yes, with notice period (typically 3 months). Fixed-term: difficult, requires landlord agreement or penalty. Some contracts have early termination clause. Breaking without agreement: lose deposit, potential legal liability for remaining rent.",
+      "faq4Q": "What if landlord refuses to give written contract?",
+      "faq4A": "Red flag - likely tax evasion. You have no legal protection without contract. Cannot register meldunek. Difficult to prove tenancy. Find different apartment. If already moved in: insist on contract or threaten to report to tax office (Urząd Skarbowy)."
     }
   },
   "pages": {
