@@ -2506,6 +2506,241 @@
       "faq3A": "Options: 1) Parking meters (coins/card, display ticket) 2) SMS (text to city number with zone+registration) 3) Mobile apps (moBILET, SkyCash - most convenient). Apps recommended: remote start/stop, extend time, notifications, no searching for change. Setup once, use everywhere.",
       "faq4Q": "What happens if I get a parking ticket or towed?",
       "faq4A": "Ticket: 50-200 PLN fine. Pay within 7 days = 30% discount. Bank transfer or online. Ignore = higher fines + debt collection. Towing: vehicle moved to impound. Recovery cost: 400-800 PLN towing + 50-100 PLN/day storage. Expensive lesson! Always pay parking."
+    },
+    "public-transport": {
+      "overview": "Polish cities have excellent public transport: buses, trams, metro (Warsaw only), suburban trains. Integrated ticket systems in major cities. Single tickets: 3-5 PLN, day passes 15-20 PLN, monthly passes 100-150 PLN. Apps essential: Jakdojade (journey planner), moBILET (tickets), city-specific apps. Validation required: stamp paper tickets, tap cards on readers. Inspectors (kontrolerzy) check tickets - fine 266 PLN for fare evasion. Students/seniors: 50% discount. Night buses available. Crowded peak hours (7-9am, 3-6pm). Clean, punctual, affordable. Google Maps integrates Polish transport.",
+      "req1": "Payment method (cash, card, or mobile payment)",
+      "req2": "Jakdojade app or Google Maps for route planning",
+      "req3": "Understanding of ticket validation requirements",
+      "req4": "Student/senior ID for discount eligibility",
+      "step1": {
+        "title": "Understand Transport Types and Coverage",
+        "description": "Buses: everywhere, backbone of most cities. Trams: Warsaw, Kraków, Wrocław, Poznań, Łódź, Gdańsk - faster than buses, dedicated lanes. Metro: Warsaw only (2 lines). Suburban trains (SKM, KM): connect cities with suburbs, accept city tickets in zones. Night buses (marked N): limited routes, run midnight-5am. Regional differences: Warsaw most extensive, small cities buses only. Integration: one ticket valid across all types within zones."
+      },
+      "step2": {
+        "title": "Choose and Purchase Tickets",
+        "description": "Single ticket (bilet jednorazowy): 3-7 PLN depending on city/time. Valid 20-75 minutes. Day pass (dobowy): 15-20 PLN, unlimited 24h. Monthly pass (bilet miesięczny): 100-150 PLN, best value for residents. Student/senior: 50% discount with valid ID. Purchase: ticket machines at stops (coins/card), kiosks, mobile apps (moBILET, SkyCash, city apps), drivers (buses, more expensive). Ticket types: time-based (most common) or zone-based (Warsaw)."
+      },
+      "step3": {
+        "title": "Validate and Use Tickets",
+        "description": "Paper tickets: MUST validate (kasować) immediately after boarding. Yellow validators near doors - insert ticket until stamped. Mobile tickets: activate before boarding, show screen to inspectors. Cards (Warszawska Karta Miejska, etc): tap on reader at entry. Failure to validate = invalid = fine. Validation shows: time, date, vehicle number. Keep ticket entire journey. Transfers: single ticket covers multiple vehicles within time limit."
+      },
+      "step4": {
+        "title": "Plan Routes with Apps",
+        "description": "Jakdojade.pl app: ESSENTIAL. Real-time arrival times, route planning, alerts, works offline. Shows delays, alternative routes. Google Maps: also works well for Polish cities, integrates schedules. City apps: Warsaw (WTP), Kraków (Mpay), etc. - buy tickets + plan routes. Apps show: which line, which direction (końcówka = final stop), when it arrives, crowding levels. Save frequently-used routes. Alert notifications before stops."
+      },
+      "step5": {
+        "title": "Navigate Inspections and Etiquette",
+        "description": "Inspectors (kontrolerzy): plain-clothes, show ID badge, random checks. Request ticket/pass. No ticket: 266 PLN fine on-spot or 7 days to pay reduced fine. Excuses don't work. Always have valid ticket! Etiquette: move to back (doors for entry/exit), give seats to elderly/pregnant/disabled, don't eat smelly food, backpacks off in crowds. Priority seats: marked blue. Peak hours: very crowded, plan extra time. Announcements: in Polish, watch screens/apps for stop names."
+      },
+      "doc1": "Valid ticket (paper, mobile, or transit card)",
+      "doc2": "Student/senior ID for discounted tickets",
+      "doc3": "Jakdojade app or journey planner",
+      "doc4": "Payment method for ticket purchase",
+      "costs": "Very affordable compared to Western Europe - monthly pass covers unlimited travel.",
+      "cost1": "Single ticket (20-75 min time-based)",
+      "cost1Amount": "3-7 PLN per ride",
+      "cost2": "Monthly pass (unlimited, resident essential)",
+      "cost2Amount": "100-150 PLN (best value)",
+      "tip1": "Buy monthly pass immediately if staying long-term. Example: 110 PLN pass vs 5 PLN × 2 trips × 22 days = 220 PLN. Saves 110 PLN/month! Student discount: 55 PLN/month. Pays for itself in 11 single trips.",
+      "tip2": "Jakdojade app is a GAME CHANGER. Download immediately. Real-time arrivals at your stop, fastest route options, works perfectly in all Polish cities. Offline mode for metro/no signal. Saves endless time vs guessing schedules.",
+      "tip3": "Night buses save taxi money. Most cities run key routes midnight-5am. Frequency: 30-60 min. Same tickets valid. Plan: last bus ~23:30, night buses until 5am, first buses ~5am. Check Jakdojade for night lines (N prefix).",
+      "faq1Q": "How much does public transport cost?",
+      "faq1A": "Single ticket: 3-7 PLN. Day pass: 15-20 PLN. Monthly pass: 100-150 PLN (best value). Student/senior: 50% discount. Warsaw example: 7 PLN single, 110 PLN monthly, 55 PLN student monthly. Much cheaper than Western Europe.",
+      "faq2Q": "Do I need to validate my ticket?",
+      "faq2A": "YES! Paper tickets must be validated (stamped) in yellow machines immediately after boarding. Mobile tickets: activate before entry. Card: tap reader. Unvalidated ticket = invalid = 266 PLN fine. Inspectors don't accept excuses. Always validate!",
+      "faq3Q": "What apps should I use for public transport?",
+      "faq3A": "Essential: Jakdojade (route planning, real-time arrivals, works all cities). For tickets: moBILET (most cities), city apps (Warsaw WTP, Kraków Mpay). Google Maps also works well for planning. Jakdojade is most important - download first!",
+      "faq4Q": "What happens if caught without a ticket?",
+      "faq4A": "Fine: 266 PLN standard. Inspector (kontroler) asks for ID, writes ticket. Pay within 7 days = sometimes reduced rate. Refuse to show ID: police called. Excuses don't work. Tourist: still get fined. Always buy and validate ticket before boarding!"
+    },
+    "domestic-flights": {
+      "overview": "Domestic flights connect major Polish cities. LOT Polish Airlines dominates, with Ryanair, Wizz Air on some routes. Main routes: Warsaw-Kraków, Warsaw-Gdańsk, Warsaw-Wrocław, Warsaw-Poznań. Flight time: 1 hour typically. Cost: 150-400 PLN one-way depending on booking time. Competition from trains: fast trains (PKP Intercity) often cheaper and city-center to city-center (airports far out). Flights make sense for long distances (Warsaw-Rzeszów) or tight schedules. Airports: Warsaw Chopin (WAW - main), Warsaw Modlin (WMI - budget), Kraków, Gdańsk, Wrocław, Katowice. Book direct or via Skyscanner.",
+      "req1": "Valid ID or passport for domestic flights",
+      "req2": "Booking confirmation and boarding pass",
+      "req3": "Checked baggage fees paid (if needed)",
+      "req4": "Transport plan to/from airport (far from centers)",
+      "step1": {
+        "title": "Compare Flights vs Trains",
+        "description": "Warsaw-Kraków: flight 1hr + 2hr airport time = 3hr total, 200-400 PLN. Train: 2.5hr direct city center, 100-200 PLN. Train often better! Warsaw-Gdańsk: similar - train competitive. Warsaw-Szczecin/Rzeszów: flight wins (distance). Consider: ticket price, airport transport cost/time, luggage fees, city-center convenience. Budget airlines: cheap base fare but fees add up (baggage, seat, priority, food). LOT: slightly more expensive, includes baggage, more reliable."
+      },
+      "step2": {
+        "title": "Book Flight and Understand Fees",
+        "description": "Airlines: LOT (full service, bag included), Ryanair (ultra-budget, fees for everything), Wizz Air (budget). Booking: airline websites, Skyscanner.pl comparison, Google Flights. Price factors: booking advance (early = cheap), day of week (Tue-Thu cheaper), time (early morning cheaper). Base fare: often just personal item. Add: checked bag 80-150 PLN, cabin bag 40-80 PLN, seat selection 20-50 PLN. Total can double! Book early for best prices (2-4 weeks ahead)."
+      },
+      "step3": {
+        "title": "Prepare for Airport Journey",
+        "description": "Warsaw Chopin (WAW): 10km from center, train (SKM) 20 min = 5 PLN, bus 175/148 = 7 PLN, taxi 40-60 PLN, Uber 35-50 PLN. Modlin (WMI): 40km out, bus only (Modlin Bus) 40 min = 35 PLN, taxi expensive. Kraków (KRK): 15km, train 20 min, bus 25 min. Gdańsk (GDN): train/bus 30 min. Allow: 2 hours before domestic flight (1.5hr minimum). Traffic: Warsaw airport access road jams at peak - use train! Check-in: online 24hr before (free), airport check-in sometimes costs extra."
+      },
+      "step4": {
+        "title": "Navigate Airport and Security",
+        "description": "Check-in: online preferred, print boarding pass or mobile. Bag drop: if checked luggage, dedicated counters. Security: standard EU rules (liquids 100ml, electronics separate). Domestic: ID sufficient (passport not required for Polish citizens, foreigners bring passport/residence permit). Gates: domestic usually nearby, 10-15 min walk maximum. Food: expensive in airports (3× city prices), eat before or bring snacks. Lounges: LOT Business Lounge available with priority pass or business tickets."
+      },
+      "step5": {
+        "title": "Manage Delays and Alternatives",
+        "description": "EU rights: delays > 3 hours = compensation eligible (250-600 EUR), applies to Polish airlines. Weather cancellations: usually exempt from compensation. Track: flight radar apps, airline apps for real-time updates. Alternatives: if flight cancelled, airline must rebook or refund. Train alternative: sometimes faster if flight delayed. Insurance: consider travel insurance for expensive tickets. Budget airlines: less compensation/help, full-service better for reliability."
+      },
+      "doc1": "Valid ID (dowód osobisty) or passport",
+      "doc2": "Booking confirmation and boarding pass",
+      "doc3": "Payment confirmation for baggage fees",
+      "doc4": "Airport transport tickets/arrangements",
+      "costs": "Total cost includes hidden fees - compare carefully with trains.",
+      "cost1": "Domestic flight base fare (varies widely)",
+      "cost1Amount": "150-400 PLN depending on route and timing",
+      "cost2": "Checked baggage fee (budget airlines)",
+      "cost2Amount": "80-150 PLN per bag",
+      "tip1": "Warsaw-Kraków/Gdańsk? Take the train instead! PKP Intercity pendolino: 2.5hr, city center to center, 100-150 PLN, comfortable, WiFi, no baggage fees. Flights: 3hr total with airport time, 200+ PLN with fees. Train wins on convenience and often price.",
+      "tip2": "Book 3-4 weeks ahead for best prices. Last-minute domestic flights very expensive (400-600 PLN). Flexible dates: Tue-Thu cheapest, Sun/Mon most expensive. Use Skyscanner price calendar to find cheapest days.",
+      "tip3": "Budget airline trap: base fare looks cheap but add baggage + seat + priority = often more than LOT. Example: Ryanair 100 PLN + 100 PLN bags = 200 PLN. LOT 220 PLN includes bags. Calculate TOTAL cost before booking!",
+      "faq1Q": "Are domestic flights worth it in Poland?",
+      "faq1A": "Depends on route. Long distances (Warsaw-Szczecin): yes. Short/medium (Warsaw-Kraków): trains often better (faster door-to-door, cheaper, more comfortable). Calculate total time including airport transport + waiting. Flights make sense for time-critical or long routes.",
+      "faq2Q": "How much do domestic flights cost?",
+      "faq2A": "Base fares: 150-250 PLN if booked early. With baggage fees: 250-400 PLN typical. Last-minute: 400-600 PLN. Compare to trains: 80-200 PLN most routes. Booking early (3-4 weeks) critical for cheap flights. Flexible dates save money.",
+      "faq3Q": "Which airline is best for domestic flights?",
+      "faq3A": "LOT: most reliable, includes baggage, better service, slightly more expensive. Ryanair: cheapest base fare, many fees, less comfortable. Wizz Air: middle ground. For business/reliability: LOT. For budget backpacking: Ryanair if you pack light. Check total price with fees.",
+      "faq4Q": "How early should I arrive at airport?",
+      "faq4A": "Domestic flights: 1.5-2 hours before departure recommended. Chopin Airport (WAW): 1.5hr sufficient, small and efficient. Budget airlines: 2hr safer (stricter boarding deadlines). Factor in transport time from city center (30-60 min depending on airport). Online check-in speeds up process."
+    },
+    "train-travel": {
+      "overview": "Polish trains excellent for intercity travel. PKP Intercity operates long-distance trains: EIP Pendolino (fastest, 200 km/h), TLK (slower, cheaper), IC (standard). Regional trains: Koleje Małopolskie, Przewozy Regionalne (cheap, local routes). Main routes: Warsaw-Kraków 2.5hr, Warsaw-Gdańsk 3hr, Warsaw-Wrocław 3.5hr. Tickets: online (intercity.pl), stations, apps (PKP Intercity, Koleo). Book early for discounts (30-50% off). Seat reservations included. Comfortable, punctual, WiFi on premium trains. Much better than buses for long distances. Warsaw Centralna main hub. Compare prices on rozklad-pkp.pl.",
+      "req1": "Valid ID or student ID for discounts",
+      "req2": "Ticket booking (online or station)",
+      "req3": "Seat reservation confirmation (usually included)",
+      "req4": "Understanding of train types and classes",
+      "step1": {
+        "title": "Understand Train Types and Classes",
+        "description": "EIP Pendolino: fastest, premium, Warsaw-Kraków 2.5hr, 1st/2nd class, WiFi, restaurant car, most expensive. EIC Express Intercity: fast, comfortable, major routes, WiFi. IC Intercity: standard speed/price. TLK (Tanie Linie Kolejowe): slower, cheapest long-distance, basic comfort. Regional trains: cheap, local routes, no reservations. Classes: 1st class = more space, quieter; 2nd class = standard, good enough. Silent zones: available on premium trains (work-friendly)."
+      },
+      "step2": {
+        "title": "Search Routes and Book Tickets",
+        "description": "Websites: intercity.pl (official), koleo.pl (aggregator, easy interface), rozklad-pkp.pl (timetables). Apps: PKP Intercity, Koleo (best app). Search: enter cities, date, see all options. Price comparison: TLK much cheaper than EIP. Book early: 30 days advance = up to 50% discount. Discounts: students 33-51%, seniors 33-49%, children. E-ticket: PDF sent to email, show on phone or print. Paper ticket: at station from machines or counters (longer queues)."
+      },
+      "step3": {
+        "title": "Navigate Stations and Platforms",
+        "description": "Major stations: Warsaw Centralna (main hub, underground, confusing first time), Kraków Główny, Gdańsk Główny. Information: electronic boards show platform (peron), departures (odjazdy), arrivals (przyjazdy). Platform numbers: announced 10-15 min before departure. Station layout: Warsaw Centralna underground (follow signs carefully), others easier. Services: cafes, kiosks, waiting rooms, luggage storage (10-20 PLN/day). Arrive: 15-20 min before departure (plenty for domestic)."
+      },
+      "step4": {
+        "title": "Board and Travel Comfortably",
+        "description": "Find car: ticket shows car (wagon) number, marked on platform/train. Seat: numbered, reservation shown on ticket. Luggage: overhead racks, space between seats, big luggage at car ends. WiFi: premium trains have free WiFi (quality varies). Restaurant car: expensive, bring snacks. Power outlets: most modern trains have charging. Ticket control: conductor checks during journey (have ticket ready, digital OK). Delays: rare, usually announced."
+      },
+      "step5": {
+        "title": "Optimize Routes and Costs",
+        "description": "Advance booking: 30 days = huge savings. Example: Warsaw-Kraków EIP 220 PLN last-minute vs 110 PLN advance. Flexible timing: off-peak cheaper. TLK vs EIP: save 50% with TLK if time flexible (adds 1-2hr). Regional connections: sometimes cheaper to combine regional trains vs direct intercity. Student/senior: bring valid ID, save 33-51%. Return tickets: sometimes discounted as pair. Night trains: available long routes (save hotel night)."
+      },
+      "doc1": "E-ticket (PDF) or printed ticket",
+      "doc2": "Valid ID (checked sometimes by conductor)",
+      "doc3": "Student/senior ID for discount eligibility",
+      "doc4": "Seat reservation confirmation (usually in ticket)",
+      "costs": "Very competitive with flights - often cheaper and more convenient.",
+      "cost1": "EIP Pendolino (premium, fastest)",
+      "cost1Amount": "100-220 PLN (e.g. Warsaw-Kraków, varies by advance)",
+      "cost2": "TLK trains (economy, slower)",
+      "cost2Amount": "50-100 PLN same routes (50% saving)",
+      "tip1": "Book 30 days in advance for 50% discount! Example: Warsaw-Kraków EIP drops from 220 PLN to 110 PLN. Calendar shows prices per date. Be flexible on exact time for best deals. Last-minute tickets very expensive.",
+      "tip2": "Koleo app > official PKP app. Cleaner interface, easier booking, shows all options including regional trains. Price comparison automatic. E-tickets in app (no printing). Best way to book Polish trains. Download before first journey.",
+      "tip3": "Warsaw Centralna underground station is CONFUSING first time. Allow extra time. Follow 'perony' (platforms) signs carefully. Multiple levels. Ask staff if lost. Station map: take photo for reference. Gets easier after first visit!",
+      "faq1Q": "How much do train tickets cost?",
+      "faq1A": "Varies by train type and booking time. Warsaw-Kraków: EIP 110-220 PLN (premium), TLK 60-100 PLN (economy). Book 30 days early = 50% discount. Student discount: 33-51% off. Regional trains: 20-50 PLN short distances. Compare on Koleo.pl.",
+      "faq2Q": "Are Polish trains reliable?",
+      "faq2A": "Yes! Especially PKP Intercity routes. Punctuality ~85-90%. Delays usually minor (5-15 min). EIP Pendolino very reliable. Regional trains: less punctual but acceptable. Much better than buses. Winter weather can cause delays but rare. Real-time tracking in apps.",
+      "faq3Q": "How do I get discount tickets?",
+      "faq3A": "1) Book 30 days advance (up to 50% off). 2) Student: 51% discount with valid legitimacja. 3) Senior (60+): 33-49% discount. 4) Children: 33-49% off. 5) Off-peak hours. 6) TLK trains cheaper than EIP. Select discount type when booking, bring ID on train.",
+      "faq4Q": "Train vs bus - which is better?",
+      "faq4A": "Trains MUCH better for long distances. Faster (dedicated tracks), more comfortable (more space, WiFi, toilets, walk around), punctual, similar price. Buses: cheaper very short routes, go to villages trains don't reach. Intercity: always choose train. Regional/rural: buses sometimes only option."
+    },
+    "bike-sharing": {
+      "overview": "Public bike-sharing systems (rowery miejskie) in most major Polish cities. Largest: Veturilo (Warsaw - 7,000+ bikes), Wavelo (Kraków), Nextbike (multiple cities), Mevo (Tricity). System: app-based unlock, take from any station, return to any station. Pricing: first 20 min free, then 1-4 PLN per hour. Subscription: 10-20 PLN/month. E-bikes available (more expensive). Credit card deposit required. Bike lanes improving but still limited. Alternative: private e-scooters (Lime, Bolt, Tier). Great for short trips, healthy, eco-friendly. Winter: services reduced (Nov-Mar). Helmets not included (not legally required but recommended).",
+      "req1": "Smartphone with data connection",
+      "req2": "Credit/debit card for registration and deposit",
+      "req3": "Account registration in city's bike system",
+      "req4": "Basic cycling skills and traffic law knowledge",
+      "step1": {
+        "title": "Choose and Download City Bike App",
+        "description": "Warsaw: Veturilo app. Kraków: Wavelo app. Wrocław/Poznań/other: Nextbike app. Tricity: Mevo app. Multiple cities: Nextbike works across networks (one account for many cities). Download: App Store/Google Play. Registration: email, phone, payment card. Deposit: 10-40 PLN held on card (returned when account closed). Verification: SMS code. Initial setup: 5-10 minutes. Interface: English available in most apps."
+      },
+      "step2": {
+        "title": "Find and Unlock Bike",
+        "description": "Map view: app shows all stations, available bikes, empty slots. Station types: physical docks (most common) or virtual zones (newer systems). Bike check: before unlocking, inspect bike (brakes, tires, lights work). Unlock: scan QR code or enter bike number in app. E-bikes: show battery level, cost more (2-3× regular bikes). Lock opens automatically. Start timer begins. Basket: most bikes have front basket for bags. Lights: automatic (turn on at dusk)."
+      },
+      "step3": {
+        "title": "Ride Safely and Legally",
+        "description": "Bike lanes: blue signs, dedicated lanes, shared bus/bike lanes. Warsaw/Kraków: growing network. No bike lane: ride on road right side, not sidewalk (illegal unless marked). Traffic rules: same as cars (stop signs, lights, directions). Helmet: not required by law but recommended (app doesn't provide). Night: lights automatic on shared bikes. Pedestrian zones: walking bike (not riding) sometimes required. Lock: use app lock if stopping briefly (bike stays rented, timer runs)."
+      },
+      "step4": {
+        "title": "Return Bike and End Rental",
+        "description": "Find return station: app shows nearby stations with free slots. Return: dock bike firmly until lock clicks, confirm in app. Verify: check app shows rental ended and displays cost. Full stations: app offers alternative nearby. Virtual zones: park anywhere in zone, lock in app (photo verification). Cost calculation: first 20 min free, next hour 1-3 PLN, price increases each hour (discourages long rentals). Report issues: damaged bike? Report in app for next user's safety."
+      },
+      "step5": {
+        "title": "Optimize with Subscriptions and E-Bikes",
+        "description": "Daily usage: monthly subscription (10-20 PLN) gives extended free time or cheaper rates. Example: Veturilo 10 PLN/month = first 90 min free (vs 20 min). Heavy user: subscription pays off in 5-10 rides. E-bikes: available in major cities, marked in app, cost 2-3× regular (no free period). Worth for hills or long distances. Winter: reduced service (fewer bikes, some stations closed Nov-Mar). Alternatives: private e-scooters (Lime, Bolt) available year-round, similar pricing."
+      },
+      "doc1": "Smartphone with bike-sharing app installed",
+      "doc2": "Credit/debit card registered in app",
+      "doc3": "Email confirmation of registration",
+      "doc4": "Basic cycling insurance (optional, via personal policy)",
+      "costs": "Very cheap for short trips - first 20 minutes free in most cities.",
+      "cost1": "Pay-as-you-go (no subscription)",
+      "cost1Amount": "0 PLN first 20 min, then 1-4 PLN/hour",
+      "cost2": "Monthly subscription (heavy users)",
+      "cost2Amount": "10-20 PLN/month (extends free time)",
+      "tip1": "First 20 min FREE = strategic use! Plan routes in 20min segments, return and immediately re-rent = unlimited free riding. Example: 45min trip = one 20min leg + one 25min leg = only pay for 5min vs full 45min. Saves money!",
+      "tip2": "Monthly subscription worth it if using 3-4× per week. Example: 10 PLN Veturilo = 90 min free rides. 8 rides/month × 2 PLN saved = 16 PLN, pays for itself + saves 6 PLN. Plus convenience of not planning 20min segments.",
+      "tip3": "Check station fullness BEFORE riding. Nothing worse than arriving at full station (can't return). App shows free slots. Plan return station with 3+ empty slots to be safe. Peak times (morning commute): stations fill fast at metro/office areas.",
+      "faq1Q": "How much does bike sharing cost?",
+      "faq1A": "Pay-as-you-go: first 20 min free, then 1-3 PLN/hour (price increases each hour). Monthly subscription: 10-20 PLN = extended free time (e.g., 60-90 min). E-bikes: 2-3× more expensive, no free period. Daily pass: 10-15 PLN. Very affordable for short trips.",
+      "faq2Q": "Do I need to return bike to same station?",
+      "faq2A": "No! Return to any station in the network. That's the beauty of bike-sharing. Start at station A, end at station B. App shows all stations + available slots. Check destination station has empty slots before riding. Virtual zones: park anywhere in designated area.",
+      "faq3Q": "Are helmets provided or required?",
+      "faq3A": "NOT provided and NOT legally required in Poland (for adults). Recommended for safety but most users don't wear. Bring your own helmet if you want. E-scooters: also no helmet requirement but wise. Children under 18: helmet required by law.",
+      "faq4Q": "What if bike is damaged or broken?",
+      "faq4A": "Before unlocking: inspect bike (brakes, tires, chain). Broken? Choose different bike. During ride: something breaks? Park safely, lock via app, report issue in app. Not charged for damage if reported promptly. After return: report any issues for next user's safety. Theft/loss while rented: your responsibility (deposit charge)."
+    },
+    "taxi-and-ride-sharing": {
+      "overview": "Taxis and ride-sharing widely available in Polish cities. Ride-sharing apps dominant: Uber (most popular), Bolt, FreeNow. Traditional taxis: more expensive, vary in quality, legal at taxi ranks/phone only. Uber/Bolt: 20-40% cheaper than taxis, cashless, reliable pricing. Typical: 10-15 PLN for 5km city ride, 40-60 PLN to airport. Peak hours: surge pricing (1.5-2× normal). English interface in apps. Safer than street taxis (pricing scams common). Night transport essential option. Tipping not mandatory (5-10% for good service). Register with foreign card/phone number works.",
+      "req1": "Smartphone with ride-sharing app (Uber, Bolt)",
+      "req2": "Payment method (card preferred, cash in taxis)",
+      "req3": "Mobile data or WiFi for booking",
+      "req4": "Destination address or location pin",
+      "step1": {
+        "title": "Choose Between Apps and Traditional Taxis",
+        "description": "Uber: most popular, widely available, reliable pricing, English app, cashless. Bolt: slightly cheaper than Uber often, growing availability. FreeNow (MyTaxi): partners with licensed taxis, app convenience + legal taxi. Traditional taxis: expensive, call-only (Ele Taxi, Radio Taxi), airport ranks. Pricing: Uber/Bolt 20-40% cheaper than taxis. Safety: apps track ride, share with friends. Payment: apps cashless (easier), taxis prefer cash. Availability: apps best in cities, taxis better in small towns."
+      },
+      "step2": {
+        "title": "Download and Register Apps",
+        "description": "Download: Uber and Bolt apps (have both - compare prices, availability). Registration: email, phone number (foreign OK), payment card. Verification: SMS code to phone. Location: allow app to access GPS. Language: English available. Payment: add credit/debit card (required for Uber, optional for Bolt). Profile: name, photo optional. Promo codes: often available for first rides (20-50 PLN discount). Both apps work with foreign cards/numbers."
+      },
+      "step3": {
+        "title": "Book and Compare Rides",
+        "description": "Enter destination: type address or drop pin on map. Price comparison: Uber vs Bolt, often 10-20% difference, check both! Car types: Uber Go/Bolt Economy (cheapest), Comfort (nicer cars), XL (6 seats). Estimate: shows price upfront (fixed unless route changes). Surge pricing: peak hours/bad weather 1.5-2× normal, shows multiplier. Time estimate: 5-15 min arrival typical. Pickup: adjust pin to exact location. Confirm: book, see driver info (car, plate, rating)."
+      },
+      "step4": {
+        "title": "Meet Driver and Navigate Ride",
+        "description": "Track: app shows driver approaching on map. Driver details: name, car model, plate number, photo, rating. Verification: check plate matches app before entering. Communication: in-app chat or call (English rare). Destination: driver sees address, navigate yourself as backup. Route: watch on app map, drivers usually take optimal. Safety: share ride with friend/family via app. Luggage: trunk space usually fine, ask for XL if lots. Night rides: well-lit pickup spots safer."
+      },
+      "step5": {
+        "title": "Pay, Tip, and Rate",
+        "description": "Payment: automatic charge to card after ride. Receipt: emailed immediately. Tipping: not required but appreciated, 5-10% for good service, do in-app. Cash: Bolt allows cash, Uber cashless only. Disputes: overcharged or wrong route? Request refund in app, usually resolved. Rating: rate driver 1-5 stars, be fair (they rate you too). Low rating: affects driver's job. Report issues: unsafe driving, rudeness, etc. through app. Save ride history: useful for expense tracking."
+      },
+      "doc1": "Smartphone with Uber and Bolt apps",
+      "doc2": "Credit/debit card registered in apps",
+      "doc3": "Destination address or map location",
+      "doc4": "Emergency contact info saved in app",
+      "costs": "Significantly cheaper than traditional taxis - use apps for best prices.",
+      "cost1": "Short city ride (5km)",
+      "cost1Amount": "10-20 PLN via Uber/Bolt",
+      "cost2": "Airport transfer (15-20km)",
+      "cost2Amount": "40-70 PLN depending on city and surge",
+      "tip1": "ALWAYS compare Uber vs Bolt before booking! Price can differ 20-30% for same ride. Takes 10 seconds. Example: Uber 35 PLN vs Bolt 28 PLN for identical trip. Having both apps saves money every ride. Competition benefits you!",
+      "tip2": "Avoid surge pricing (1.5-2× normal) during peak: Friday/Saturday night, rush hour, bad weather, events. Wait 15-30 min for surge to end if not urgent. Or walk to less popular pickup spot. Surge is localized - move 500m can avoid it.",
+      "tip3": "Traditional taxi from street/rank = SCAM RISK. Airport taxis worst offenders (overcharge tourists 2-3×). Always use Uber/Bolt instead - fixed pricing, no scams possible. Only use licensed taxi if no apps available. Check meter running from start.",
+      "faq1Q": "How much do Uber and Bolt cost in Poland?",
+      "faq1A": "Base fare: 5-8 PLN. Per km: 1.5-2.5 PLN. Per min: 0.3-0.5 PLN. Typical 5km city ride: 15-25 PLN. Airport (15km): 40-70 PLN. Much cheaper than Western Europe. Bolt often 10-20% cheaper than Uber. Surge pricing: 1.5-2× at peak times.",
+      "faq2Q": "Is Uber or Bolt better in Poland?",
+      "faq2A": "Both excellent. Uber: slightly more expensive, more drivers, better app. Bolt: cheaper often, growing fast, good availability. Have BOTH apps, compare prices every ride (can differ 20-30%). Availability equal in major cities. Small towns: traditional taxis better.",
+      "faq3Q": "Are ride-sharing apps safe?",
+      "faq3A": "Yes, safer than street taxis. Benefits: tracked GPS route, driver ID verified, rating system, cashless (no money disputes), emergency button, share ride with friends. Always verify plate number before entering. Rate honestly to keep bad drivers off platform. Millions use safely daily.",
+      "faq4Q": "Do I need to tip drivers?",
+      "faq4A": "Not mandatory but appreciated. Polish culture: small tips (5-10% or round up). Good service: 5-10 PLN tip fair. Bad service: no tip fine. Tip via app (driver gets 100%). Cash tips: driver keeps all. Don't feel pressured - optional unlike USA. Base fare already includes driver's earnings."
     }
   },
   "pages": {
