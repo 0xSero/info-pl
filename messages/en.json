@@ -1096,6 +1096,476 @@
       "faq3A": "In Warsaw, Krakow, and major cities, many dentists speak English, especially in private clinics targeting expats. Smaller towns have less English availability.",
       "faq4Q": "Can I get emergency dental care?",
       "faq4A": "Yes, most private clinics offer same-day emergency appointments. Public emergency dental care available at some hospitals but limited to pain relief and extractions."
+    },
+    "polish-citizenship": {
+      "overview": "Polish citizenship can be obtained through several routes: descent (Polish ancestry), naturalization after years of residence, marriage to Polish citizen, or by presidential grant. Most foreigners apply through naturalization after holding permanent residence for 3+ years. Polish citizenship allows EU passport, voting rights, and dual citizenship is permitted.",
+      "req1": "At least 3 years of permanent residence or 2 years if married to Polish citizen",
+      "req2": "Stable income and legal source of funds",
+      "req3": "Polish language proficiency (B1 level)",
+      "req4": "Knowledge of Polish history and culture",
+      "step1": {
+        "title": "Verify Eligibility",
+        "description": "Common paths: 3 years permanent residence, 2 years if married to Pole, 10 years of continuous legal residence, or Polish ancestry. Check which applies to you. Repatriation program exists for ethnic Poles from former Soviet countries."
+      },
+      "step2": {
+        "title": "Gather Documentation",
+        "description": "Prepare: permanent residence card, proof of stable income (employment contract, business registration), certificate of Polish language (B1 level), birth certificate, marriage certificate if applicable, clean criminal record from all countries lived in."
+      },
+      "step3": {
+        "title": "Take Language and Culture Test",
+        "description": "Pass Polish language exam at B1 level (unless exempt due to Polish education). Take test on Polish history and culture. Exams held at authorized centers. Study guides available. Children under 16 exempt from tests."
+      },
+      "step4": {
+        "title": "Submit Application to Provincial Governor",
+        "description": "Apply at Provincial Office (Urząd Wojewódzki) where you reside. Submit application with all documents and fee (219 PLN). Application forwarded to Ministry of Interior for decision. Process takes 1-3 years typically."
+      },
+      "step5": {
+        "title": "Oath and Polish Passport",
+        "description": "If approved, take oath of allegiance to Poland. Receive Polish citizenship certificate. Can then apply for Polish ID card and passport. Your children under 18 can also receive Polish citizenship with you."
+      },
+      "doc1": "Permanent residence card (minimum 3 years validity)",
+      "doc2": "Polish language certificate (B1) and culture test result",
+      "doc3": "Birth certificate, marriage certificate (with apostille and translation)",
+      "doc4": "Criminal record certificates from all countries, income proof",
+      "costs": "Citizenship application fees are relatively low, but preparation costs add up.",
+      "cost1": "Citizenship application fee",
+      "cost1Amount": "219 PLN",
+      "cost2": "Language exam and preparation",
+      "cost2Amount": "400-1,000 PLN",
+      "tip1": "Start language preparation early - B1 Polish takes 1-2 years of study for most people. This is the hardest requirement.",
+      "tip2": "Dual citizenship is allowed - you don't have to renounce your original citizenship. Poland accepts multiple citizenships.",
+      "tip3": "If you have Polish ancestors (parent, grandparent), investigate citizenship by descent - it's faster and doesn't require language tests or residence.",
+      "faq1Q": "Can I have dual citizenship with Polish passport?",
+      "faq1A": "Yes, Poland allows dual (and multiple) citizenship. You can keep your original passport. However, check your home country's rules - some countries don't allow dual citizenship.",
+      "faq2Q": "How long does citizenship process take?",
+      "faq2A": "Typically 1-3 years from application to decision. Ministry of Interior reviews all applications. No guaranteed timeline, and they can request additional documents.",
+      "faq3Q": "What if I have Polish grandparents?",
+      "faq3A": "You may be eligible for citizenship by descent, which is much faster. Research if your ancestor maintained Polish citizenship. This route bypasses residence and language requirements.",
+      "faq4Q": "Do my children get Polish citizenship too?",
+      "faq4A": "Yes, children under 18 included in parent's application receive citizenship automatically. They don't need separate applications or language tests if under 16."
+    },
+    "credit-cards": {
+      "overview": "Credit cards in Poland are widely available from banks to customers with stable income and credit history. Most offer contactless payment, online shopping protection, and rewards programs. Foreign residents can get credit cards after 3-6 months of employment history. Building credit history in Poland takes time.",
+      "req1": "Polish bank account (usually 3-6 months history)",
+      "req2": "Stable income source (employment contract or business)",
+      "req3": "PESEL number and residence permit",
+      "req4": "Good credit standing (no debts, clean BIK credit history)",
+      "step1": {
+        "title": "Build Banking History",
+        "description": "Open bank account and use it actively for 3-6 months. Regular salary deposits and responsible debit card usage build trust. Banks assess creditworthiness through BIK (Biuro Informacji Kredytowej) credit bureau."
+      },
+      "step2": {
+        "title": "Choose Card Type",
+        "description": "Options: standard credit card (basic), gold/platinum (higher limits, benefits), charge card (full balance monthly), secured card (deposit required for new residents). Compare annual fees, interest rates, rewards programs."
+      },
+      "step3": {
+        "title": "Apply Online or In-Branch",
+        "description": "Complete application with income details, employment information, expenses estimate. Bank checks BIK credit report. Process takes 1-7 days. May be declined if insufficient credit history in Poland."
+      },
+      "step4": {
+        "title": "Activate and Set Up",
+        "description": "Receive card by mail (7-14 days). Activate via online banking or phone. Set PIN, enable contactless payments, register for online/mobile banking. Configure payment preferences (minimum vs full balance)."
+      },
+      "step5": {
+        "title": "Use Responsibly",
+        "description": "Pay at least minimum payment by due date (avoid 20-30% interest). Best practice: pay full balance monthly to avoid interest. Building good credit history helps get loans, mortgages, higher limits later."
+      },
+      "doc1": "Employment contract or business registration",
+      "doc2": "Recent pay slips (3-6 months) or tax returns",
+      "doc3": "PESEL and residence permit",
+      "doc4": "Proof of address (rental contract or meldunek)",
+      "costs": "Credit card costs vary widely by card type and issuer.",
+      "cost1": "Annual card fee",
+      "cost1Amount": "0-300 PLN (many free if conditions met)",
+      "cost2": "Interest on unpaid balance",
+      "cost2Amount": "20-30% APR typical",
+      "tip1": "Start with debit card if credit card denied. After 6-12 months of responsible use, reapply for credit card with better approval odds.",
+      "tip2": "Many banks waive annual fees if you spend certain amount monthly or maintain minimum account balance. Read conditions carefully.",
+      "tip3": "Check if your home country credit history can transfer - some international banks consider foreign credit reports.",
+      "faq1Q": "Can foreigners get credit cards in Poland?",
+      "faq1A": "Yes, but you need residence permit, PESEL, Polish bank account (3-6 months history), and stable income. New residents often start with debit cards first.",
+      "faq2Q": "What if I have no credit history in Poland?",
+      "faq2A": "Banks may decline or offer secured card (requires deposit). Build history with: debit card usage, utility bill payments, mobile contracts. After 6-12 months, credit card approval becomes easier.",
+      "faq3Q": "Are credit card interest rates high in Poland?",
+      "faq3A": "Yes, 20-30% APR typical if you carry balance. Always pay full amount monthly to avoid interest. Credit cards for convenience, not borrowing.",
+      "faq4Q": "Can I use Polish credit card internationally?",
+      "faq4A": "Yes, Polish cards work worldwide (Visa/Mastercard). Check foreign transaction fees (usually 1-3%). Notify bank before traveling abroad to prevent fraud blocks."
+    },
+    "pit-tax-returns": {
+      "overview": "PIT (Podatek Dochodowy od Osób Fizycznych) is annual personal income tax in Poland. All residents must file tax returns by April 30th for previous year's income. Even if employer withholds tax monthly, annual declaration (PIT-37, PIT-36) required. Many people entitled to refunds through deductions and credits.",
+      "req1": "All income documentation (PIT-11 from employers)",
+      "req2": "PESEL number and NIP tax ID",
+      "req3": "Bank account details for refund/payment",
+      "req4": "Records of deductible expenses (donations, internet, etc.)",
+      "step1": {
+        "title": "Gather Income Documents",
+        "description": "Employers provide PIT-11 form by end of February showing annual income and tax withheld. Self-employed: collect all revenue and expense records. Multiple jobs: get PIT-11 from each employer. Foreign income may also need declaring."
+      },
+      "step2": {
+        "title": "Choose Form Type",
+        "description": "PIT-37: employment income only (most common). PIT-36: business, rental, foreign income, capital gains. PIT-28: flat-rate taxpayers. Online portal e-Deklaracje helps determine which form you need."
+      },
+      "step3": {
+        "title": "Calculate Deductions",
+        "description": "Common deductions: donations to charities, internet costs (up to 760 PLN/year), rehabilitation expenses, child tax credit (dla dziecka). Tax-free allowance: 30,000 PLN in 2024. Marriage filing jointly can save money."
+      },
+      "step4": {
+        "title": "File Declaration",
+        "description": "File online via podatki.gov.pl (fastest, auto-filled from employer data) or paper form at tax office. Deadline: April 30th. Late filing: penalties apply. Many accountants offer filing services for 100-300 PLN."
+      },
+      "step5": {
+        "title": "Receive Refund or Pay Due Tax",
+        "description": "Refunds (overpaid tax) arrive in bank account within 45 days. Underpaid tax: pay by deadline to avoid 8% interest. Can donate 1% of tax to charity (OPP) - specify organization in declaration."
+      },
+      "doc1": "PIT-11 from all employers (income certificate)",
+      "doc2": "Records of deductible expenses with receipts",
+      "doc3": "PESEL, NIP, bank account number (IBAN)",
+      "doc4": "Foreign income documentation if applicable",
+      "costs": "Filing PIT is free if done yourself online. Professional help costs extra.",
+      "cost1": "Self-filing online",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Accountant/tax advisor",
+      "cost2Amount": "100-300 PLN",
+      "tip1": "File early - don't wait until April 30th. Online system pre-fills most data from employers, making it quick and easy.",
+      "tip2": "Married couples can file jointly (wspólne rozliczenie) if one spouse earns significantly less - often results in tax refund.",
+      "tip3": "Check if you qualify for ulga dla młodych (youth tax relief) - if under 26, first 85,528 PLN income is tax-free!",
+      "faq1Q": "Do I need to file PIT if employer withheld tax?",
+      "faq1A": "Yes, annual declaration still required even if employer withheld correct amount. It's the law, and you might get refund if you have deductions.",
+      "faq2Q": "What happens if I miss the April 30th deadline?",
+      "faq2A": "Late filing penalties: 240 PLN minimum fine. Plus 8% annual interest on unpaid tax. File as soon as possible even if late to minimize penalties.",
+      "faq3Q": "Can I get tax refund in Poland?",
+      "faq3A": "Yes! Common reasons for refunds: employer over-withheld, you have deductible expenses, child tax credits, changed jobs mid-year. Refunds arrive within 45 days.",
+      "faq4Q": "Do I pay tax on foreign income?",
+      "faq4A": "If you're Polish tax resident, yes - worldwide income is taxable. However, double taxation treaties prevent paying twice. Report foreign income in PIT-36, claim foreign tax credit."
+    },
+    "zus-social-security": {
+      "overview": "ZUS (Zakład Ubezpieczeń Społecznych) is Poland's social security institution managing pensions, health insurance, sickness benefits, and maternity leave. Employees have automatic ZUS contributions deducted from salary. Self-employed must register and pay contributions themselves. ZUS provides retirement pension and various social benefits.",
+      "req1": "Employment or self-employment in Poland",
+      "req2": "PESEL number and NIP (for self-employed)",
+      "req3": "Registered address in Poland",
+      "req4": "Regular contribution payments (automatic for employees)",
+      "step1": {
+        "title": "Understand Coverage (Employees)",
+        "description": "Employers automatically register employees with ZUS and deduct contributions from gross salary: pension (9.76%), disability (1.5%), sickness (2.45%), health (9%). You receive payslip showing these deductions. No action needed from you."
+      },
+      "step2": {
+        "title": "Register as Self-Employed",
+        "description": "If running business (działalność gospodarcza), must register with ZUS within 7 days of starting. Submit ZUS ZUA form online or at ZUS office. Choose contribution basis: preferential (small contributions) or normal."
+      },
+      "step3": {
+        "title": "Pay Monthly Contributions",
+        "description": "Self-employed: pay by 10th of following month. Minimum contributions ~1,500 PLN monthly (health+social). First 2 years eligible for reduced rates (preferencyjne składki ~600-700 PLN). Payment via bank transfer to ZUS."
+      },
+      "step4": {
+        "title": "File Monthly Declarations",
+        "description": "Self-employed must file ZUS DRA declaration monthly reporting income and calculating contributions. Available online through ZUS PUE (Platforma Usług Elektronicznych). Employees: employer handles this."
+      },
+      "step5": {
+        "title": "Access Benefits",
+        "description": "ZUS provides: sickness benefit (80% salary after 33 days sick leave), maternity leave payments, retirement pension (men 65, women 60), disability pension. Check eligibility and apply through ZUS PUE portal."
+      },
+      "doc1": "Business registration (CEIDG) for self-employed",
+      "doc2": "PESEL, NIP, bank account",
+      "doc3": "Employment contract (for employees, provided by employer)",
+      "doc4": "Income documentation for self-employed",
+      "costs": "ZUS contributions are significant expense for self-employed, automatic for employees.",
+      "cost1": "Employee ZUS (auto-deducted)",
+      "cost1Amount": "~23% of gross salary",
+      "cost2": "Self-employed minimum monthly",
+      "cost2Amount": "~1,500 PLN (or 600-700 PLN first 2 years)",
+      "tip1": "Self-employed: take advantage of reduced ZUS rates for first 24 months - saves ~900 PLN monthly. Don't miss this opportunity!",
+      "tip2": "If you have both employment and business, you may not need separate ZUS for business - check zasada wyłączności to avoid double contributions.",
+      "tip3": "ZUS contributions count toward pension - higher contributions = higher future pension. Consider voluntary contributions if working part-time.",
+      "faq1Q": "How much are ZUS contributions in Poland?",
+      "faq1A": "Employees: ~23% of gross salary (employer pays additional ~18%). Self-employed: minimum ~1,500 PLN monthly, or reduced ~600-700 PLN first 2 years of business.",
+      "faq2Q": "Can I avoid paying ZUS as self-employed?",
+      "faq2A": "No, ZUS is mandatory for business owners (with few exceptions like umowa zlecenie contracts). Non-payment results in penalties, debt collection, and no social security protection.",
+      "faq3Q": "What benefits do I get from ZUS contributions?",
+      "faq3A": "Retirement pension, disability pension, sickness benefits (after 30/90 days), maternity leave payments, health insurance coverage, unemployment benefits (for employees). Essential social safety net.",
+      "faq4Q": "Can I check my ZUS contribution history?",
+      "faq4A": "Yes, create account on PUE ZUS (pue.zus.pl). View all contributions, pension forecast, download certificates. Essential for tracking future pension entitlement."
+    },
+    "mental-health-services": {
+      "overview": "Mental health care in Poland includes public (NFZ) and private options. NFZ provides free psychiatric and psychological consultations, but waiting times are long (months). Private therapy more accessible with reasonable costs. Growing English-speaking therapist availability in major cities. Mental health slowly destigmatizing in Polish society.",
+      "req1": "NFZ insurance for public services or funds for private",
+      "req2": "Referral from POZ doctor (for NFZ psychiatrist, not psychologist)",
+      "req3": "Patience for public system or 200-400 PLN per session private",
+      "req4": "Research to find English-speaking providers if needed",
+      "step1": {
+        "title": "Decide Public vs Private",
+        "description": "Public (NFZ): Free psychiatrist visits and some therapy after long wait (3-6 months for psychiatrist, limited psychology). Private: Quick access (1-2 weeks), wide choice, English-speaking options, 200-400 PLN per 50-min session."
+      },
+      "step2": {
+        "title": "Find Provider",
+        "description": "Private: use Znany Lekarz platform, Psychology Today, or expat forums. Filter by language, specialization, online/in-person. Public: get POZ referral to local mental health clinic (poradnia zdrowia psychicznego). Crisis: call 116 123 hotline (free, 24/7)."
+      },
+      "step3": {
+        "title": "Book First Appointment",
+        "description": "Private: often book online, first session within week. Discuss fees, frequency, approach. Public: call clinic with referral, wait for appointment (can take months). Psychiatric emergency: SOR or specialized psychiatric emergency departments."
+      },
+      "step4": {
+        "title": "Attend Regular Sessions",
+        "description": "Therapy typically weekly or biweekly. Psychiatrist can prescribe medications covered by NFZ (subsidized). Psychotherapy (talk therapy) not well-covered by NFZ - most pay privately. CBT, psychodynamic, systemic approaches available."
+      },
+      "step5": {
+        "title": "Crisis Resources",
+        "description": "Suicide prevention hotline: 116 123 (free, anonymous). Crisis intervention centers in major cities offer immediate help. Police (997) or ambulance (112) for psychiatric emergencies. Some private clinics offer crisis sessions same-day."
+      },
+      "doc1": "NFZ insurance and PESEL (for public)",
+      "doc2": "POZ referral to psychiatrist (public system)",
+      "doc3": "Payment method for private therapy",
+      "doc4": "Previous treatment records if transferring care",
+      "costs": "Private mental health care is affordable compared to Western Europe.",
+      "cost1": "Private therapy session (50 min)",
+      "cost1Amount": "200-400 PLN",
+      "cost2": "Private psychiatrist consultation",
+      "cost2Amount": "250-500 PLN first visit",
+      "tip1": "Many workplaces now offer EAP (Employee Assistance Programs) with free therapy sessions - check with HR department.",
+      "tip2": "Online therapy platforms like betterHelp Poland or KtoLeczToBoli offer more affordable options and easier English-language access.",
+      "tip3": "University psychology clinics offer low-cost therapy (50-100 PLN) with supervised students - good quality at budget price.",
+      "faq1Q": "Is therapy covered by NFZ?",
+      "faq1A": "Psychiatrist visits yes (with long waits). Psychological therapy very limited - typically need to pay privately. Medication prescriptions are subsidized.",
+      "faq2Q": "Can I find English-speaking therapists in Poland?",
+      "faq2A": "Yes, in Warsaw, Krakow, and major cities many therapists speak English. Search on international platforms or expat forums. Expect to pay 300-400 PLN per session.",
+      "faq3Q": "What if I have psychiatric emergency?",
+      "faq3A": "Call 112 or go to hospital SOR. Specialized psychiatric emergency departments exist in major hospitals. Crisis hotline 116 123 available 24/7 (English may be limited).",
+      "faq4Q": "Are antidepressants/psychiatric medications available?",
+      "faq4A": "Yes, psychiatrist can prescribe. Many medications subsidized by NFZ (you pay 10-50 PLN co-pay). No stigma filling prescriptions at pharmacies - very common."
+    },
+    "vaccinations": {
+      "overview": "Poland has mandatory vaccination program for children (11 diseases) and recommended vaccines for adults. Foreign children must meet vaccination requirements for school enrollment. Adult vaccines (flu, COVID, travel) available at clinics and pharmacies. Immunization records (książeczka szczepień) important to maintain.",
+      "req1": "Immunization booklet (książeczka szczepień) for children",
+      "req2": "PESEL number and NFZ insurance for free vaccines",
+      "req3": "Foreign vaccination records translated if enrolling in school",
+      "req4": "Doctor consultation for catch-up schedules if needed",
+      "step1": {
+        "title": "Obtain Vaccination Booklet",
+        "description": "For children: get książeczka szczepień from pediatrician or city health department. This yellow booklet records all vaccinations. Required for kindergarten/school enrollment. Adults: can also get booklet to track vaccines like flu, COVID."
+      },
+      "step2": {
+        "title": "Understand Required Vaccines",
+        "description": "Mandatory for children (NFZ-covered): tuberculosis (BCG), hepatitis B, diphtheria, tetanus, pertussis, polio, Hib, pneumococcus, measles, mumps, rubella. Schedule starts at birth. School requires proof of completion."
+      },
+      "step3": {
+        "title": "Schedule Vaccinations",
+        "description": "Children: pediatrician follows national schedule. Vaccines given at well-child visits at specified months/years. Free with NFZ at POZ clinics. Adults: book at clinic or pharmacy for flu, COVID, travel vaccines (may need payment)."
+      },
+      "step4": {
+        "title": "Get Foreign Vaccines Recognized",
+        "description": "Bring vaccination records from home country with certified translation. Pediatrician assesses if they meet Polish requirements. May need catch-up or booster doses. WHO vaccine card helpful for international recognition."
+      },
+      "step5": {
+        "title": "Maintain Records",
+        "description": "Keep vaccination booklet safe - needed for school registration, sports camps, some jobs. Lost booklet: doctor can reconstruct from medical records. Consider digital backup photo of each page."
+      },
+      "doc1": "Immunization booklet (książeczka szczepień)",
+      "doc2": "PESEL and NFZ insurance for free vaccines",
+      "doc3": "Foreign vaccination records with translation",
+      "doc4": "Doctor's recommendation for optional vaccines",
+      "costs": "Mandatory childhood vaccines are free with NFZ. Optional and adult vaccines have costs.",
+      "cost1": "Required childhood vaccines (NFZ)",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Adult flu vaccine",
+      "cost2Amount": "30-60 PLN",
+      "tip1": "Pharmacies now offer flu and COVID vaccines walk-in without appointment - convenient alternative to clinics.",
+      "tip2": "Planning to travel? Visit travel medicine clinic 6-8 weeks before departure for vaccines like yellow fever, typhoid, hepatitis A (not NFZ-covered, 100-300 PLN each).",
+      "tip3": "HPV vaccine available for girls 11-12 (partially subsidized). Consider for cancer prevention even if not mandatory.",
+      "faq1Q": "Are vaccinations mandatory in Poland?",
+      "faq1A": "Yes, 11 vaccines mandatory for children. Schools require proof. Exemptions only for medical contraindications (very rare). Unvaccinated children cannot attend public school.",
+      "faq2Q": "What if my child's vaccines don't match Polish schedule?",
+      "faq2A": "Pediatrician will assess and create catch-up plan. Most countries have similar vaccines. Focus on ensuring all required diseases covered, timing flexible.",
+      "faq3Q": "Where can adults get vaccinated?",
+      "faq3A": "POZ clinics, private clinics, and increasingly pharmacies. Flu vaccines widely available September-January. Travel vaccines at specialized travel medicine clinics.",
+      "faq4Q": "Do I need vaccines to enter Poland?",
+      "faq4A": "COVID vaccines not required for entry (as of 2024). Yellow fever certificate needed only if traveling from endemic areas. Check current travel requirements before trip."
+    },
+    "hospital-care": {
+      "overview": "Hospital care in Poland is provided through public NFZ system and private hospitals. Public hospitals offer free treatment with NFZ insurance but may have long waits for non-urgent care. Private hospitals provide faster service, modern facilities, and English-speaking staff for self-pay patients or private insurance holders.",
+      "req1": "NFZ insurance for public hospitals",
+      "req2": "Referral from POZ or specialist doctor (for planned procedures)",
+      "req3": "PESEL and ID documents",
+      "req4": "Private insurance or funds for private hospital care",
+      "step1": {
+        "title": "Get Doctor Referral",
+        "description": "POZ doctor or specialist provides referral (skierowanie) for hospital treatment, surgery, or specialist hospital consultation. Emergency cases don't need referral - go directly to SOR. Referral specifies urgency code determining wait time priority."
+      },
+      "step2": {
+        "title": "Register on Waiting List",
+        "description": "Call or visit hospital to register with referral. Given date for procedure or added to waiting list (can be weeks to months for non-urgent). Check multiple hospitals - waits vary. Private hospitals: schedule within days."
+      },
+      "step3": {
+        "title": "Pre-Admission Consultation",
+        "description": "Before planned hospitalization: preliminary tests (blood work, X-rays), anesthesiologist consultation if surgery planned, medication review. Bring previous medical records, list of current medications, allergies."
+      },
+      "step4": {
+        "title": "Hospital Stay",
+        "description": "Admission: bring ID, NFZ confirmation, toiletries, comfortable clothes. Public wards typically 2-6 beds, private hospitals have single rooms. Family visiting hours usually 2-3 hours daily. Meals provided (basic quality in public hospitals)."
+      },
+      "step5": {
+        "title": "Discharge and Follow-up",
+        "description": "Receive discharge summary (karta informacyjna leczenia szpitalnego) with diagnosis, treatment, medications. Schedule follow-up with POZ or specialist. Get prescriptions filled. Medical documentation needed for sick leave, insurance claims."
+      },
+      "doc1": "Hospital referral (skierowanie) from doctor",
+      "doc2": "PESEL, ID, and NFZ insurance confirmation",
+      "doc3": "Previous medical records and test results",
+      "doc4": "List of current medications and allergies",
+      "costs": "Public hospital care is free with NFZ. Private hospitals charge per procedure.",
+      "cost1": "Public hospital NFZ treatment",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Private hospital room per day",
+      "cost2Amount": "500-2,000 PLN",
+      "tip1": "Public hospitals: bring your own toiletries, tissues, towels. Quality varies significantly between facilities - ask locals for recommendations.",
+      "tip2": "If facing long wait for public hospital procedure, ask doctor about private options. Many procedures 2,000-10,000 PLN private vs months waiting public.",
+      "tip3": "Private health insurance through employer often covers private hospital care - check your benefits. Can save thousands on procedures.",
+      "faq1Q": "Do I need to pay for hospital treatment with NFZ?",
+      "faq1A": "Basic treatment and hospitalization free. May pay for: single room upgrade, TV/phone, some advanced procedures not fully covered. Emergency care always free.",
+      "faq2Q": "Can I choose which hospital to go to?",
+      "faq2A": "Yes, you can choose any NFZ-contracted hospital. Check waiting times and quality ratings online. Referral valid at any public hospital, not just one specified.",
+      "faq3Q": "What if I don't speak Polish in hospital?",
+      "faq3A": "Public hospitals: limited English, bring translator if possible. Private hospitals: most staff speak English. Medical translation apps helpful. Ask for English-speaking doctor if available.",
+      "faq4Q": "Can family stay with me in hospital?",
+      "faq4A": "Children: one parent can usually stay overnight. Adults: limited visiting hours (2-3 hours daily) in public hospitals. Private hospitals more flexible, may allow overnight stays for fee."
+    },
+    "pregnancy-and-maternity": {
+      "overview": "Poland provides comprehensive maternity care through NFZ with free prenatal visits, ultrasounds, and delivery. Maternity leave is generous: 20-52 weeks depending on number of children, with 100% salary for initial period. Both public and private maternity care available. Midwife visits at home after birth included.",
+      "req1": "NFZ insurance coverage for pregnant woman",
+      "req2": "Registration with gynecologist (POZ referral not needed)",
+      "req3": "Pregnancy confirmation and książeczka ciążowej booklet",
+      "req4": "Hospital registration before 21st week for delivery",
+      "step1": {
+        "title": "Confirm Pregnancy and Register",
+        "description": "Visit gynecologist (no referral needed) to confirm pregnancy. Receive pregnancy booklet (książeczka ciążowej) documenting all prenatal care. NFZ covers all standard pregnancy care: doctor visits, ultrasounds, blood tests, genetic screening."
+      },
+      "step2": {
+        "title": "Prenatal Care Schedule",
+        "description": "Regular visits: monthly until week 28, biweekly 28-36, weekly after 36. Three ultrasounds covered by NFZ (weeks 11-14, 18-22, 28-32). Additional monitoring if high-risk pregnancy. School of birth classes (szkoła rodzenia) available, sometimes NFZ-covered."
+      },
+      "step3": {
+        "title": "Choose Hospital and Register",
+        "description": "Select maternity hospital and register before week 21. Can choose any NFZ hospital in Poland. Tour facilities (if offered), discuss birth plan with doctors. Private hospitals available if prefer (5,000-15,000 PLN for delivery)."
+      },
+      "step4": {
+        "title": "Prepare for Birth",
+        "description": "Pack hospital bag by week 36: documents (ID, NFZ, pregnancy booklet), baby clothes, toiletries, nursing supplies. Learn hospital procedures, parking, emergency contact. Partner can usually be present during labor and delivery."
+      },
+      "step5": {
+        "title": "Postpartum Care and Leave",
+        "description": "Hospital stay 2-4 days for normal delivery, longer for C-section. Midwife home visits first weeks (NFZ-covered). Maternity leave: mothers get 20 weeks (100% salary), can extend to 52 weeks (80% then 60% salary). Fathers get 2 weeks paternity leave."
+      },
+      "doc1": "NFZ insurance and PESEL",
+      "doc2": "Pregnancy booklet (książeczka ciążowej)",
+      "doc3": "ID and previous medical records",
+      "doc4": "Hospital pre-registration confirmation",
+      "costs": "Pregnancy and delivery are free with NFZ. Private care and extras cost.",
+      "cost1": "NFZ prenatal care and delivery",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Private hospital delivery",
+      "cost2Amount": "5,000-15,000 PLN",
+      "tip1": "Register for 'becikowe' (baby bonus) - one-time payment of 1,000 PLN for first child, income-tested. Also apply for 500+ monthly child benefit (Rodzina 500+).",
+      "tip2": "Consider private prenatal care for more personalized attention, English-speaking doctors, flexible scheduling (100-200 PLN per visit). Can still deliver in public hospital.",
+      "tip3": "Stock up on baby supplies before birth - diapers, wipes, clothes. Prices good in Poland, but shopping easier before baby arrives!",
+      "faq1Q": "How much maternity leave do I get in Poland?",
+      "faq1A": "20 weeks mandatory at 100% salary. Can extend to 32 weeks (first child) or 37 weeks (twins) at 80%, then reduce salary to 60% for remaining weeks up to 52 weeks total. Very generous by global standards.",
+      "faq2Q": "Can my partner be present at birth?",
+      "faq2A": "Yes, partners usually allowed during labor and delivery in both public and private hospitals (may have restrictions during COVID or complications). Discuss with hospital in advance.",
+      "faq3Q": "Is epidural available in Polish hospitals?",
+      "faq3A": "Yes, epidural available in most hospitals (NFZ-covered). Availability 24/7 varies by hospital - ask when registering. Private hospitals typically have better anesthesia availability.",
+      "faq4Q": "What baby benefits can I get?",
+      "faq4A": "Rodzina 500+ (500 PLN monthly per child), becikowe (1,000 PLN one-time, income-tested), maternity allowance (zasiłek macierzyński) during leave. Apply through ZUS and city office."
+    },
+    "buying-property": {
+      "overview": "Foreigners can buy property in Poland with some restrictions. EU citizens have same rights as Poles. Non-EU citizens need permit from Ministry of Internal Affairs for land/agricultural property. Apartment purchases unrestricted. Process involves notary, due diligence, mortgage (if needed), and registration in land registry. Property prices vary significantly by city.",
+      "req1": "Sufficient funds for down payment and notary fees",
+      "req2": "PESEL number and residence permit",
+      "req3": "Permit from Ministry (non-EU buying land)",
+      "req4": "Mortgage pre-approval if financing (typically need 20% down)",
+      "step1": {
+        "title": "Property Search and Viewing",
+        "description": "Search on Otodom.pl, Olx.pl, or through real estate agency (biuro nieruchomości). Agency fee: typically 3-5% of price (paid by buyer or seller, negotiate). View multiple properties, check condition, location, transport, neighborhood."
+      },
+      "step2": {
+        "title": "Make Offer and Preliminary Agreement",
+        "description": "Negotiate price (usually 5-15% below asking). Sign preliminary agreement (umowa przedwsprzedażna) with 10-20% deposit (zadatek). This reserves property and commits both parties. If buyer backs out, loses deposit. If seller backs out, returns double deposit."
+      },
+      "step3": {
+        "title": "Due Diligence",
+        "description": "Check land registry (księga wieczysta) online for ownership, liens, mortgages. Verify property boundaries, building permits if renovated. Check if apartment has separate legal title (odrębna własność). Consider hiring lawyer to review (500-1,500 PLN)."
+      },
+      "step4": {
+        "title": "Secure Financing (if needed)",
+        "description": "Apply for mortgage at Polish bank: typically require 20% down payment, stable income, good credit history. Non-PLN mortgages risky (Swiss franc crisis lesson). Compare offers from multiple banks. Process takes 2-4 weeks for approval."
+      },
+      "step5": {
+        "title": "Notary and Final Purchase",
+        "description": "Both parties meet at notary office to sign final contract (akt notarialny). Bring IDs, funds for payment (bank transfer). Notary fee: 1-3% of property value plus 2% stamp duty. Notary registers property in your name in land registry. Process 1-2 hours."
+      },
+      "doc1": "ID, PESEL, proof of funds",
+      "doc2": "Land registry extract (księga wieczysta)",
+      "doc3": "Preliminary agreement and deposit proof",
+      "doc4": "Mortgage approval (if financing)",
+      "costs": "Property purchase involves purchase price plus 5-8% in additional costs.",
+      "cost1": "Notary fee",
+      "cost1Amount": "1-3% of property value",
+      "cost2": "Stamp duty (PCC tax)",
+      "cost2Amount": "2% of property value",
+      "tip1": "Negotiate hard - Polish property market allows 10-20% below asking price negotiations, especially if paying cash and closing quickly.",
+      "tip2": "Check exact square meterage - some listings show 'usable area' (powierzchnia użytkowa) vs 'total area' including walls, balcony. Verify before signing.",
+      "tip3": "Factor in renovation costs - many properties sold in basic condition (stan deweloperski) requiring 1,000-2,000 PLN/m² for finishing.",
+      "faq1Q": "Can foreigners buy property in Poland?",
+      "faq1A": "EU citizens: yes, unrestricted (except agricultural land). Non-EU: can buy apartments freely, need permit for houses with land (usually granted, takes 2-4 months).",
+      "faq2Q": "Do I need mortgage or can I buy cash?",
+      "faq2A": "Either. Cash purchases faster and sellers prefer them. Mortgages available but require 20% down, Polish income/tax history. Notary same process either way.",
+      "faq3Q": "What are property costs in Warsaw/Krakow?",
+      "faq3A": "Warsaw: 10,000-20,000 PLN/m² (city center higher). Krakow: 9,000-18,000 PLN/m². Smaller cities: 5,000-10,000 PLN/m². New construction typically 20% premium over resale.",
+      "faq4Q": "Is property investment good in Poland?",
+      "faq4A": "Depends. Major cities see 5-10% annual appreciation (varies). Rental yields 4-6%. Consider: property tax, maintenance, management costs. Long-term investment can work well, especially in growing cities."
+    },
+    "utilities-setup": {
+      "overview": "Setting up utilities (media - electricity, water, gas, heating) is essential when moving to new apartment in Poland. Process varies by city and building type. Some rentals include utilities in rent (czynsz), others require separate contracts. Switching providers possible for electricity and gas, but water usually monopoly. Expect 300-800 PLN monthly for average apartment.",
+      "req1": "Rental contract or property ownership documents",
+      "req2": "PESEL number and ID",
+      "req3": "Bank account for direct debit payments",
+      "req4": "Meter readings at move-in (important!)",
+      "step1": {
+        "title": "Document Initial Meter Readings",
+        "description": "On move-in day, photograph all meters: electricity (licznik elektryczny), water (wodomierz), gas if applicable. Note exact readings. This prevents being charged for previous tenant's usage. Landlord or management company should provide protocol (protokół zdawczo-odbiorczy)."
+      },
+      "step2": {
+        "title": "Determine What's Included in Rent",
+        "description": "Check rental contract: czynsz (rent) often includes cold/hot water, heating, garbage, building maintenance. Electricity and gas typically separate. Ask landlord or building management (zarząd budynku, wspólnota mieszkaniowa) what's included and what you must arrange."
+      },
+      "step3": {
+        "title": "Set Up Electricity Contract",
+        "description": "Contact electricity provider (most common: PGE, Tauron, Enea, Energa depending on region). Provide address, meter number, PESEL, bank account. Can be done online or in office. Electricity same-day or next-day activation. Compare providers on comparison sites."
+      },
+      "step4": {
+        "title": "Arrange Gas (if applicable)",
+        "description": "Not all apartments have gas (many use electric for cooking/heating). If needed, contact PGNiG or local gas company. Requires gas meter reading, safety inspection may be required. Similar process to electricity setup."
+      },
+      "step5": {
+        "title": "Set Up Automatic Payments",
+        "description": "Enable direct debit (polecenie zapłaty) through bank for utilities to avoid late fees. Bills arrive monthly via email or mail. Track usage through providers' mobile apps or websites. Budget 300-800 PLN monthly total for average 50m² apartment."
+      },
+      "doc1": "Rental contract or property deed",
+      "doc2": "PESEL and ID documents",
+      "doc3": "Bank account details for direct debit",
+      "doc4": "Initial meter readings with photos",
+      "costs": "Monthly utility costs vary by apartment size, season, and usage habits.",
+      "cost1": "Electricity (50m² apartment)",
+      "cost1Amount": "150-300 PLN monthly",
+      "cost2": "Water, heating, building fees",
+      "cost2Amount": "200-500 PLN monthly",
+      "tip1": "Read meters monthly and compare to bills - overcharging or estimated readings can occur. Keep photographic evidence of readings.",
+      "tip2": "Consider switching electricity/gas providers after initial contract - competition fierce, can save 10-20% with better offers. Compare on otodom.pl comparison tool.",
+      "tip3": "Install energy-efficient LED bulbs, draft excluders, programmable thermostat - can reduce utility bills by 20-30% with minimal investment.",
+      "faq1Q": "How much are utilities in Poland monthly?",
+      "faq1A": "Average 50m² apartment: 300-600 PLN total (electricity 150-300 PLN, water/heating/building fees 200-400 PLN). Varies by season - winter higher due to heating.",
+      "faq2Q": "Are utilities included in rent?",
+      "faq2A": "Depends. Czynsz (building fees) often include water, heating, garbage, building maintenance. Electricity almost always separate. Gas separate if applicable. Always clarify with landlord.",
+      "faq3Q": "Can I choose my electricity provider?",
+      "faq3A": "Yes, Poland has liberalized energy market. Can switch providers to get better rates. Initial setup with building's default provider, then switch. Water usually monopoly, can't choose.",
+      "faq4Q": "What if I don't pay utility bills?",
+      "faq4A": "Late fees apply. Continued non-payment: disconnection possible (though rare in winter for heating). Debt collection, impact on credit rating. Set up autopay to avoid issues."
     }
   },
   "pages": {
