@@ -2741,6 +2741,241 @@
       "faq3A": "Yes, safer than street taxis. Benefits: tracked GPS route, driver ID verified, rating system, cashless (no money disputes), emergency button, share ride with friends. Always verify plate number before entering. Rate honestly to keep bad drivers off platform. Millions use safely daily.",
       "faq4Q": "Do I need to tip drivers?",
       "faq4A": "Not mandatory but appreciated. Polish culture: small tips (5-10% or round up). Good service: 5-10 PLN tip fair. Bad service: no tip fine. Tip via app (driver gets 100%). Cash tips: driver keeps all. Don't feel pressured - optional unlike USA. Base fare already includes driver's earnings."
+    },
+    "finding-jobs": {
+      "overview": "Poland's job market strong for foreigners, especially IT, engineering, customer service (multilingual), healthcare. Major job portals: Pracuj.pl (largest), NoFluffJobs (IT focus), LinkedIn, Indeed Poland, OLX Praca. English-speaking jobs: Warsaw, Kraków, Wrocław, Poznań. Salaries: IT 10,000-25,000 PLN/month, customer service 4,000-7,000 PLN, teaching 4,000-6,000 PLN. Work permits required for non-EU (employer handles). CV format: European Europass or Polish style (photo common). Networking important - attend meetups, conferences. Recruitment agencies helpful (free for candidates). Remote work growing - many international companies hire Poland-based.",
+      "req1": "Updated CV in Polish or English (depending on role)",
+      "req2": "Valid work authorization (EU passport or work permit)",
+      "req3": "LinkedIn profile optimized for Polish market",
+      "req4": "Portfolio or references for specialized roles",
+      "step1": {
+        "title": "Identify Target Industries and Cities",
+        "description": "Hot sectors: IT/software (huge demand, high pay), business services/BPO (multilingual jobs), engineering, healthcare, logistics. IT hubs: Warsaw, Kraków, Wrocław, Poznań, Tricity. Customer service centers: same cities. Teaching: everywhere (English teachers). Cities: Warsaw highest salaries but expensive, Kraków/Wrocław balanced, smaller cities cheaper living but fewer jobs. Remote: location flexible, tax/residence implications."
+      },
+      "step2": {
+        "title": "Search on Polish Job Portals",
+        "description": "Pracuj.pl: largest general portal, filter by city/salary/language. NoFluffJobs: IT-specific, transparent salaries, English interface. LinkedIn: international companies, networking, English-speaking roles. Indeed Poland: aggregator. OLX Praca: casual/part-time jobs. Justjoin.it: another IT portal. Search filters: 'English' language, remote (praca zdalna), salary range. Apply early - popular postings get hundreds of applications within days."
+      },
+      "step3": {
+        "title": "Prepare Polish-Style CV and Applications",
+        "description": "CV format: Europass template common, or standard 1-2 pages. Photo: often expected (controversial but common). Content: personal data, experience (reverse chronological), education, skills (language levels: A1-C2), consent clause required (RODO - GDPR). Cover letter: personalized, Polish or English depending on job. Languages: specify levels honestly. Certificates: attach if relevant. No photo/age in Western companies. Save as PDF."
+      },
+      "step4": {
+        "title": "Network and Use Recruitment Agencies",
+        "description": "Networking: LinkedIn crucial, connect with recruiters/professionals in target industry. Events: meetups (Meetup.com), conferences, job fairs. Facebook groups: 'Expats in Warsaw', city-specific groups post job leads. Recruitment agencies: Hays, Randstad, Grafton, Manpower - free for candidates, they pitch you to employers. IT: specialized agencies like Devire. Referrals: powerful in Poland, ask friends/colleagues."
+      },
+      "step5": {
+        "title": "Interview and Negotiate Offers",
+        "description": "Interview process: 2-4 stages typical (HR screen, technical, manager, offer). Languages: English common for international companies, Polish for local. Technical tests: coding challenges (IT), case studies (business). Salary negotiation: acceptable and expected. Research market rates (NoFluffJobs shows ranges). Benefits: private healthcare (Medicover, Luxmed), sports card (MultiSport), training budget. Contract types: umowa o pracę (employment, best), B2B (contractor, higher pay but no benefits), umowa zlecenie (commission, limited benefits)."
+      },
+      "doc1": "Updated CV with photo and RODO consent clause",
+      "doc2": "Cover letter tailored to position",
+      "doc3": "LinkedIn profile with Polish market optimization",
+      "doc4": "Work authorization documents (EU passport or permit)",
+      "costs": "Job search itself free - portals and agencies don't charge candidates.",
+      "cost1": "Professional CV/LinkedIn review service",
+      "cost1Amount": "100-300 PLN (optional)",
+      "cost2": "Translation services for documents",
+      "cost2Amount": "50-150 PLN per document (if needed)",
+      "tip1": "NoFluffJobs shows REAL salary ranges in job postings (transparent). Use this to benchmark your worth and negotiate. Example: posting says '12,000-18,000 PLN' - you can reference this in negotiation. Game-changing transparency!",
+      "tip2": "RODO consent clause REQUIRED at end of CV. Without it, many companies reject automatically. Template: 'Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych).' Copy-paste this!",
+      "tip3": "Join city-specific Facebook groups NOW: 'Expats in Warsaw Jobs', 'Kraków Job Board', 'Wrocław Tech Jobs'. Many jobs posted here BEFORE official portals. Insider referrals common. Also cultural tips, salary discussions. Free networking gold!",
+      "faq1Q": "What are typical salaries in Poland?",
+      "faq1A": "IT: 10,000-25,000 PLN/month (junior to senior). Customer service: 4,000-7,000 PLN. Teaching: 4,000-6,000 PLN. Engineering: 8,000-15,000 PLN. Management: 12,000-30,000 PLN. Gross amounts (bruto). After tax: ~70-75% net. Warsaw 10-20% higher than other cities. Check NoFluffJobs for real ranges.",
+      "faq2Q": "Do I need to speak Polish to find a job?",
+      "faq2A": "Depends on role. IT/tech: English sufficient in many companies. Customer service: depends on target market (English-speaking customers = English OK). Teaching: English teacher jobs plentiful. Management/local companies: Polish usually required. Learn Polish = more opportunities + higher pay. Major cities have most English-speaking jobs.",
+      "faq3Q": "Which job portals should I use?",
+      "faq3A": "Must-use: Pracuj.pl (largest, all sectors), NoFluffJobs (IT, transparent salaries), LinkedIn (international companies). Also: Justjoin.it (IT), Indeed Poland (aggregator), OLX Praca (casual jobs). Apply on multiple platforms. Set up alerts for new postings matching criteria. IT: NoFluffJobs + Justjoin.it best.",
+      "faq4Q": "How long does job search take?",
+      "faq4A": "Highly variable. IT with skills: 2-4 weeks. Specialized roles: 1-3 months. Entry-level/competitive: 2-6 months. Speed up: optimize CV, apply widely, use agencies, network actively, be flexible on salary/location. Market hot currently (2024) - employers struggling to fill positions. Good time for job seekers!"
+    },
+    "work-permits": {
+      "overview": "Non-EU citizens need work authorization to legally work in Poland. EU/EEA/Swiss citizens: NO permit needed, can work freely. Main types: work permit (zezwolenie na pracę), seasonal work declaration (oświadczenie), Blue Card (for high-skilled). Employer typically applies on behalf of foreign worker. Processing time: 1-3 months. Tied to specific employer and job. Changing jobs requires new permit. Ukraine/Belarus citizens: simplified procedures. Cost: 0 PLN for employee (employer pays). Must have before starting work (illegal without). Residence permit separate but linked process.",
+      "req1": "Valid passport with at least 6 months validity",
+      "req2": "Job offer from Polish employer willing to sponsor",
+      "req3": "Relevant qualifications and work experience documentation",
+      "req4": "Health insurance coverage",
+      "step1": {
+        "title": "Determine Which Work Authorization You Need",
+        "description": "EU/EEA/Swiss: NO permit needed, work freely. Other nationalities: work permit required. Types: Type A (work for employer), Type B (board member), Type C (business delegation), Type D (training). Blue Card: high-skilled roles, salary 1.5× average (attractive benefits, faster permanent residence path). Seasonal declaration: agriculture/tourism, up to 9 months, simplified. Ukraine/Belarus: special agreements, easier 'declaration' system. Check: nationality + job type determines permit type."
+      },
+      "step2": {
+        "title": "Employer Applies for Work Permit",
+        "description": "Process: employer initiates application at Voivodship Office (Urząd Wojewódzki). Required from employer: job offer details, salary (must meet minimum), justification why foreign worker needed, company registration docs. Required from you: passport copy, CV, diplomas/certificates, photos. Application fee: 50 PLN (employer pays). Labor market test: sometimes required (prove no Poles available for role). Exemptions: management, specialists, intra-company transfers."
+      },
+      "step3": {
+        "title": "Wait for Processing and Decision",
+        "description": "Processing time: 1-3 months typical (legally up to 2 months but often longer). Status check: online via Voivodship Office portal, or employer tracks. Decision: approval or rejection with reason. Approval: work permit issued as document, usually 3 years validity (can be shorter). Rejection reasons: incomplete docs, labor market test failed, salary too low. Appeal: possible within 14 days. During wait: cannot start work legally."
+      },
+      "step4": {
+        "title": "Apply for Residence Permit Simultaneously",
+        "description": "Work permit ≠ residence permit. Need both! Residence permit types: temporary (usually tied to work), national visa Type D (first entry). Apply: at Voivodship Office or Polish consulate (if abroad). Documents: work permit (or pending application), housing proof, health insurance, sufficient funds proof (600 PLN/month minimum). Processing: 1-3 months. Card issued: valid same period as work permit. Without residence permit: can't stay legally beyond visa."
+      },
+      "step5": {
+        "title": "Maintain Status and Extensions",
+        "description": "Permit conditions: can only work for specified employer, specified position. Changing jobs: need new work permit (new employer applies). Extensions: apply 90 days before expiry if continuing same job. Permanent residence: eligible after 5 years legal work (3 years with Blue Card). Obligations: notify changes (address, passport, marriage), keep documents with you, renew on time. Loss of job: permit stays valid but you're not working (find new job + apply for new permit). Violations: fines, deportation, ban."
+      },
+      "doc1": "Valid passport (6+ months validity)",
+      "doc2": "Work permit approval document",
+      "doc3": "Residence permit card or visa",
+      "doc4": "Employment contract with sponsoring employer",
+      "costs": "Employee typically doesn't pay - employer covers work permit costs.",
+      "cost1": "Work permit application (employer pays)",
+      "cost1Amount": "50 PLN (employer cost)",
+      "cost2": "Residence permit application (you pay)",
+      "cost2Amount": "340-640 PLN depending on type",
+      "tip1": "Blue Card is GOLD for high-skilled workers. Requirements: university degree + salary 1.5× national average (~9,000 PLN). Benefits: faster permanent residence (3 years vs 5), easier family reunification, EU mobility. If you qualify, push employer to apply for Blue Card instead of regular permit!",
+      "tip2": "Start process EARLY - 3+ months before desired start date. Processing officially 2 months but often 3-4 with delays. Cannot legally work while waiting. Early start = start working on time. Employer delays common - push them to apply promptly!",
+      "tip3": "Changing jobs requires NEW work permit from new employer. Plan gap time! Old permit stays valid (you just can't work). New permit processing: 1-3 months. Either: 1) Save money for gap, 2) Negotiate start date after new permit approved, 3) B2B contract while waiting (gray area).",
+      "faq1Q": "Do I need a work permit to work in Poland?",
+      "faq1A": "EU/EEA/Swiss citizens: NO, can work freely. All other nationalities: YES, work permit required before starting work. Employer applies on your behalf. Working without permit: illegal, fines, deportation. Student visa holders: limited work allowed (20hrs/week). Check your nationality and visa status.",
+      "faq2Q": "How long does work permit take?",
+      "faq2A": "Official: up to 2 months (60 days). Reality: 1-3 months typical. Delays common due to backlogs, incomplete documents. Cannot work while waiting. Plan early - start process 3+ months before desired work start date. Fast-track: not available. Blue Card: similar timeline.",
+      "faq3Q": "Can I change jobs with a work permit?",
+      "faq3A": "No automatically - work permit tied to specific employer and job. Want to change jobs? New employer must apply for new work permit for you. Old permit stays valid (just can't use it). New permit processing: 1-3 months. Plan gap or negotiate delayed start date with new employer.",
+      "faq4Q": "What is the difference between work permit and residence permit?",
+      "faq4A": "Work permit: allows you to WORK for specific employer. Residence permit: allows you to STAY/LIVE in Poland. Need BOTH to legally live and work. Apply for both simultaneously. Work permit processed by employer at Voivodship Office. Residence permit: you apply (or employer assists). Different documents but linked."
+    },
+    "business-registration": {
+      "overview": "Registering business in Poland straightforward, can be done online in 24 hours. Most common: sole proprietorship (jednoosobowa działalność gospodarcza - JDG). Requirements: PESEL or residence permit, Polish address. Online registration: free via biznes.gov.pl. Offline: at City Office (Urząd Miasta). Receive NIP (tax ID), REGON (statistical number), business name in CEIDG database. Must choose PKD codes (business activity classification). Tax options: flat 19%, tax scale (progressive), or lump sum. ZUS contributions: mandatory social insurance (1,200-1,500 PLN/month) unless preferential rates (small ZUS). Accountant recommended (300-500 PLN/month). Can operate as EU citizen or with residence permit.",
+      "req1": "PESEL number or temporary residence permit",
+      "req2": "Polish address (registered office location)",
+      "req3": "Chosen business name and PKD codes",
+      "req4": "Planned tax and accounting method",
+      "step1": {
+        "title": "Choose Business Structure",
+        "description": "Sole proprietorship (JDG): simplest, cheapest, most common for freelancers/small business. Personal liability. Ltd company (Spółka z o.o.): requires 5,000 PLN share capital, limited liability, more complex accounting, better for scaling. Partnership: for multiple owners. Most start with JDG. JDG benefits: fast setup, low admin, simplified accounting possible. Drawbacks: unlimited personal liability, harder to get large contracts."
+      },
+      "step2": {
+        "title": "Register Business Online or In-Person",
+        "description": "Online (recommended): biznes.gov.pl - CEIDG-1 form, sign with trusted profile (Profil Zaufany) or e-signature. Free, 24-hour approval typical. Fill: personal data, business name (your name or trade name), business address (can be home), PKD codes (activity classification - choose 1 primary + others), start date. Offline: City Office with ID, PESEL, filled CEIDG-1 form. Processing: instant to few days. Receive: NIP (tax ID), REGON (stats number), confirmation."
+      },
+      "step3": {
+        "title": "Choose Tax and Accounting Method",
+        "description": "Tax options: 1) Tax scale (skala podatkowa): 12% up to 120k PLN, then 32% - progressive. 2) Flat tax (podatek liniowy): 19% flat - good for higher income. 3) Lump sum (ryczałt): 2-17% depending on activity, simplified - restrictions apply. ZUS social insurance: mandatory ~1,200-1,500 PLN/month OR preferential small ZUS first 24 months (~350-600 PLN). Accounting: księga przychodów i rozchodów (revenue-expense ledger) or simplified. Hire accountant recommended."
+      },
+      "step4": {
+        "title": "Set Up Business Bank Account",
+        "description": "Separate business account: recommended (legal requirement for VAT payers). Banks: PKO BP, Santander, Pekao, mBank offer business accounts. Required docs: business registration confirmation (CEIDG printout), ID, NIP. Fees: 0-50 PLN/month depending on bank/plan. Compare: free transactions, online banking, integration with accounting software. Some banks: bonus for new businesses. Keep personal and business finances separate (cleaner accounting, professionalism)."
+      },
+      "step5": {
+        "title": "Register for VAT and Start Operating",
+        "description": "VAT (VAT/PTU): mandatory if revenue > 200k PLN/year, optional below. Register: at Tax Office or online. VAT ID (NIP VAT): enables invoicing with VAT. Rates: 23% standard, 8% reduced, 0% exports. Monthly/quarterly filings. Invoice requirements: NIP, buyer details, VAT breakdown, sequential numbering. Accounting software: WFirma, iFirma, InFakt (100-150 PLN/month) - generates invoices, tracks expenses. Deadlines: ZUS monthly, tax quarterly/annual. Accountant: 300-500 PLN/month - handles compliance, worth it!"
+      },
+      "doc1": "CEIDG registration confirmation with NIP and REGON",
+      "doc2": "Business bank account details",
+      "doc3": "Tax office registration confirmation",
+      "doc4": "Accounting system setup (software or accountant)",
+      "costs": "Registration free online - main ongoing costs are ZUS and accounting.",
+      "cost1": "Business registration",
+      "cost1Amount": "0 PLN (free online via biznes.gov.pl)",
+      "cost2": "Monthly ZUS social insurance",
+      "cost2Amount": "350-1,500 PLN (preferential vs standard)",
+      "tip1": "Preferential 'small ZUS' HUGE savings first 24 months! Instead of 1,400 PLN/month, pay only ~350-600 PLN. Eligibility: first-time business owners or 5-year gap. Automatically select when registering. Saves 10,000-15,000 PLN per year!",
+      "tip2": "Register online via biznes.gov.pl - FREE and instant vs office hassle. Need Profil Zaufany (trusted profile) first - get this at any city office or bank, takes 30 min. Then register business from home in 1 hour. Approved in 24 hours!",
+      "tip3": "Hire accountant from DAY ONE (300-500 PLN/month). Polish tax law COMPLEX and changes frequently. Mistakes = fines, audits, stress. Accountant handles: invoicing advice, ZUS/tax filings, optimization, compliance. Pays for itself by avoiding penalties and saving time!",
+      "faq1Q": "How much does it cost to register a business?",
+      "faq1A": "Sole proprietorship: 0 PLN if online via biznes.gov.pl (free!). City office: ~170 PLN. Ltd company: 500-1,500 PLN + 5,000 PLN share capital. Ongoing costs: ZUS 350-1,500 PLN/month, accountant 300-500 PLN/month, business bank account 0-50 PLN/month. Initial total: can start with <1,000 PLN.",
+      "faq2Q": "How long does business registration take?",
+      "faq2A": "Online (biznes.gov.pl): 24 hours typical. Some instant. City office: same day to few days. Ltd company: 1-2 weeks. JDG fastest and simplest. Can start operating next day usually. Need Profil Zaufany for online registration (get this first, 30 min at office/bank).",
+      "faq3Q": "Can foreigners register a business in Poland?",
+      "faq3A": "EU/EEA citizens: YES, same as Poles, no restrictions. Non-EU: YES if you have residence permit allowing business activity (temporary residence for business, permanent residence, etc.). Tourist visa: cannot register business. Need PESEL or equivalent, Polish address. Process identical once legal status established.",
+      "faq4Q": "Do I need to register for VAT?",
+      "faq4A": "Mandatory: if annual revenue > 200,000 PLN or selling within EU. Optional: below threshold, but many register anyway (looks professional, can reclaim VAT on expenses). B2B clients: often require VAT invoices. Decision: consult accountant based on your business model. Can register anytime at Tax Office."
+    },
+    "freelancing": {
+      "overview": "Freelancing popular in Poland, especially IT, design, writing, consulting. Two main structures: registered business (działalność gospodarcza) or B2B contract (umowa B2B). B2B: self-employed contractor billing clients via business. Higher rates than employment but no benefits. Registration required (CEIDG - free, online). Tax-efficient: can deduct expenses, choose tax method. ZUS social insurance mandatory (1,200-1,500 PLN/month) but preferential small ZUS first 24 months (~350 PLN). Invoicing required: use software like InFakt, WFirma. Common for tech freelancers working for multiple clients or one client full-time. International clients possible - simpler tax if outside Poland.",
+      "req1": "Registered business (działalność gospodarcza)",
+      "req2": "Business bank account for receiving payments",
+      "req3": "Invoicing software or accountant",
+      "req4": "Contract or agreements with clients",
+      "step1": {
+        "title": "Register Business for Freelancing",
+        "description": "Must register: sole proprietorship (JDG) via biznes.gov.pl - free, online, 24 hours. Process same as business registration. Choose PKD codes matching freelance services (IT, design, consulting, etc.). Tax method: flat 19% popular for freelancers, or tax scale if lower income. Small ZUS: first 24 months preferential rate ~350-600 PLN/month vs standard 1,400 PLN - HUGE savings. Can operate from home address."
+      },
+      "step2": {
+        "title": "Set Up Invoicing and Accounting",
+        "description": "Invoicing software: InFakt, WFirma, iFirma (100-150 PLN/month) - generates compliant invoices, tracks income/expenses, integrates banking. Invoice requirements: sequential number, NIP, client details, services description, payment terms (typically 14-30 days), bank account. Currency: PLN standard, EUR/USD possible (conversion required for tax). Accounting: hire accountant 300-500 PLN/month OR DIY if simple. Track expenses: deduct from income (laptop, software, coworking, internet, courses)."
+      },
+      "step3": {
+        "title": "Structure Contracts and Set Rates",
+        "description": "B2B contract (umowa B2B): agreement with client, specifies scope, deliverables, payment terms, hourly or project rate. Not employment (no boss-employee relationship). Rates: charge 40-60% more than employed equivalent (cover ZUS, vacation, sick days, taxes). IT freelance: 100-300 PLN/hour typical. Fixed-price projects: estimate hours × rate + buffer. Contract clauses: payment terms, IP ownership, confidentiality, termination. Template: hire lawyer or use online templates (adapt to your needs)."
+      },
+      "step4": {
+        "title": "Manage International vs Local Clients",
+        "description": "Polish clients: issue VAT invoices (23% VAT), client pays VAT, you remit to tax office. Deduct input VAT on expenses. EU clients: reverse charge mechanism (0% VAT, client accounts for VAT in their country). Non-EU clients: 0% VAT, simpler. Currency: receive EUR/USD, convert to PLN for tax reporting. Payment: SWIFT/SEPA (EU), Wise/Revolut (lower fees). Tax: same income tax regardless of client location. Contracts: English acceptable, consider Polish law or international arbitration clause."
+      },
+      "step5": {
+        "title": "Optimize Taxes and Manage Obligations",
+        "description": "Expense deductions: laptop, phone, internet (proportional if home office), software subscriptions, coworking, courses, travel (business-related). Home office: can deduct portion of rent/utilities (calculate % of space used). Tax methods: flat 19% simple, tax scale better if income < 85k PLN/year, lump sum (ryczałt) restrictions. ZUS: mandatory monthly, small ZUS first 24 months. Health insurance: part of ZUS contribution. Deadlines: ZUS monthly (10th), VAT monthly/quarterly, income tax quarterly advances + annual return. Accountant handles this - worth the cost!"
+      },
+      "doc1": "Business registration confirmation (CEIDG)",
+      "doc2": "B2B contracts with clients",
+      "doc3": "Invoices and payment records",
+      "doc4": "Expense receipts and documentation",
+      "costs": "Startup costs minimal - main ongoing costs are ZUS and accounting.",
+      "cost1": "ZUS social insurance (monthly, mandatory)",
+      "cost1Amount": "350-600 PLN (small ZUS) or 1,200-1,500 PLN (standard)",
+      "cost2": "Accountant (monthly, highly recommended)",
+      "cost2Amount": "300-500 PLN/month",
+      "tip1": "Small ZUS first 24 months = GAME CHANGER. Pay 350-600 PLN/month instead of 1,400 PLN. Saves ~10,000 PLN/year! Eligibility: first business or 5-year gap. Select when registering. Freelance income minus small ZUS = much more profitable first 2 years!",
+      "tip2": "Charge 50-60% MORE than employment equivalent. Example: employee gets 10k PLN gross = you charge 15-16k PLN for same work. Why? You pay own ZUS (~1,400 PLN), no paid vacation, no sick leave, no benefits. Calculate your true cost to stay profitable!",
+      "tip3": "International clients EASIER tax-wise: no Polish VAT complexity (0% VAT exports), cleaner invoicing, paid in EUR/USD (hedge against PLN). Use Wise/Revolut for cheap international transfers (1% fee vs 3-5% bank SWIFT). More profitable than local clients often!",
+      "faq1Q": "How much do freelancers earn in Poland?",
+      "faq1A": "Highly variable. IT: 100-300 PLN/hour (8,000-30,000 PLN/month). Design: 50-150 PLN/hour. Writing: 30-100 PLN/hour. Consulting: 150-500 PLN/hour. Rates higher than employment to cover costs (ZUS, taxes, no benefits). Location independent: can earn Western rates while living in Poland.",
+      "faq2Q": "What is B2B contract in Poland?",
+      "faq2A": "Business-to-business contract. You're self-employed contractor (have registered business), client is another business. You invoice for services. NOT employment (no employee rights/benefits). Higher pay, more flexibility, but you pay own ZUS, taxes, vacation. Common in IT. Requires business registration first.",
+      "faq3Q": "Do I need an accountant for freelancing?",
+      "faq3A": "Not legally required but HIGHLY recommended. Polish tax law complex: ZUS calculations, VAT filings, income tax, deductions, deadlines. Mistakes = fines, audits. Accountant (300-500 PLN/month): handles compliance, optimizes taxes, saves time. DIY possible if very simple (one client, no VAT) but risky. Worth the cost!",
+      "faq4Q": "Can I freelance while employed?",
+      "faq4A": "Yes, legally allowed (unless employment contract forbids). Many Poles have employment + side business. Register business, freelance evenings/weekends. Tax: combine income from both for tax calculation. ZUS: paid via employment + own business (complex calculation, accountant recommended). Check employment contract for non-compete/moonlighting clauses first!"
+    },
+    "remote-work": {
+      "overview": "Remote work booming in Poland. Many international companies hire Polish-based remote workers (IT, customer service, design, marketing). Legal structures: employment contract (umowa o pracę - rare for remote), B2B contractor (most common for international), or foreign employment (work for foreign company from Poland). Tax: income taxed in Poland if tax resident (183+ days/year). Residence: need valid residence permit if staying long-term. Benefits: earn Western salaries, live in cheaper Poland. Coworking spaces widespread. Internet excellent in cities (fiber 300-1000 Mbps). Time zones: Poland CET/CEST convenient for EU, some overlap with US. Challenges: tax complexity, residence permits, lack of employment protections if B2B.",
+      "req1": "Valid residence permit if staying 183+ days (tax residency)",
+      "req2": "Reliable internet connection and workspace",
+      "req3": "Understanding of tax obligations in Poland",
+      "req4": "Appropriate contract structure with employer/clients",
+      "step1": {
+        "title": "Understand Legal Status and Contracts",
+        "description": "Employment by Polish company: standard umowa o pracę, taxes withheld, ZUS covered, full benefits. Employment by foreign company: rare, complex (foreign company must have Polish entity or use EOR). B2B contractor: register Polish business, invoice foreign client, you handle taxes/ZUS. Digital nomad: working remotely for foreign employer while in Poland on tourist visa (gray area, short stays). Choose structure: B2B most common for international remote work. Residence: tourist visa max 90 days, need residence permit for longer (work, business, student)."
+      },
+      "step2": {
+        "title": "Establish Tax Residency and Obligations",
+        "description": "Tax residency: Poland if center of life here OR 183+ days per year. Tax resident: pay Polish income tax on worldwide income. Non-resident: tax only Polish-source income. Double taxation treaties: Poland has treaties with most countries, avoid paying twice. Structure: B2B with foreign client = invoice as Polish business, pay Polish income tax + ZUS. Foreign employment: salary may have taxes withheld abroad, declare in Poland and offset (complex, accountant essential). Tax rates: 19% flat or progressive scale."
+      },
+      "step3": {
+        "title": "Set Up Workspace and Infrastructure",
+        "description": "Internet: essential, fiber widely available in cities (300-1000 Mbps, 50-100 PLN/month). Home office: common, rent includes utilities usually. Coworking spaces: tons in major cities - Brain Embassy, Google Campus, local spaces (500-1,500 PLN/month for dedicated desk, drop-in 50-100 PLN/day). Cafes: good WiFi common, acceptable for few hours but not daily office. Equipment: laptop, monitor, ergonomic setup. Time zones: Poland UTC+1/+2, works well for EU clients, morning overlap with US East Coast."
+      },
+      "step4": {
+        "title": "Manage Administrative Requirements",
+        "description": "Residence permit: if remote work long-term, need permit (temporary residence for business if B2B, work permit if employment). Registration: meldunek within 30 days. Bank account: Polish business account if B2B. Health insurance: mandatory, via ZUS if self-employed, private if employed, EHIC if EU tourist (short stays). Invoicing: if B2B, use software (InFakt, WFirma). Accountant: essential for B2B/foreign income (tax complexity, optimization, compliance)."
+      },
+      "step5": {
+        "title": "Optimize Lifestyle and Costs",
+        "description": "Cost advantage: earn Western salary (EUR/USD), spend in PLN. Example: $5,000/month freelance = 20,000 PLN, living costs 5,000-8,000 PLN/month = high savings rate. Cities: Warsaw/Kraków higher costs but best infrastructure, Wrocław/Poznań/Gdańsk good balance, smaller cities cheapest. Quality of life: good public transport, healthcare, safety. Community: expat/remote worker groups common (meetups, Facebook groups). Travel: central Europe location, cheap flights. Challenges: language barrier, bureaucracy, winter darkness."
+      },
+      "doc1": "Residence permit (if staying 183+ days)",
+      "doc2": "Business registration (if B2B structure)",
+      "doc3": "Contracts with employers/clients",
+      "doc4": "Tax residency documentation and accountant",
+      "costs": "Main cost is tax/ZUS obligations - net income still high with Western rates.",
+      "cost1": "Coworking space (optional)",
+      "cost1Amount": "500-1,500 PLN/month for dedicated desk",
+      "cost2": "Accountant for tax compliance (essential)",
+      "cost2Amount": "400-800 PLN/month (complex international situations)",
+      "tip1": "Geographic arbitrage = BIG money! Earn Western rates (€4k-8k = 18k-35k PLN), live in Poland (5-8k PLN/month = comfortable). Save/invest 50-70% income. Example: €6k/month = 26k PLN, spend 7k, save 19k (€4,300). Builds wealth FAST. Best ROI cities: Wrocław, Poznań, Gdańsk (cheaper than Warsaw, great quality).",
+      "tip2": "Coworking memberships worth it: productivity, separation home/work, networking (find clients/partners!), professional meeting space, events. Try: Brain Embassy (Warsaw), Idea Hub (Wrocław), local spaces. Cost 800-1,500 PLN = expensive but pays off in focus + opportunities. Deductible business expense!",
+      "tip3": "B2B for international clients = tax efficient. Invoice from Polish business, deduct expenses (laptop, coworking, internet, courses), pay 19% flat tax on profit. Example: earn 20k, expenses 3k, profit 17k, tax 3.2k + ZUS 1.4k = net ~15.4k (77%). Better than employment tax! Accountant essential for optimization.",
+      "faq1Q": "Can I work remotely for a foreign company from Poland?",
+      "faq1A": "Yes! Common structure: B2B contractor (register Polish business, invoice foreign client). Alternative: foreign employment (if company has Polish entity). Tax: income taxed in Poland if tax resident (183+ days). Need: residence permit if staying long-term, business registration if B2B. Accountant essential for compliance.",
+      "faq2Q": "How much can I save by working remotely in Poland?",
+      "faq2A": "HUGE savings with geographic arbitrage. Example: earn $6k/month (Western rate) = 26k PLN. Living costs: 5-8k PLN/month (comfortable). Save: 15-20k PLN/month (60-75% savings rate!). Build wealth fast. Compare: same salary in US/Western Europe = 30-40% savings rate. Poland lower costs = higher savings.",
+      "faq3Q": "What are the tax implications of remote work?",
+      "faq3A": "Tax resident (183+ days in Poland): pay Polish income tax on worldwide income. Structure matters: B2B = 19% flat + ZUS, employment = progressive tax. Foreign employment: may need to file in both countries (use tax treaties to avoid double tax). Digital nomad (tourist visa): gray area short-term. MUST use accountant familiar with international taxation!",
+      "faq4Q": "Do I need a residence permit for remote work?",
+      "faq4A": "Depends on duration. Tourist/visa-free: up to 90 days OK. Staying longer (183+ days = tax resident): need residence permit. Options: temporary residence for business (if B2B), work permit (if employment), freelancer visa. Without permit: illegal to stay 90+ days. Apply before arrival or within Poland (complex). Plan early - processing 1-3 months."
     }
   },
   "pages": {
