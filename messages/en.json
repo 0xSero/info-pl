@@ -626,6 +626,476 @@
       "faq3A": "Authorized centers at major universities: University of Warsaw, Jagiellonian University, Adam Mickiewicz University. Exams held 2-4 times yearly, book early.",
       "faq4Q": "Can I learn Polish online?",
       "faq4A": "Yes, platforms like italki (1-on-1 tutors), Babbel, and YouTube channels work well. However, in-person courses help with speaking practice and accountability."
+    },
+    "registering-address": {
+      "overview": "Registering your address (meldunek) is a legal requirement in Poland within 30 days of moving. Registration is done at the local city office (Urząd Miasta) and provides proof of residence needed for PESEL, banking, healthcare, and other essential services.",
+      "req1": "Valid residence permit or visa",
+      "req2": "Rental contract or property ownership documents",
+      "req3": "Landlord's written consent (for rental properties)",
+      "req4": "Passport or national ID card",
+      "step1": {
+        "title": "Obtain Landlord Consent",
+        "description": "For rental properties, your landlord must provide written consent for registration (zgoda właściciela). Some landlords refuse due to tax concerns - this is illegal but common."
+      },
+      "step2": {
+        "title": "Prepare Documents",
+        "description": "Gather your passport, residence permit, rental contract, landlord's consent form, and property ownership documents (landlord provides). Complete the meldunek application form."
+      },
+      "step3": {
+        "title": "Visit City Office",
+        "description": "Go to the local city office (Urząd Miasta or Urząd Dzielnicy) responsible for your address. Some cities allow online appointments, others are walk-in only."
+      },
+      "step4": {
+        "title": "Submit Application",
+        "description": "Submit your completed form with all documents. The process is free. The officer will verify documents and may ask questions about your residence."
+      },
+      "step5": {
+        "title": "Receive Confirmation",
+        "description": "You'll receive a confirmation (zaświadczenie o zameldowaniu) immediately or within a few days. This document is crucial for PESEL, banking, and other registrations."
+      },
+      "doc1": "Passport and residence permit copies",
+      "doc2": "Rental contract or property deed",
+      "doc3": "Landlord's written consent (for rentals)",
+      "doc4": "Completed meldunek application form",
+      "costs": "Address registration is completely free of charge in Poland.",
+      "cost1": "Address registration (meldunek)",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Certified copies (if needed)",
+      "cost2Amount": "5-10 PLN per copy",
+      "tip1": "Try to get meldunek before PESEL - having registered address makes many processes easier.",
+      "tip2": "If your landlord refuses meldunek, try negotiating a small increase in rent or register temporarily through a hotel/hostel.",
+      "tip3": "Keep your meldunek confirmation safe - you'll need it repeatedly for official matters.",
+      "faq1Q": "What if my landlord refuses to give meldunek consent?",
+      "faq1A": "This is illegal but common. You can report to authorities, negotiate with landlord, or use temporary registration through hotels. Without meldunek, getting PESEL and other services is very difficult.",
+      "faq2Q": "Can I register at multiple addresses?",
+      "faq2A": "You can have both permanent and temporary registration, but only one of each type. You must unregister from previous address when moving.",
+      "faq3Q": "How long does address registration take?",
+      "faq3A": "Usually immediate if all documents are correct. You receive confirmation (zaświadczenie) on the spot or within 2-3 days.",
+      "faq4Q": "Do I need to re-register if I move?",
+      "faq4A": "Yes, you must unregister from old address and register at new address within 30 days of moving. This applies to every move."
+    },
+    "karta-pobytu": {
+      "overview": "Karta Pobytu is the physical residence permit card issued to non-EU foreigners legally living in Poland. It contains your photo, biometric data, and residence permit details. The card is proof of your legal status and must be carried when traveling.",
+      "req1": "Approved residence permit application",
+      "req2": "Valid passport",
+      "req3": "Biometric data (fingerprints and photo)",
+      "req4": "Collection notice from provincial office",
+      "step1": {
+        "title": "Apply for Residence Permit",
+        "description": "First apply for temporary or permanent residence at the provincial office (Urząd Wojewódzki). This involves submitting documents, paying fees, and providing biometric data."
+      },
+      "step2": {
+        "title": "Wait for Decision",
+        "description": "Processing takes 1-6 months depending on permit type and province. During this time, the stamp in your passport (stempel) serves as proof of legal stay."
+      },
+      "step3": {
+        "title": "Receive Collection Notice",
+        "description": "Once your application is approved and the card is ready, you'll receive a notification (usually by mail or email) to collect your Karta Pobytu."
+      },
+      "step4": {
+        "title": "Collect Your Card",
+        "description": "Visit the provincial office with your passport and collection notice. Verify all information on the card is correct before leaving the office."
+      },
+      "step5": {
+        "title": "Report Loss or Damage",
+        "description": "If your card is lost, stolen, or damaged, report immediately to the provincial office. You'll need to apply for a replacement (duplicate) and pay a fee."
+      },
+      "doc1": "Valid passport",
+      "doc2": "Collection notice from provincial office",
+      "doc3": "Previous Karta Pobytu (if renewal)",
+      "doc4": "Police report (if card was lost/stolen)",
+      "costs": "The Karta Pobytu is included in your residence permit application fee. Replacements cost extra.",
+      "cost1": "Included in residence permit fee",
+      "cost1Amount": "0 PLN (already paid)",
+      "cost2": "Replacement for lost/damaged card",
+      "cost2Amount": "50 PLN",
+      "tip1": "Always carry your Karta Pobytu when traveling - it's required for re-entry to Poland and travel within Schengen.",
+      "tip2": "Take a photo of your card and store it securely in case of loss. Also keep a copy of your decision letter.",
+      "tip3": "Check expiration date carefully - apply for renewal 3-6 months before expiration to avoid gaps in legal status.",
+      "faq1Q": "Is Karta Pobytu the same as residence permit?",
+      "faq1A": "The residence permit is the legal right to stay. Karta Pobytu is the physical card documenting this right. You need both.",
+      "faq2Q": "Can I travel with Karta Pobytu?",
+      "faq2A": "Yes, within the Schengen area you can travel with your Karta Pobytu and passport. For travel outside Schengen, check if you need additional visas.",
+      "faq3Q": "What if my card expires while I'm abroad?",
+      "faq3A": "You may have difficulty re-entering Poland. Always renew well before expiration if you travel frequently.",
+      "faq4Q": "How long is Karta Pobytu valid?",
+      "faq4A": "Same duration as your residence permit: 1-3 years for temporary, 10 years for permanent (though the permanent residence right itself is indefinite)."
+    },
+    "meldunek": {
+      "overview": "Meldunek is the official term for address registration in Poland. It's mandatory for all residents (Polish and foreign) and serves as proof of where you live. Required within 30 days of arrival or moving, meldunek is essential for accessing government services.",
+      "req1": "Legal basis for stay (residence permit, visa, or citizenship)",
+      "req2": "Proof of residence (rental contract or property ownership)",
+      "req3": "Landlord consent for temporary registration",
+      "req4": "Completed registration form",
+      "step1": {
+        "title": "Understand Registration Types",
+        "description": "Permanent registration (zameldowanie stałe) is for property owners or family. Temporary registration (zameldowanie czasowe) is for renters. Most foreigners need temporary registration."
+      },
+      "step2": {
+        "title": "Get Landlord Agreement",
+        "description": "For temporary meldunek, landlord must sign consent form. Discuss this before signing rental contract as some landlords refuse. This refusal is illegal but common."
+      },
+      "step3": {
+        "title": "Complete Application Form",
+        "description": "Download form from city office website or get in person. Fill out personal details, address, registration type (temporary/permanent), and intended duration of stay."
+      },
+      "step4": {
+        "title": "Submit to Local Office",
+        "description": "Visit Urząd Miasta or Urząd Dzielnicy with all documents. Process is free. Some cities offer online submission for EU citizens with digital signatures."
+      },
+      "step5": {
+        "title": "Receive Confirmation Document",
+        "description": "Get confirmation certificate (zaświadczenie) proving your registered address. This is needed for PESEL, bank accounts, and many other services. Keep multiple copies."
+      },
+      "doc1": "Passport and residence permit",
+      "doc2": "Rental agreement or property deed",
+      "doc3": "Landlord's signed consent form",
+      "doc4": "Proof of landlord's ownership (wydruk z ksiegi wieczystej)",
+      "costs": "Meldunek registration is a free administrative service.",
+      "cost1": "Registration fee",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Additional confirmation copies",
+      "cost2Amount": "Free or minimal fee",
+      "tip1": "Register within 30 days - late registration may result in fines up to 5,000 PLN.",
+      "tip2": "Some cities allow same-day service, others take 2-3 days. Call ahead to check.",
+      "tip3": "If moving temporarily (vacation, business trip), you don't need to register unless staying more than 30 days.",
+      "faq1Q": "What's the difference between meldunek and Karta Pobytu?",
+      "faq1A": "Meldunek is address registration (where you live). Karta Pobytu is residence permit (right to stay in Poland). They're separate but both required.",
+      "faq2Q": "Can I get PESEL without meldunek?",
+      "faq2A": "Usually no - meldunek is typically required for PESEL. However, some foreigners get PESEL first if they have employer support.",
+      "faq3Q": "What happens if I don't register?",
+      "faq3A": "You're breaking the law and risk fines up to 5,000 PLN. More importantly, you can't access many services without registered address.",
+      "faq4Q": "How do I unregister when moving?",
+      "faq4A": "File an unregistration form (wymeldowanie) at the office where you're registered, or it happens automatically when you register at new address."
+    },
+    "visa-types": {
+      "overview": "Poland offers various visa types for non-EU citizens depending on purpose of stay: tourist (Schengen C visa), national (D visa) for long stays, work visas, student visas, and family reunification. Each has specific requirements and validity periods.",
+      "req1": "Valid passport (at least 3 months beyond intended stay)",
+      "req2": "Purpose-specific documents (invitation, admission letter, work contract)",
+      "req3": "Proof of financial means and accommodation",
+      "req4": "Travel/health insurance covering minimum €30,000",
+      "step1": {
+        "title": "Determine Visa Type Needed",
+        "description": "Schengen C visa for tourism/visits up to 90 days. National D visa for stays over 90 days (work, study, family). Transit visas for airport transit. Choose based on your purpose and duration."
+      },
+      "step2": {
+        "title": "Gather Required Documents",
+        "description": "Common docs: passport, photos, application form, insurance, financial proof. Additional docs vary by type: work contract for employment, admission letter for students, invitation for visits."
+      },
+      "step3": {
+        "title": "Apply at Polish Consulate",
+        "description": "Book appointment at Polish consulate in your country. Submit application with documents and fee (Schengen €80, National visa €135). Biometric data collected at appointment."
+      },
+      "step4": {
+        "title": "Wait for Processing",
+        "description": "Schengen visas: 15 days standard. National visas: 30-60 days. Complex cases may take longer. Track application status online if available."
+      },
+      "step5": {
+        "title": "Collect Visa and Enter Poland",
+        "description": "Pick up passport with visa sticker from consulate. Check all details are correct. For national visas, apply for residence permit within 90 days of arrival in Poland."
+      },
+      "doc1": "Valid passport with blank visa pages",
+      "doc2": "Visa application form and photos (35×45mm)",
+      "doc3": "Travel/health insurance (minimum €30,000 coverage)",
+      "doc4": "Purpose-specific documents (contract, invitation, admission letter)",
+      "costs": "Visa fees vary by type and processing speed.",
+      "cost1": "Schengen C visa (tourist/business)",
+      "cost1Amount": "€80 (~360 PLN)",
+      "cost2": "National D visa (work/study/family)",
+      "cost2Amount": "€135 (~610 PLN)",
+      "tip1": "Apply 2-3 months before travel - don't wait until last minute as processing can be delayed.",
+      "tip2": "For work/study visas, get invitation/contract from Polish side before applying - it significantly strengthens application.",
+      "tip3": "Some nationalities qualify for visa-free entry or simplified procedures - check Polish Ministry of Foreign Affairs website.",
+      "faq1Q": "Can I work on a tourist Schengen visa?",
+      "faq1A": "No, Schengen C visas don't allow work or long-term stay. You need national D visa and work permit for employment.",
+      "faq2Q": "How long can I stay on Schengen visa?",
+      "faq2A": "Maximum 90 days within any 180-day period across all Schengen countries combined, not just Poland.",
+      "faq3Q": "Can I extend my visa while in Poland?",
+      "faq3A": "Schengen visas rarely extendable. National visas: you must apply for residence permit before visa expires.",
+      "faq4Q": "What if my visa application is rejected?",
+      "faq4A": "You can appeal within 14 days or reapply addressing rejection reasons. Consulate provides written explanation for refusals."
+    },
+    "finding-a-doctor": {
+      "overview": "Registering with a primary care physician (POZ - Podstawowa Opieka Zdrowotna) is essential in Poland. Your POZ doctor is the first point of contact for health issues and provides referrals to specialists. Registration is free and required for using public healthcare (NFZ).",
+      "req1": "NFZ insurance coverage (through employment or ZUS)",
+      "req2": "PESEL number or passport",
+      "req3": "ID document",
+      "req4": "Declaration form for POZ registration",
+      "step1": {
+        "title": "Verify NFZ Coverage",
+        "description": "Check you're registered with NFZ (National Health Fund) through employment, self-employment, or other basis. Verify your status at pacjent.gov.pl or ask your employer."
+      },
+      "step2": {
+        "title": "Find POZ Clinics Near You",
+        "description": "Search for primary care clinics (przychodnie) in your area using the NFZ website, Google Maps, or ask neighbors. Many clinics list available doctors and languages spoken."
+      },
+      "step3": {
+        "title": "Visit Clinic to Register",
+        "description": "Bring your PESEL, ID, and proof of NFZ coverage. Fill out POZ declaration form choosing your primary doctor. Registration is immediate and free. You can change POZ once per month."
+      },
+      "step4": {
+        "title": "Book Your First Appointment",
+        "description": "Schedule appointment by phone or online system. First visit may be a general check-up. Appointments often booked weeks in advance, so register early."
+      },
+      "step5": {
+        "title": "Understand the Referral System",
+        "description": "POZ doctor provides referrals (skierowania) to specialists when needed. Without referral, you pay full private price. Emergency care doesn't need referrals."
+      },
+      "doc1": "PESEL number or passport",
+      "doc2": "National ID or residence permit",
+      "doc3": "NFZ insurance confirmation (from employer)",
+      "doc4": "POZ declaration form (provided by clinic)",
+      "costs": "POZ registration and visits are free with NFZ insurance.",
+      "cost1": "POZ registration",
+      "cost1Amount": "Free with NFZ",
+      "cost2": "Doctor visit without NFZ",
+      "cost2Amount": "100-200 PLN private",
+      "tip1": "Many POZ clinics have English-speaking doctors in larger cities - call ahead to check language availability.",
+      "tip2": "You can change POZ doctor once per month if unsatisfied - just register at a new clinic.",
+      "tip3": "For urgent issues, POZ offers same-day appointments (wizyty pilne) - call early in morning to request.",
+      "faq1Q": "Do I need a POZ doctor to see specialists?",
+      "faq1A": "Yes, for NFZ-covered specialist care you need POZ referral. Exception: gynecology, dentistry, and emergency care don't require referrals.",
+      "faq2Q": "How long do POZ appointments take?",
+      "faq2A": "Standard visits: 15-20 minutes. First visit may be longer for medical history. Waiting rooms can be crowded - arrive early.",
+      "faq3Q": "Can I see a POZ doctor without PESEL?",
+      "faq3A": "Possible but difficult. Some clinics accept passport, but most require PESEL for NFZ system. Get PESEL first if possible.",
+      "faq4Q": "What if I can't get an appointment for weeks?",
+      "faq4A": "Request urgent appointment (wizyta pilna) for acute issues. For chronic issues, consider changing to another POZ with shorter waits or use private care."
+    },
+    "emergency-services": {
+      "overview": "Poland's emergency services operate through universal numbers: 112 (European standard), 999 (ambulance), 998 (fire), 997 (police). Emergency care is free for everyone regardless of insurance status. Hospital emergency departments (SOR - Szpitalny Oddział Ratunkowy) provide 24/7 urgent care.",
+      "req1": "No documents required for immediate emergency treatment",
+      "req2": "ID and insurance details for follow-up care",
+      "req3": "Knowledge of Polish or translator (many staff speak English)",
+      "req4": "Understanding triage system priority levels",
+      "step1": {
+        "title": "Call Emergency Number",
+        "description": "Dial 112 (works from any phone, even without SIM). Operators speak English. Clearly state emergency type (medical, fire, police), location, and number of people needing help."
+      },
+      "step2": {
+        "title": "Wait for Ambulance or Go to SOR",
+        "description": "For life-threatening emergencies, ambulance arrives. For urgent but non-critical issues, go directly to nearest hospital's SOR (emergency department). Bring ID if possible."
+      },
+      "step3": {
+        "title": "Triage Assessment",
+        "description": "At SOR, nurse assesses urgency using color-coded system (red=immediate, orange=urgent, yellow=standard, green=non-urgent, blue=minor). Wait time depends on priority."
+      },
+      "step4": {
+        "title": "Receive Treatment",
+        "description": "Emergency treatment is free for all. Doctor examines, orders tests if needed, provides treatment. You may wait hours for non-urgent cases as critical patients prioritized."
+      },
+      "step5": {
+        "title": "Follow-up and Documentation",
+        "description": "Get medical documentation (karta informacyjna) before leaving. Follow referrals for specialist care. If you lack insurance, may receive bill later for non-emergency treatment."
+      },
+      "doc1": "Passport or ID card (if available)",
+      "doc2": "European Health Insurance Card (EHIC) for EU citizens",
+      "doc3": "List of medications and allergies (if possible)",
+      "doc4": "Contact information for family/emergency contact",
+      "costs": "Emergency care is free. Non-emergency misuse of emergency services may be charged.",
+      "cost1": "Emergency ambulance and treatment",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Non-urgent SOR visit without insurance",
+      "cost2Amount": "May be billed later",
+      "tip1": "Save 112 in your phone. It works EU-wide and can locate you via GPS even if you can't give address.",
+      "tip2": "For non-life-threatening issues after hours, visit SOR instead of calling ambulance - faster and appropriate use of resources.",
+      "tip3": "Learn key Polish medical phrases: 'pomocy' (help), 'pogotowie' (ambulance), 'szpital' (hospital), 'ból' (pain).",
+      "faq1Q": "Will ambulance come if I don't speak Polish?",
+      "faq1A": "Yes, 112 operators speak English. They'll send help based on location. Medical staff may use translation apps or English-speaking staff if available.",
+      "faq2Q": "Do I need insurance for emergency care?",
+      "faq2A": "Emergency care is provided regardless of insurance. However, follow-up care and hospitalizations require insurance or payment.",
+      "faq3Q": "How long is SOR wait time?",
+      "faq3A": "Depends on triage priority. Critical cases: immediate. Non-urgent: 2-6 hours. Green/blue codes may wait longer - consider private clinic if not urgent.",
+      "faq4Q": "Can I choose which hospital to go to?",
+      "faq4A": "In life-threatening emergencies, ambulance takes you to nearest appropriate hospital. For walk-in SOR visits, you can choose any public hospital."
+    },
+    "pharmacies-and-prescriptions": {
+      "overview": "Polish pharmacies (apteka) are widely available and easily recognized by green cross signs. Many medications require prescriptions (recepta), while others are over-the-counter. NFZ subsidizes prescription medications, significantly reducing costs. 24-hour pharmacies (apteka dyżurna) available in larger cities.",
+      "req1": "Valid prescription from Polish doctor (for prescription drugs)",
+      "req2": "PESEL number for subsidized medications",
+      "req3": "ID and insurance documentation",
+      "req4": "Cash or card for payment",
+      "step1": {
+        "title": "Get Prescription from Doctor",
+        "description": "Polish doctor issues electronic prescription (e-recepta) with unique code. You receive SMS/email with 4-digit code. Physical paper prescriptions still used but being phased out."
+      },
+      "step2": {
+        "title": "Locate Nearest Pharmacy",
+        "description": "Pharmacies marked with green cross, found every few blocks in cities. Use apps like 'Apteka' to find nearest one, check stock, and see opening hours. Many open until 8-10 PM."
+      },
+      "step3": {
+        "title": "Present Prescription Code",
+        "description": "Give pharmacist your 4-digit code and PESEL number. They access e-prescription in system. For paper prescriptions, hand over original. Prescription valid 30 days (120 days for chronic conditions)."
+      },
+      "step4": {
+        "title": "Pay Subsidized Price",
+        "description": "NFZ subsidizes many medications: some free (100% refund), others 30-50% refunded. You pay co-pay amount (reszta). Without insurance, pay full private price (much higher)."
+      },
+      "step5": {
+        "title": "Find 24-Hour Pharmacy if Needed",
+        "description": "Emergency? Check pharmacy duty rosters (dyżury aptek) posted on pharmacy doors or online. 24-hour pharmacies rotate in each district. Call ahead to confirm stock of specific medication."
+      },
+      "doc1": "E-prescription code (4 digits) or paper prescription",
+      "doc2": "PESEL number for subsidy",
+      "doc3": "ID card or passport",
+      "doc4": "European Health Insurance Card (for EU citizens)",
+      "costs": "Medication costs vary based on NFZ subsidy level and type of drug.",
+      "cost1": "Subsidized prescription drugs",
+      "cost1Amount": "5-50 PLN (co-pay)",
+      "cost2": "Private (non-subsidized) medications",
+      "cost2Amount": "50-300+ PLN full price",
+      "tip1": "Ask doctor for generic medications (leki generyczne) - same active ingredient, much cheaper than brand names.",
+      "tip2": "Some medications require 'prior authorization' from NFZ - doctor must justify why that specific drug is needed.",
+      "tip3": "Bring your prescription history from home country with translations - helps Polish doctors understand your treatments.",
+      "faq1Q": "Can I get medications without prescription?",
+      "faq1A": "Many pain relievers, cold medications, vitamins available over-counter. Antibiotics, strong painkillers, chronic disease medications always require prescription.",
+      "faq2Q": "What if pharmacy doesn't have my medication?",
+      "faq2A": "They can order it (usually next day) or check stock at other locations. For urgent needs, call multiple pharmacies to find stock.",
+      "faq3Q": "How do I refill chronic medication prescriptions?",
+      "faq3A": "Doctor can issue multiple prescriptions at once or single prescription with multiple fills (pro auctore/pro familiae). Return to doctor every few months for renewal.",
+      "faq4Q": "Do pharmacists speak English?",
+      "faq4A": "In major cities, often yes. In smaller towns, less common. Learn Polish drug names or show prescription. Pharmacists are highly educated and helpful."
+    },
+    "passport-requirements": {
+      "overview": "To enter and stay in Poland, non-EU citizens need a valid passport meeting specific requirements. Your passport must be valid for at least 3 months beyond your intended stay, have at least 2 blank visa pages, and be issued within the last 10 years. EU/EEA citizens can use national ID cards.",
+      "req1": "Passport valid at least 3 months beyond departure date",
+      "req2": "Minimum 2 blank pages for visa stamps",
+      "req3": "Passport issued within last 10 years",
+      "req4": "Undamaged and machine-readable passport",
+      "step1": {
+        "title": "Check Passport Validity",
+        "description": "Verify your passport expiration date. For Schengen visa applications, must be valid 3+ months after planned departure. For residence permits, 3+ months beyond permit validity requested."
+      },
+      "step2": {
+        "title": "Ensure Blank Pages Available",
+        "description": "Check you have at least 2 fully blank visa pages (not amendment pages). Visas and entry/exit stamps require full pages. Polish border control may deny entry if insufficient pages."
+      },
+      "step3": {
+        "title": "Verify Passport Condition",
+        "description": "Passport must be undamaged - no torn pages, water damage, or significant wear. Machine-readable zone (MRZ) at bottom of photo page must be fully legible for border scanners."
+      },
+      "step4": {
+        "title": "Plan for Renewal if Needed",
+        "description": "If passport expires soon or lacks pages, renew at your country's embassy/consulate in Poland or home country. Renewal takes weeks/months - don't let it expire while in Poland."
+      },
+      "step5": {
+        "title": "Carry Passport Copies",
+        "description": "Keep copies of passport data page and current visa/residence permit separately from original. Store digital copies securely. Report lost/stolen passports immediately to police and your embassy."
+      },
+      "doc1": "Valid passport meeting all requirements",
+      "doc2": "Copy of passport data page",
+      "doc3": "Previous passports (if applying for permits)",
+      "doc4": "Passport photos (35x45mm) for applications",
+      "costs": "No fees for passport checks, but renewal costs vary by nationality.",
+      "cost1": "Polish border passport control",
+      "cost1Amount": "Free",
+      "cost2": "Passport renewal at embassy",
+      "cost2Amount": "Varies by country ($100-200 typical)",
+      "tip1": "Renew passport 6-12 months before expiration if you're applying for residence permits - having valid passport throughout process is crucial.",
+      "tip2": "Some countries allow emergency passport renewal at embassies - takes 1-3 days but limited validity, not accepted for all purposes.",
+      "tip3": "If your passport is near full, consider adding pages (if your country allows) or renewing early to avoid running out during important applications.",
+      "faq1Q": "Can I enter Poland if my passport expires in 4 months?",
+      "faq1A": "For short stays (Schengen visa), yes if valid 3+ months after departure. For residence permits, should be valid much longer (6+ months recommended).",
+      "faq2Q": "What if my passport is damaged?",
+      "faq2A": "Even minor damage can cause entry denial. If MRZ is damaged, border control cannot scan it. Renew immediately if passport shows significant wear.",
+      "faq3Q": "Do I need my passport while in Poland?",
+      "faq3A": "You should carry ID. For foreigners, this means passport or residence card (Karta Pobytu). Police can request ID, and it's needed for many services.",
+      "faq4Q": "What if my passport is lost in Poland?",
+      "faq4A": "Report to police for official report. Contact your embassy immediately for emergency travel document or new passport. Also notify Polish immigration if you have residence permit."
+    },
+    "drivers-license-exchange": {
+      "overview": "Foreign driver's licenses can be used temporarily in Poland, but long-term residents must exchange them for Polish licenses. EU/EEA licenses exchange easily without exams. Non-EU licenses may require written and practical tests after 6 months. The process is done at city offices (starostwo powiatowe).",
+      "req1": "Valid foreign driver's license",
+      "req2": "Registered address in Poland (meldunek)",
+      "req3": "Medical certificate from authorized doctor",
+      "req4": "Residence permit or long-term stay confirmation",
+      "step1": {
+        "title": "Understand Grace Period",
+        "description": "EU/EEA licenses: valid indefinitely. Non-EU licenses: valid 6 months after registering residence. After that, must exchange for Polish license or cannot legally drive."
+      },
+      "step2": {
+        "title": "Get Medical Certificate",
+        "description": "Visit authorized doctor (orzeczenia lekarskie do prawa jazdy) for driving fitness examination. Costs 100-200 PLN. Certificate confirms you're medically fit to drive. Valid 5 years for most drivers."
+      },
+      "step3": {
+        "title": "Prepare Documents",
+        "description": "Gather: original driver's license, official translation (if not EU), passport, residence permit, meldunek confirmation, medical certificate, 1 passport photo, and certificate of no driving bans from home country."
+      },
+      "step4": {
+        "title": "Apply at City Office",
+        "description": "Visit starostwo powiatowe (district office) for your registered address. Submit application form with documents. EU licenses: simple exchange. Non-EU: may need written theory test (30 questions in Polish)."
+      },
+      "step5": {
+        "title": "Receive Polish License",
+        "description": "Processing takes 1-3 months. New plastic EU-format license valid 15 years. Your foreign license is returned to issuing country. Practical test required only if you fail theory or lack certain endorsements."
+      },
+      "doc1": "Valid original driver's license and sworn translation",
+      "doc2": "Medical certificate from authorized doctor",
+      "doc3": "Passport and residence permit",
+      "doc4": "Meldunek confirmation and passport photo",
+      "costs": "License exchange involves several fees for documents, medical exam, and administrative processing.",
+      "cost1": "Medical certificate",
+      "cost1Amount": "100-200 PLN",
+      "cost2": "Administrative fee and license issuance",
+      "cost2Amount": "100-200 PLN",
+      "tip1": "Start process early - don't wait until month 5 of your 6-month grace period. Bureaucracy takes time and you may need to retake tests.",
+      "tip2": "EU license holders: exchange is simple and no tests required. Do it for convenience even if not legally mandatory.",
+      "tip3": "If from reciprocal agreement country (USA, Canada, South Korea, etc.), process is simpler and may not require tests - check current agreements.",
+      "faq1Q": "Do I need to exchange my EU driver's license?",
+      "faq1A": "Not legally required - EU licenses valid across EU. However, exchange makes life easier (no need to carry translation) and if police stop you, having Polish license simplifies things.",
+      "faq2Q": "Can I drive while waiting for my Polish license?",
+      "faq2A": "Non-EU: only during first 6 months with foreign license. After that, technically illegal to drive until Polish license received. EU: can continue with EU license.",
+      "faq3Q": "Do I need to take driving test in Poland?",
+      "faq3A": "EU licenses: no tests. Non-EU: usually written theory test in Polish (can bring translator). Practical test only if you fail theory multiple times or license validity questions arise.",
+      "faq4Q": "What if my home country won't provide 'no driving ban' certificate?",
+      "faq4A": "Some countries don't issue these. Provide sworn statement instead. Polish authorities understand not all countries provide this document - consult with office."
+    },
+    "dental-care": {
+      "overview": "Dental care in Poland is partially covered by NFZ public insurance, but coverage is limited primarily to basic treatments and emergency care. Most people use private dental clinics for comprehensive care. Dental services are affordable compared to Western Europe, with many English-speaking dentists in major cities.",
+      "req1": "NFZ insurance for public dental care (limited coverage)",
+      "req2": "PESEL number for NFZ clinics",
+      "req3": "Funds for private treatment (most comprehensive care)",
+      "req4": "Appointment booking (often weeks in advance)",
+      "step1": {
+        "title": "Understand NFZ Coverage",
+        "description": "NFZ covers: tooth extractions, basic fillings, some root canals, emergency pain relief. NOT covered: cleanings, whitening, crowns, bridges, implants, orthodontics, cosmetic work. Most people need private care."
+      },
+      "step2": {
+        "title": "Choose Public or Private",
+        "description": "Public (NFZ): free but limited services, long waits (months for appointments), basic materials. Private: affordable by EU standards, modern equipment, English-speaking staff, immediate appointments, full range of services."
+      },
+      "step3": {
+        "title": "Find a Dentist",
+        "description": "Use Znany Lekarz or Google Maps to find dentists (dentysta). Read reviews. In cities, many clinics cater to foreigners with English-speaking dentists. Prices displayed on clinic websites."
+      },
+      "step4": {
+        "title": "Book Consultation",
+        "description": "Call or book online. First visit usually 100-200 PLN for examination and treatment plan. Dentist examines, takes X-rays if needed, and quotes prices for recommended treatments."
+      },
+      "step5": {
+        "title": "Get Treatment",
+        "description": "Schedule treatment appointments. Complex work may need multiple visits. Pay per visit or full treatment upfront. Most clinics accept cards. Get detailed invoice (faktura) for potential insurance reimbursement."
+      },
+      "doc1": "ID or PESEL (for NFZ clinics)",
+      "doc2": "NFZ insurance confirmation (if using public)",
+      "doc3": "Previous dental records (if transferring from abroad)",
+      "doc4": "Payment method (cash or card)",
+      "costs": "Private dental care in Poland is significantly cheaper than Western Europe while maintaining quality.",
+      "cost1": "Consultation and X-ray",
+      "cost1Amount": "100-200 PLN",
+      "cost2": "Filling (composite)",
+      "cost2Amount": "150-300 PLN",
+      "tip1": "Private dental care in Poland offers excellent value - many medical tourists come specifically for dental work. Quality is high, prices 50-70% lower than Western Europe.",
+      "tip2": "Book cleanings and check-ups every 6 months. Prevention is cheaper than treatment. Most private clinics offer package deals.",
+      "tip3": "Dental emergencies: call clinics directly - many offer same-day emergency slots. For severe pain after hours, hospital SOR can provide pain relief (but not dental treatment).",
+      "faq1Q": "Is dental care free in Poland with NFZ?",
+      "faq1A": "Basic extractions and simple fillings are free with NFZ, but coverage is very limited. Quality materials and comprehensive treatments require private payment.",
+      "faq2Q": "How much does a tooth implant cost in Poland?",
+      "faq2A": "2,500-4,000 PLN per implant (including crown). Same procedure costs €2,000-3,000+ in Western Europe. Quality is comparable.",
+      "faq3Q": "Do Polish dentists speak English?",
+      "faq3A": "In Warsaw, Krakow, and major cities, many dentists speak English, especially in private clinics targeting expats. Smaller towns have less English availability.",
+      "faq4Q": "Can I get emergency dental care?",
+      "faq4A": "Yes, most private clinics offer same-day emergency appointments. Public emergency dental care available at some hospitals but limited to pain relief and extractions."
     }
   },
   "pages": {
