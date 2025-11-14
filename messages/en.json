@@ -156,6 +156,476 @@
       "faq3A": "Yes, you receive double pay or a compensatory day off if you work on a public holiday.",
       "faq4Q": "Are shops open on Polish holidays?",
       "faq4A": "Most shops are closed, but gas stations, some pharmacies, and small convenience stores may be open."
+    },
+    "nip-tax-id": {
+      "overview": "NIP (Numer Identyfikacji Podatkowej) is Poland's tax identification number required for employment, business activities, and tax purposes. It's a 10-digit number issued by the tax office (Urząd Skarbowy). Every person earning income or conducting business in Poland must have a NIP.",
+      "req1": "Valid passport or ID document",
+      "req2": "PESEL number (for residents) or passport for non-residents",
+      "req3": "Registered Polish address or employer's address",
+      "req4": "Completed NIP-2 or NIP-7 application form",
+      "step1": {
+        "title": "Determine Application Type",
+        "description": "If you're employed, your employer can apply for your NIP. If self-employed or running a business, you must apply yourself using form NIP-2 for individuals or NIP-7 for businesses."
+      },
+      "step2": {
+        "title": "Download and Complete Form",
+        "description": "Get form NIP-2 from the tax office website (podatki.gov.pl) or in person. Fill it out with your personal details, address, and purpose of application."
+      },
+      "step3": {
+        "title": "Visit Tax Office (Urząd Skarbowy)",
+        "description": "Go to the tax office responsible for your registered address. You can also submit the application online through the government portal or by mail."
+      },
+      "step4": {
+        "title": "Submit Application and Documents",
+        "description": "Provide your completed form, passport copy, proof of address (meldunek), and PESEL if you have one. The officer will verify your documents."
+      },
+      "step5": {
+        "title": "Receive Your NIP",
+        "description": "You'll receive your NIP number immediately or within 1-3 business days. The confirmation certificate (zaświadczenie NIP) is issued free of charge."
+      },
+      "doc1": "Valid passport or national ID card",
+      "doc2": "PESEL confirmation or residence permit",
+      "doc3": "Proof of registered address in Poland",
+      "doc4": "NIP-2 application form (or NIP-7 for business)",
+      "costs": "Obtaining a NIP is completely free. There are no fees for the application or certificate.",
+      "cost1": "NIP registration and certificate",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Certified translations (if required)",
+      "cost2Amount": "50-100 PLN per document",
+      "tip1": "Many employers handle NIP applications for new employees - ask if they can do this for you.",
+      "tip2": "You can apply for NIP online through biznes.gov.pl if you have a trusted profile (profil zaufany).",
+      "tip3": "Keep your NIP certificate safe - you'll need it for employment contracts, tax returns, and banking.",
+      "faq1Q": "Can I get a NIP without PESEL?",
+      "faq1A": "Yes, you can get a NIP using just your passport if you don't have PESEL yet. However, getting PESEL first makes the process easier.",
+      "faq2Q": "How long does it take to get a NIP?",
+      "faq2A": "Usually immediate if you apply in person. Online applications are processed within 1-3 business days.",
+      "faq3Q": "Can my employer apply for my NIP?",
+      "faq3A": "Yes, employers can apply for their employees' NIP numbers. This is common practice for new hires.",
+      "faq4Q": "Is NIP the same as my tax number?",
+      "faq4A": "Yes, NIP is your official tax identification number in Poland and remains with you for life, even if you leave and return."
+    },
+    "temporary-residence-permit": {
+      "overview": "A temporary residence permit (Karta Pobytu Czasowego) allows non-EU citizens to legally live in Poland for a specific period, typically 1-3 years. Common reasons include work, study, family reunification, or business. The application must be submitted before your current visa expires.",
+      "req1": "Valid passport (valid at least 3 months beyond permit duration)",
+      "req2": "Legal basis for residence (work contract, university admission, etc.)",
+      "req3": "Proof of sufficient funds for living expenses",
+      "req4": "Health insurance valid in Poland",
+      "step1": {
+        "title": "Gather Required Documents",
+        "description": "Prepare your passport, 4 passport photos, proof of purpose (employment contract, university admission, marriage certificate), proof of accommodation, health insurance, and financial means (bank statements showing at least 701 PLN per month)."
+      },
+      "step2": {
+        "title": "Complete Application Form",
+        "description": "Fill out the application form for temporary residence permit. Download it from the provincial office (Urząd Wojewódzki) website or obtain it in person."
+      },
+      "step3": {
+        "title": "Schedule Appointment",
+        "description": "Book an appointment at the provincial office (Urząd Wojewódzki) responsible for your registered address. Some cities require online scheduling through their website."
+      },
+      "step4": {
+        "title": "Submit Application in Person",
+        "description": "Attend your appointment with all original documents and copies. Pay the fee (340 PLN) and provide biometric data (fingerprints and photo). You'll receive a stamp in your passport allowing you to stay during processing."
+      },
+      "step5": {
+        "title": "Collect Your Residence Card",
+        "description": "Processing takes 1-3 months. You'll be notified when your Karta Pobytu is ready for pickup. Bring your passport and the collection notice to pick up your card."
+      },
+      "doc1": "Valid passport and copies of all pages",
+      "doc2": "4 biometric passport photos (35x45mm)",
+      "doc3": "Proof of purpose (work contract, admission letter, marriage certificate)",
+      "doc4": "Health insurance policy, proof of accommodation, bank statements",
+      "costs": "The main cost is the government fee of 340 PLN for the residence permit application.",
+      "cost1": "Temporary residence permit application fee",
+      "cost1Amount": "340 PLN",
+      "cost2": "Express processing (if available)",
+      "cost2Amount": "540 PLN",
+      "tip1": "Apply at least 45 days before your current visa expires. You can apply up to 90 days before expiration.",
+      "tip2": "The stamp in your passport (stempel) allows you to stay and work legally while waiting for the decision.",
+      "tip3": "Keep copies of all submitted documents - you may need them for renewals or other applications.",
+      "faq1Q": "How long does it take to get temporary residence?",
+      "faq1A": "Officially up to 3 months, but in practice it can take 1-6 months depending on the province and application volume.",
+      "faq2Q": "Can I work while waiting for my permit?",
+      "faq2A": "Yes, the stamp in your passport (stempel) grants you the right to work and stay legally during the processing period.",
+      "faq3Q": "How long is temporary residence valid?",
+      "faq3A": "Usually 1-3 years depending on the purpose. Work permits are typically granted for the duration of the employment contract plus 3 months.",
+      "faq4Q": "Can I travel outside Poland while waiting?",
+      "faq4A": "Yes, but you need a valid Schengen visa or your passport stamp may not be sufficient for re-entry. Check with border control first."
+    },
+    "permanent-residence-permit": {
+      "overview": "Permanent residence permit (Karta Stałego Pobytu) grants the right to live in Poland indefinitely without time restrictions. You can apply after holding temporary residence for at least 5 consecutive years, or 3 years if married to a Polish citizen. Permanent residence provides greater stability and fewer renewal requirements.",
+      "req1": "At least 5 years of continuous temporary residence (or 3 years if married to Polish citizen)",
+      "req2": "Stable and regular income source",
+      "req3": "Health insurance in Poland",
+      "req4": "Basic Polish language proficiency (A2 level or exemption)",
+      "step1": {
+        "title": "Verify Eligibility",
+        "description": "Ensure you've held legal temporary residence for at least 5 uninterrupted years (3 years if married to Polish citizen). Absences of more than 6 months per year may break continuity."
+      },
+      "step2": {
+        "title": "Obtain Polish Language Certificate",
+        "description": "Pass a Polish language exam at A2 level or qualify for exemption (degree from Polish university, Polish Card holder, etc.). Certificate is valid for life."
+      },
+      "step3": {
+        "title": "Prepare Documentation",
+        "description": "Gather passport, all previous residence cards, proof of stable income (employment contract or business registration), accommodation proof, health insurance, and language certificate."
+      },
+      "step4": {
+        "title": "Submit Application",
+        "description": "Schedule appointment at provincial office (Urząd Wojewódzki), submit completed application form with documents, pay 640 PLN fee, and provide biometric data."
+      },
+      "step5": {
+        "title": "Receive Permanent Residence Card",
+        "description": "Processing takes 2-6 months. Once approved, collect your permanent residence card which is valid for 10 years (card validity, not residence right which is indefinite)."
+      },
+      "doc1": "Valid passport and all previous residence permits",
+      "doc2": "4 biometric photos and application form",
+      "doc3": "Polish language certificate (A2 level) or exemption document",
+      "doc4": "Proof of income, accommodation, and health insurance",
+      "costs": "Permanent residence has higher fees than temporary residence, primarily the 640 PLN application fee.",
+      "cost1": "Permanent residence permit application",
+      "cost1Amount": "640 PLN",
+      "cost2": "Polish language exam (if needed)",
+      "cost2Amount": "400-600 PLN",
+      "tip1": "Start preparing your language certificate early - exam dates fill up quickly and you may wait months for results.",
+      "tip2": "Keep all documentation from your 5 years of residence - you'll need to prove continuous legal stay.",
+      "tip3": "With permanent residence, you can work without any additional permits and have easier access to loans and mortgages.",
+      "faq1Q": "Do I need to renew permanent residence?",
+      "faq1A": "Your residence right is permanent, but the plastic card must be renewed every 10 years. The renewal is a simple administrative process.",
+      "faq2Q": "Can I lose permanent residence?",
+      "faq2A": "Yes, if you stay outside Poland for more than 6 years consecutively or if obtained through fraud. Otherwise, it's truly permanent.",
+      "faq3Q": "Is Polish language exam difficult?",
+      "faq3A": "A2 level is basic conversational Polish. With regular study, most people can pass within 1-2 years. Certified courses help prepare you.",
+      "faq4Q": "What's the difference between permanent residence and citizenship?",
+      "faq4A": "Permanent residence allows indefinite stay but you keep your original citizenship. Polish citizenship allows you to vote, get a Polish passport, and have full civic rights."
+    },
+    "work-permit": {
+      "overview": "A work permit (Zezwolenie na pracę) allows non-EU citizens to work legally in Poland. The employer typically applies on behalf of the employee. There are different types (A, B, C, D, E) depending on the situation, with Type A being most common for standard employment.",
+      "req1": "Job offer from Polish employer",
+      "req2": "Employer registers vacancy at labor office (Urząd Pracy)",
+      "req3": "Proof that no suitable EU/Polish candidate was found",
+      "req4": "Valid passport and legal stay in Poland",
+      "step1": {
+        "title": "Employer Registers Job Vacancy",
+        "description": "Your employer must first register the position at the local labor office (Powiatowy Urząd Pracy) and advertise it for at least 10 days to give priority to Polish and EU citizens."
+      },
+      "step2": {
+        "title": "Employer Applies for Work Permit",
+        "description": "After proving no suitable local candidate was found, employer submits work permit application to the Provincial Office (Urząd Wojewódzki) with required documents and pays the fee."
+      },
+      "step3": {
+        "title": "Processing and Decision",
+        "description": "The office processes the application within 30-60 days. They verify the position, salary (must meet minimum wage), and working conditions comply with Polish labor law."
+      },
+      "step4": {
+        "title": "Employer Receives Work Permit",
+        "description": "Once approved, employer receives the work permit (Zezwolenie na pracę Type A valid for up to 3 years). They send you a copy needed for your visa/residence permit application."
+      },
+      "step5": {
+        "title": "Apply for Residence Permit",
+        "description": "With the work permit, apply for temporary residence permit for work purposes at the Provincial Office. This combines your residence and work authorization."
+      },
+      "doc1": "Copy of employment contract or job offer letter",
+      "doc2": "Employer's business registration and tax documents",
+      "doc3": "Proof of labor market test (job advertisement results)",
+      "doc4": "Employee's passport copy and qualifications",
+      "costs": "Work permit fees are typically paid by the employer, though some negotiate this with employees.",
+      "cost1": "Work permit Type A application",
+      "cost1Amount": "100 PLN (paid by employer)",
+      "cost2": "Residence permit for work",
+      "cost2Amount": "340 PLN (paid by employee)",
+      "tip1": "Citizens of some countries (Ukraine, Georgia, Armenia, Belarus, Moldova, Russia) can work for 6 months without permit using simplified declaration system.",
+      "tip2": "The work permit is tied to specific employer and position - changing jobs requires a new permit.",
+      "tip3": "After 5 years of legal residence, you can apply for permanent residence and work without any permits.",
+      "faq1Q": "Who applies for the work permit - me or my employer?",
+      "faq1A": "Your employer applies for the work permit. You apply for the residence permit that allows you to use it.",
+      "faq2Q": "Can I change employers with a work permit?",
+      "faq2A": "No, the permit is specific to one employer. You'll need a new work permit from the new employer.",
+      "faq3Q": "How long does work permit processing take?",
+      "faq3A": "Officially 30 days, but can extend to 60 days if additional verification is needed. Some provinces are faster than others.",
+      "faq4Q": "What if my work permit is denied?",
+      "faq4A": "You can appeal within 14 days. Common reasons for denial include insufficient salary offered or available local workers."
+    },
+    "eu-blue-card": {
+      "overview": "The EU Blue Card is a special residence and work permit for highly skilled non-EU workers. It requires a university degree and a job offer with a salary at least 1.5 times the average Polish wage. The Blue Card offers faster processing, easier family reunification, and mobility within the EU.",
+      "req1": "University degree (bachelor's or higher) or 5 years relevant experience",
+      "req2": "Employment contract with minimum salary (approx. 11,500 PLN gross monthly in 2024)",
+      "req3": "Valid passport and health insurance",
+      "req4": "Job in skilled profession matching qualifications",
+      "step1": {
+        "title": "Verify Salary Requirement",
+        "description": "Your job offer must pay at least 1.5 times the average monthly salary in Poland (approximately 11,500 PLN gross in 2024). For shortage occupations, it's 1.2 times the average."
+      },
+      "step2": {
+        "title": "Gather Qualification Documents",
+        "description": "Prepare your university diploma (with apostille and sworn translation), employment contract, proof of professional qualifications, and other supporting documents."
+      },
+      "step3": {
+        "title": "Submit Blue Card Application",
+        "description": "Apply at the Provincial Office (Urząd Wojewódzki) in Poland or at Polish consulate abroad. Submit application form, documents, and pay 440 PLN fee. You can apply from outside Poland."
+      },
+      "step4": {
+        "title": "Wait for Processing",
+        "description": "Processing takes 30-90 days. The Blue Card combines work authorization and residence permit in one document, eliminating need for separate work permit."
+      },
+      "step5": {
+        "title": "Receive EU Blue Card",
+        "description": "Once approved, receive your Blue Card valid for the contract duration plus 3 months, maximum 3 years. Can be renewed. After 18 months in EU, you can move to another EU country."
+      },
+      "doc1": "University diploma with apostille and sworn translation",
+      "doc2": "Employment contract meeting minimum salary requirement",
+      "doc3": "Valid passport and 4 biometric photos",
+      "doc4": "Health insurance and proof of accommodation",
+      "costs": "EU Blue Card has higher fees than standard work permits but offers significant advantages.",
+      "cost1": "EU Blue Card application fee",
+      "cost1Amount": "440 PLN",
+      "cost2": "Document translations and apostille",
+      "cost2Amount": "300-800 PLN",
+      "tip1": "EU Blue Card holders can bring family members who can work immediately without separate permits.",
+      "tip2": "After 5 years with Blue Card in EU (including Poland), you can apply for EU long-term residence.",
+      "tip3": "Blue Card processing is faster than standard work permits and doesn't require labor market test.",
+      "faq1Q": "What's the minimum salary for EU Blue Card in 2024?",
+      "faq1A": "Approximately 11,500 PLN gross monthly (1.5 times average wage). For shortage occupations like IT, it's around 9,200 PLN (1.2 times average).",
+      "faq2Q": "Can I change employers with EU Blue Card?",
+      "faq2A": "Yes, but you need to apply for a new Blue Card with the new employer. After 2 years, the process is simplified.",
+      "faq3Q": "What degrees qualify for Blue Card?",
+      "faq3A": "Bachelor's, Master's, or PhD from recognized universities. For some professions, 5 years of relevant experience can substitute for a degree.",
+      "faq4Q": "Can my family work with EU Blue Card?",
+      "faq4A": "Yes, family members who join you on a residence permit for family reunification can work immediately without separate work permits."
+    },
+    "nfz-health-insurance": {
+      "overview": "NFZ (Narodowy Fundusz Zdrowia) is Poland's public health insurance system providing free or subsidized healthcare. Coverage is mandatory for employees, self-employed, students, and retirees. Contributions are automatically deducted from salary or paid through ZUS social security.",
+      "req1": "Legal residence in Poland (temporary or permanent permit)",
+      "req2": "Employment, self-employment, or student status",
+      "req3": "PESEL number for registration",
+      "req4": "Regular social security (ZUS) contributions",
+      "step1": {
+        "title": "Understand Your Coverage Status",
+        "description": "If employed, your employer automatically registers you with NFZ through ZUS contributions. If self-employed, you must register yourself and pay monthly health insurance contributions."
+      },
+      "step2": {
+        "title": "Register with ZUS (if not employed)",
+        "description": "Self-employed individuals must register with ZUS (Zakład Ubezpieczeń Społecznych) and choose health insurance contribution level based on income."
+      },
+      "step3": {
+        "title": "Verify NFZ Coverage",
+        "description": "Check your NFZ status online at pacjent.gov.pl or ewuś system. You'll need your PESEL number. Your employer should provide confirmation of coverage."
+      },
+      "step4": {
+        "title": "Choose Primary Care Doctor (POZ)",
+        "description": "Register with a primary care physician (Podstawowa Opieka Zdrowotna - POZ) in your area. This doctor is your first point of contact for health issues and referrals."
+      },
+      "step5": {
+        "title": "Get European Health Insurance Card",
+        "description": "Apply for EKUZ (European Health Insurance Card) at NFZ branch for free emergency coverage in other EU countries. Valid for travel and temporary stays abroad."
+      },
+      "doc1": "Employment contract or business registration (działalność)",
+      "doc2": "PESEL number and residence permit",
+      "doc3": "ZUS registration confirmation (if self-employed)",
+      "doc4": "ID document for POZ registration",
+      "costs": "Health insurance is a percentage of income, automatically deducted from salary or paid through ZUS.",
+      "cost1": "Employee health insurance",
+      "cost1Amount": "9% of gross salary (employer deducts)",
+      "cost2": "Self-employed minimum contribution",
+      "cost2Amount": "Approx. 500 PLN monthly",
+      "tip1": "NFZ covers most medical services, but waiting times for specialists can be long. Many people buy private insurance to supplement NFZ.",
+      "tip2": "Prescriptions are subsidized - you pay only part of the medication cost. Some medicines are completely free.",
+      "tip3": "Emergency care (112) is always free and immediate, regardless of insurance status.",
+      "faq1Q": "Is healthcare free in Poland with NFZ?",
+      "faq1A": "Basic healthcare is free at point of service, but you pay through monthly insurance contributions. Prescriptions have co-pays.",
+      "faq2Q": "How do I prove I have NFZ insurance?",
+      "faq2A": "Your PESEL number is enough - doctors check the eWUŚ system electronically. No insurance card needed, but you can request confirmation from NFZ.",
+      "faq3Q": "Can I use NFZ if I'm unemployed?",
+      "faq3A": "Yes, if you register as unemployed at the labor office (Urząd Pracy), you're covered. Spouses and children of insured people are also covered.",
+      "faq4Q": "What's not covered by NFZ?",
+      "faq4A": "Dental care (except emergencies), cosmetic procedures, some advanced treatments, and private hospital rooms. Waiting times for specialists can be long."
+    },
+    "opening-bank-account": {
+      "overview": "Opening a bank account in Poland is straightforward for foreigners with legal residence. Most major banks offer accounts in English with online banking, debit cards, and mobile apps. You'll need identification and proof of address, with some banks requiring PESEL.",
+      "req1": "Valid passport or ID document",
+      "req2": "Proof of Polish address (rental contract or meldunek)",
+      "req3": "PESEL number (some banks) or NIP tax number",
+      "req4": "Legal residence status (visa or permit)",
+      "step1": {
+        "title": "Choose a Bank",
+        "description": "Research banks offering foreigner-friendly services: PKO BP, mBank, Millennium, ING, Santander are popular. Compare fees, English support, and online banking features."
+      },
+      "step2": {
+        "title": "Gather Required Documents",
+        "description": "Prepare passport, residence permit or visa, proof of address (rental contract, meldunek), PESEL if you have it, and sometimes proof of income or employment contract."
+      },
+      "step3": {
+        "title": "Visit Bank Branch or Apply Online",
+        "description": "Some banks allow online applications with video verification. Otherwise, visit a branch. Many have English-speaking staff in larger cities. Book appointment to save time."
+      },
+      "step4": {
+        "title": "Complete Application",
+        "description": "Fill out account opening form, provide documents, choose account type (personal/business), and select additional services (debit card, online banking, mobile app)."
+      },
+      "step5": {
+        "title": "Activate Your Account",
+        "description": "Receive your account number (26 digits in IBAN format), debit card (usually within 5-7 days), and online banking credentials. Some banks give instant cards."
+      },
+      "doc1": "Valid passport or national ID card",
+      "doc2": "Residence permit, visa, or work permit",
+      "doc3": "Proof of address (rental contract or meldunek)",
+      "doc4": "PESEL or NIP number (if available)",
+      "costs": "Many banks offer free accounts for students or those who meet minimum requirements like salary transfers.",
+      "cost1": "Monthly account maintenance",
+      "cost1Amount": "0-20 PLN (often free)",
+      "cost2": "Debit card fee",
+      "cost2Amount": "0-10 PLN monthly (often free)",
+      "tip1": "Look for accounts with no fees for students or if you receive salary transfers - many banks waive fees for active accounts.",
+      "tip2": "Get a debit card with contactless payment - it's widely used in Poland for even small purchases.",
+      "tip3": "Set up online banking immediately - it's essential for paying bills, transfers, and managing your account.",
+      "faq1Q": "Can I open a bank account without PESEL?",
+      "faq1A": "Yes, most banks allow account opening with just passport and residence permit. Some require PESEL, but many are flexible for foreigners.",
+      "faq2Q": "Which bank is best for foreigners?",
+      "faq2A": "mBank, Millennium, and ING are popular for English support and modern apps. PKO BP is Poland's largest and most widely accessible.",
+      "faq3Q": "Can I open an account before moving to Poland?",
+      "faq3A": "Some banks like Millennium allow online account opening from abroad, but most require you to be physically present in Poland.",
+      "faq4Q": "Do Polish banks charge for transfers?",
+      "faq4A": "Domestic transfers within Poland (PLN) are usually free. International transfers (SWIFT) cost 20-100 PLN. SEPA transfers within EU are often free or cheap."
+    },
+    "renting-apartment": {
+      "overview": "Renting an apartment in Poland involves searching on popular portals, viewing properties, and signing a rental contract. Most landlords require a deposit (usually 1-2 months' rent) and proof of income. Rental prices vary significantly by city, with Warsaw and Kraków being most expensive.",
+      "req1": "Proof of income or employment contract",
+      "req2": "Security deposit (1-2 months' rent)",
+      "req3": "Valid ID and residence permit",
+      "req4": "References or guarantor (sometimes required)",
+      "step1": {
+        "title": "Search for Apartments",
+        "description": "Use popular portals: OLX.pl, Otodom.pl, Gratka.pl. Filter by city, price, size. Beware of scams - never pay before viewing. Join expat Facebook groups for tips and listings."
+      },
+      "step2": {
+        "title": "Schedule Viewings",
+        "description": "Contact landlords or agents to arrange viewings. Ask about utilities included, furniture, rules about pets/smoking. Check apartment condition, heating, water pressure, and neighborhood."
+      },
+      "step3": {
+        "title": "Negotiate Terms",
+        "description": "Discuss rent price, lease duration (usually 1 year minimum), deposit amount, utilities responsibility, and any special conditions. Get everything in writing."
+      },
+      "step4": {
+        "title": "Sign Rental Contract (Umowa Najmu)",
+        "description": "Read contract carefully. Should include: parties, address, rent amount, payment date, deposit, lease duration, utilities, notice period. Consider having it reviewed or translated."
+      },
+      "step5": {
+        "title": "Pay Deposit and Move In",
+        "description": "Pay security deposit (kaucja) and first month's rent. Document apartment condition with photos. Register address (meldunek) - landlord must provide consent within 3 days."
+      },
+      "doc1": "Rental contract (Umowa Najmu)",
+      "doc2": "Proof of income or employment contract",
+      "doc3": "Passport and residence permit copies",
+      "doc4": "Inventory list and condition report with photos",
+      "costs": "Rental costs vary widely by city. Warsaw and Kraków are most expensive, smaller cities significantly cheaper.",
+      "cost1": "Monthly rent (1-bedroom in Warsaw)",
+      "cost1Amount": "2,500-4,000 PLN",
+      "cost2": "Security deposit",
+      "cost2Amount": "1-2 months' rent",
+      "tip1": "Utilities (czynsz) often cost 300-600 PLN monthly extra - clarify what's included in rent and what's separate.",
+      "tip2": "Register your address (meldunek) within 30 days - it's legally required and needed for many official procedures.",
+      "tip3": "Take detailed photos/video of apartment condition before moving in to avoid deposit disputes when leaving.",
+      "faq1Q": "How much is rent in major Polish cities?",
+      "faq1A": "Warsaw: 2,500-4,000 PLN for 1-bedroom. Kraków: 2,000-3,500 PLN. Wrocław: 2,000-3,000 PLN. Smaller cities: 1,500-2,500 PLN.",
+      "faq2Q": "Do I need to register my rental address?",
+      "faq2A": "Yes, you must register (meldunek) within 30 days. Your landlord must provide written consent, which some refuse (technically illegal).",
+      "faq3Q": "What if my landlord refuses meldunek registration?",
+      "faq3A": "This is common but illegal. Try negotiating, offer to pay a bit more, or use temporary registration through hotel/hostel for official purposes.",
+      "faq4Q": "Can I break my lease early?",
+      "faq4A": "Only if contract allows it or landlord agrees. Usually requires 1-3 months notice. Breaking lease early may forfeit your deposit."
+    },
+    "public-transportation": {
+      "overview": "Polish cities have extensive public transportation systems including buses, trams, metro (Warsaw), and suburban trains. Tickets are integrated and valid across all modes within the city. You can buy tickets at kiosks, machines, via mobile apps, or contactless payment.",
+      "req1": "Valid ticket or travel card for all journeys",
+      "req2": "Validation of paper tickets when boarding",
+      "req3": "Understanding zone system in larger cities",
+      "req4": "Photo ID for discounted tickets (student, senior)",
+      "step1": {
+        "title": "Learn Your City's System",
+        "description": "Warsaw (ZTM): buses, trams, metro. Kraków (MPK): buses, trams. Each city has different operators, ticket prices, and apps. Download the local transit app."
+      },
+      "step2": {
+        "title": "Choose Ticket Type",
+        "description": "Options: single ride (20-30 min), time-based (60/90 min), day passes, weekly/monthly passes. Monthly unlimited is usually best value for regular commuters."
+      },
+      "step3": {
+        "title": "Purchase Tickets",
+        "description": "Buy at: ticket machines (cash/card), kiosks (Ruch, Żabka), mobile apps (Jakdojade, SkyCash, city-specific apps), or contactless payment on newer vehicles."
+      },
+      "step4": {
+        "title": "Validate and Use",
+        "description": "Paper tickets must be validated in yellow/orange machines on board. Mobile tickets activate before boarding. Keep ticket for entire journey - inspectors check frequently."
+      },
+      "step5": {
+        "title": "Plan Your Routes",
+        "description": "Use Google Maps or Jakdojade app for route planning with real-time arrivals. Both work excellently in Polish cities. Night buses available in major cities."
+      },
+      "doc1": "Valid ticket (paper, mobile app, or contactless)",
+      "doc2": "Student ID or senior ID for discounts (ISIC, etc.)",
+      "doc3": "Photo for monthly pass (some cities)",
+      "doc4": "Warsaw City Card or Kraków Card for tourists",
+      "costs": "Public transport is affordable in Poland. Monthly passes offer best value for regular users.",
+      "cost1": "Single ticket (Warsaw)",
+      "cost1Amount": "4.40 PLN (20-min) / 7 PLN (75-min)",
+      "cost2": "Monthly unlimited pass",
+      "cost2Amount": "110-150 PLN depending on city",
+      "tip1": "Download Jakdojade app - it's the best for public transport navigation across all Polish cities.",
+      "tip2": "Monthly passes (bilet miesięczny) are best value if you commute daily - pays for itself after ~20 rides.",
+      "tip3": "Inspectors check tickets frequently - fines are 266 PLN on the spot or higher if you pay later.",
+      "faq1Q": "Can I use contactless payment on buses?",
+      "faq1A": "Yes, in Warsaw and increasingly other cities, you can tap your card/phone to pay directly on newer buses and trams.",
+      "faq2Q": "Are tickets valid across all transport modes?",
+      "faq2A": "Yes, city tickets are integrated - one ticket works on buses, trams, and metro within the time/zone limits.",
+      "faq3Q": "What happens if caught without a ticket?",
+      "faq3A": "Fine of 266 PLN if paid immediately to inspector, or higher (up to 500 PLN) if paid later. Inspectors wear badges and can ask for ID.",
+      "faq4Q": "Do children and seniors get discounts?",
+      "faq4A": "Yes, 50% discount for students (up to age 26), seniors (65+), and children (4-16). Kids under 4 travel free. Valid ID required."
+    },
+    "polish-language-courses": {
+      "overview": "Learning Polish is essential for integration and daily life in Poland. Options include free government-funded courses for residents, university language centers, private schools, and online platforms. Courses range from basic (A1) to advanced (C2) levels following the European framework.",
+      "req1": "Legal residence in Poland (for free/subsidized courses)",
+      "req2": "Time commitment (usually 2-4 lessons per week)",
+      "req3": "Enrollment fee and materials cost (for paid courses)",
+      "req4": "Placement test to determine starting level",
+      "step1": {
+        "title": "Determine Your Level and Goals",
+        "description": "Take a free online placement test to assess your level (A1-C2). Decide if you need Polish for work, daily life, university, or permanent residence (A2 required)."
+      },
+      "step2": {
+        "title": "Research Course Options",
+        "description": "Free options: government integration programs, NGO courses (Foundation for Somalia, Fundacja Ocalenie). Paid: university language centers (UW, UJ), private schools (Glossa, Prolog). Online: Babbel, italki."
+      },
+      "step3": {
+        "title": "Apply for Free Courses (if eligible)",
+        "description": "Residence permit holders can access free Polish courses through integration programs. Apply at local city office (Urząd Miasta) or NGOs. Limited spots, register early."
+      },
+      "step4": {
+        "title": "Enroll in Chosen Course",
+        "description": "Register online or in person, pay fees if applicable (500-2,000 PLN per semester for private schools), attend placement test, and receive schedule. Courses typically run semester-based."
+      },
+      "step5": {
+        "title": "Practice and Take Certification Exam",
+        "description": "Regular attendance and homework essential. For permanent residence, take official Polish language exam (egzamin certyfikatowy) at authorized centers. A2 level costs 400-500 PLN."
+      },
+      "doc1": "Residence permit or visa",
+      "doc2": "PESEL number (for some programs)",
+      "doc3": "Passport and ID photo",
+      "doc4": "Previous language certificate (if transferring levels)",
+      "costs": "Free options available, but paid courses offer more flexibility and faster progress.",
+      "cost1": "Free government integration courses",
+      "cost1Amount": "0 PLN (60 hours for permit holders)",
+      "cost2": "Private language school semester",
+      "cost2Amount": "800-2,000 PLN (30-60 hours)",
+      "tip1": "Combine formal courses with language exchange meetups and apps like Tandem to practice with native speakers.",
+      "tip2": "The official Polish language exam (certyfikat) is required for permanent residence - start preparing at least 6 months before you need it.",
+      "tip3": "Universities often offer intensive summer courses (July-August) - great for fast progress during vacation time.",
+      "faq1Q": "Are there free Polish language courses?",
+      "faq1A": "Yes, residence permit holders get 60 hours free through integration programs. NGOs also offer free courses. Check with your local city office.",
+      "faq2Q": "How long to learn Polish to A2 level?",
+      "faq2A": "With regular study (3-4 hours weekly), most people reach A2 in 6-12 months. Intensive courses can achieve this in 3-6 months.",
+      "faq3Q": "Where to take official Polish language exam?",
+      "faq3A": "Authorized centers at major universities: University of Warsaw, Jagiellonian University, Adam Mickiewicz University. Exams held 2-4 times yearly, book early.",
+      "faq4Q": "Can I learn Polish online?",
+      "faq4A": "Yes, platforms like italki (1-on-1 tutors), Babbel, and YouTube channels work well. However, in-person courses help with speaking practice and accountability."
     }
   },
   "pages": {
