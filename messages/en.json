@@ -1566,6 +1566,476 @@
       "faq3A": "Yes, Poland has liberalized energy market. Can switch providers to get better rates. Initial setup with building's default provider, then switch. Water usually monopoly, can't choose.",
       "faq4Q": "What if I don't pay utility bills?",
       "faq4A": "Late fees apply. Continued non-payment: disconnection possible (though rare in winter for heating). Debt collection, impact on credit rating. Set up autopay to avoid issues."
+    },
+    "health-insurance-foreigners": {
+      "overview": "Foreigners in Poland need health insurance for residence permits and healthcare access. Options include: NFZ public insurance (through employment/ZUS), private health insurance, EHIC for EU citizens, or travel insurance. Long-term residents should get NFZ coverage. Private insurance useful as supplement for shorter waits and English-speaking doctors.",
+      "req1": "Legal residence in Poland (visa or permit)",
+      "req2": "Employment, self-employment, or other basis for NFZ coverage",
+      "req3": "Funds for private insurance if not eligible for NFZ (150-500 PLN monthly)",
+      "req4": "Understanding of what coverage you need",
+      "step1": {
+        "title": "Determine Your Status",
+        "description": "Employed: automatic NFZ through employer. Self-employed: register with ZUS for NFZ. Students: may qualify for NFZ or need private. Unemployed/retired: check if eligible for NFZ based on family member's coverage or need private."
+      },
+      "step2": {
+        "title": "Get NFZ Coverage (if eligible)",
+        "description": "Employment: employer handles registration. Self-employment: register with ZUS, pay monthly contributions (~500 PLN minimum). Spouse/children of insured person: can be covered under their NFZ. EU citizens: EHIC covers temporary stays."
+      },
+      "step3": {
+        "title": "Consider Private Insurance",
+        "description": "Useful even with NFZ for: shorter specialist waits, English-speaking doctors, private hospitals, dental coverage. Popular providers: PZU, Medicover, Luxmed, Enel-Med. Costs 150-500 PLN monthly depending on coverage level."
+      },
+      "step4": {
+        "title": "Register for Services",
+        "description": "NFZ: register with POZ doctor, get PESEL. Private: choose clinic network, book online, receive insurance card. Some employers provide private insurance as benefit - check your package."
+      },
+      "step5": {
+        "title": "Understand What's Covered",
+        "description": "NFZ: comprehensive but long waits, public facilities. Private: faster service, modern clinics, preventive care, but may exclude chronic conditions, have co-pays. Emergency care always through NFZ (free)."
+      },
+      "doc1": "Residence permit and PESEL",
+      "doc2": "Employment contract or business registration",
+      "doc3": "ZUS registration (for self-employed)",
+      "doc4": "European Health Insurance Card (EU citizens)",
+      "costs": "Insurance costs vary widely based on coverage type and provider.",
+      "cost1": "NFZ through self-employment (minimum)",
+      "cost1Amount": "~500 PLN monthly",
+      "cost2": "Private health insurance",
+      "cost2Amount": "150-500 PLN monthly",
+      "tip1": "Private insurance often has waiting periods (3-6 months) for non-emergency conditions. Sign up early if planning to use.",
+      "tip2": "Many employers offer private health insurance packages - check benefits. This is valuable perk worth 2,000-6,000 PLN yearly.",
+      "tip3": "EU citizens: bring EHIC for temporary stays, but get NFZ for permanent residence. EHIC only covers emergencies, not routine care.",
+      "faq1Q": "Do I need insurance for residence permit?",
+      "faq1A": "Yes, health insurance is mandatory requirement for residence permits. NFZ coverage from employment usually sufficient. Otherwise need private insurance with minimum coverage limits.",
+      "faq2Q": "Can I use EHIC instead of NFZ?",
+      "faq2A": "EHIC is for temporary stays and emergencies only. If you live and work in Poland, you need NFZ registration. EHIC doesn't cover routine care or specialist visits.",
+      "faq3Q": "Is private insurance worth it with NFZ?",
+      "faq3A": "Many people think yes - private provides faster access to specialists, English-speaking doctors, modern clinics. NFZ for serious issues/hospitalization, private for routine care. Common combination.",
+      "faq4Q": "What if I can't get NFZ coverage?",
+      "faq4A": "Need private insurance - required for residence permit. Costs 150-300 PLN monthly for basic coverage. Shop around: PZU, Medicover, Allianz, Generali offer foreigner-friendly policies."
+    },
+    "birth-certificate-registration": {
+      "overview": "Births in Poland must be registered within 14 days at the civil registry office (Urząd Stanu Cywilnego). Hospital provides initial documentation. Foreign residents can choose to register child's birth in both Polish and home country systems. Polish birth certificate needed for PESEL, passport, and other documents for the child.",
+      "req1": "Hospital birth certificate (karta urodzenia) issued after delivery",
+      "req2": "Parents' IDs, passports, marriage certificate",
+      "req3": "Residence permits of parents",
+      "req4": "Chosen first and surname for child",
+      "step1": {
+        "title": "Receive Hospital Documentation",
+        "description": "Hospital issues karta urodzenia (medical birth certificate) immediately after birth. This is medical document, not official birth certificate. Contains: child's birth details, parents' information, doctor's confirmation. Valid 14 days for registration."
+      },
+      "step2": {
+        "title": "Visit Civil Registry Office",
+        "description": "Go to Urząd Stanu Cywilnego where birth occurred within 14 days. Either parent can register alone or both together. Book appointment if required. Bring: hospital certificate, parents' documents, marriage certificate (if married)."
+      },
+      "step3": {
+        "title": "Complete Registration Form",
+        "description": "Declare child's name (first name and surname). Choose surname from: mother's, father's, or combination (if married). Provide parents' details. Officer creates official birth record (akt urodzenia). Process takes 30-60 minutes."
+      },
+      "step4": {
+        "title": "Receive Birth Certificate",
+        "description": "Get official Polish birth certificate (odpis aktu urodzenia) immediately or within few days. This is crucial document for all future procedures. Get multiple certified copies (10-20 PLN each) - you'll need them."
+      },
+      "step5": {
+        "title": "Register at Home Country Embassy",
+        "description": "Foreign parents should also register birth at their embassy/consulate for child's citizenship. Brings: Polish birth certificate, parents' passports, marriage certificate. Timeframes vary by country (some allow years, others require immediate registration)."
+      },
+      "doc1": "Hospital birth certificate (karta urodzenia)",
+      "doc2": "Parents' passports and residence permits",
+      "doc3": "Parents' marriage certificate (if applicable)",
+      "doc4": "PESEL numbers of parents",
+      "costs": "Birth registration in Poland is free. Additional copies have small fees.",
+      "cost1": "Birth registration",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Additional birth certificate copies",
+      "cost2Amount": "10-20 PLN per copy",
+      "tip1": "Register within 14 days to avoid penalties and complications. If missed deadline, need court order to register - much more complicated.",
+      "tip2": "Get 5-10 certified copies of birth certificate immediately - much cheaper than requesting later. Needed for: PESEL, passport, benefits, school enrollment.",
+      "tip3": "Child born in Poland to foreign parents: check both countries' citizenship laws. Some grant citizenship by birth, others by descent. Child may qualify for dual citizenship.",
+      "faq1Q": "Does child born in Poland get Polish citizenship?",
+      "faq1A": "Not automatically. At least one parent must be Polish citizen OR child would be stateless. Foreign parents' child doesn't get Polish citizenship just by birth in Poland (unlike US).",
+      "faq2Q": "Can I choose any name for my child?",
+      "faq2A": "Some restrictions: must be recognizable as name (not offensive/ridiculous), indicate gender (unless gender-neutral names accepted). Officers may reject very unusual names. Up to two first names allowed.",
+      "faq3Q": "What if parents aren't married?",
+      "faq3A": "Both parents can still register child together if father acknowledges paternity. If father doesn't acknowledge, child gets mother's surname and only mother listed. Paternity can be established later through court.",
+      "faq4Q": "How do I get PESEL for my newborn?",
+      "faq4A": "After birth registration, apply at local city office with birth certificate, parents' documents. PESEL issued within days. Needed for child benefits (500+, becikowe) and healthcare registration."
+    },
+    "marriage-registration": {
+      "overview": "Getting married in Poland involves civil ceremony at registry office (Urząd Stanu Cywilnego) or church wedding with civil effects. Foreigners can marry in Poland with proper documentation. Marriage must be registered to be legally recognized. Process takes 1-2 months from application to ceremony due to required preparations.",
+      "req1": "Valid passport and birth certificate (with apostille)",
+      "req2": "Certificate of no impediment to marriage (zaświadczenie o stanie cywilnym)",
+      "req3": "Residence permit or legal stay in Poland",
+      "req4": "Two witnesses (18+, with valid IDs)",
+      "step1": {
+        "title": "Gather Required Documents",
+        "description": "From your country: birth certificate (apostille, sworn translation), certificate of no impediment (proves you're single), divorce decree if previously married. From Poland: valid passport/ID, residence permit. Both parties need these documents. Some countries don't issue certain certificates - embassy can provide equivalent."
+      },
+      "step2": {
+        "title": "Submit Marriage Application",
+        "description": "Visit USC (Urząd Stanu Cywilnego) where ceremony will occur. File marriage application jointly (both must be present). Submit all documents, pay fee. Officer verifies documents, asks basic questions about marriage intention. Application review takes 2-4 weeks."
+      },
+      "step3": {
+        "title": "Publication of Banns",
+        "description": "After application approved, banns posted publicly for 14 days (obwieszczenie). This announces intention to marry, allows objections. Can waive in special circumstances (pregnancy, terminal illness). Some couples choose church ceremony instead/additionally."
+      },
+      "step4": {
+        "title": "Attend Civil Ceremony",
+        "description": "Ceremony at USC office scheduled after banns period. Bring two witnesses with IDs. Ceremony in Polish (can request translator). Exchange vows, sign marriage certificate. Takes 15-30 minutes. Receive marriage certificate (akt małżeństwa) immediately."
+      },
+      "step5": {
+        "title": "Register Marriage in Home Country",
+        "description": "Report marriage to your embassy/consulate with Polish marriage certificate (apostille, translation). Updates your civil status in home country. Important for: passport changes, tax status, spouse benefits. Some countries require registration within specific timeframe."
+      },
+      "doc1": "Birth certificates of both parties (apostille, translation)",
+      "doc2": "Certificates of no impediment to marriage",
+      "doc3": "Valid passports and residence permits",
+      "doc4": "Divorce/death certificates if previously married",
+      "costs": "Civil marriage ceremony in Poland is affordable.",
+      "cost1": "Civil ceremony at registry office",
+      "cost1Amount": "~100 PLN",
+      "cost2": "Document translations and apostilles",
+      "cost2Amount": "500-1,500 PLN total",
+      "tip1": "Church weddings in Poland can have civil legal effects if priest registered with state. Combines religious and civil ceremony in one (popular choice for Catholics).",
+      "tip2": "Plan 2-3 months ahead minimum - document preparation takes time. Apostilles from home country can take weeks, translations need certified translators.",
+      "tip3": "After marriage, update residence permit, driver's license, bank accounts with married name if changing. Some documents need separate name change procedures.",
+      "faq1Q": "Can foreigners marry in Poland?",
+      "faq1A": "Yes, one or both parties can be foreign. Need valid documents from home country (certificates, apostilles). Process same as for Polish citizens, just more documents required.",
+      "faq2Q": "Is marriage in Poland recognized internationally?",
+      "faq2A": "Yes, Polish marriage certificates recognized worldwide (with apostille). Register with your embassy to update home country records. Valid across EU automatically.",
+      "faq3Q": "Can we have church wedding with legal effect?",
+      "faq3A": "Yes, 'concordat marriage' - Catholic ceremony with civil legal recognition. Priest must be registered with state. Receive both church and civil marriage certificates. Very common in Poland.",
+      "faq4Q": "What if my country doesn't issue 'certificate of no impediment'?",
+      "faq4A": "Embassy can provide alternative: affidavit/statutory declaration of marital status. Some countries issue 'certificate of custom' explaining they don't issue such documents. USC usually accepts with proper explanation."
+    },
+    "loans-for-foreigners": {
+      "overview": "Foreigners with legal residence in Poland can obtain personal loans and consumer credit from banks and financial institutions. Requirements stricter than for Polish citizens: longer employment history, higher income, permanent residence preferred. Interest rates 5-15% APR typical. Building credit history in Poland takes time.",
+      "req1": "Permanent or long-term temporary residence permit",
+      "req2": "Stable employment (minimum 6-12 months with current employer)",
+      "req3": "Sufficient income (minimum ~3,000-4,000 PLN monthly)",
+      "req4": "Clean credit history in Poland (BIK bureau check)",
+      "step1": {
+        "title": "Check Your Eligibility",
+        "description": "Banks prefer: permanent residence > temporary residence. Employment contract better than self-employment. 12+ months employment history. No negative credit history in BIK database. Some banks offer loans to foreigners with just 3-6 months residence."
+      },
+      "step2": {
+        "title": "Compare Loan Offers",
+        "description": "Check: interest rate (APR), fees (processing, early repayment), loan term, monthly payment amount. Use comparison sites: Rankomat.pl, Bankier.pl. Banks friendlier to foreigners: mBank, ING, Millennium, Santander. Avoid payday loans (chwilówki) - predatory rates 50%+."
+      },
+      "step3": {
+        "title": "Prepare Documentation",
+        "description": "Required: passport, residence permit, PESEL, proof of income (3-6 months payslips), employment contract, bank statements, proof of address. Self-employed: tax returns, business registration. Some banks want co-signer or guarantor for foreigners."
+      },
+      "step4": {
+        "title": "Apply for Loan",
+        "description": "Online application or in-branch. Bank checks: income, employment stability, BIK credit report, debt-to-income ratio (max 50-60%). Decision within 24 hours to few days. Approval rates lower for foreigners - try multiple banks if rejected."
+      },
+      "step5": {
+        "title": "Receive Funds and Repay",
+        "description": "Upon approval, sign loan agreement, funds transferred to account (same day to 3 days). Set up automatic payments to avoid missed payments. Pay on time to build positive credit history - helps with future loans, mortgages."
+      },
+      "doc1": "Residence permit (preferably permanent)",
+      "doc2": "Employment contract and recent payslips (3-6 months)",
+      "doc3": "PESEL, bank statements, ID",
+      "doc4": "Proof of address (meldunek or rental contract)",
+      "costs": "Loan costs include interest and various fees.",
+      "cost1": "Interest rate (APR)",
+      "cost1Amount": "5-15% typical for personal loans",
+      "cost2": "Processing/commission fee",
+      "cost2Amount": "1-5% of loan amount",
+      "tip1": "Start small - even if you don't need loan, consider small loan to build credit history. Borrow 2,000-5,000 PLN, repay on time. Helps establish positive BIK record.",
+      "tip2": "Avoid multiple loan applications quickly - each generates BIK inquiry, too many look desperate to lenders. Space applications 1-2 months apart if rejected.",
+      "tip3": "Check your BIK credit report before applying (free once yearly at bik.pl). Fix any errors, understand what lenders will see.",
+      "faq1Q": "Can I get loan with temporary residence?",
+      "faq1A": "Yes, but harder than with permanent residence. Need minimum 6-12 months employment, higher income requirement. Some banks decline temporary residence holders entirely.",
+      "faq2Q": "What if I have no credit history in Poland?",
+      "faq2A": "Start with: secured credit card (deposit-backed), small installment purchases (RTV/AGD stores), mobile phone contract. Build 6-12 months history, then apply for loan with better approval odds.",
+      "faq3Q": "Are interest rates higher for foreigners?",
+      "faq3A": "Not officially, but in practice yes - foreigners often offered higher rates or rejected. Shop around, banks vary widely. Some specialize in foreigner-friendly lending.",
+      "faq4Q": "Can I get loan for business startup?",
+      "faq4A": "Very difficult. Banks want established business history. Consider: microloans from NGOs, EU startup grants, investor funding. Business loans typically require 2+ years operating history."
+    },
+    "currency-exchange": {
+      "overview": "Currency exchange (kantor) widely available in Poland with competitive rates, much better than banks or airports. Poland uses Polish Złoty (PLN), not Euro. Online exchange platforms (Cinkciarz, Revolut) often offer best rates. Avoid tourist-area kantors and airport exchange - inflated rates. Banks have poorest exchange rates.",
+      "req1": "Cash or bank account for exchange",
+      "req2": "ID may be required for large amounts (15,000 PLN+)",
+      "req3": "Comparison of current exchange rates",
+      "req4": "Understanding of buy/sell spreads",
+      "step1": {
+        "title": "Check Current Rates",
+        "description": "Compare rates online before exchanging: Kantor.pl, Cinkciarz.pl, bank websites. NBP (National Bank) publishes official rates - use as benchmark. Spread between buy/sell rates shows how much kantor profits. Good kantor: 0.5-1% spread from NBP rate."
+      },
+      "step2": {
+        "title": "Choose Exchange Method",
+        "description": "Best rates: Online platforms (Cinkciarz, Revolut, Wise). Good rates: City center kantors (competitive). Poor rates: Banks (2-5% markup). Worst: Airport, tourist areas, hotels (5-10% markup). For regular exchange, set up online account."
+      },
+      "step3": {
+        "title": "Visit Kantor or Use App",
+        "description": "Physical kantor: bring cash, ask current rate, exchange, receive receipt. No ID needed under 15,000 PLN. Online: transfer money, lock in rate, receive PLN in account or withdraw cash. Revolut/Wise: instant exchange at interbank rates on weekdays."
+      },
+      "step4": {
+        "title": "Verify Amount and Rates",
+        "description": "Always calculate expected amount before agreeing. Check buy vs sell rate (kantor buys foreign currency, sells PLN). Commission-free doesn't mean good rate - check actual spread. Count money before leaving kantor."
+      },
+      "step5": {
+        "title": "Regular Transfers Strategy",
+        "description": "For salary/regular income in foreign currency: use Wise, Revolut, or Cinkciarz for automatic transfers. Much cheaper than bank wire transfers. Can set up recurring exchanges. Monitor rates, exchange when favorable if not time-sensitive."
+      },
+      "doc1": "ID/passport (for amounts over 15,000 PLN)",
+      "doc2": "Foreign currency cash or bank account details",
+      "doc3": "Polish bank account (for online exchanges)",
+      "doc4": "Exchange platform account (Wise, Revolut)",
+      "costs": "Exchange costs hidden in spread between buy/sell rates.",
+      "cost1": "Good kantor spread from NBP",
+      "cost1Amount": "0.5-2% markup typical",
+      "cost2": "Bank exchange spread",
+      "cost2Amount": "3-5% markup (avoid!)",
+      "tip1": "Revolut offers interbank exchange rates on weekdays (terrible rates on weekends). Use for large amounts during week - can save hundreds on 10,000 EUR exchange.",
+      "tip2": "Never exchange at airport or train station - rates are tourist traps. If must exchange, get minimum for taxi, find proper kantor in city.",
+      "tip3": "Kantors don't all offer same rates - shop around! Rates can vary 2-3% between kantors on same street. Check 2-3 before exchanging large amounts.",
+      "faq1Q": "Where's best place to exchange currency in Poland?",
+      "faq1A": "Online platforms (Wise, Revolut, Cinkciarz) have best rates. Physical: city center kantors competitive. Avoid: banks, airports, tourist areas, hotels - significantly worse rates.",
+      "faq2Q": "Can I pay in EUR in Poland?",
+      "faq2A": "Rarely and at terrible rates. Poland uses PLN. Some tourist spots accept EUR but at 10-20% markup. Always pay in PLN for best value.",
+      "faq3Q": "Do I need to declare currency when entering Poland?",
+      "faq3A": "If bringing €10,000+ (or equivalent) cash, must declare to customs. No limit on amounts, just declaration requirement. Bank transfers: no declaration needed.",
+      "faq4Q": "What if I have leftover PLN when leaving?",
+      "faq4A": "Exchange back at kantor (losing spread both ways). Or: spend at airport, keep for next visit, use Revolut to convert back to your currency. Small amounts not worth exchanging - spread eats value."
+    },
+    "sending-money-abroad": {
+      "overview": "Sending money from Poland internationally is easy and affordable with modern services. Options: online platforms (Wise, Revolut, Western Union), bank wire transfers (SWIFT), or cash services. Online platforms cheapest and fastest. Bank transfers expensive and slow. Fees and exchange rates vary significantly - comparison essential.",
+      "req1": "Polish bank account or cash",
+      "req2": "Recipient's bank details (IBAN for EU, SWIFT for other countries)",
+      "req3": "ID verification for transfers over certain amounts",
+      "req4": "Registered account with transfer service",
+      "step1": {
+        "title": "Choose Transfer Method",
+        "description": "Cheapest/fastest: Wise, Revolut (0.5-2% fee, 1-2 days). Mid-range: Western Union, MoneyGram (2-5% fee, same day to 3 days). Expensive: Bank SWIFT transfer (20-100 PLN fee + poor exchange rate, 3-5 days). Choose based on speed, cost, destination."
+      },
+      "step2": {
+        "title": "Set Up Account",
+        "description": "Register on chosen platform: Wise, Revolut, or other. Verify identity with ID/passport, proof of address. Add Polish bank account as funding source. One-time setup takes 1-2 days for verification. Then instant for future transfers."
+      },
+      "step3": {
+        "title": "Enter Transfer Details",
+        "description": "Specify: amount to send (PLN or destination currency), recipient's bank details (IBAN/SWIFT, name, address), purpose of transfer (if required). Platform shows exact fee, exchange rate, recipient amount - no hidden costs."
+      },
+      "step4": {
+        "title": "Fund the Transfer",
+        "description": "Pay via: bank transfer from Polish account (cheapest), debit card (instant, small fee), or cash deposit (Western Union). Verify details carefully - wrong account numbers can lose money. Save confirmation receipt."
+      },
+      "step5": {
+        "title": "Track and Confirm",
+        "description": "Receive tracking number, email updates. Most platforms show status in real-time. Wise/Revolut: 1-2 business days typically. Notify recipient to expect transfer. Keep records for tax purposes if business-related transfers."
+      },
+      "doc1": "Polish bank account or cash",
+      "doc2": "Recipient's full bank details",
+      "doc3": "ID/passport for verification",
+      "doc4": "Proof of transfer purpose (large amounts)",
+      "costs": "International transfer costs vary dramatically by provider.",
+      "cost1": "Wise/Revolut fee",
+      "cost1Amount": "0.5-2% of amount",
+      "cost2": "Bank SWIFT transfer",
+      "cost2Amount": "50-100 PLN + poor rate (avoid!)",
+      "tip1": "Wise (formerly TransferWise) generally cheapest for most routes. Uses real exchange rate, transparent fees. Can save 50-70% vs bank transfers on large amounts.",
+      "tip2": "For recurring transfers (family support, mortgage payments abroad), set up automatic transfers on platforms. Saves time and can lock in favorable rates.",
+      "tip3": "Be aware of receiving country limits and taxes. Some countries tax remittances, have reporting requirements over certain amounts. Check recipient country rules.",
+      "faq1Q": "How long does international transfer take?",
+      "faq1A": "Wise/Revolut: 1-2 days for most countries. Western Union: same day to 3 days. Bank SWIFT: 3-5 days. EU SEPA transfers: 1-2 days (faster and cheaper than worldwide).",
+      "faq2Q": "Is it safe to use Wise or Revolut?",
+      "faq2A": "Yes, both are regulated financial institutions. Wise FCA-authorized, Revolut has banking license. Used by millions globally. Much safer and cheaper than banks for international transfers.",
+      "faq3Q": "What fees apply to international transfers?",
+      "faq3A": "Transparent platforms: clear fee (0.5-2%) + real exchange rate. Banks: hidden fees in bad exchange rates (3-5% markup) + transfer fee (50-100 PLN). Always compare total cost to recipient.",
+      "faq4Q": "Can I send money to non-EU countries from Poland?",
+      "faq4A": "Yes, all major transfer services work worldwide. Wise supports 80+ countries. Western Union almost everywhere (including cash pickup). Banks do SWIFT transfers globally."
+    },
+    "mortgage-for-foreigners": {
+      "overview": "Foreigners can get mortgages in Poland but requirements are stricter than for citizens. Banks prefer: permanent residence, 3+ years in Poland, stable employment, 20-30% down payment. PLN mortgages recommended - foreign currency loans risky. Interest rates 7-9% (2024). Approval rates lower for foreigners, process longer.",
+      "req1": "Permanent residence permit (temporary possible but harder)",
+      "req2": "Minimum 20-30% down payment saved",
+      "req3": "Stable employment/income (2-3 years preferred)",
+      "req4": "Good credit history in Poland (BIK check)",
+      "step1": {
+        "title": "Assess Your Eligibility",
+        "description": "Minimum requirements vary by bank: Permanent residence preferred (some accept temporary). 20-30% down payment. Debt-to-income ratio under 50%. Employment: contract of employment best, some banks decline self-employed foreigners. 3+ years in Poland improves approval odds."
+      },
+      "step2": {
+        "title": "Get Pre-Approval",
+        "description": "Visit 3-5 banks to compare offers. Bring: residence permit, employment contract, 3-6 months payslips, tax returns, bank statements. Banks assess: income stability, credit history (BIK), existing debts. Pre-approval shows how much you can borrow. Valid 3-6 months."
+      },
+      "step3": {
+        "title": "Find Property and Negotiate",
+        "description": "With pre-approval, search for properties within budget. Make offer, negotiate price. Sign preliminary agreement (umowa przedwsprzedażna) with deposit. Include mortgage clause - if bank denies loan, you get deposit back. Timeline: 1-3 months to finalize mortgage."
+      },
+      "step4": {
+        "title": "Formal Mortgage Application",
+        "description": "Submit full application to bank with property details. Bank orders property valuation (wycena). Underwriting reviews: property value, your finances, legal checks. Process takes 2-6 weeks. Bank may request additional documents, clarifications."
+      },
+      "step5": {
+        "title": "Sign and Complete Purchase",
+        "description": "Mortgage approved: sign loan agreement at bank. Meet at notary with seller for final purchase contract. Bank transfers funds to seller's account. You receive property ownership, bank holds mortgage lien. Notary registers new ownership in land registry."
+      },
+      "doc1": "Residence permit (permanent strongly preferred)",
+      "doc2": "Employment contract, payslips (6 months), tax returns",
+      "doc3": "Down payment proof (bank statements)",
+      "doc4": "PESEL, ID, credit history (BIK report)",
+      "costs": "Mortgage costs include down payment, bank fees, and notary costs.",
+      "cost1": "Down payment",
+      "cost1Amount": "20-30% of property value",
+      "cost2": "Bank fees and insurance",
+      "cost2Amount": "2,000-5,000 PLN",
+      "tip1": "Some banks specifically target foreigners: mBank, ING, Millennium have experience with foreign applicants. Start there for better approval odds.",
+      "tip2": "Avoid foreign currency mortgages (EUR, CHF). Polish history: Swiss franc crisis caused many to lose homes. Stick to PLN mortgages even if seems more expensive initially.",
+      "tip3": "Mortgage insurance (ubezpieczenie) required by banks: life insurance and property insurance. Shop around - bank's insurance expensive, can use own provider to save 30-40%.",
+      "faq1Q": "Can I get mortgage with temporary residence?",
+      "faq1A": "Very difficult. Most banks require permanent residence. Few banks consider temporary if: you have 3+ years in Poland, long-term employment contract, 30%+ down payment. Lower approval rates, higher interest.",
+      "faq2Q": "How much can I borrow?",
+      "faq2A": "Typically up to 80% of property value (with 20% down). Amount based on income: monthly payment shouldn't exceed 40-50% of net household income. Average: 300,000-500,000 PLN mortgage for couple earning 10,000 PLN monthly.",
+      "faq3Q": "What's current mortgage interest rate?",
+      "faq3A": "As of 2024: 7-9% APR for PLN mortgages (variable rates tied to WIBOR). Rates change with central bank policy. Fixed rates available but typically 1-2% higher. Shop around - rates vary 1-2% between banks.",
+      "faq4Q": "How long is mortgage approval process?",
+      "faq4A": "Pre-approval: 1-2 weeks. Full approval after property found: 2-6 weeks. For foreigners add 1-2 weeks extra for additional checks. Total from application to closing: 2-4 months typical."
+    },
+    "internet-providers": {
+      "overview": "Poland has excellent internet infrastructure with fiber optic widely available in cities. Major providers: Orange, Play, T-Mobile, UPC/Virgin, Netia. Speeds: 300-1000 Mbps common for 50-100 PLN monthly. Most offers include TV and mobile packages. No long-term contracts common now - monthly rolling contracts available. Installation usually within 1-2 weeks.",
+      "req1": "Registered address (meldunek) or rental contract",
+      "req2": "PESEL number or passport",
+      "req3": "Polish bank account for payments",
+      "req4": "Landlord permission if renting (some providers require)",
+      "step1": {
+        "title": "Check Availability at Address",
+        "description": "Use provider websites to check coverage: Orange.pl, Play.pl, T-Mobile.pl, Virgin.pl. Enter address to see available speeds and technologies (fiber best, then cable, then DSL). Some buildings have exclusive deals - check with building management first."
+      },
+      "step2": {
+        "title": "Compare Packages",
+        "description": "Compare: speed (300-1000 Mbps typical), price (50-150 PLN monthly), contract length (24 months or rolling monthly), included services (TV, mobile, landline). Bundles often cheaper than separate services. Students and young people: check for discounts."
+      },
+      "step3": {
+        "title": "Order Online or Visit Shop",
+        "description": "Order online (usually same price, sometimes exclusive deals) or visit physical shop. Provide: address, PESEL, contact details, preferred installation date. May need to show rental contract proving you live there. Credit check performed (BIK)."
+      },
+      "step4": {
+        "title": "Installation Appointment",
+        "description": "Technician visits (usually 1-2 weeks from order). Installs router, runs cables if needed, tests connection. Takes 1-2 hours. You must be present. They provide router (rent or buy), configure WiFi, show basic setup. Test speed before technician leaves."
+      },
+      "step5": {
+        "title": "Optimize and Troubleshoot",
+        "description": "Change default WiFi password immediately. Position router centrally for coverage. Download speed test app to verify promised speeds. If issues: contact support (chat, phone), document problems for complaint if persistent. Can cancel within 14 days no penalty."
+      },
+      "doc1": "PESEL or passport",
+      "doc2": "Rental contract or property ownership",
+      "doc3": "Bank account for direct debit",
+      "doc4": "Landlord permission letter (sometimes required)",
+      "costs": "Internet in Poland is affordable compared to Western Europe.",
+      "cost1": "Fiber 300-600 Mbps internet only",
+      "cost1Amount": "50-80 PLN monthly",
+      "cost2": "Bundle: internet + TV + mobile",
+      "cost2Amount": "100-150 PLN monthly",
+      "tip1": "Negotiate! Providers desperate for customers - threaten to switch, they'll offer discounts. Can get 50% off for 12 months, free installation, better speeds for same price.",
+      "tip2": "Rolling monthly contracts available (no commitment) - slightly more expensive but worth it if you might move. Cancellation easy, 30 days notice.",
+      "tip3": "Check if building has fiber (światłowód) - much better than cable/DSL. Newer buildings often have fiber to apartment included in building fees (free internet!).",
+      "faq1Q": "How much does internet cost in Poland?",
+      "faq1A": "300 Mbps fiber: 50-70 PLN monthly. 600 Mbps: 60-90 PLN. Gigabit: 80-120 PLN. Very affordable. Bundles with TV/mobile add 30-80 PLN. Installation usually free with 24-month contract.",
+      "faq2Q": "Do I need long-term contract?",
+      "faq2A": "Most providers offer 24-month (slightly cheaper, free installation) or monthly rolling (higher price, easy to cancel). As foreigner with uncertain stay duration, monthly better despite cost.",
+      "faq3Q": "Can I get internet without PESEL?",
+      "faq3A": "Yes, passport works but some providers require PESEL. Try Orange, Play, T-Mobile - all accept foreigners. May need higher deposit if no PESEL/credit history.",
+      "faq4Q": "What if internet speed slower than promised?",
+      "faq4A": "Test with speedtest.net at different times. If consistently below 70% of promised speed, file complaint. Provider must investigate. Can break contract without penalty if they don't resolve within reasonable time."
+    },
+    "tenant-rights": {
+      "overview": "Polish tenant rights protect renters but enforcement can be weak. Key rights: safe living conditions, privacy, return of security deposit, proper notice for eviction. Rental contracts should be in writing. Landlords cannot arbitrarily evict - court order required. Security deposits must be returned within reasonable time (no specific law, typically 30 days).",
+      "req1": "Written rental agreement (umowa najmu)",
+      "req2": "Proof of deposit payment and inventory",
+      "req3": "Documentation of apartment condition (photos)",
+      "req4": "Knowledge of tenant protection laws",
+      "step1": {
+        "title": "Ensure Proper Written Contract",
+        "description": "Insist on written rental agreement (umowa najmu) specifying: parties, address, rent amount, payment date, lease duration, deposit amount, utilities responsibility, notice period. Both parties sign. Oral contracts valid but hard to enforce."
+      },
+      "step2": {
+        "title": "Document Everything at Move-In",
+        "description": "Take extensive photos/video of apartment condition before moving in. Create inventory list (protokół zdawczo-odbiorczy) of all items, damage, wear. Both parties sign. Critical for deposit return - proves pre-existing damage wasn't your fault."
+      },
+      "step3": {
+        "title": "Understand Your Rights",
+        "description": "Key rights: landlord can't enter without notice (24-48 hours), can't evict without court order, must maintain livable conditions (heating, water, structural safety), can't arbitrarily keep deposit. Illegal clauses in contract are void even if signed."
+      },
+      "step4": {
+        "title": "Proper Notice for Ending Lease",
+        "description": "Fixed-term lease: ends on specified date unless renewed. Indefinite lease: requires notice (typically 1-3 months per contract). Give written notice (email + registered mail). Landlord must also give proper notice - can't kick you out suddenly."
+      },
+      "step5": {
+        "title": "Move-Out and Deposit Recovery",
+        "description": "Clean apartment thoroughly, repair any damage you caused (fair wear excluded). Do move-out inspection with landlord, document condition. Landlord must return deposit minus legitimate deductions (actual damage, unpaid rent). If dispute: demand itemized list, threaten legal action."
+      },
+      "doc1": "Rental contract (written umowa najmu)",
+      "doc2": "Move-in photos and inventory list",
+      "doc3": "Deposit payment confirmation",
+      "doc4": "All correspondence with landlord",
+      "costs": "Legal protections are free but enforcing rights may require legal action.",
+      "cost1": "Tenant rights (knowing them)",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Legal consultation if needed",
+      "cost2Amount": "200-500 PLN",
+      "tip1": "Register your lease with tax office if paying over 3,000 PLN monthly - gives you legal proof of contract. Many landlords avoid this for tax reasons - red flag for problematic landlord.",
+      "tip2": "Join expat Facebook groups for tenant advice. Common issues: deposit not returned, sudden eviction attempts, poor maintenance. Community knowledge helps navigate problematic landlords.",
+      "tip3": "If landlord threatens illegal eviction, remind them court order required. Illegal eviction is criminal offense. Document all threats. Police can help if physically locked out.",
+      "faq1Q": "Can landlord keep my deposit for normal wear and tear?",
+      "faq1A": "No, only for actual damage beyond normal use. Scuffs on walls, minor wear on floors = normal. Holes in walls, broken appliances, heavy stains = legitimate deductions. Battle: define 'normal wear' vs 'damage'.",
+      "faq2Q": "What if landlord won't return my deposit?",
+      "faq2A": "Request in writing, set deadline (14 days). If ignored, send formal demand (wezwanie do zapłaty). Still nothing: small claims court (very cheap, ~100 PLN). Many landlords pay when threatened with court.",
+      "faq3Q": "Can landlord evict me for having guests?",
+      "faq3A": "No, you have right to have guests. If contract prohibits guests, clause likely unenforceable. Landlord can't enter to check or evict without court order. However, don't violate: subletting without permission, excessive noise, illegal activities.",
+      "faq4Q": "What if apartment has serious issues (no heat, water leak)?",
+      "faq4A": "Landlord must fix promptly. Notify in writing. If doesn't fix: fix it yourself, deduct from rent (keep receipts). Or: withhold rent into escrow account, notify landlord. Or: report to sanitary inspection (Sanepid) for health hazards."
+    },
+    "buying-a-car": {
+      "overview": "Buying a car in Poland involves choosing between used (common) and new, checking vehicle history, negotiating price, handling registration, insurance, and technical inspection. Used cars often imported from Western Europe. Buying process: find car, verify history (VIN check), test drive, negotiate, sign contract, register within 30 days. Insurance mandatory before driving.",
+      "req1": "Driver's license (Polish or valid foreign)",
+      "req2": "Registered address in Poland (for registration)",
+      "req3": "Funds for purchase and registration (varies widely)",
+      "req4": "Insurance (OC mandatory, AC optional)",
+      "step1": {
+        "title": "Search for Vehicle",
+        "description": "Platforms: OLX.pl, OtomOto.pl, AutoScout24.pl. Dealership vs private sale: dealers offer warranty, private sales cheaper but riskier. Popular imports from Germany, France. Check: VIN history (autoDNA.pl ~100 PLN), mileage manipulation common - verify service history."
+      },
+      "step2": {
+        "title": "Inspect and Test Drive",
+        "description": "Bring mechanic for inspection (~200-300 PLN) - essential for used cars. Check: body condition, engine, transmission, electronics, rust (common in Polish climate), service history. Test drive on highway and city. If seller refuses inspection/test drive: walk away."
+      },
+      "step3": {
+        "title": "Verify Documents",
+        "description": "Required documents: registration certificate (dowód rejestracyjny), valid technical inspection (przegląd techniczny), purchase invoice or bill of sale (umowa kupna-sprzedaży). Check VIN matches documents. Verify seller is registered owner."
+      },
+      "step4": {
+        "title": "Negotiate and Purchase",
+        "description": "Negotiate price (expect 5-15% off asking). Sign purchase agreement (umowa kupna-sprzedaży) with: parties, car details (VIN, make, model), price, date. Both parties sign. Pay (cash or transfer). Receive: keys, documents, second key fob, service history."
+      },
+      "step5": {
+        "title": "Register and Insure",
+        "description": "Within 30 days: get insurance (OC mandatory minimum), register car at communication department (Wydział Komunikacji) with documents and fee (varies). Receive Polish license plates. Schedule technical inspection if due. Pay road tax (podatek od środków transportowych) annually."
+      },
+      "doc1": "Driver's license and passport/ID",
+      "doc2": "Car registration certificate (dowód rejestracyjny)",
+      "doc3": "Purchase contract (umowa kupna-sprzedaży)",
+      "doc4": "Technical inspection certificate (przegląd)",
+      "costs": "Car purchase costs vary enormously based on age, make, condition.",
+      "cost1": "Used car (average)",
+      "cost1Amount": "20,000-50,000 PLN",
+      "cost2": "Registration and plates",
+      "cost2Amount": "500-1,000 PLN",
+      "tip1": "Avoid cars with mileage manipulation - very common in Poland. Check: service history stamps, wear on pedals/seats vs claimed mileage, autoDNA report. If price too good, probably scam.",
+      "tip2": "Winter tires mandatory November-March in some conditions. Budget 1,500-3,000 PLN for set. Many Poles have two sets wheels (summer/winter) - ask seller if included.",
+      "tip3": "Popular Polish used cars: Skoda (Czech, reliable), VW, Ford, Opel. Parts readily available. Avoid exotic brands - repairs expensive, long waits for parts.",
+      "faq1Q": "Should I buy car in Poland or import from abroad?",
+      "faq1A": "Buying in Poland easier (no import paperwork). Importing from Germany can save 20-30% but adds complexity: transport, homologation, registration. Only worth it for expensive cars (100,000+ PLN).",
+      "faq2Q": "How much is car insurance in Poland?",
+      "faq2A": "OC (liability, mandatory): 800-2,000 PLN yearly depending on car value, driver age, history. AC (comprehensive, optional): +50-200% more. New drivers: significantly higher. Shop around - prices vary 30-50% between insurers.",
+      "faq3Q": "Do I need technical inspection immediately?",
+      "faq3A": "New cars: first inspection after 3 years. Cars 3+ years: annual inspection required. Check certificate date - if expired, must inspect before registration. Costs 100-150 PLN at diagnostic station (stacja kontroli pojazdów).",
+      "faq4Q": "Can I drive car with foreign plates in Poland?",
+      "faq4A": "Temporarily yes if: you're tourist, car registered abroad, have valid insurance. Residents: must register within 30 days of bringing car to Poland. Foreign-plated cars common near borders but technically illegal for residents."
     }
   },
   "pages": {
