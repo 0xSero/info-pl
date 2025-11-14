@@ -2271,6 +2271,241 @@
       "faq3A": "Depends on contract type. Indefinite: yes, with notice period (typically 3 months). Fixed-term: difficult, requires landlord agreement or penalty. Some contracts have early termination clause. Breaking without agreement: lose deposit, potential legal liability for remaining rent.",
       "faq4Q": "What if landlord refuses to give written contract?",
       "faq4A": "Red flag - likely tax evasion. You have no legal protection without contract. Cannot register meldunek. Difficult to prove tenancy. Find different apartment. If already moved in: insist on contract or threaten to report to tax office (Urząd Skarbowy)."
+    },
+    "housing-prices-by-city": {
+      "overview": "Rental prices in Poland vary dramatically by city and district. Warsaw most expensive (3,500-5,000 PLN for 1BR center), followed by Kraków, Wrocław, Gdańsk. Smaller cities much cheaper (1,500-2,500 PLN). Price factors: location (center vs suburbs), size (m²), condition (new vs old), furnished vs unfurnished. Prices peaked 2022, stabilizing 2024. Foreign workers concentrate in major cities = high demand. Budget rule: rent should not exceed 30-40% of income. Prices exclude utilities (add 400-800 PLN/month).",
+      "req1": "Budget calculation including rent + utilities + deposit",
+      "req2": "Understanding of city districts and neighborhoods",
+      "req3": "Realistic expectations based on salary and city choice",
+      "req4": "Flexibility on location or apartment features to fit budget",
+      "step1": {
+        "title": "Research Major Cities Price Ranges",
+        "description": "Warsaw (most expensive): 1BR center 3,500-5,000 PLN, suburbs 2,500-3,500 PLN. Kraków: 1BR center 2,800-4,000 PLN, suburbs 2,000-3,000 PLN. Wrocław/Gdańsk/Poznań: 1BR center 2,500-3,500 PLN, suburbs 1,800-2,800 PLN. Katowice/Łódź/Lublin: 1BR center 1,800-2,800 PLN, suburbs 1,400-2,200 PLN. Small cities: 1,200-2,000 PLN. Furnished adds 10-20%. New buildings (premium) add 20-30%."
+      },
+      "step2": {
+        "title": "Understand District Premium",
+        "description": "City center (centrum/śródmieście): highest prices, best transport, amenities, nightlife. Business districts: expensive, convenient for work. Residential suburbs: 20-30% cheaper, quieter, family-friendly. Outer districts: 30-50% cheaper, longer commutes. Example Warsaw: Śródmieście 5,000 PLN, Mokotów 3,500 PLN, Ursynów 2,800 PLN, Białołęka 2,200 PLN (same 1BR apartment)."
+      },
+      "step3": {
+        "title": "Factor in Additional Costs",
+        "description": "Rent ≠ total housing cost. Add: utilities (media) 400-800 PLN/month, internet 50-80 PLN, building fees (czynsz administracyjny) often included in rent but verify. Initial costs: deposit (1-2 months), agency commission (1 month), first month rent. Example: 3,000 PLN rent = need 9,000-12,000 PLN to move in + 3,400-3,800 PLN monthly total."
+      },
+      "step4": {
+        "title": "Compare Value vs Location",
+        "description": "Trade-offs: Center = expensive + convenient. Suburbs = cheaper + commute time. Calculate: (cheaper rent - transport costs - time value). Example: save 800 PLN/month in suburbs, spend 250 PLN on transport + 2 hours daily = worth it? Remote workers: live anywhere, choose cheap cities. Office workers: balance commute vs cost. Quality: older apartments cheaper but higher utilities (poor insulation)."
+      },
+      "step5": {
+        "title": "Set Realistic Budget and Search",
+        "description": "Rule: housing ≤ 30-40% gross income. Example: 10,000 PLN salary = max 3,000-4,000 PLN housing. Leaves room for savings, food, transport. Search strategy: filter by max price, expand to neighboring districts if nothing fits. Roommates: cut costs 50% (share 2BR). Timing: summer (students moving) = higher prices, winter = better deals. Negotiate: slow rental market 2024 = landlords more flexible."
+      },
+      "doc1": "Salary documentation to calculate affordable rent",
+      "doc2": "City/district maps with transport connections",
+      "doc3": "Otodom/Gratka listings for price research",
+      "doc4": "Utilities cost estimates for target districts",
+      "costs": "Varies dramatically by city - budget accordingly before choosing work location.",
+      "cost1": "Warsaw 1BR center (most expensive)",
+      "cost1Amount": "3,500-5,000 PLN/month + utilities",
+      "cost2": "Small city 1BR (cheapest option)",
+      "cost2Amount": "1,200-2,000 PLN/month + utilities",
+      "tip1": "Use Otodom's price statistics feature - shows average prices by district with graphs. Data-driven decisions better than guessing. Filter by district, see median prices, spot deals below average.",
+      "tip2": "Consider smaller cities if remote work possible - Bydgoszcz, Toruń, Opole, Kielce have 1BR for 1,500-2,200 PLN. Same salary goes much further. Good quality of life, less crowded.",
+      "tip3": "Winter months (Nov-Feb) = lower demand, better negotiation power. Landlords more desperate. Save 10-15% vs summer prices. If flexible, wait for low season to search.",
+      "faq1Q": "Which city has cheapest rent in Poland?",
+      "faq1A": "Smaller cities: Kielce, Radom, Bielsko-Biała, Gorzów Wielkopolski have 1BR for 1,200-1,800 PLN. Łódź cheapest among larger cities (1,800-2,500 PLN). Warsaw most expensive (3,500-5,000 PLN center).",
+      "faq2Q": "How much should I budget for rent?",
+      "faq2A": "Rule of thumb: 30-40% of gross salary. Example: 8,000 PLN salary = 2,400-3,200 PLN max rent. Includes rent + utilities. Below 30% = comfortable, above 40% = stretched. Factor in savings goals.",
+      "faq3Q": "Are prices increasing or decreasing?",
+      "faq3A": "2022: sharp increases (10-15%). 2023-2024: stabilization or slight decrease. Depends on city. Warsaw stabilizing, some cities decreasing. Supply increasing (new construction), demand stable. Good time for tenants to negotiate.",
+      "faq4Q": "Furnished or unfurnished - price difference?",
+      "faq4A": "Furnished (umeblowane): 10-20% more expensive. Example: 3,000 PLN unfurnished vs 3,300-3,600 PLN furnished. Worth it if short-term stay (< 1 year) or don't want to buy furniture. Long-term: unfurnished cheaper overall."
+    },
+    "student-housing": {
+      "overview": "Students in Poland access subsidized dormitories (akademiki), private dorms, shared apartments (wynajęty pokój), or independent apartments. University dorms: cheapest (400-800 PLN/month), limited availability, priority to out-of-city students. Private student dorms: modern, 800-1,500 PLN, better facilities. Shared apartments: 600-1,200 PLN per room, most common. Popular student cities: Warsaw, Kraków, Wrocław, Poznań, Gdańsk. EU students: same rights as Polish students. Non-EU: eligible for dorms if enrolled full-time. Book early - academic year starts October, housing scarce September.",
+      "req1": "University enrollment confirmation or acceptance letter",
+      "req2": "Student ID (legitimacja) once enrolled",
+      "req3": "Budget for deposit and first payment",
+      "req4": "Early application (spring/summer for October start)",
+      "step1": {
+        "title": "Choose Housing Type",
+        "description": "University dorms (akademiki): 400-800 PLN/month, shared rooms typical, basic facilities, social atmosphere. Apply through university. Private dorms (prywatne akademiki): 800-1,500 PLN, modern, private rooms available, amenities (gym, study rooms). Brands: Livinn, Campus, Evo. Shared apartments: 600-1,200 PLN/room, find roommates via Facebook groups, OLX, university boards. Solo apartment: 1,500-3,000 PLN depending on city."
+      },
+      "step2": {
+        "title": "Apply for University Dormitory",
+        "description": "Application: through university's student affairs office (dział spraw studenckich). Deadlines: typically June-July for October start. Priority system: distance from home city, social situation (low income, disability), academic merit. Required docs: enrollment proof, ID, sometimes income declaration. Waiting lists common - apply ASAP. Cost: 400-800 PLN/month all-inclusive (utilities, internet). Rooms: usually 2-3 people shared, single rooms rare (higher cost)."
+      },
+      "step3": {
+        "title": "Search Private Options",
+        "description": "If no dorm spot or prefer private: Facebook groups '[City] - Mieszkania/Pokoje dla studentów', 'Pokoje/mieszkania [University name]'. OLX pokoje (rooms) section. Otodom with 'pokój' filter. Student housing companies: Livinn.eu, Evo.pl. Viewing: arrange before semester starts (Sept) - October too late! Price negotiation possible. Shared apartment benefits: split utilities, social, learn Polish from roommates."
+      },
+      "step4": {
+        "title": "Verify Contract and Costs",
+        "description": "Contract (umowa najmu) essential even for room rental. Check: rent amount, payment date, utilities included?, contract length (academic year vs 12 months), deposit amount, notice period. Student-friendly: 10-month contracts (Sept-June). 12-month = pay summer too. Deposit: usually 1 month. Utilities: 200-400 PLN/month split among roommates. Bills: keep transparent system, avoid disputes."
+      },
+      "step5": {
+        "title": "Register and Move In",
+        "description": "Meldunek: register address within 30 days. Dorms: handled by university. Private: need landlord consent (often refused). Student without meldunek: manageable, but harder for bureaucracy. Move-in checklist: inventory check, utilities meter readings, keys count. Dorms: strict rules (quiet hours, guests, alcohol). Private: more freedom. University support: international office (biuro współpracy międzynarodowej) helps foreign students with housing issues."
+      },
+      "doc1": "University enrollment confirmation or acceptance letter",
+      "doc2": "Student ID (legitimacja studencka)",
+      "doc3": "ID/passport and PESEL",
+      "doc4": "Rental contract or dormitory assignment letter",
+      "costs": "Student housing significantly cheaper than regular rental market.",
+      "cost1": "University dormitory (cheapest)",
+      "cost1Amount": "400-800 PLN/month (all included)",
+      "cost2": "Private dorm or shared apartment room",
+      "cost2Amount": "600-1,500 PLN/month + utilities",
+      "tip1": "Join Facebook groups for your university BEFORE arriving. Posted daily: room offers, roommate searches, sublets. Examples: 'UW Studenci - Mieszkania', 'AGH Kraków - Pokoje'. Respond fast - good offers gone in hours!",
+      "tip2": "University dorms fill June-July. Apply immediately after acceptance! Waiting lists move slowly. Missing deadline = scramble for expensive private housing in September when everyone searching.",
+      "tip3": "Summer sublets (July-August): many students go home, sublet rooms cheap (300-600 PLN/month). Great for early arrivals needing temporary housing while searching permanent. Check university Facebook groups for sublease offers.",
+      "faq1Q": "How much does student housing cost?",
+      "faq1A": "University dorms: 400-800 PLN/month (cheapest). Private dorms: 800-1,500 PLN. Shared apartment room: 600-1,200 PLN. Solo apartment: 1,500-3,000 PLN. Varies by city. Kraków/Warsaw more expensive than smaller cities.",
+      "faq2Q": "Can international students get university dormitories?",
+      "faq2A": "Yes! EU students: same rights as Polish students. Non-EU: eligible if enrolled full-time. Some universities guarantee dorm spots for international students first year. Apply through international office. Bring acceptance letter and passport.",
+      "faq3Q": "When should I start looking for student housing?",
+      "faq3A": "University dorms: apply June-July. Private housing: start searching July-August, finalize by September. Academic year starts October. September = peak demand, limited options, higher prices. Early search = better deals and choice.",
+      "faq4Q": "What are the best student cities in Poland?",
+      "faq4A": "Kraków: historic, vibrant student culture, many universities, 200,000+ students. Warsaw: capital, most opportunities, expensive. Wrocław: beautiful, growing, good balance price/quality. Poznań: strong academics, lower costs. Gdańsk: coastal, tech focus. Łódź: cheapest among larger cities."
+    },
+    "car-insurance": {
+      "overview": "Car insurance mandatory in Poland. Two types: OC (Odpowiedzialność Cywilna - liability, legally required) and AC (Autocasco - comprehensive, optional). OC covers damage you cause to others. AC covers your own car damage (theft, accident, vandalism). Cost factors: age, driving experience, car value, claims history, city. Young drivers (< 26): expensive. Renewals: annual, shop around for better rates. Comparison websites: rankomat.pl, mubi.pl, ubezpieczenie.pl. Digital process: buy online, get policy instantly. Foreign driving history: can reduce premiums (bring proof).",
+      "req1": "Vehicle registration document (dowód rejestracyjny)",
+      "req2": "Driver's license (prawo jazdy) - Polish or valid foreign",
+      "req3": "PESEL number for residents (or passport for temporary)",
+      "req4": "VIN number and car technical details",
+      "step1": {
+        "title": "Understand Insurance Types",
+        "description": "OC (liability): MANDATORY, illegal to drive without. Covers damage you cause to others (people, property, vehicles). Typical cost: 800-2,500 PLN/year depending on factors. AC (comprehensive): OPTIONAL, covers your car damage (collision, theft, fire, vandalism, natural disasters). Cost: 2-5% of car value annually. Additional: NNW (personal accident), Assistance (roadside help), legal protection. New/expensive car: get AC. Old car (< 20,000 PLN value): often skip AC."
+      },
+      "step2": {
+        "title": "Compare Quotes Online",
+        "description": "Comparison sites: rankomat.pl (biggest), mubi.pl, ubezpieczenie.pl, mojpolisa.pl. Enter: personal data, car details (VIN, registration), coverage preferences. Get 20+ quotes instantly. Price range huge: same coverage 1,200-3,000 PLN depending on insurer. Major insurers: PZU (largest, reliable), Ergo Hestia, Warta, Allianz, Generali. Cheap insurers: Link4, Direct, Proama. Reviews: check opinie (reviews) before choosing unknown insurer."
+      },
+      "step3": {
+        "title": "Optimize Your Premium",
+        "description": "Factors lowering premium: older age (25+), long driving history (bring foreign proof!), no claims history, cheaper car, city with low accident rates, higher deductible (franszyza). Discounts: multi-policy (home + car), online purchase, continuous coverage (no gaps). Young driver: add experienced co-owner to policy. Foreign driving history: bring driving abstract from home country, submit to insurer = treat as experienced = lower rate. Re-quote annually: loyalty doesn't pay, switching saves 20-30%."
+      },
+      "step4": {
+        "title": "Purchase and Receive Policy",
+        "description": "Buy online: fill form, enter payment, receive policy instantly via email. Physical card (zielona karta - green card): mailed or print temporary. Policy active: from chosen start date, must be continuous (no gaps = fines). Auto-renewal: many insurers default ON, remember to cancel if switching. Payment options: annual lump sum (5% discount typical), quarterly, monthly installments (more expensive). Keep policy in car always - police check during controls."
+      },
+      "step5": {
+        "title": "Maintain and Renew Insurance",
+        "description": "Policy duration: typically 12 months. Renewal notice: 30 days before expiration. Don't auto-renew blindly - prices increase! Shop around 60 days before expiration. Claims: report immediately (24h), take photos, police report if required. Claim process: call insurer, fill forms, assessment, repair at approved garage or payout. Claim impact: premium increases next year (bonus-malus system). No claims: discount improves (up to 50% after years claim-free)."
+      },
+      "doc1": "Vehicle registration document (dowód rejestracyjny)",
+      "doc2": "Driver's license (Polish or recognized foreign)",
+      "doc3": "PESEL or passport number",
+      "doc4": "Proof of foreign driving history (optional, for discounts)",
+      "costs": "OC mandatory, AC optional - budget accordingly based on car value.",
+      "cost1": "OC liability insurance (mandatory, annual)",
+      "cost1Amount": "800-2,500 PLN/year (varies by age, car, city)",
+      "cost2": "AC comprehensive insurance (optional, annual)",
+      "cost2Amount": "2-5% of car value/year (e.g. 1,500 PLN for 50,000 PLN car)",
+      "tip1": "Bring driving history abstract from home country (shows years licensed + claims). Submit to Polish insurer = treated as experienced driver = 30-50% lower premium! Huge savings for young people with clean records.",
+      "tip2": "Re-quote every year 60 days before renewal. Loyalty penalty real - staying with same insurer = price creep. Switching saves 20-30% easily. Takes 15 minutes online. Set calendar reminder!",
+      "tip3": "Register car in small city (parents' address?) if possible = lower premium. Warsaw/Kraków = high accident rates = expensive. Rural areas 30-40% cheaper. Legal as long as car 'primarily kept' there (gray area, common practice).",
+      "faq1Q": "How much does car insurance cost in Poland?",
+      "faq1A": "OC (mandatory liability): 800-2,500 PLN/year average. Factors: age (under 26 = expensive), experience, city, car type. AC (optional comprehensive): 2-5% of car value annually. Example: 30yo driver, 5yr experience, 50k PLN car in Wrocław = ~1,200 OC + 2,000 AC.",
+      "faq2Q": "What's the difference between OC and AC?",
+      "faq2A": "OC (liability): covers damage YOU cause to OTHERS. Mandatory, illegal without. AC (comprehensive): covers YOUR car damage (accident, theft, vandalism). Optional but recommended for new/expensive cars. Old cheap cars: skip AC, not worth cost.",
+      "faq3Q": "Can I use foreign driving history for lower rates?",
+      "faq3A": "Yes! Get driving abstract/certificate from home country showing years licensed and claims history. Submit to Polish insurer. Treat as experienced = much lower premium. Essential for young foreign drivers with clean records. Can save 30-50%.",
+      "faq4Q": "What happens if I drive without insurance?",
+      "faq4A": "Illegal. Fine: 500-5,000 PLN on-spot from police. UFG (insurance fund) tracks uninsured cars via registration database, sends penalty invoices. Accident without insurance: personally liable for ALL damages (can be hundreds of thousands PLN). Never risk it - OC required day 1."
+    },
+    "vehicle-registration": {
+      "overview": "All vehicles in Poland must be registered (rejestracja pojazdu) within 30 days of purchase or import. Process through county office (Wydział Komunikacji or Starostwo Powiatowe). Registration provides license plates (tablice rejestracyjne) and registration document (dowód rejestracyjny). Two scenarios: buying in Poland (dealer handles much paperwork) or importing from abroad (complex, requires homologation). EU imports easier than non-EU. Cost: ~500-1,000 PLN for registration + plates. Mandatory insurance (OC) before registration. Foreign plates allowed 6 months for residents, then must re-register. Penalties for late registration.",
+      "req1": "Proof of ownership (bill of sale or invoice)",
+      "req2": "Certificate of conformity or homologation for imports",
+      "req3": "Valid insurance (OC) policy",
+      "req4": "ID/passport and PESEL or residence permit",
+      "step1": {
+        "title": "Gather Required Documents",
+        "description": "Polish purchase: bill of sale (umowa kupna-sprzedaży), previous registration document (dowód rejestracyjny), technical inspection certificate (przegląd techniczny) if car > 3 years. EU import: certificate of conformity (COC), de-registration from previous country, customs documents if applicable. Non-EU import: homologation certificate (requires separate process, expensive), customs clearance, import duty paid. Insurance: OC policy must be active before registration appointment."
+      },
+      "step2": {
+        "title": "Complete Technical Inspection",
+        "description": "Cars > 3 years: technical inspection (przegląd techniczny) required before registration. Stations: Okręgowa Stacja Kontroli Pojazdów (OSKP), look for 'Przegląd' sign. Cost: 100-150 PLN. Check: brakes, lights, emissions, safety equipment. Pass: get certificate valid 1-3 years. Fail: fix issues, re-test. New cars (< 3 years): exempt from inspection. Bring: ID, car documents, car itself obviously!"
+      },
+      "step3": {
+        "title": "Visit Registration Office",
+        "description": "Location: Wydział Komunikacji at county Starostwo Powiatowe. Online queue: many offices allow booking online (epuap.gov.pl). Walk-in: expect 1-3 hour wait. Required at appointment: all documents, ID, PESEL, insurance proof. Forms: fill out application (wniosek o rejestrację), available at office. Staff usually Polish-only: bring Polish speaker or translator. Processing time: 1-2 hours if all documents correct."
+      },
+      "step4": {
+        "title": "Pay Fees and Get Plates",
+        "description": "Registration fee: ~180 PLN (2024). Temporary plates (if needed): ~30 PLN. License plates: ~80 PLN. Registration document (dowód rejestracyjny): ~54 PLN. Total typical: 350-500 PLN. Payment: at office cashier or bank transfer before appointment. Receive: white registration card (dowód rejestracyjny - keep in car always!), license plates (tablice - affix front/back). Plates format: XX 12345 or XXX AB123 depending on region."
+      },
+      "step5": {
+        "title": "Affix Plates and Update Insurance",
+        "description": "Attach plates: front and back, secure with screws. Temporary paper plates: inside windshield until permanent arrive. Registration document: keep in car always (police check). Update insurance: inform insurer of registration number (if temporary policy). Vehicle tax (podatek od środków transportowych): automatically assessed by city, paid annually. De-register old vehicle (if replacing): notify previous country if imported. EU database updated automatically."
+      },
+      "doc1": "Proof of ownership (bill of sale or import documents)",
+      "doc2": "Technical inspection certificate (if car > 3 years)",
+      "doc3": "Insurance policy (OC) - active before registration",
+      "doc4": "Certificate of conformity (for imports)",
+      "costs": "Registration process involves multiple fees - budget 500-1,000 PLN total.",
+      "cost1": "Registration fees and plates",
+      "cost1Amount": "350-500 PLN (registration + plates + document)",
+      "cost2": "Technical inspection (if required)",
+      "cost2Amount": "100-150 PLN",
+      "tip1": "Book online appointment (if available) via epuap.gov.pl or county website. Saves hours of waiting. Some offices mandatory online booking. Check website first. Warsaw/major cities: online system common. Small towns: walk-in typical.",
+      "tip2": "Import from Germany/EU? Most popular source for used cars. Get COC (certificate of conformity) from manufacturer before import. Makes registration much easier. Without COC: homologation needed (expensive, time-consuming). German TÜV inspection valid briefly.",
+      "tip3": "Buying used car in Poland? Seller should de-register (wyrejestrować) first OR provide full documents for transfer. Check car history at historiapojazdu.gov.pl (free) - shows accidents, mileage, theft status. Never skip this!",
+      "faq1Q": "How long does vehicle registration take?",
+      "faq1A": "Preparation: 1-2 weeks (gather docs, insurance, inspection if needed). Office visit: 1-3 hours. Receive plates/registration: same day usually. Total timeline: 1-3 weeks from purchase to fully registered. Deadline: 30 days from purchase/import. Late registration: fines apply.",
+      "faq2Q": "Can I drive with foreign plates in Poland?",
+      "faq2A": "Tourists: yes, unlimited with valid foreign registration/insurance. Residents: 6 months maximum from establishing residency. After 6 months must re-register to Polish plates. Enforcement: cameras catching foreign plates overstaying. Fines: 500-1,000 PLN. Play it safe: register within 30 days of settling.",
+      "faq3Q": "How much does it cost to register a car?",
+      "faq3A": "Registration fees: 180 PLN. Plates: 80 PLN. Registration document: 54 PLN. Technical inspection (if needed): 100-150 PLN. Total: 350-500 PLN typically. Imports: add homologation costs if non-EU (1,000-3,000 PLN). First registration of new car: higher fees (~1,500 PLN).",
+      "faq4Q": "What documents do I need to register imported car?",
+      "faq4A": "EU import: bill of sale, de-registration from previous country, certificate of conformity (COC), customs docs (if applicable), insurance, ID/PESEL. Non-EU import: all above PLUS homologation certificate (expensive separate process), proof of import duty paid. COC critical for EU cars - get from manufacturer/dealer."
+    },
+    "parking-rules": {
+      "overview": "Parking in Polish cities highly regulated. Paid parking zones (Strefa Płatnego Parkowania - SPP) in city centers, 8am-6pm weekdays typical. Payment: parking meters, SMS, mobile apps (moBILET, SkyCash, mPay). Rates: 3-6 PLN/hour center, cheaper in outer zones. Resident permits (abonament mieszkańca) available: 10-50 PLN/month. Illegal parking: tickets 50-200 PLN, towing possible (800-1,200 PLN recovery). Free parking: suburbs, shopping center lots, designated free areas. Disabled parking: blue badge (Karta Parkingowa) allows designated spots. Night/weekend: usually free in paid zones. Apps essential for convenience.",
+      "req1": "Vehicle registration number for payment registration",
+      "req2": "Mobile phone for SMS/app payments",
+      "req3": "Payment method (card or phone credit)",
+      "req4": "Understanding of local zone colors and hours",
+      "step1": {
+        "title": "Understand Parking Zone System",
+        "description": "Paid zones (SPP): city center streets, marked by signs and blue lines. Zone A (center): most expensive, 4-6 PLN/hour, 2-hour limit. Zone B: cheaper, 3-4 PLN/hour, longer limits. Zone C: cheapest, 2-3 PLN/hour. Hours: typically Mon-Fri 8:00-18:00. Sat: 10:00-16:00 or free. Sun/holidays: free. Resident zones: permit required, visitors can't park. Free parking: outside zones, residential streets (check signs!), some areas after 18:00. Underground/multi-story: 5-10 PLN/hour, 24/7 paid."
+      },
+      "step2": {
+        "title": "Choose Payment Method",
+        "description": "Parking meters (parkomaty): coins or card, press zone button, enter registration, print ticket (display in windshield). SMS: text format varies by city (e.g. Warsaw: 'START [zone] [registration]' to 7915). Mobile apps: moBILET (most popular), SkyCash, mPay, local city apps. App benefits: start/stop remotely, extend time, notifications before expiry, stored registration. Setup: download app, add payment method, verify phone. Digital payment = most convenient, no searching for change."
+      },
+      "step3": {
+        "title": "Get Resident Permit (if applicable)",
+        "description": "Eligibility: registered address (meldunek) in parking zone + car registered to you. Application: through city office (Urząd Miasta), online portal (ePUAP), or Strefa Płatnego Parkowania office. Required docs: meldunek confirmation, vehicle registration, ID, application form. Cost: 10-50 PLN/month depending on city, some cities free first permit. Processing: 7-14 days. Receive: physical permit (display in car) or digital (registered in system). Benefits: unlimited parking in resident zone, huge savings (would cost 500+ PLN/month otherwise)."
+      },
+      "step4": {
+        "title": "Park Legally and Display Proof",
+        "description": "Find legal spot: within marked lines, check signs for restrictions (no stopping, disabled only, loading zone, resident only). Paid zones: start payment immediately, display ticket if meter (not needed for SMS/app). Time limits: respect maximum (typically 2-3 hours Zone A). Extend: via app remotely if needed. What counts as illegal: on sidewalk, blocking entrance, double-parked, in resident zone without permit, unpaid in paid zone, over time limit. Sidewalk parking: technically illegal but common, usually not enforced unless obstructing."
+      },
+      "step5": {
+        "title": "Handle Tickets and Towing",
+        "description": "Ticket (mandat): 50-200 PLN typically. Find: under wiper or sent by mail. Pay: within 7 days (30% discount), after 7 days full amount. Payment: bank transfer to city account (details on ticket), online portal. Towing: illegally parked = towed by City Guard (Straż Miejska). Recovery: go to impound lot (parking strzeżony), pay towing fee 400-800 PLN + storage 50-100 PLN/day. Prevent: pay parking, don't block, follow signs. Appeal: possible if ticket unjust, write to City Guard within 7 days."
+      },
+      "doc1": "Vehicle registration document for payment setup",
+      "doc2": "Proof of address (meldunek) for resident permit",
+      "doc3": "Mobile phone for digital payment apps",
+      "doc4": "Payment method (credit card or phone credit)",
+      "costs": "Daily parking expensive in centers - resident permits huge savings.",
+      "cost1": "Hourly parking in city center zones",
+      "cost1Amount": "3-6 PLN/hour (varies by zone and city)",
+      "cost2": "Resident parking permit (monthly)",
+      "cost2Amount": "10-50 PLN/month (huge savings vs hourly)",
+      "tip1": "Install moBILET app immediately if living in city. Covers most Polish cities. Save registration, payment method = 10-second parking start. Can extend remotely without returning to car. Notifications 10 min before expiry = no tickets!",
+      "tip2": "Resident permit absolute must if meldunek in paid zone. Example: 4 PLN/hr × 8 hrs/day × 20 days = 640 PLN/month vs 20 PLN permit. Saves 600+ PLN monthly! Apply immediately after meldunek registration.",
+      "tip3": "Free parking hack: shopping centers (Galeria Mokotów, etc) = free 2-3 hours. Park there, walk/metro to destination. Suburbs just outside paid zones = free street parking, tram into center. Check zone maps online first.",
+      "faq1Q": "How much does parking cost in Polish cities?",
+      "faq1A": "City center: 3-6 PLN/hour, Zone A most expensive. Time limits: 2-3 hours typically. Parking 8 hrs = 24-48 PLN. Underground lots: 5-10 PLN/hour, 50-100 PLN/day. Resident permits: 10-50 PLN/month unlimited. Free: suburbs, evenings, weekends often.",
+      "faq2Q": "What are the parking zone hours?",
+      "faq2A": "Typical: Monday-Friday 8:00-18:00 paid. Saturday 10:00-16:00 or free. Sunday and holidays: free. Night (after 18:00): free. Varies by city and zone - check signs! Apps show zone hours. Outside hours: park free anywhere in zones.",
+      "faq3Q": "How do I pay for parking?",
+      "faq3A": "Options: 1) Parking meters (coins/card, display ticket) 2) SMS (text to city number with zone+registration) 3) Mobile apps (moBILET, SkyCash - most convenient). Apps recommended: remote start/stop, extend time, notifications, no searching for change. Setup once, use everywhere.",
+      "faq4Q": "What happens if I get a parking ticket or towed?",
+      "faq4A": "Ticket: 50-200 PLN fine. Pay within 7 days = 30% discount. Bank transfer or online. Ignore = higher fines + debt collection. Towing: vehicle moved to impound. Recovery cost: 400-800 PLN towing + 50-100 PLN/day storage. Expensive lesson! Always pay parking."
     }
   },
   "pages": {
