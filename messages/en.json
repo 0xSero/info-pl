@@ -581,51 +581,51 @@
       "faq4A": "Yes, 50% discount for students (up to age 26), seniors (65+), and children (4-16). Kids under 4 travel free. Valid ID required."
     },
     "polish-language-courses": {
-      "overview": "Learning Polish is essential for integration and daily life in Poland. Options include free government-funded courses for residents, university language centers, private schools, and online platforms. Courses range from basic (A1) to advanced (C2) levels following the European framework.",
-      "req1": "Legal residence in Poland (for free/subsidized courses)",
-      "req2": "Time commitment (usually 2-4 lessons per week)",
-      "req3": "Enrollment fee and materials cost (for paid courses)",
-      "req4": "Placement test to determine starting level",
+      "overview": "Learning Polish opens opportunities in Poland. Many language schools offer courses: Jagiellonian University (Kraków), University of Warsaw, private schools (Glossa, Polski dla Obcokrajowców). Levels: A1-C2 (European framework). Course types: intensive (20hrs/week), evening (4-6hrs/week), private tutors, online. Costs: 1,200-2,500 PLN for 60-hour course (semester). Online cheaper: Duolingo (free), iTalki (tutors 30-80 PLN/hour), Udemy courses. Free options: municipality classes (some cities), language exchange (conversation partners), YouTube. Exam: Polish language certificate (certyfikat znajomości języka polskiego) official credential. Challenge: difficult grammar (7 cases!), pronunciation. Immersion helpful: practice with locals.",
+      "req1": "Time commitment (2-10 hours per week)",
+      "req2": "Course fees budget or free resources",
+      "req3": "Motivation and realistic goals",
+      "req4": "Practice opportunities outside classroom",
       "step1": {
-        "title": "Determine Your Level and Goals",
-        "description": "Take a free online placement test to assess your level (A1-C2). Decide if you need Polish for work, daily life, university, or permanent residence (A2 required)."
+        "title": "Choose Course Type and Level",
+        "description": "Assess level: complete online test (A1 beginner to C2 fluent). Course types: Intensive (20hrs/week, fast progress, full-time commitment). Regular (4-6hrs/week, evenings, work-friendly). Private tutoring (flexible, expensive, customized). Online (cheapest, flexible, self-discipline needed). Weekend workshops (occasional). University courses: Jagiellonian, UW offer semester courses (1,500-2,500 PLN). Private schools: Glossa, Polski dla Obcokrajowców (1,200-2,000 PLN). Group: cheaper, social. Private: faster progress, expensive (100-150 PLN/hour)."
       },
       "step2": {
-        "title": "Research Course Options",
-        "description": "Free options: government integration programs, NGO courses (Foundation for Somalia, Fundacja Ocalenie). Paid: university language centers (UW, UJ), private schools (Glossa, Prolog). Online: Babbel, italki."
+        "title": "Research Schools and Programs",
+        "description": "Warsaw: Polski dla Obcokrajowców, University of Warsaw Language Center. Kraków: Jagiellonian University (oldest, reputable), Glossa. Wrocław: University of Wrocław, local schools. Online: iTalki (tutors), Preply, Polish Pod 101. Check: teaching method, class size (max 10-12 ideal), schedule flexibility, location, price. Reviews: Google, Facebook groups ('Expats in Warsaw'). Trial: many offer free trial lesson. Accreditation: look for certified teachers. Municipality: some cities offer free/subsidized Polish courses for residents - check local Urząd Miasta."
       },
       "step3": {
-        "title": "Apply for Free Courses (if eligible)",
-        "description": "Residence permit holders can access free Polish courses through integration programs. Apply at local city office (Urząd Miasta) or NGOs. Limited spots, register early."
+        "title": "Supplement with Free Resources",
+        "description": "Apps: Duolingo (gamified, free, basics), Drops (vocabulary), Clozemaster (sentences). YouTube: Easy Polish (street interviews, subtitles), Polish with Monika. Podcasts: Real Polish, Polski Daily. Grammar: online resources, books ('Polish: An Essential Grammar'). Flashcards: Anki (spaced repetition), Quizlet. Language exchange: Tandem app, conversation partners (you teach English, they teach Polish). Free municipality classes: Warsaw, Kraków offer some free courses for residents. Library: borrow textbooks free. Immersion: change phone/computer to Polish, watch Polish TV with subtitles."
       },
       "step4": {
-        "title": "Enroll in Chosen Course",
-        "description": "Register online or in person, pay fees if applicable (500-2,000 PLN per semester for private schools), attend placement test, and receive schedule. Courses typically run semester-based."
+        "title": "Practice with Native Speakers",
+        "description": "Language exchange: Tandem app, conversation partners meet weekly, free. Meetup.com: language exchange events. Make Polish friends: coworking, hobbies, neighbors. Workplace: speak Polish with colleagues (even basic attempts appreciated). Service interactions: shops, restaurants, bureaucracy - try Polish first. Dating: controversial but effective immersion! Online communities: HelloTalk, r/learnpolish Reddit. Children's content: Polish kids' shows easier than adult content, less complex vocabulary. Patience: Poles switch to English when struggle - politely insist on Polish practice."
       },
       "step5": {
-        "title": "Practice and Take Certification Exam",
-        "description": "Regular attendance and homework essential. For permanent residence, take official Polish language exam (egzamin certyfikatowy) at authorized centers. A2 level costs 400-500 PLN."
+        "title": "Set Realistic Goals and Take Exam",
+        "description": "Goals: A1 (3 months intensive), A2 (6 months), B1 conversational (1 year), B2 professional (2 years), C1+ fluent (3-5 years). Realistic: Polish DIFFICULT for English speakers (7 grammatical cases, complex conjugations). Don't rush. Certificate: official exam (certyfikat znajomości języka polskiego) at B1, B2, C1, C2 levels. Offered: Jagiellonian University, UW, language schools. Cost: 300-500 PLN. Value: needed for citizenship, some jobs, study programs. Practice: speaking most important, grammar less critical than communication. Celebrate progress: small wins motivate!"
       },
-      "doc1": "Residence permit or visa",
-      "doc2": "PESEL number (for some programs)",
-      "doc3": "Passport and ID photo",
-      "doc4": "Previous language certificate (if transferring levels)",
-      "costs": "Free options available, but paid courses offer more flexibility and faster progress.",
-      "cost1": "Free government integration courses",
-      "cost1Amount": "0 PLN (60 hours for permit holders)",
-      "cost2": "Private language school semester",
-      "cost2Amount": "800-2,000 PLN (30-60 hours)",
-      "tip1": "Combine formal courses with language exchange meetups and apps like Tandem to practice with native speakers.",
-      "tip2": "The official Polish language exam (certyfikat) is required for permanent residence - start preparing at least 6 months before you need it.",
-      "tip3": "Universities often offer intensive summer courses (July-August) - great for fast progress during vacation time.",
-      "faq1Q": "Are there free Polish language courses?",
-      "faq1A": "Yes, residence permit holders get 60 hours free through integration programs. NGOs also offer free courses. Check with your local city office.",
-      "faq2Q": "How long to learn Polish to A2 level?",
-      "faq2A": "With regular study (3-4 hours weekly), most people reach A2 in 6-12 months. Intensive courses can achieve this in 3-6 months.",
-      "faq3Q": "Where to take official Polish language exam?",
-      "faq3A": "Authorized centers at major universities: University of Warsaw, Jagiellonian University, Adam Mickiewicz University. Exams held 2-4 times yearly, book early.",
-      "faq4Q": "Can I learn Polish online?",
-      "faq4A": "Yes, platforms like italki (1-on-1 tutors), Babbel, and YouTube channels work well. However, in-person courses help with speaking practice and accountability."
+      "doc1": "Course enrollment confirmation and payment receipt",
+      "doc2": "Learning materials and textbooks",
+      "doc3": "Polish language certificate (if taken exam)",
+      "doc4": "Study schedule and practice log",
+      "costs": "Range from free resources to expensive private tutoring - options for all budgets.",
+      "cost1": "Group course at language school (60 hours)",
+      "cost1Amount": "1,200-2,500 PLN per semester",
+      "cost2": "Private tutor (hourly rate)",
+      "cost2Amount": "100-150 PLN/hour",
+      "tip1": "Duolingo + iTalki combo unbeatable value. Duolingo free daily practice (15 min), iTalki tutors 30-80 PLN/hour for conversation. Example: 30 min/day Duolingo + 1 hour/week iTalki (300 PLN/month) = solid progress. Cheaper than courses (1,500+ PLN), more flexible. Reach A2/B1 in 6-12 months this way!",
+      "tip2": "Change phone/computer language to Polish NOW! Immersion effect: see Polish daily, learn practical vocabulary (Settings = Ustawienia, Delete = Usuń). Frustrating first week, then brain adapts. Plus: Google/Apple interfaces excellent for learning (clear context). Free and works while you work!",
+      "tip3": "Free municipality courses exist! Warsaw: 'Warszawa dla Ukraińców' offers free Polish (technically for Ukrainians but others can ask). Kraków: Urząd Miasta sometimes offers subsidized courses for residents with meldunek. Google '[city] bezpłatne kursy polskiego' - save 1,500+ PLN!",
+      "faq1Q": "How much do Polish language courses cost?",
+      "faq1A": "Group courses: 1,200-2,500 PLN for 60-hour semester at language schools. Private tutors: 100-150 PLN/hour. Online tutors (iTalki): 30-80 PLN/hour. Free: Duolingo, YouTube, municipality classes (some cities), language exchange. University courses: 1,500-2,500 PLN/semester. Budget option: free apps + occasional iTalki sessions = 200-400 PLN/month.",
+      "faq2Q": "How long does it take to learn Polish?",
+      "faq2A": "Realistic timeline: A1 basics (3-6 months), A2 elementary (6-12 months), B1 conversational (1-2 years), B2 professional (2-3 years), C1 advanced (3-5+ years). Depends on: intensity (hours/week), immersion (living in Poland helps), language background (Slavic speakers faster). Polish is HARD for English speakers (complex grammar, 7 cases). Set realistic expectations - don't expect fluency in months.",
+      "faq3Q": "Do I need Polish to live in Poland?",
+      "faq3A": "Depends on situation. Major cities + IT jobs: can survive on English. Bureaucracy: often requires Polish or translator. Social life: English-speaking expat bubbles exist, but Polish opens doors to locals. Long-term (2+ years): Polish significantly improves quality of life. Recommendation: learn basics (A1-A2) for daily life, continue if staying long-term. Citizenship: requires B1 certificate.",
+      "faq4Q": "What are the best resources for learning Polish?",
+      "faq4A": "Free: Duolingo (app), Easy Polish (YouTube), iTalki/Tandem (language exchange). Paid: Language schools (Jagiellonian University, Glossa), private tutors (iTalki 30-80 PLN/hr), online courses. Books: 'Polish: An Essential Grammar', 'Discovering Polish'. Immersion: Polish TV with subtitles, change phone language, speak with locals. Combination approach best: structured course + self-study + conversation practice."
     },
     "registering-address": {
       "overview": "Registering your address (meldunek) is a legal requirement in Poland within 30 days of moving. Registration is done at the local city office (Urząd Miasta) and provides proof of residence needed for PESEL, banking, healthcare, and other essential services.",
@@ -2976,6 +2976,476 @@
       "faq3A": "Tax resident (183+ days in Poland): pay Polish income tax on worldwide income. Structure matters: B2B = 19% flat + ZUS, employment = progressive tax. Foreign employment: may need to file in both countries (use tax treaties to avoid double tax). Digital nomad (tourist visa): gray area short-term. MUST use accountant familiar with international taxation!",
       "faq4Q": "Do I need a residence permit for remote work?",
       "faq4A": "Depends on duration. Tourist/visa-free: up to 90 days OK. Staying longer (183+ days = tax resident): need residence permit. Options: temporary residence for business (if B2B), work permit (if employment), freelancer visa. Without permit: illegal to stay 90+ days. Apply before arrival or within Poland (complex). Plan early - processing 1-3 months."
+    },
+    "workplace-rights": {
+      "overview": "Polish labor law protects employee rights comprehensively. Governed by Labor Code (Kodeks Pracy). Key rights: written employment contract, minimum wage (4,242 PLN gross in 2024), paid vacation (20-26 days annually), sick leave, maternity/paternity leave, notice periods. Working hours: max 8hrs/day, 40hrs/week average. Overtime paid extra (50-100%). Termination protections: notice period required, severance in some cases. Unions allowed. Discrimination illegal (age, gender, nationality). Foreigners: same rights as Polish workers if legal employment. Violations: report to Labor Inspectorate (PIP). Contracts: umowa o pracę (best protection), umowa zlecenie (limited rights), B2B (no employee protections).",
+      "req1": "Written employment contract (umowa o pracę)",
+      "req2": "Understanding of contract type and protections",
+      "req3": "Knowledge of Labor Inspectorate contact for violations",
+      "req4": "Documentation of work hours and payments",
+      "step1": {
+        "title": "Understand Contract Types and Rights",
+        "description": "Umowa o pracę (employment contract): full Labor Code protection, ZUS paid by employer, paid vacation, sick leave, notice periods. Best type. Umowa zlecenie (commission contract): limited protection, lower ZUS, no paid vacation, easier termination. B2B (business-to-business): NO employee rights, you're contractor. Trial period: max 3 months, shorter notice. Fixed-term: specific end date, max 33 months total. Indefinite: rolling contract, strongest protection. Rights: vacation, sick pay, maternity/paternity, overtime compensation, safe conditions."
+      },
+      "step2": {
+        "title": "Know Minimum Standards",
+        "description": "Minimum wage: 4,242 PLN gross/month (2024), updated annually. Working time: 8hrs/day, 40hrs/week average (can vary within limits). Overtime: max 150hrs/year, paid +50% or +100% (nights/Sundays). Vacation: 20 days (< 10 years employment), 26 days (10+ years). Sick leave: 80% salary first 33 days (employer pays), then 100% from ZUS. Maternity: 20-37 weeks paid. Notice period: 2 weeks to 3 months depending on tenure. Salary payment: monthly, by 10th of next month latest."
+      },
+      "step3": {
+        "title": "Recognize Your Protections",
+        "description": "Termination: employer needs justified reason (organizational, employee fault) or notice period. Summary dismissal: only for severe violations. Notice periods: 2 weeks (trial), 2 weeks to 3 months (based on tenure). Severance: in some terminations, 1-3 months salary. Discrimination: illegal based on age, gender, race, nationality, religion, disability. Pregnancy protection: can't terminate pregnant employee (limited exceptions). Union rights: can join trade union, strike (with limitations). Whistleblower: protected if report violations."
+      },
+      "step4": {
+        "title": "Document Everything",
+        "description": "Keep copies: employment contract, pay slips, work time records, correspondence. Violations evidence: emails, messages, witness testimony, photos. Pay slips: check salary correct, ZUS deducted, vacation days accrued. Work hours: track if overtime disputes. Written communication: email better than verbal for record. Contract amendments: must be written. If employer violates: document dates, details, witnesses."
+      },
+      "step5": {
+        "title": "Report Violations and Seek Help",
+        "description": "Labor Inspectorate (PIP - Państwowa Inspekcja Pracy): reports violations, inspects workplaces, fines employers. File complaint: online, in person, anonymous possible. Union: join trade union for collective bargaining, protection. Lawyer: labor lawyers (prawnicy prawa pracy) for complex cases, termination disputes. Court: labor court if termination unfair, unpaid wages. Free legal aid: for low income. Document before reporting - evidence crucial. Retaliation: illegal but happens, protected if you report."
+      },
+      "doc1": "Employment contract (umowa o pracę) with all terms",
+      "doc2": "Monthly pay slips (paski) showing salary and deductions",
+      "doc3": "Work time records and overtime documentation",
+      "doc4": "Any evidence of violations (emails, photos, witnesses)",
+      "costs": "Legal protections are free - enforcement through labor authorities.",
+      "cost1": "Labor Inspectorate complaint",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Labor lawyer consultation (if needed)",
+      "cost2Amount": "200-500 PLN/hour (free legal aid available)",
+      "tip1": "Keep ALL pay slips (paski płacowe) forever! Need for: ZUS history, loan applications, pension calculations, dispute evidence. Employer must provide monthly. Digital copies OK but keep backups. Lost? Request from employer (they must keep 50 years!) or ZUS for contribution records.",
+      "tip2": "Umowa o pracę > umowa zlecenie > B2B for employee rights. Always negotiate for umowa o pracę if possible (full protection, paid vacation, employer pays ZUS, notice periods). Employers push zlecenie/B2B to save costs - push back! Worth less money for more security.",
+      "tip3": "Labor Inspectorate (PIP) is POWERFUL - can inspect employer unannounced, fine heavily, order corrections. Anonymous complaints possible. Not afraid to act. If serious violation (unpaid wages, unsafe conditions, illegal termination): report to PIP.gov.pl. They protect workers actively!",
+      "faq1Q": "What are my rights as an employee in Poland?",
+      "faq1A": "Main rights (umowa o pracę): minimum wage (4,242 PLN/2024), paid vacation (20-26 days), sick leave (80-100% pay), maternity leave, maximum 8hr/day work, overtime pay (+50-100%), notice period protection, safe workplace, no discrimination. Foreigners: same rights if legal employment. Contract type matters - umowa zlecenie/B2B have fewer rights.",
+      "faq2Q": "How much vacation am I entitled to?",
+      "faq2A": "Depends on employment years total (all employers, not just current). Under 10 years: 20 days annually. 10+ years: 26 days annually. Employer cannot refuse vacation (but can schedule). Unused vacation: must be taken, can carry over with limits. Vacation paid at normal salary. Umowa zlecenie: no paid vacation right.",
+      "faq3Q": "Can my employer fire me without notice?",
+      "faq3A": "No, not usually. Summary dismissal (immediate): only for severe violations (theft, violence, gross negligence). Regular termination: requires notice period (2 weeks to 3 months based on tenure) OR severance payment instead. Pregnant employees: special protection. Unfair dismissal: challenge in labor court within 21 days. Notice period: employer must pay salary during notice.",
+      "faq4Q": "What should I do if my employer violates my rights?",
+      "faq4A": "1) Document everything (dates, details, evidence). 2) Discuss with employer (written communication). 3) If unresolved: complain to Labor Inspectorate (PIP) at pip.gov.pl - free, anonymous possible. 4) Join union for support. 5) Consult labor lawyer (200-500 PLN, free legal aid if low income). 6) Labor court for serious disputes. PIP most effective for violations."
+    },
+    "networking": {
+      "overview": "Professional networking crucial in Poland's job market. Many positions filled through connections (znajomości) before public posting. Key platforms: LinkedIn (most important), Goldenline (Polish professional network), meetup.com events, industry conferences. Networking culture: personal relationships valued, face-to-face important, formality initial then relaxed. Expat communities active: Facebook groups, meetups, international chambers of commerce. Industries: IT has strong networking scene (conferences, hackathons), business has chambers/associations. Polish language helps but English-speaking networks exist in major cities. Giving value first (helping others) builds strong network.",
+      "req1": "LinkedIn profile optimized for Polish market",
+      "req2": "Professional appearance and business cards",
+      "req3": "Basic Polish phrases or English fluency",
+      "req4": "Openness to attend events and follow up",
+      "step1": {
+        "title": "Build Strong LinkedIn Presence",
+        "description": "LinkedIn essential: most used professional network in Poland. Complete profile: professional photo, headline (role + keywords), detailed experience, skills endorsements, recommendations. Polish market: add Polish-language summary if possible, but English OK for international roles. Connect actively: colleagues, alumni, recruiters, industry peers. Engage: comment on posts, share insights, publish articles. Recruiters search LinkedIn constantly. Join groups: industry-specific, city-specific, expat groups. Premium: not essential but helpful for InMail and visibility."
+      },
+      "step2": {
+        "title": "Attend Industry Events and Meetups",
+        "description": "Find events: meetup.com (tech meetups popular), eventbrite.pl, industry association sites. IT: tons of meetups (coding, frameworks, languages), conferences (Sphere.it, 4Developers, DevDays). Business: chambers of commerce events (American, British, Irish chambers), industry associations. Format: talks, workshops, networking breaks. Attend regularly: one-off attendance = limited value, regular attendance = relationships. Bring business cards: still common in Poland. Follow up: LinkedIn connect after meeting, reference conversation."
+      },
+      "step3": {
+        "title": "Join Professional Communities",
+        "description": "Expat groups: 'Expats in Warsaw/Kraków/Wrocław' Facebook groups, active job sharing and networking. Industry groups: Polish IT Groups (Facebook), Women in Tech Poland, business associations. Alumni networks: if studied in Poland or internationally, join alumni associations. Coworking spaces: membership = instant community, events, connections. Online: Slack groups, Discord servers for specific industries (IT especially). Contribute: answer questions, share opportunities, help others = build reputation."
+      },
+      "step4": {
+        "title": "Practice Polish Networking Etiquette",
+        "description": "Initial formality: use Pan/Pani (Mr./Ms.) + last name until invited to first names. Business cards: exchange early, examine card respectfully. Handshakes: firm, eye contact. Small talk: acceptable to discuss work directly, less weather chat than Western cultures. Building trust: Poles value personal relationships, may take time to warm up. Vodka culture: business dinners may involve drinking, OK to politely decline. Follow-up: send thank-you email/LinkedIn message within 24 hours. Patience: relationship-building takes time."
+      },
+      "step5": {
+        "title": "Give Value and Maintain Relationships",
+        "description": "Help others first: share job postings, make introductions, offer expertise. Not transactional: don't immediately ask for job/favor. Build genuine relationships. Stay in touch: regular but not annoying - share relevant articles, congratulate on promotions, occasional coffee. Informational interviews: request 20-min chats to learn about company/role (most say yes). Reciprocity: when you get help, pay it forward. Track network: simple spreadsheet/CRM with names, how you met, follow-up dates. Quality > quantity: 20 strong connections > 200 weak ones."
+      },
+      "doc1": "LinkedIn profile with complete information",
+      "doc2": "Business cards (print locally, 50-100 PLN for 100 cards)",
+      "doc3": "List of target contacts and companies",
+      "doc4": "Event calendar for industry meetups",
+      "costs": "Networking mostly free - main cost is time investment and occasional event fees.",
+      "cost1": "Business cards printing",
+      "cost1Amount": "50-100 PLN for 100 cards",
+      "cost2": "Event tickets (conferences, premium events)",
+      "cost2Amount": "0-500 PLN (many free, some paid)",
+      "tip1": "Join city expat Facebook groups IMMEDIATELY - 'Expats in Warsaw', 'Kraków Expats', etc. Jobs posted daily, often before public portals. Networking events announced. Questions answered by community. Free insider knowledge. Most active expat networking tool in Poland!",
+      "tip2": "Coffee meetings > online messages. If interesting connection, suggest 'kawa' (coffee). 20-30 min face-to-face builds stronger relationship than 10 LinkedIn messages. Most Poles appreciate directness - 'I'd love to learn about your work over coffee' works well. Central locations like Starbucks OK.",
+      "tip3": "Give before you ask! See job posting matching someone's profile? Tag them. See article relevant to connection's work? Share it. Make introduction between two people? Do it. Build reputation as helpful person. When YOU need help (job search, advice), network responds enthusiastically. Polish culture values reciprocity.",
+      "faq1Q": "Is networking important in Poland?",
+      "faq1A": "Very! Many jobs filled through connections before public posting. 'Znajomości' (connections) powerful. Referrals carry weight. Strong network = hear about opportunities early, get insider info, easier interviews. Especially important: IT, business, management roles. Build network proactively, not just when job searching. Invest time regularly.",
+      "faq2Q": "Where can I network in Poland?",
+      "faq2A": "LinkedIn (most important), industry meetups (meetup.com), conferences, coworking spaces, Facebook expat groups, chambers of commerce (American, British), alumni associations, IT events (for tech). Major cities: Warsaw/Kraków/Wrocław have most events. English-speaking networks exist. Join industry-specific communities. Attend regularly for best results.",
+      "faq3Q": "Do I need to speak Polish for networking?",
+      "faq3A": "Helpful but not essential in major cities. IT/tech: English-dominant networking. Business: mixed, more Polish. International companies: English OK. Expat networks: English. Learning basic Polish phrases helps (shows respect, builds rapport). Long-term: Polish opens more doors. Start networking in English, learn Polish gradually.",
+      "faq4Q": "How do I network effectively as a foreigner?",
+      "faq4A": "Join expat communities (Facebook groups, meetups), attend English-friendly events (IT meetups, international chambers), optimize LinkedIn, be proactive (suggest coffee meetings), give value first (help others), follow up after meetings (LinkedIn + email), be patient (relationships take time), learn basic Polish etiquette (Pan/Pani, business cards), attend regularly (one-offs less effective). Focus on building genuine relationships, not transactional asks."
+    },
+    "taxes-for-employees": {
+      "overview": "Employee taxes in Poland: income tax (PIT) and social insurance (ZUS). Employer withholds and pays on behalf of employee. Income tax: progressive scale (12% up to 120,000 PLN, 32% above) or flat 19%. ZUS: ~13.7% employee contribution + ~18.8% employer contribution. Health insurance: 9% (partially deductible). Net salary: ~70-75% of gross. Annual tax return (PIT-37): filed by April 30, often results in refund. Tax-free amount: 30,000 PLN annually. Tax deductions: donations, internet (760 PLN/year for remote workers), rehabilitation. Foreign workers: same tax rules if Polish tax resident (183+ days). Double taxation treaties prevent paying twice.",
+      "req1": "Understanding of gross vs net salary",
+      "req2": "Annual tax return (PIT-37) filing by April 30",
+      "req3": "Tax residency status clarification",
+      "req4": "Documentation of deductible expenses",
+      "step1": {
+        "title": "Understand Tax and ZUS Deductions",
+        "description": "Gross salary (brutto): amount before deductions, in job offers/contracts. Deductions: ZUS employee share ~13.7% (pension, disability, sickness), health insurance 9%, income tax 12% or 32%. ZUS employer share: ~18.8% (you don't see, employer pays). Net salary (netto): take-home after deductions, ~70-75% of gross. Example: 10,000 PLN gross = ~7,300 PLN net. Calculator: kalkulator.pl/wynagrodzen has salary calculators. Understand: negotiate gross, receive net. ZUS contributions count toward pension."
+      },
+      "step2": {
+        "title": "Choose Tax Scale or Flat Tax",
+        "description": "Tax scale (skala podatkowa): default, progressive. 12% on income up to 120,000 PLN/year, 32% above. Tax-free amount: 30,000 PLN (built into monthly withholding). Best for: salary under 10,000 PLN/month. Flat tax (podatek liniowy): 19% flat, no tax-free amount. Best for: high earners (12,000+ PLN/month). Choose: annually, declare to employer. Can switch yearly. Most employees: tax scale better. High earners: calculate which is cheaper. Employer: automatically withholds based on your choice."
+      },
+      "step3": {
+        "title": "Track Deductible Expenses",
+        "description": "Common deductions: 1) Internet for remote work (760 PLN/year maximum, must be in employment contract). 2) Donations (6% of taxable income to registered charities). 3) Rehabilitation expenses (health issues, equipment, treatments). 4) Mortgage interest (limited, conditions apply). Document: keep receipts, invoices. Declare: in annual tax return (PIT-37). Employee costs deduction: automatic 250 PLN/month (employer handles). Research: many niche deductions exist, consult accountant if significant expenses."
+      },
+      "step4": {
+        "title": "File Annual Tax Return",
+        "description": "PIT-37: annual income tax return, due April 30. Employer provides: PIT-11 form (summary of earnings, taxes withheld). Filing: online via podatki.gov.pl (e-PIT system), auto-filled with employer data, review and submit. Deductions: add manually (internet, donations, etc.). Result: usually refund (employer over-withholds monthly). Refund: paid by tax office within 45 days to bank account. Simplified: e-PIT pre-filled, accept if no deductions. Mandatory: even if employer withheld correctly, must file to finalize. Married couples: can file jointly (sometimes better)."
+      },
+      "step5": {
+        "title": "Handle Foreign Tax Situations",
+        "description": "Tax residency: Poland if 183+ days per year OR center of life. Resident: taxed on worldwide income. Non-resident: only Polish income. Double taxation treaties: Poland has treaties with most countries, avoid paying twice. Foreign income: declare in Polish return, credit foreign tax paid. Working remotely for foreign company: complex, accountant essential. Tax ID (NIP): get when start working, needed for tax return. Foreign employer: may not withhold Polish tax, your responsibility to pay quarterly. Mistakes: penalties, interest - get help if complicated."
+      },
+      "doc1": "PIT-11 form from employer (annual earnings summary)",
+      "doc2": "Receipts for deductible expenses (internet, donations, etc.)",
+      "doc3": "Tax return confirmation (PIT-37)",
+      "doc4": "Bank account for refund payments",
+      "costs": "Tax filing free via e-PIT - accountant optional for complex situations.",
+      "cost1": "Tax return filing (DIY via e-PIT)",
+      "cost1Amount": "Free (0 PLN)",
+      "cost2": "Accountant for complex tax situation",
+      "cost2Amount": "200-500 PLN for annual return help",
+      "tip1": "Remote workers: claim 760 PLN/year internet deduction! Employer must specify in contract that you work from home. Then deduct 760 PLN in annual tax return = save ~100-250 PLN tax (depending on bracket). Free money! Ask employer to add home office clause to contract if missing.",
+      "tip2": "E-PIT auto-filled system BRILLIANT. April: log in podatki.gov.pl, system shows pre-filled return with employer data, review (2 min), accept, done. Refund arrives in 45 days automatically. Don't overthink - system does 90% of work. Only add if you have deductions (internet, donations).",
+      "tip3": "Donate 1% of tax to charity (OPP - Organizacja Pożytku Publicznego) - costs you NOTHING! When filing PIT-37, designate 1% of your tax to registered NGO. You already owe this tax, just directing where it goes. Support cause you care about. List of organizations on podatki.gov.pl.",
+      "faq1Q": "How much tax do I pay as an employee?",
+      "faq1A": "Income tax: 12% up to 120,000 PLN/year (~10,000 PLN/month), 32% above (or 19% flat if chosen). PLUS ZUS: ~13.7% (pension, disability, sickness). PLUS health: 9%. Total: ~25-35% deductions from gross. Net salary: ~70-75% of gross. Example: 8,000 PLN gross = ~5,800 PLN net. Use calculator: kalkulator.pl/wynagrodzen for exact amount.",
+      "faq2Q": "Do I need to file a tax return?",
+      "faq2A": "YES, annual tax return (PIT-37) required by April 30 even if employer withheld taxes correctly. Easy: e-PIT system auto-fills with employer data, review and accept (5 minutes). Add deductions if any (internet, donations). Usually get refund (employer over-withholds monthly). Refund: within 45 days to bank account. Not filing: penalties!",
+      "faq3Q": "What tax deductions can I claim?",
+      "faq3A": "Common: 1) Internet for remote work (760 PLN/year max, must be in contract). 2) Donations to charities (6% of income). 3) Rehabilitation expenses. 4) Employee costs (automatic 250 PLN/month, employer handles). Declare: in annual PIT-37 return. Keep receipts. Most employees: internet deduction main one. High expenses: consult accountant for more deductions.",
+      "faq4Q": "What if I work for a foreign company?",
+      "faq4A": "Tax residency matters. Poland resident (183+ days): pay Polish tax on all income including foreign. Foreign employer: may not withhold Polish tax - YOUR responsibility to pay (quarterly advances + annual return). Double taxation: treaties prevent paying twice, credit foreign tax. Complex: hire accountant familiar with international taxation. Penalties for mistakes. Don't DIY if foreign income!"
+    },
+    "employee-benefits": {
+      "overview": "Polish employers offer benefits beyond salary. Common: private medical care (Medicover, Luxmed, PZU), sports card (MultiSport, FitProfit, OK System), life insurance, training budget, remote work flexibility. Larger companies: bonuses, stock options, cafeteria systems (choose benefits). Mandatory: employer-paid ZUS, paid vacation, sick leave. Benefits vary: startups offer flexibility and stock, corporations offer structure and comprehensive packages, small companies offer less. Negotiate: benefits often negotiable alongside salary. Tax: some benefits taxed, others tax-free. Private healthcare most valued. Benefits can equal 10-30% extra compensation value.",
+      "req1": "Understanding of your employment contract benefits",
+      "req2": "Enrollment in offered benefit programs",
+      "req3": "Knowledge of benefit taxation",
+      "req4": "Tracking of benefit usage and value",
+      "step1": {
+        "title": "Understand Common Benefits Packages",
+        "description": "Private healthcare: Medicover, Luxmed, PZU most popular. Employer pays 150-300 PLN/month per employee. Access: private clinics, specialists without queues, English-speaking doctors. Sports card: MultiSport (~100 PLN/month) - access 5,000+ gyms/pools/classes across Poland. Training budget: 2,000-10,000 PLN/year for courses, conferences, certifications. Life insurance: employer-paid, 12-24 months salary coverage. Cafeteria system: budget to choose benefits (healthcare, sports, travel vouchers, etc.). Remote work: 1-5 days/week WFH increasingly standard."
+      },
+      "step2": {
+        "title": "Evaluate Mandatory vs Optional Benefits",
+        "description": "Mandatory (all employers): paid vacation (20-26 days), sick leave (80-100% pay), ZUS contributions (pension, disability), maternity/paternity leave. Optional (varies): private healthcare, sports card, bonuses (annual 13th salary common), stock options (tech companies), training budget, meal vouchers, parking, car allowance, phone/laptop. Company size: large corporations offer more, startups offer equity/flexibility, SMEs offer less. Negotiate: focus on valuable-to-you benefits during offer stage."
+      },
+      "step3": {
+        "title": "Maximize Healthcare Benefits",
+        "description": "Private medical: enroll immediately when offered (sometimes waiting period). Use: specialists without referrals, short wait times (days not months), English-speaking doctors, modern clinics. Packages: basic (GP, basic specialists) to premium (all specialists, diagnostics, dental). Family: can add spouse/kids for extra cost or employer includes. Still keep NFZ: emergencies, hospitals, complex procedures. Booking: via app (Medicover, Luxmed), online, phone. Prevention: use for annual checkups, vaccinations - proactive health. Worth: 150-300 PLN/month value, would cost that if self-paid."
+      },
+      "step4": {
+        "title": "Leverage Sports and Wellness Benefits",
+        "description": "MultiSport card: access chain gyms (CityFit, Calypso), boutique studios, pools, climbing, yoga. Book: via app, check-in with card. Frequency: unlimited entries typically. Worth: ~100 PLN/month if used 2-3×/week. Alternatives: FitProfit, OK System similar. Wellness: some companies offer mental health support, meditation apps (Headspace), ergonomic equipment budget. Tax: sports card taxable as income (10-20 PLN/month extra tax). Use it: benefit only valuable if actually used - schedule gym into routine!"
+      },
+      "step5": {
+        "title": "Negotiate and Optimize Benefits",
+        "description": "Job offer stage: negotiate benefits alongside salary. Example: 'Can we add private healthcare?' or 'Increase training budget to 5,000 PLN?'. Trade-offs: sometimes worth accepting slightly lower salary for better benefits (healthcare, WFH flexibility). Calculate value: healthcare 3,000 PLN/year, sports 1,200 PLN/year, training 5,000 PLN = 9,200 PLN extra value. Tax efficiency: some benefits tax-free (training to limit), others taxed (sports card, some bonuses). Annual review: request benefit improvements during performance review. Switch: moving jobs = lose some benefits (negotiate at new company)."
+      },
+      "doc1": "Employment contract with benefits detailed",
+      "doc2": "Private healthcare enrollment confirmation",
+      "doc3": "MultiSport or sports card activation",
+      "doc4": "Training budget policy and approval process",
+      "costs": "Most benefits employer-paid - some have small tax implications.",
+      "cost1": "Sports card tax (if provided by employer)",
+      "cost1Amount": "10-20 PLN/month additional income tax",
+      "cost2": "Adding family to private healthcare",
+      "cost2Amount": "50-150 PLN/month per person (if not employer-covered)",
+      "tip1": "Private healthcare is GOLD - worth 3,000-4,000 PLN/year value! Specialists in days not months, English-speaking doctors (essential!), modern clinics, preventive care, vaccines, annual checkups. Public NFZ = free but queues. If employer offers: take it immediately. If not offered: negotiate for it or buy yourself (~200 PLN/month individual).",
+      "tip2": "Training budget: use it or lose it (annual refresh)! Many employees ignore. Request: online courses (Udemy, Coursera), conferences, certifications, books, coaching. Improves skills + career + free learning. Example: 5,000 PLN = AWS cert + 2 conferences + 10 books. Approval usually easy if job-related. Track spending, plan early in year.",
+      "tip3": "Calculate TOTAL compensation when comparing offers. Example: Job A: 12k PLN + healthcare + sports + 5k training = 13.8k effective. Job B: 13k PLN, no benefits = 13k effective. Job A better despite lower salary! Benefits have real PLN value. Especially: healthcare, training, remote work flexibility (save commute cost/time).",
+      "faq1Q": "What benefits do Polish employers typically offer?",
+      "faq1A": "Common: private healthcare (Medicover, Luxmed), sports card (MultiSport), training budget, bonuses, remote work flexibility. Larger companies: life insurance, stock options, cafeteria systems. Mandatory: paid vacation (20-26 days), sick leave, ZUS. Varies by company size and industry. IT/tech: best benefits. Negotiate benefits during job offer stage.",
+      "faq2Q": "Is private healthcare worth it?",
+      "faq2A": "Absolutely! Value: 3,000-4,000 PLN/year. Benefits: specialists without wait (days vs months in public), English-speaking doctors, modern clinics, preventive care, no referrals needed. Still keep public NFZ for emergencies/hospitals. If employer offers: definitely take. If not: worth buying yourself (~200 PLN/month). Essential for expats (language barrier in public system).",
+      "faq3Q": "What is MultiSport card?",
+      "faq3A": "Sports benefit card giving access to 5,000+ gyms, pools, fitness studios across Poland. Employer pays ~100 PLN/month. Use: unlimited entries, book via app, show card at facility. Includes: chain gyms, boutique studios, pools, climbing, yoga, pilates. Tax: counted as income (~10-20 PLN/month extra tax). Worth it if used 2-3×/week. Similar: FitProfit, OK System.",
+      "faq4Q": "Can I negotiate benefits in job offer?",
+      "faq4A": "Yes! Benefits often negotiable alongside salary. Requests: add private healthcare, increase training budget, more remote work days, higher bonus percentage. Employers sometimes prefer giving benefits over salary (tax reasons). Calculate total compensation (salary + benefits value). Don't focus only on salary number. Best time: job offer stage. Also: annual performance reviews."
+    },
+    "coworking-spaces": {
+      "overview": "Coworking spaces popular in Polish cities for freelancers, remote workers, startups. Major chains: Brain Embassy, Google Campus (Warsaw), Spaces, Regus. Local: Hub:raum, Reactor, Impact Hub, city-specific spaces. Pricing: hot desk 400-800 PLN/month, dedicated desk 800-1,500 PLN/month, private office 1,500-5,000 PLN. Drop-in: 50-100 PLN/day. Includes: WiFi, coffee, meeting rooms, community events. Benefits: networking, productivity (vs home), professional address, separation work/life. Cities: Warsaw most options, Kraków, Wrocław, Poznań, Gdańsk growing. Ideal for: digital nomads, freelancers, small teams. Try before commit: day passes available.",
+      "req1": "Budget for monthly membership or day passes",
+      "req2": "Laptop and work essentials",
+      "req3": "Research of spaces near your location",
+      "req4": "Understanding of membership types and terms",
+      "step1": {
+        "title": "Research Coworking Options in Your City",
+        "description": "Warsaw: Brain Embassy (premium, 5 locations), Google Campus (free events, subsidized desks), Mindspace, Spaces. Kraków: Idea Hub, Krakow Technology Park, Sky Office. Wrocław: Concordia Design, Centrum Biznesu. Poznań: MTP Starter, Creative Kolektyw. Gdańsk: Olivia Business Centre. Search: Google Maps 'coworking [city]', Coworkingmap.org. Visit websites: check pricing, photos, location, amenities. Location: near transport, cafes, services. Vibe: some professional/corporate, others creative/startup - match your style."
+      },
+      "step2": {
+        "title": "Understand Membership Types and Pricing",
+        "description": "Hot desk: shared seating, first-come-first-served, 400-800 PLN/month, flexibility. Dedicated desk: your own desk, same spot daily, 800-1,500 PLN/month, storage. Private office: closed room, 1,500-5,000+ PLN/month depending on size, privacy. Day pass: 50-100 PLN/day, try before committing, flexibility. Part-time: 2-3 days/week access, 300-600 PLN/month. Included: WiFi, electricity, coffee/tea, meeting room hours (2-10hrs/month), community events. Extra: printing, parking, mail handling, phone booth use."
+      },
+      "step3": {
+        "title": "Visit and Test Spaces",
+        "description": "Book tour: most spaces offer free tours, see facility, meet community manager. Day pass: test environment (50-100 PLN), work full day, check WiFi speed, noise level, vibe. Questions: WiFi reliability?, 24/7 access?, meeting room availability?, kitchen facilities?, quiet zones?, community events? Atmosphere: productive enough? too quiet or too social? Check: desk comfort, lighting, noise, temperature control. Location: commute time, parking, nearby food options. Community: talk to members, gauge networking opportunities."
+      },
+      "step4": {
+        "title": "Evaluate Value vs Cost",
+        "description": "Calculate: monthly cost vs home office savings? Productivity gain worth price? Example: 1,000 PLN/month space, but save 2 hours/day commuting to client offices + networking opportunities + clients impressed by professional address = worth it. Deductible: business expense, reduces taxable income. Compare: coffee shop hopping (cheaper but less productive), home office (free but isolated/distracting), traditional office (expensive long lease). Benefits: networking = potential clients/partners, events = learning, community = motivation. Trial: most offer first week/month discounted."
+      },
+      "step5": {
+        "title": "Maximize Membership Benefits",
+        "description": "Network actively: attend events, introduce yourself, have coffee with members. Meeting rooms: book in advance, use monthly allocation fully. Events: workshops, talks, networking drinks - free professional development. Perks: many have partnerships (software discounts, legal advice, accounting). Mail: use space address for business registration (professional image). Flexibility: hot desk = work from different spaces if chain has multiple locations. Refer friends: referral bonuses common. Feedback: suggest improvements to community manager. Build community: organize informal lunches/drinks with members."
+      },
+      "doc1": "Membership agreement and payment confirmation",
+      "doc2": "Access card or code for entry",
+      "doc3": "Meeting room booking system access",
+      "doc4": "Business expense receipts for tax deduction",
+      "costs": "Monthly investment but tax-deductible and provides significant value.",
+      "cost1": "Hot desk membership (most common)",
+      "cost1Amount": "400-800 PLN/month",
+      "cost2": "Dedicated desk (more professional)",
+      "cost2Amount": "800-1,500 PLN/month",
+      "tip1": "Try day passes at 3-5 different spaces before committing! Each has different vibe, community, noise level. 50-100 PLN/day investment = find perfect fit. Brain Embassy: professional/corporate. Google Campus: startup/creative. Local spaces: varied. Work full day to test WiFi, noise, productivity. Don't sign without testing!",
+      "tip2": "Coworking membership is TAX DEDUCTIBLE business expense! 1,000 PLN/month = 190 PLN/month tax savings (19% flat tax) = effective cost 810 PLN. Keep receipts. Reduces taxable income. Also: coffee, utilities, internet included (would pay separately at home). Calculate net cost after tax benefit.",
+      "tip3": "Network aggressively at coworking - that's half the value! Attend events, have coffee with members, collaborate on projects. Many freelancers find clients through coworking connections. Serendipity: 'I need X' + 'I do X' conversation at coffee machine = new contract. Worth membership price just for networking if you work it!",
+      "faq1Q": "How much does coworking cost in Poland?",
+      "faq1A": "Hot desk: 400-800 PLN/month. Dedicated desk: 800-1,500 PLN/month. Private office: 1,500-5,000+ PLN/month. Day pass: 50-100 PLN/day. Includes WiFi, coffee, meeting rooms (limited hours), events. Warsaw: most expensive. Smaller cities: 20-30% cheaper. Tax deductible as business expense. Compare to: home office (free but isolated), cafe hopping (50+ PLN/day adds up).",
+      "faq2Q": "Is coworking worth it for freelancers?",
+      "faq2A": "Depends on situation. Worth it if: need productivity boost (home distracting), want networking (find clients/partners), need professional meeting space, value separation work/life. Not worth if: disciplined at home, tight budget, prefer solitude. Calculate: cost vs productivity gain + networking value. Many find 2-3 clients through coworking connections = pays for itself. Try day pass first!",
+      "faq3Q": "What's included in coworking membership?",
+      "faq3A": "Standard: WiFi, electricity, coffee/tea, desk/chair, meeting room hours (2-10hrs/month), community events, kitchen access. Often: printing allowance, mail handling, phone booths, lockers. Varies by space: some include beer/snacks, some have gyms, some have nap rooms. Not included: parking (usually extra), excessive printing, private office (upgrade). Check specific space details.",
+      "faq4Q": "Which coworking spaces are best in Poland?",
+      "faq4A": "Warsaw: Brain Embassy (premium, professional), Google Campus (startup vibe), Mindspace (modern, international). Kraków: Idea Hub, Sky Office. Wrocław: Concordia Design. Depends on needs: professional meetings = Brain Embassy, creative startup = Google Campus, budget-conscious = local spaces. Try day passes at multiple spaces. Read Google reviews. Match your industry/vibe."
+    },
+    "universities": {
+      "overview": "Poland has 400+ universities, mix of public and private. Top: University of Warsaw, Jagiellonian University (Kraków), Warsaw University of Technology, AGH Kraków. EU students: free tuition at public universities. Non-EU: 2,000-4,000 EUR/year typically. English programs: 1,000+ available (business, engineering, medicine). Admission: high school diploma, entrance exams (some programs), language proficiency. Academic year: October-June. Bachelor's: 3-4 years (licencjat). Master's: 1.5-2 years (magister). PhD: 3-4 years. Rankings: Polish universities rank 300-800 globally. Recognition: degrees recognized EU-wide via Bologna Process. Student life: active, affordable, cultural.",
+      "req1": "High school diploma or equivalent (recognized in Poland)",
+      "req2": "Language proficiency (Polish or English depending on program)",
+      "req3": "Entrance exam results (for some competitive programs)",
+      "req4": "Valid residence permit for study (non-EU students)",
+      "step1": {
+        "title": "Research Universities and Programs",
+        "description": "Top universities: University of Warsaw (UW), Jagiellonian University (UJ - oldest in Poland), Warsaw University of Technology (PW - engineering), AGH Kraków (tech), Kozminski University (business). Rankings: check QS, Times Higher Education. English programs: search Study in Poland portal (studyinpoland.pl), over 1,000 programs. Fields: business, IT, engineering, medicine popular. Location: Warsaw (capital, opportunities), Kraków (historic, student city), Wrocław, Poznań, Gdańsk. Costs: EU free at public, non-EU 2,000-6,000 EUR/year depending on program."
+      },
+      "step2": {
+        "title": "Understand Admission Requirements",
+        "description": "Bachelor's: high school diploma (matura or equivalent), transcript, sometimes entrance exam (medicine, architecture), language certificate. Master's: bachelor's degree in related field, transcript, motivation letter, sometimes interview. Language: Polish programs require Polish proficiency (B2+ or exam), English programs require TOEFL/IELTS (usually 5.5-6.5 IELTS). Documents: need to be authenticated (apostille or Polish consulate). Application deadlines: typically July for October start, some programs earlier. Competitive: medicine, law, architecture have entrance exams."
+      },
+      "step3": {
+        "title": "Apply Through University Portal",
+        "description": "Process: online application via university website, upload documents, pay application fee (100-200 PLN). Documents: diploma (apostilled), transcript, passport copy, photo, motivation letter, language certificate. Translation: documents must be in Polish or English (sworn translator). Multiple applications: can apply to several universities/programs simultaneously. Processing: 2-8 weeks. Admission: receive acceptance letter if approved. Conditional: some acceptances pending final exam results. Respond: accept offer, pay first tuition installment (if applicable), receive enrollment confirmation."
+      },
+      "step4": {
+        "title": "Arrange Student Visa and Residence",
+        "description": "EU students: no visa needed, freedom of movement. Non-EU: need temporary residence permit for study. Apply: at Polish consulate in home country OR after arrival on student visa. Documents: acceptance letter, proof of funds (minimum 768 PLN/month), health insurance, accommodation proof. Processing: 1-3 months. Student card (legitimacja): receive after enrollment, gives discounts (transport 50%, museums, etc.). Housing: university dorms (400-800 PLN/month) or private rental (600-1,500 PLN/month). Apply early: dorm spaces limited."
+      },
+      "step5": {
+        "title": "Navigate Academic System and Student Life",
+        "description": "ECTS credits: European system, 60 credits/year. Grading: 2 (fail) to 5 (very good). Semesters: winter (Oct-Jan) + summer (Feb-Jun), exams after each. Attendance: often mandatory. Teaching: lectures + seminars + practicals. Student services: international office helps foreigners, career centers, libraries. Work: students can work 20hrs/week during semester, full-time in holidays. Student organizations: lots of clubs, sports, cultural activities. Erasmus+: exchange opportunities. Cost of living: 2,500-4,000 PLN/month including housing, food, transport."
+      },
+      "doc1": "University acceptance letter",
+      "doc2": "High school diploma and transcript (apostilled)",
+      "doc3": "Language proficiency certificate (Polish or English)",
+      "doc4": "Residence permit for study (non-EU students)",
+      "costs": "EU students study free at public universities - major savings!",
+      "cost1": "Tuition (public university, EU student)",
+      "cost1Amount": "0 PLN (free!)",
+      "cost2": "Tuition (public university, non-EU student)",
+      "cost2Amount": "8,000-25,000 PLN/year (2,000-6,000 EUR)",
+      "tip1": "EU students: public universities are FREE in Poland! Huge savings vs UK (£9,250/year) or private US colleges. Quality decent - top Polish universities rank 300-600 globally. English programs available. Example: business degree at Warsaw = €0 tuition vs €40k+ in Western Europe. Room + living ~3,000 PLN/month. Total cost: living expenses only!",
+      "tip2": "Kraków = best student city! Jagiellonian University (founded 1364, one of oldest in world), 200,000 students, vibrant nightlife, affordable (cheaper than Warsaw), beautiful historic center. Strong programs: law, humanities, medicine. Student life excellent. Housing: 600-1,000 PLN/month. Alternative: Wrocław (growing, modern, cheaper).",
+      "tip3": "Student card (legitimacja) = MASSIVE discounts. Transport: 50% off (110 PLN monthly pass → 55 PLN!). Museums: 50-100% off. Cinemas: discount days. Software: free/discounted (Microsoft, Adobe via university). International Student Identity Card (ISIC): additional discounts. Always carry and ask for student price. Saves thousands PLN/year!",
+      "faq1Q": "How much does university cost in Poland?",
+      "faq1A": "EU students: FREE at public universities (huge benefit!). Non-EU: 8,000-25,000 PLN/year (2,000-6,000 EUR) depending on program. Medicine: most expensive (40,000+ PLN). Private universities: 10,000-30,000 PLN/year for all. Living costs: 2,500-4,000 PLN/month. Total yearly cost: EU ~30,000-45,000 PLN (living only), Non-EU ~45,000-75,000 PLN (tuition + living). Much cheaper than Western Europe/US!",
+      "faq2Q": "Are Polish universities good quality?",
+      "faq2A": "Top universities rank 300-600 globally (QS/Times). Good but not elite. University of Warsaw, Jagiellonian (Kraków): strongest. Quality varies by program - engineering, medicine, business solid. Research output lower than Western Europe. Value: free/cheap tuition + decent quality + EU recognition = excellent value. Degrees recognized EU-wide (Bologna Process). Good for budget-conscious students.",
+      "faq3Q": "Can I study in English in Poland?",
+      "faq3A": "Yes! 1,000+ English-taught programs across universities. Popular: business, engineering, IT, medicine. Search: studyinpoland.pl portal lists all English programs. Requirements: TOEFL/IELTS (usually 5.5-6.5 IELTS). Tuition: higher than Polish programs (2,000-6,000 EUR/year for non-EU). Quality: varies, research specific program reputation. Benefits: no need to learn Polish immediately, international classmates.",
+      "faq4Q": "What are the best universities in Poland?",
+      "faq4A": "Top 5: 1) University of Warsaw (UW) - overall best, comprehensive. 2) Jagiellonian University Kraków (UJ) - historic, humanities, law, medicine. 3) Warsaw University of Technology (PW) - engineering, IT. 4) AGH Kraków - technical, mining, engineering. 5) Kozminski University - business, private. Rankings: 300-600 globally. Choose based on: field of study, location preference, language (Polish vs English programs)."
+    },
+    "student-visas": {
+      "overview": "Non-EU students need visa/residence permit to study in Poland. EU/EEA/Swiss: no visa needed. Process: apply for temporary residence permit for study at Polish consulate in home country OR enter on national D visa, then convert to residence card. Requirements: university acceptance letter, proof of funds (768 PLN/month minimum), health insurance, accommodation proof. Processing: 1-3 months. Residence card valid: duration of studies (typically 1-5 years). Benefits: work 20hrs/week during semester, full-time in holidays, travel Schengen area. Renewal: before expiry if continuing studies. Family: can bring dependents (spouse, children) with separate permits.",
+      "req1": "University acceptance letter or enrollment confirmation",
+      "req2": "Proof of sufficient funds (768 PLN/month × months of stay)",
+      "req3": "Health insurance covering Poland",
+      "req4": "Accommodation proof (dorm assignment or rental contract)",
+      "step1": {
+        "title": "Obtain University Acceptance",
+        "description": "Apply to university first: need official acceptance letter for visa application. Letter must state: program name, duration, language of instruction, start date. Conditional acceptance: some universities give conditional acceptance pending visa (chicken-egg problem). Early application: start university application 6-12 months before desired start date (gives time for visa). Communication: contact university international office for guidance on visa process. Some universities: help facilitate visa, provide support letters."
+      },
+      "step2": {
+        "title": "Gather Required Documents",
+        "description": "Documents needed: 1) Passport (valid 3+ months beyond stay). 2) University acceptance letter. 3) Proof of funds: bank statement showing 768 PLN × months of stay (9,216 PLN for 12 months minimum), or scholarship letter, or sponsor declaration. 4) Health insurance: minimum 30,000 EUR coverage, valid in Poland. 5) Accommodation: dorm assignment or rental contract. 6) Application form: fill online or at consulate. 7) Photos: passport-size, recent. 8) Application fee payment: ~300-400 PLN. Apostille: some documents need authentication."
+      },
+      "step3": {
+        "title": "Apply at Polish Consulate",
+        "description": "Location: Polish consulate in home country (can't apply in Poland on tourist visa). Appointment: book online, waiting time varies (weeks to months - apply early!). Submit: all documents, pay fee (~340 PLN), biometrics (photo, fingerprints). Interview: brief, verify documents, ask about study plans. Processing time: officially 30-60 days, often longer (1-3 months). Track: consulate provides tracking number. Decision: approval or rejection with reason. If approved: receive national D visa (single entry, valid for travel to Poland)."
+      },
+      "step4": {
+        "title": "Enter Poland and Convert to Residence Card",
+        "description": "Travel: enter Poland on D visa before it expires (typically 90 days validity). Within 3 days: report residence to local office. Within 30 days: apply to convert D visa to residence card (karta pobytu) at Voivodeship Office. Documents: same as visa application + proof of residence in Poland. Processing: 1-3 months. Temporary card: receive while processing. Final card: valid for duration of studies (1-5 years). Keep: passport + residence card at all times."
+      },
+      "step5": {
+        "title": "Maintain Status and Work Rights",
+        "description": "Work rights: students can work 20hrs/week during semester, full-time during holidays. No separate work permit needed. Employment: register with ZUS if working. Travel: Schengen area accessible with residence card + passport (visa-free travel). Renewal: apply before card expires if continuing studies (next degree level). Interruption: inform immigration if pause/end studies (status may be revoked). Post-graduation: can apply for job-seeker residence (9 months) or work permit if job offer. Family: dependents can apply for residence based on your student status."
+      },
+      "doc1": "Passport with national D visa",
+      "doc2": "Residence card (karta pobytu) for students",
+      "doc3": "University enrollment confirmation",
+      "doc4": "Health insurance policy covering Poland",
+      "costs": "Application fees plus supporting document costs - budget 2,000-3,000 PLN total.",
+      "cost1": "Visa/residence permit application fee",
+      "cost1Amount": "340-640 PLN (varies by type)",
+      "cost2": "Health insurance (annual)",
+      "cost2Amount": "500-1,500 PLN/year",
+      "tip1": "Apply EARLY - 4-6 months before studies start! Consulate processing: 1-3 months. Conversion to residence card: another 1-3 months. Delays common. Late application = miss semester start. Book consulate appointment immediately after university acceptance. Can't speed up process - only buffer is early start!",
+      "tip2": "Proof of funds creative solutions: Bank statement best (9,216 PLN for 12 months minimum). Don't have it? Options: 1) Scholarship letter (if applicable), 2) Sponsor declaration (parent/relative promises support, notarized), 3) Borrow for bank statement temporarily (risky, technically fraud). Official requirement: 768 PLN/month × duration.",
+      "tip3": "Student residence = work rights included! Can work 20hrs/week during semester (800-1,600 PLN/month part-time), full-time in holidays (3,000-5,000 PLN/month). NO separate work permit needed. Helps cover living costs. Popular: customer service (multilingual), tutoring, hospitality, freelance. Register with ZUS when working.",
+      "faq1Q": "Do I need a visa to study in Poland?",
+      "faq1A": "EU/EEA/Swiss citizens: NO visa needed, freedom of movement. Other nationalities: YES, need temporary residence permit for study. Apply at Polish consulate in home country. Requirements: university acceptance, proof of funds (768 PLN/month), health insurance, accommodation. Processing: 1-3 months. Can work 20hrs/week with student residence.",
+      "faq2Q": "How much money do I need to show for student visa?",
+      "faq2A": "Minimum: 768 PLN per month of stay. 1 year = 9,216 PLN. 3-year bachelor's: technically 27,648 PLN but often only need to show first year. Evidence: bank statement, scholarship letter, or sponsor declaration. Reality: 768 PLN/month barely enough (living costs 2,500-4,000 PLN/month). But official requirement is 768 PLN minimum.",
+      "faq3Q": "How long does student visa take?",
+      "faq3A": "Timeline: 1) Consulate processing: 30-60 days officially, often 1-3 months. 2) Conversion to residence card in Poland: another 1-3 months. Total: 2-6 months from application to final residence card. Apply 4-6 months before studies start to be safe. Delays common - can't speed up. Temporary documents allow you to stay/study while processing.",
+      "faq4Q": "Can I work while studying in Poland?",
+      "faq4A": "Yes! Student residence permit allows: 20 hours/week during semester, full-time during holidays. No separate work permit needed. Common jobs: customer service, tutoring, hospitality, IT internships. Earnings: 800-1,600 PLN/month part-time, helps cover living costs. Must register with ZUS when working. Employers familiar with hiring students - process simple."
+    },
+    "scholarships": {
+      "overview": "Scholarship opportunities for Poland study: Polish government (Ignacy Łukasiewicz), Erasmus+ (EU students), university scholarships, Visegrad Fund, bilateral agreements. Polish government: 100+ scholarships annually for foreign students, covers tuition + stipend. Erasmus+: for EU students studying in Poland or Polish students going abroad. University-specific: merit-based or need-based, vary by institution. Private foundations: fewer but exist. Amounts: full tuition + 1,200-1,800 PLN/month typical. Deadlines: usually January-March for October start. Competition: moderate to high. Application: online, requires academic records, motivation letter, references. Research early: opportunities limited compared to Western Europe but exist.",
+      "req1": "Strong academic record and transcripts",
+      "req2": "Compelling motivation letter",
+      "req3": "Letters of recommendation (2-3 typically)",
+      "req4": "Early application before deadlines",
+      "step1": {
+        "title": "Research Available Scholarships",
+        "description": "Polish government: Ignacy Łukasiewicz Scholarship Programme (100+ scholarships, full tuition + stipend 1,500 PLN/month). Erasmus+: for EU students, mobility grants for study/internship in Poland (300-500 EUR/month). University scholarships: each university offers own - check website. Visegrad Fund: for countries in Visegrad region. Bilateral agreements: Poland has educational agreements with many countries. Search: studyinpoland.pl lists scholarships, university international offices, embassy education attaches. Types: full (tuition + stipend), partial (tuition only or partial tuition)."
+      },
+      "step2": {
+        "title": "Check Eligibility and Requirements",
+        "description": "General criteria: academic merit (GPA 3.5+/4.0 typical), language proficiency (Polish or English), age limits (under 35 often), nationality restrictions (some country-specific). Łukasiewicz: for bachelor's, master's, PhD, Polish language courses. Open to all countries. Requirements: academic excellence, motivation. Erasmus+: EU citizens only, must be enrolled in EU university. University scholarships: vary widely - some need-based, some merit-based. Check specific program deadlines and criteria carefully - differ significantly."
+      },
+      "step3": {
+        "title": "Prepare Strong Application",
+        "description": "Documents: 1) Transcripts (translated, apostilled), 2) Motivation letter (1-2 pages, why Poland, why this program, future goals), 3) Recommendation letters (2-3, from professors/employers), 4) CV, 5) Language certificate, 6) Research proposal (PhD). Motivation letter critical: be specific about interest in Poland, program details, how scholarship helps goals. Generic letters rejected. Polish connection: mention interest in Polish culture, language, history. Quality: proofread multiple times, have native speaker review. References: choose recommenders who know you well, can write detailed letters."
+      },
+      "step4": {
+        "title": "Apply Before Deadlines",
+        "description": "Deadlines: most January-March for October start. Łukasiewicz: usually February deadline. Erasmus+: varies by home university (often October-December for spring semester). University scholarships: check individual websites. Submit early: don't wait until last day (technical issues common). Online portals: most scholarships apply via online system. Track: keep confirmation emails, application numbers. Follow-up: some programs allow checking status online. Late applications: usually not accepted - strict deadlines."
+      },
+      "step5": {
+        "title": "Await Results and Accept Award",
+        "description": "Notification: typically May-July for October start. Results: email announcement, check portal. If accepted: respond quickly to accept (time limit usually). Documents: provide additional documents if requested. Visa: scholarship letter helps visa application (proof of funding). Stipend: usually paid monthly after arrival in Poland, direct to bank account. Obligations: maintain academic performance, submit progress reports, participate in program activities. Failure to comply: scholarship revoked. Celebrate: major achievement, competitive process!"
+      },
+      "doc1": "Scholarship application confirmation",
+      "doc2": "Academic transcripts and diplomas (apostilled)",
+      "doc3": "Motivation letter and CV",
+      "doc4": "Recommendation letters",
+      "costs": "Application usually free - costs are document preparation (translations, apostilles).",
+      "cost1": "Document translation and apostille",
+      "cost1Amount": "200-500 PLN total",
+      "cost2": "Language test fee (if needed)",
+      "cost2Amount": "400-800 PLN (TOEFL/IELTS)",
+      "tip1": "Łukasiewicz Scholarship = best opportunity! 100+ scholarships annually, covers tuition + 1,500 PLN/month stipend + annual allowance. Open all nationalities. Application Feb deadline. Competitive but worth trying. Website: nawa.gov.pl. Success rate ~10-20%. Strong academics + specific Poland interest = higher chances. Free money to study!",
+      "tip2": "Motivation letter is EVERYTHING in Polish scholarship applications. Generic 'I want to study in Europe' rejected. Specific: name professors you want to work with, reference specific courses, explain why THIS program at THIS university in Poland (not just cheap tuition!). Mention Polish culture/language interest. Personal story. 1-2 pages. Proofread 10× times!",
+      "tip3": "Apply to MULTIPLE scholarships simultaneously. Don't put eggs in one basket. Example: Łukasiewicz + university scholarship + Visegrad + home country scholarships for study abroad. Deadlines often similar (Jan-Mar). Effort: reuse documents (transcripts, letters), customize motivation letters. More applications = higher chances. Some students win multiple, choose best!",
+      "faq1Q": "Are there scholarships for studying in Poland?",
+      "faq1A": "Yes! Main ones: 1) Ignacy Łukasiewicz (Polish government, 100+ annually, full tuition + 1,500 PLN/month). 2) Erasmus+ (EU students, 300-500 EUR/month). 3) University-specific scholarships (varies). 4) Visegrad Fund. 5) Bilateral agreements (country-specific). Less abundant than Western Europe but exist. Apply early (deadlines Jan-Mar typically). Competition moderate-high.",
+      "faq2Q": "How much are Polish scholarships?",
+      "faq2A": "Łukasiewicz: full tuition + 1,500 PLN/month stipend + annual allowance (books, materials). Erasmus+: 300-500 EUR/month (partial). University scholarships: 500-1,500 PLN/month typically (partial). Living costs: 2,500-4,000 PLN/month. Full scholarships rare - most partial coverage. Budget to supplement with savings or part-time work (students can work 20hrs/week).",
+      "faq3Q": "When should I apply for scholarships?",
+      "faq3A": "Timeline: Applications open Jan-Mar usually. Deadline: Feb-Mar for October start. Results: May-July. Start researching: 12 months before intended study start. Prepare documents: 6 months ahead (transcripts, recommendations, translations). Apply: immediately when applications open (don't wait). Late applications rarely accepted. Early bird advantage: less rushed, better quality application.",
+      "faq4Q": "What do I need for scholarship applications?",
+      "faq4A": "Typical requirements: 1) Academic transcripts (translated, apostilled), 2) Motivation letter (1-2 pages, specific), 3) Recommendation letters (2-3), 4) CV, 5) Language certificate (TOEFL/IELTS or Polish), 6) Passport copy, 7) Application form. Some: research proposal (PhD), portfolio (arts). Strong academics essential (GPA 3.5+). Motivation letter critical - be specific about Poland interest!"
+    },
+    "degree-recognition": {
+      "overview": "Foreign degrees need recognition (nostryfikacja or recognition decision) to be valid in Poland for certain purposes. Who needs: regulated professions (doctor, teacher, lawyer), public sector jobs, continuing education. Not needed: private sector employment (usually), EU degrees for EU purposes (automatic recognition). Process: submit application to regional authority or university, provide documents (diploma, transcript, apostille), pay fee (1,040 PLN for nostryfikacja, 351 PLN for recognition decision). Processing: 1-6 months. Result: Polish equivalent degree level (bachelor's = licencjat, master's = magister). EU degrees: simpler process via Bologna Process. Non-EU: more complex, may require exams.",
+      "req1": "Original diploma and transcript",
+      "req2": "Apostille or legalization of documents",
+      "req3": "Sworn translation to Polish",
+      "req4": "Application fee (351-1,040 PLN)",
+      "step1": {
+        "title": "Determine If You Need Recognition",
+        "description": "Need recognition: Regulated professions (medicine, nursing, teaching, law, architecture, engineering stamps). Public sector jobs (government, municipalities). Further education (Polish master's after foreign bachelor's). Licensing requirements. Don't need: Most private sector jobs (employers accept foreign degrees directly). Academic purposes sometimes (varies). EU: automatic recognition for EU purposes (freedom of movement). Check: ask specific employer/institution if recognition required. Saves time and money if not needed."
+      },
+      "step2": {
+        "title": "Choose Recognition Type",
+        "description": "Types: 1) Nostryfikacja (nostrification): full equivalence, degree treated as Polish degree. Required for: public sector, regulated professions. Process: through university, may include exam. Cost: 1,040 PLN. 2) Recognition decision: confirms degree level (bachelor's/master's). Required for: continuing education. Through: Voivodeship Office. Cost: 351 PLN. Simpler. EU degrees: often automatic recognition, but still need formal confirmation sometimes. Choose: based on purpose - ask target institution which type needed."
+      },
+      "step3": {
+        "title": "Prepare Required Documents",
+        "description": "Documents: 1) Diploma (original or certified copy). 2) Transcript (all courses, grades, hours). 3) Apostille (Hague Convention) or legalization at Polish consulate. 4) Sworn translation to Polish (tłumacz przysięgły - 50-100 PLN/page). 5) Passport copy. 6) Application form. 7) Curriculum description (courses, content). Translation: find sworn translator at gov.pl list. Apostille: get in country where degree issued. Poland issued: already valid. Prepare: gather all documents before applying (incomplete = delays)."
+      },
+      "step4": {
+        "title": "Submit Application",
+        "description": "Where: Nostryfikacja - university in relevant field. Recognition decision - Voivodeship Office (Urząd Wojewódzki). Online: some offices allow online submission. In-person: bring all documents, copies. Fee: pay at office or bank transfer. Processing time: 1-6 months depending on complexity and type. Exams: nostryfikacja may require passing exams (curriculum differences). Equivalence assessment: authority compares your degree to Polish equivalent. Status: track via office, some have online portals."
+      },
+      "step5": {
+        "title": "Receive Decision and Use Recognition",
+        "description": "Decision: approval states Polish equivalent (licencjat = bachelor's, magister = master's, doktor = PhD). Certificate: formal document, keep original safely. Use: provide to employers, institutions as proof. Valid: permanently (doesn't expire). Rejection: rare if documents complete, but possible if degree not equivalent. Appeal: within 14 days if rejected. After recognition: can use Polish degree title (e.g., 'magister' on business cards). Regulated professions: recognition is first step, then professional licensing (separate process, varies by field)."
+      },
+      "doc1": "Original diploma and transcript",
+      "doc2": "Apostille or legalization certificate",
+      "doc3": "Sworn Polish translation",
+      "doc4": "Recognition decision or nostrification certificate",
+      "costs": "Process involves several fees - budget 1,500-2,500 PLN total.",
+      "cost1": "Recognition decision (simpler process)",
+      "cost1Amount": "351 PLN",
+      "cost2": "Nostryfikacja (full equivalence)",
+      "cost2Amount": "1,040 PLN + possible exam fees",
+      "tip1": "Most private sector jobs DON'T need formal recognition! Employer just wants to see your diploma. Save 1,500+ PLN and 6 months hassle. Only get recognition if: 1) Public sector job requires it, 2) Regulated profession (doctor, teacher), 3) Continuing education (Polish master's after foreign bachelor's). Ask employer first: 'Do you require Polish recognition or is foreign degree acceptable?'",
+      "tip2": "EU degrees MUCH easier to recognize than non-EU (Bologna Process). EU bachelor's → Polish licencjat, EU master's → Polish magister. Process faster, rarely requires exams. Non-EU degrees: more scrutiny, may need curriculum comparison, possible exams. If choosing where to study for later Poland use: EU degree smoother path!",
+      "tip3": "Apostille MUST be obtained in country where degree issued! Can't get US degree apostilled in Poland. Plan ahead if abroad: request apostille before leaving country or mail diploma to family/friend to handle. Cost: $10-50 depending on country. Without apostille: Polish authorities won't accept diploma. Critical step!",
+      "faq1Q": "Do I need to recognize my foreign degree in Poland?",
+      "faq1A": "Depends on purpose. NEED recognition: regulated professions (doctor, teacher, lawyer, engineer stamps), public sector jobs, continuing education (Polish master's after foreign bachelor's). DON'T need: most private sector jobs (employer accepts foreign degree directly). EU citizens: automatic recognition for EU purposes but may still need formal confirmation. Ask specific employer/institution first.",
+      "faq2Q": "How much does degree recognition cost?",
+      "faq2A": "Recognition decision: 351 PLN. Nostryfikacja: 1,040 PLN + possible exam fees. Additional costs: sworn translation (50-100 PLN/page, ~300-800 PLN total), apostille ($10-50 in home country). Total: 1,500-2,500 PLN typically. Processing time: 1-6 months. EU degrees: sometimes simpler/faster. Only pursue if actually needed (check with employer first).",
+      "faq3Q": "What's the difference between recognition and nostryfikacja?",
+      "faq3A": "Recognition decision: confirms degree level (bachelor's/master's/PhD equivalent). Simpler, cheaper (351 PLN), through Voivodeship Office. Use: continuing education. Nostryfikacja: full equivalence, degree treated as Polish degree. Complex, expensive (1,040 PLN), through university, may require exams. Use: regulated professions, public sector. Choose based on specific requirement - ask target institution which type needed.",
+      "faq4Q": "How long does degree recognition take?",
+      "faq4A": "Processing time: officially 30-60 days, reality 1-6 months depending on complexity and office backlog. Recognition decision: faster (1-3 months). Nostryfikacja: longer (3-6 months), especially if exams required. Delays common. Apply early if needed for job/education start date. Can't speed up process. Documents complete = faster processing. Incomplete = multiple rounds of requests = much longer."
+    },
+    "vocational-training": {
+      "overview": "Vocational education (szkolnictwo zawodowe) in Poland trains for specific trades and professions. Options: vocational schools (szkoła branżowa - 3 years), technical schools (technikum - 4-5 years), post-secondary vocational schools, courses and certifications. Popular fields: IT certifications, mechanics, electrical, construction, healthcare assistant, hospitality, logistics. Employment offices (Urzędy Pracy) offer free retraining courses for unemployed/job seekers. Private training centers: IT bootcamps, language schools, professional courses. Dual education: learn + work, get paid. EU funding: many courses subsidized by EU for unemployed. Certificates recognized: across Poland and often EU. Practical, job-focused alternative to university.",
+      "req1": "Basic education requirement (varies by program)",
+      "req2": "Course fees (if private) or registration (if free)",
+      "req3": "Time commitment (full-time or part-time)",
+      "req4": "Specific prerequisites for some fields (health clearance, etc.)",
+      "step1": {
+        "title": "Identify Vocational Training Options",
+        "description": "Types: Vocational schools (szkoła branżowa): 3-year programs, after lower secondary. Technical schools (technikum): 4-5 years, leads to technician qualification. Post-secondary (szkoła policealna): 1-2.5 years, for adults with high school diploma. Short courses: weeks to months, specific skills. Fields: IT (programming, cybersecurity), construction (electrician, plumber), automotive, healthcare (nursing assistant, physiotherapy), hospitality, logistics. Employment office courses: free for registered unemployed (IT, languages, forklift, etc.). Private: bootcamps, certifications."
+      },
+      "step2": {
+        "title": "Research Free vs Paid Training",
+        "description": "Free options: Employment office (Urząd Pracy) courses - register as unemployed/job-seeking, get access to free training. EU-funded: many programs subsidized (especially for unemployed, youth under 30). Vocational schools: free if public. Apprenticeships: paid while learning (dual education). Paid options: Private training centers (IT bootcamps 5,000-15,000 PLN), professional certifications (1,000-5,000 PLN), language schools. Compare: free courses adequate for basics, paid often faster and more intense. ROI: calculate if certification leads to higher salary."
+      },
+      "step3": {
+        "title": "Enroll and Complete Training",
+        "description": "Employment office route: Register at Urząd Pracy (bring ID, education docs). Career counselor recommends training based on skills/market. Free courses: IT, languages, driving licenses, forklift, accounting, etc. Apply: competitive (limited spots), selection based on motivation. Private courses: Direct enrollment, pay upfront or installments. Duration: weeks to months typically. Attendance: often mandatory (80-90%). Exams: final exam or project. Certificate: receive upon completion, recognized across Poland."
+      },
+      "step4": {
+        "title": "Obtain Industry Certifications",
+        "description": "IT certifications: AWS, Azure, CompTIA, Cisco (2,000-5,000 PLN, globally recognized). Trade qualifications: electrician, plumber, welder require theoretical + practical exams, apprenticeship hours. Healthcare: nursing assistant, physiotherapy assistant (post-secondary schools). Language: Polish language certificates (B1, B2 - needed for citizenship, some jobs). Driving licenses: category C (truck), D (bus) for transport jobs (3,000-5,000 PLN). Forklift license (UDT): 500-800 PLN, 3-5 days. Market value: research which certificates employers seek."
+      },
+      "step5": {
+        "title": "Leverage Training for Employment",
+        "description": "Job search: vocational training often includes job placement assistance. Employment office: helps match trained people with employers. IT bootcamps: many guarantee job placement support. Networking: training courses = meet peers in same field. Update CV: add certifications prominently. LinkedIn: list credentials. Salary impact: certifications increase earning potential (e.g., AWS cert = +2,000-5,000 PLN/month). Continuous: labor market evolves, ongoing training keeps skills relevant. EU recognition: many Polish qualifications recognized across EU (mobility)."
+      },
+      "doc1": "Enrollment confirmation or course completion certificate",
+      "doc2": "Professional certification or license",
+      "doc3": "Training curriculum and hours documentation",
+      "doc4": "Updated CV highlighting new qualifications",
+      "costs": "Range from free (employment office) to expensive (private bootcamps).",
+      "cost1": "Employment office courses (for registered unemployed)",
+      "cost1Amount": "Free (0 PLN, EU-funded)",
+      "cost2": "Private IT bootcamp or intensive training",
+      "cost2Amount": "5,000-15,000 PLN",
+      "tip1": "Register at Urząd Pracy (employment office) even if not desperately unemployed - unlock FREE training! Eligibility: anyone looking for work (even if currently employed but seeking change). Free courses: IT, languages, forklift, accounting, more. EU-funded = €€€ value for 0 PLN. Just register, meet counselor, express interest. Attendance required but worth it!",
+      "tip2": "IT bootcamps worth it IF career switch to tech. Example: 10,000 PLN bootcamp → junior dev job 8,000 PLN/month = ROI in 2 months! Popular: CodersLab, Kodilla. Guarantees: some promise job placement or refund. Caution: research reviews, job placement stats. Alternative: self-study free (Udemy, freeCodeCamp) but discipline needed. Bootcamp = structure + network + credential.",
+      "tip3": "Forklift license (UDT) = quick path to employment! Cost: 500-800 PLN. Duration: 3-5 days. Demand: logistics/warehouse jobs plentiful (Amazon, DHL, etc.). Salary: 4,500-6,500 PLN/month. No degree needed. Language: basic Polish sufficient (commands). Good starter job for newcomers while learning language or planning career. Always hiring!",
+      "faq1Q": "What vocational training is available in Poland?",
+      "faq1A": "Wide range: IT (certifications, bootcamps), trades (electrician, plumber, mechanic), healthcare (nursing assistant), logistics (forklift, truck driving), hospitality, languages. Free options: employment office courses (for registered unemployed). Paid: private training centers, bootcamps (5,000-15,000 PLN). Duration: days to years. Certifications recognized Poland-wide and often EU. Practical, job-focused alternative to university.",
+      "faq2Q": "Are there free vocational courses in Poland?",
+      "faq2A": "Yes! Employment offices (Urząd Pracy) offer free courses for registered unemployed/job-seekers. EU-funded programs. Examples: IT basics, languages, forklift license, accounting, customer service. Register at Urząd Pracy, meet career counselor, apply for courses. Competitive (limited spots). Attendance mandatory. Certificate upon completion. Great value - thousands PLN worth of training for free!",
+      "faq3Q": "How much do IT bootcamps cost?",
+      "faq3A": "Poland IT bootcamps: 5,000-15,000 PLN typically for 3-6 month programs. Examples: CodersLab, Kodilla, Coders Lab. Teach: web development, Java, testing, data science. Job placement: many offer assistance or guarantees. Worth it? If career switch to tech, ROI fast (junior dev 8,000+ PLN/month). Compare: university free but 3-5 years, bootcamp expensive but months. Self-study: free but needs discipline.",
+      "faq4Q": "What certifications are valuable in Polish job market?",
+      "faq4A": "IT: AWS, Azure, CompTIA, Cisco (globally recognized, 5,000-10,000 PLN salary bump). Languages: Polish B1/B2 certificate (citizenship, job requirement). Trades: electrician, plumber licenses (good income, always in demand). Logistics: forklift license (quick employment), truck driving (category C). Healthcare: nursing assistant. Accounting: certified accountant. Research your field: check job postings to see which certs employers request."
     }
   },
   "pages": {
