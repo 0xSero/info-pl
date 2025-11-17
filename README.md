@@ -12,6 +12,25 @@ A comprehensive, multilingual website providing essential information for foreig
 - **Static Site Generation** for fast loading and excellent performance
 - **Responsive UI** built with Tailwind CSS and Lucide icons
 
+## Translation Status
+
+- ✅ **English**: Complete with all content written
+- ⏳ **Other 19 languages**: Template files ready for translation
+
+**Quick translation setup:**
+```bash
+# Install DeepL for automated translation
+npm install deepl-node dotenv
+
+# Add your API key to .env
+echo "DEEPL_API_KEY=your-key-here" > .env
+
+# Translate all supported languages
+node scripts/translate-with-deepl.js
+```
+
+📖 **See [TRANSLATION_GUIDE.md](./TRANSLATION_GUIDE.md) for complete translation instructions, cost estimates, and recommendations.**
+
 ## Content Categories
 
 ### 1. Legal & Documents (15 pages)
