@@ -534,51 +534,55 @@
       "faq4A": "Only if contract allows it or landlord agrees. Usually requires 1-3 months notice. Breaking lease early may forfeit your deposit."
     },
     "public-transportation": {
-      "overview": "Polish cities have extensive public transportation systems including buses, trams, metro (Warsaw), and suburban trains. Tickets are integrated and valid across all modes within the city. You can buy tickets at kiosks, machines, via mobile apps, or contactless payment.",
-      "req1": "Valid ticket or travel card for all journeys",
-      "req2": "Validation of paper tickets when boarding",
-      "req3": "Understanding zone system in larger cities",
-      "req4": "Photo ID for discounted tickets (student, senior)",
+      "overview": "Poland has an extensive and affordable public transportation system including buses, trams, metro (in Warsaw), and urban trains (SKM, WKD). Most cities use integrated ticketing systems where one ticket works for all transport types. Tickets must be validated upon boarding and inspections are common with fines for fare dodging. Major cities offer apps for mobile tickets and real-time schedules. Monthly passes (bilet miesięczny) offer best value for regular users.",
+      "req1": "Valid ticket purchased before or immediately upon boarding",
+      "req2": "Ticket validation in machine (kasownik) when boarding",
+      "req3": "Understanding of zone system if traveling outside city center",
+      "req4": "Mobile app or cash for purchasing tickets",
       "step1": {
-        "title": "Learn Your City's System",
-        "description": "Warsaw (ZTM): buses, trams, metro. Kraków (MPK): buses, trams. Each city has different operators, ticket prices, and apps. Download the local transit app."
+        "title": "Choose Ticket Type",
+        "description": "Single tickets (bilet jednorazowy) for occasional travel, time-based tickets (20/40/60/90 minutes) for multiple transfers, or monthly passes for regular commuters. Students and seniors get significant discounts."
       },
       "step2": {
-        "title": "Choose Ticket Type",
-        "description": "Options: single ride (20-30 min), time-based (60/90 min), day passes, weekly/monthly passes. Monthly unlimited is usually best value for regular commuters."
+        "title": "Purchase Your Ticket",
+        "description": "Buy from ticket machines at stops/stations, kiosks (Ruch, Żabka), bus drivers (usually more expensive), or mobile apps (Jakdojade, SkyCash, city-specific apps)."
       },
       "step3": {
-        "title": "Purchase Tickets",
-        "description": "Buy at: ticket machines (cash/card), kiosks (Ruch, Żabka), mobile apps (Jakdojade, SkyCash, city-specific apps), or contactless payment on newer vehicles."
+        "title": "Validate Your Ticket",
+        "description": "Insert paper ticket into yellow validation machine (kasownik) immediately upon boarding trams/buses. Metro and some systems validate at gates. Mobile tickets auto-validate."
       },
       "step4": {
-        "title": "Validate and Use",
-        "description": "Paper tickets must be validated in yellow/orange machines on board. Mobile tickets activate before boarding. Keep ticket for entire journey - inspectors check frequently."
+        "title": "Learn the Routes",
+        "description": "Use Jakdojade or Google Maps for journey planning. Night buses (marked with 'N') run after regular service ends. Check schedules at stops or online."
       },
       "step5": {
-        "title": "Plan Your Routes",
-        "description": "Use Google Maps or Jakdojade app for route planning with real-time arrivals. Both work excellently in Polish cities. Night buses available in major cities."
+        "title": "Know Your Rights During Inspections",
+        "description": "Controllers (kontrolerzy) check tickets randomly. Show validated ticket immediately. Fines for no ticket: typically 266 PLN, reduced to 130 PLN if paid within 7 days."
       },
-      "doc1": "Valid ticket (paper, mobile app, or contactless)",
-      "doc2": "Student ID or senior ID for discounts (ISIC, etc.)",
-      "doc3": "Photo for monthly pass (some cities)",
-      "doc4": "Warsaw City Card or Kraków Card for tourists",
-      "costs": "Public transport is affordable in Poland. Monthly passes offer best value for regular users.",
-      "cost1": "Single ticket (Warsaw)",
-      "cost1Amount": "4.40 PLN (20-min) / 7 PLN (75-min)",
-      "cost2": "Monthly unlimited pass",
-      "cost2Amount": "110-150 PLN depending on city",
-      "tip1": "Download Jakdojade app - it's the best for public transport navigation across all Polish cities.",
-      "tip2": "Monthly passes (bilet miesięczny) are best value if you commute daily - pays for itself after ~20 rides.",
-      "tip3": "Inspectors check tickets frequently - fines are 266 PLN on the spot or higher if you pay later.",
-      "faq1Q": "Can I use contactless payment on buses?",
-      "faq1A": "Yes, in Warsaw and increasingly other cities, you can tap your card/phone to pay directly on newer buses and trams.",
-      "faq2Q": "Are tickets valid across all transport modes?",
-      "faq2A": "Yes, city tickets are integrated - one ticket works on buses, trams, and metro within the time/zone limits.",
-      "faq3Q": "What happens if caught without a ticket?",
-      "faq3A": "Fine of 266 PLN if paid immediately to inspector, or higher (up to 500 PLN) if paid later. Inspectors wear badges and can ask for ID.",
-      "faq4Q": "Do children and seniors get discounts?",
-      "faq4A": "Yes, 50% discount for students (up to age 26), seniors (65+), and children (4-16). Kids under 4 travel free. Valid ID required."
+      "doc1": "Valid ticket (paper or mobile app)",
+      "doc2": "Student ID for discounted tickets (Legitymacja studencka)",
+      "doc3": "Senior ID for 37% discount (for EU citizens over 65)",
+      "doc4": "Photo ID for ticket inspections",
+      "costs": "Public transportation in Poland is very affordable compared to Western Europe. Monthly passes offer excellent value for daily commuters.",
+      "cost1": "Single ticket (20-minute)",
+      "cost1Amount": "3.40-4.40 PLN",
+      "cost2": "Single ticket (60-minute)",
+      "cost2Amount": "4.40-7.00 PLN",
+      "cost3": "Monthly pass (normal)",
+      "cost3Amount": "110-140 PLN",
+      "cost4": "Monthly pass (student)",
+      "cost4Amount": "55-70 PLN",
+      "tip1": "Download Jakdojade app for real-time schedules, journey planning, and mobile ticket purchases across most Polish cities.",
+      "tip2": "Buy monthly pass (bilet miesięczny) if using transport more than 15 times per month - usually breaks even and saves money.",
+      "tip3": "Validate your ticket EVERY time, even if you have a multi-ride ticket. Inspectors are strict and 'forgetting' doesn't exempt you from fines.",
+      "faq1Q": "Can I use one ticket for bus, tram, and metro?",
+      "faq1A": "Yes, in most cities tickets are integrated across all public transport types. Time-based tickets (20/40/60/90 minutes) allow unlimited transfers within the time limit.",
+      "faq2Q": "What happens if I don't validate my ticket?",
+      "faq2A": "Unvalidated ticket = no ticket. Controllers will fine you 266 PLN (130 PLN if paid within 7 days). They check frequently and do not accept excuses.",
+      "faq3Q": "Do I need a separate ticket for luggage or bikes?",
+      "faq3A": "Usually yes. Large luggage and bikes typically require an additional ticket (bilet bagażowy) at reduced price. Check your city's specific rules.",
+      "faq4Q": "Are mobile tickets accepted everywhere?",
+      "faq4A": "Yes, mobile tickets from official apps (SkyCash, Jakdojade, city apps) are fully valid. Ensure your phone is charged as controllers won't accept 'dead battery' excuse."
     },
     "polish-language-courses": {
       "overview": "Learning Polish opens opportunities in Poland. Many language schools offer courses: Jagiellonian University (Kraków), University of Warsaw, private schools (Glossa, Polski dla Obcokrajowców). Levels: A1-C2 (European framework). Course types: intensive (20hrs/week), evening (4-6hrs/week), private tutors, online. Costs: 1,200-2,500 PLN for 60-hour course (semester). Online cheaper: Duolingo (free), iTalki (tutors 30-80 PLN/hour), Udemy courses. Free options: municipality classes (some cities), language exchange (conversation partners), YouTube. Exam: Polish language certificate (certyfikat znajomości języka polskiego) official credential. Challenge: difficult grammar (7 cases!), pronunciation. Immersion helpful: practice with locals.",
@@ -1991,51 +1995,55 @@
       "faq4A": "Landlord must fix promptly. Notify in writing. If doesn't fix: fix it yourself, deduct from rent (keep receipts). Or: withhold rent into escrow account, notify landlord. Or: report to sanitary inspection (Sanepid) for health hazards."
     },
     "buying-a-car": {
-      "overview": "Buying a car in Poland involves choosing between used (common) and new, checking vehicle history, negotiating price, handling registration, insurance, and technical inspection. Used cars often imported from Western Europe. Buying process: find car, verify history (VIN check), test drive, negotiate, sign contract, register within 30 days. Insurance mandatory before driving.",
-      "req1": "Driver's license (Polish or valid foreign)",
-      "req2": "Registered address in Poland (for registration)",
-      "req3": "Funds for purchase and registration (varies widely)",
-      "req4": "Insurance (OC mandatory, AC optional)",
+      "overview": "Buying a car in Poland can be done through dealerships (komis samochodowy), private sellers (ogłoszenia), or new car dealerships. Used car market is large with popular sites like OtoMoto.pl and OLX.pl. Registration history can be checked via CEPiK system to verify mileage and accidents. Always verify VIN number, review technical inspection (przegląd techniczny), and check if fees are paid. Bring a mechanic for used car inspections to avoid scams.",
+      "req1": "Valid passport or ID document with PESEL number",
+      "req2": "Proof of residence in Poland for registration purposes",
+      "req3": "Funds for purchase and registration (cash or bank transfer)",
+      "req4": "Understanding of car history verification through CEPiK",
       "step1": {
-        "title": "Search for Vehicle",
-        "description": "Platforms: OLX.pl, OtomOto.pl, AutoScout24.pl. Dealership vs private sale: dealers offer warranty, private sales cheaper but riskier. Popular imports from Germany, France. Check: VIN history (autoDNA.pl ~100 PLN), mileage manipulation common - verify service history."
+        "title": "Search and Research",
+        "description": "Browse OtoMoto.pl, OLX.pl, or visit dealerships. Check average market prices using online calculators. Verify car history at historiapojazdu.gov.pl using VIN or registration number."
       },
       "step2": {
-        "title": "Inspect and Test Drive",
-        "description": "Bring mechanic for inspection (~200-300 PLN) - essential for used cars. Check: body condition, engine, transmission, electronics, rust (common in Polish climate), service history. Test drive on highway and city. If seller refuses inspection/test drive: walk away."
+        "title": "Inspect the Vehicle",
+        "description": "Bring a trusted mechanic (kosztorysant) for inspection. Check documents: dowód rejestracyjny (registration), karta pojazdu (vehicle card), polisa OC (insurance), and current technical inspection certificate."
       },
       "step3": {
-        "title": "Verify Documents",
-        "description": "Required documents: registration certificate (dowód rejestracyjny), valid technical inspection (przegląd techniczny), purchase invoice or bill of sale (umowa kupna-sprzedaży). Check VIN matches documents. Verify seller is registered owner."
+        "title": "Negotiate and Purchase",
+        "description": "Negotiate price based on condition and market research. Sign purchase agreement (umowa kupna-sprzedaży) with both parties' signatures, price, date, and vehicle details. Keep all copies."
       },
       "step4": {
-        "title": "Negotiate and Purchase",
-        "description": "Negotiate price (expect 5-15% off asking). Sign purchase agreement (umowa kupna-sprzedaży) with: parties, car details (VIN, make, model), price, date. Both parties sign. Pay (cash or transfer). Receive: keys, documents, second key fob, service history."
+        "title": "Transfer Ownership",
+        "description": "Seller must sign and stamp dowód rejestracyjny's section III. You have 30 days to register car in your name at local communication department (Wydział Komunikacji)."
       },
       "step5": {
-        "title": "Register and Insure",
-        "description": "Within 30 days: get insurance (OC mandatory minimum), register car at communication department (Wydział Komunikacji) with documents and fee (varies). Receive Polish license plates. Schedule technical inspection if due. Pay road tax (podatek od środków transportowych) annually."
+        "title": "Complete Registration",
+        "description": "Register at Wydział Komunikacji with purchase agreement, previous registration, technical inspection, insurance, and ID. Pay registration fee (180.50 PLN) and excise tax (PCC - 2% of car value, minimum 1000 PLN)."
       },
-      "doc1": "Driver's license and passport/ID",
-      "doc2": "Car registration certificate (dowód rejestracyjny)",
-      "doc3": "Purchase contract (umowa kupna-sprzedaży)",
-      "doc4": "Technical inspection certificate (przegląd)",
-      "costs": "Car purchase costs vary enormously based on age, make, condition.",
-      "cost1": "Used car (average)",
-      "cost1Amount": "20,000-50,000 PLN",
-      "cost2": "Registration and plates",
-      "cost2Amount": "500-1,000 PLN",
-      "tip1": "Avoid cars with mileage manipulation - very common in Poland. Check: service history stamps, wear on pedals/seats vs claimed mileage, autoDNA report. If price too good, probably scam.",
-      "tip2": "Winter tires mandatory November-March in some conditions. Budget 1,500-3,000 PLN for set. Many Poles have two sets wheels (summer/winter) - ask seller if included.",
-      "tip3": "Popular Polish used cars: Skoda (Czech, reliable), VW, Ford, Opel. Parts readily available. Avoid exotic brands - repairs expensive, long waits for parts.",
-      "faq1Q": "Should I buy car in Poland or import from abroad?",
-      "faq1A": "Buying in Poland easier (no import paperwork). Importing from Germany can save 20-30% but adds complexity: transport, homologation, registration. Only worth it for expensive cars (100,000+ PLN).",
-      "faq2Q": "How much is car insurance in Poland?",
-      "faq2A": "OC (liability, mandatory): 800-2,000 PLN yearly depending on car value, driver age, history. AC (comprehensive, optional): +50-200% more. New drivers: significantly higher. Shop around - prices vary 30-50% between insurers.",
-      "faq3Q": "Do I need technical inspection immediately?",
-      "faq3A": "New cars: first inspection after 3 years. Cars 3+ years: annual inspection required. Check certificate date - if expired, must inspect before registration. Costs 100-150 PLN at diagnostic station (stacja kontroli pojazdów).",
-      "faq4Q": "Can I drive car with foreign plates in Poland?",
-      "faq4A": "Temporarily yes if: you're tourist, car registered abroad, have valid insurance. Residents: must register within 30 days of bringing car to Poland. Foreign-plated cars common near borders but technically illegal for residents."
+      "doc1": "Purchase agreement (umowa kupna-sprzedaży)",
+      "doc2": "Vehicle registration certificate (dowód rejestracyjny)",
+      "doc3": "Technical inspection certificate (przegląd techniczny)",
+      "doc4": "Car insurance (OC - mandatory)",
+      "costs": "Beyond purchase price, budget for registration fees, excise tax, insurance, and potential repairs.",
+      "cost1": "Registration fee and plates",
+      "cost1Amount": "180.50 PLN",
+      "cost2": "Excise tax (PCC)",
+      "cost2Amount": "2% of car value (min 1,000 PLN)",
+      "cost3": "Mechanical inspection (optional)",
+      "cost3Amount": "200-500 PLN",
+      "cost4": "OC insurance (annual)",
+      "cost4Amount": "800-3,000 PLN",
+      "tip1": "Always check car history at historiapojazdu.gov.pl using VIN - shows mileage records, accidents, number of owners, and whether car was imported.",
+      "tip2": "Beware of 'too good to be true' prices on OLX/OtoMoto - common scams include rolled-back odometers and cars imported after serious accidents abroad.",
+      "tip3": "Insist on test drive and mechanic inspection before purchase. Reputable sellers will allow this. If they refuse, walk away.",
+      "faq1Q": "Can I buy a car without PESEL?",
+      "faq1A": "Yes, you can buy with just passport, but you'll need PESEL or temporary residence to register the car in your name in Poland.",
+      "faq2Q": "How do I check if the car has hidden problems?",
+      "faq2A": "Use historiapojazdu.gov.pl for official records, hire mobile mechanic for inspection (200-500 PLN), and check for rust, oil leaks, unusual sounds, and mismatched VIN numbers.",
+      "faq3Q": "Do I need Polish driver's license to buy a car?",
+      "faq3A": "No, any valid license works for purchasing. However, you need valid license to drive it, and EU/EEA licenses work without exchange for up to 6 months.",
+      "faq4Q": "What is the 30-day registration rule?",
+      "faq4A": "You must register purchased car in your name within 30 days of purchase date on the agreement. Late registration results in fines starting from 200 PLN."
     },
     "tax-deductions": {
       "overview": "Polish tax system offers numerous deductions (odliczenia) and credits (ulgi) to reduce taxable income and tax liability. Common deductions: donations, internet costs, rehabilitation expenses, child tax credits. Youth under 26 get significant tax break (ulga dla młodych). Proper documentation essential. Claim deductions in annual PIT tax return.",
@@ -2367,145 +2375,157 @@
       "faq4A": "Kraków: historic, vibrant student culture, many universities, 200,000+ students. Warsaw: capital, most opportunities, expensive. Wrocław: beautiful, growing, good balance price/quality. Poznań: strong academics, lower costs. Gdańsk: coastal, tech focus. Łódź: cheapest among larger cities."
     },
     "car-insurance": {
-      "overview": "Car insurance mandatory in Poland. Two types: OC (Odpowiedzialność Cywilna - liability, legally required) and AC (Autocasco - comprehensive, optional). OC covers damage you cause to others. AC covers your own car damage (theft, accident, vandalism). Cost factors: age, driving experience, car value, claims history, city. Young drivers (< 26): expensive. Renewals: annual, shop around for better rates. Comparison websites: rankomat.pl, mubi.pl, ubezpieczenie.pl. Digital process: buy online, get policy instantly. Foreign driving history: can reduce premiums (bring proof).",
-      "req1": "Vehicle registration document (dowód rejestracyjny)",
-      "req2": "Driver's license (prawo jazdy) - Polish or valid foreign",
-      "req3": "PESEL number for residents (or passport for temporary)",
-      "req4": "VIN number and car technical details",
+      "overview": "Car insurance in Poland has two main types: OC (Odpowiedzialność Cywilna - mandatory third-party liability) and AC (Autocasco - optional comprehensive). OC is legally required and covers damage to others. AC covers damage to your own vehicle. Insurance is tied to the car, not the driver, so any authorized driver is covered. Prices vary based on car value, driver history, age, and location. Compare quotes using comparison sites.",
+      "req1": "Valid vehicle registration certificate (dowód rejestracyjny)",
+      "req2": "Driver's license information",
+      "req3": "PESEL or passport number for policy holder",
+      "req4": "Vehicle VIN number and technical specifications",
       "step1": {
-        "title": "Understand Insurance Types",
-        "description": "OC (liability): MANDATORY, illegal to drive without. Covers damage you cause to others (people, property, vehicles). Typical cost: 800-2,500 PLN/year depending on factors. AC (comprehensive): OPTIONAL, covers your car damage (collision, theft, fire, vandalism, natural disasters). Cost: 2-5% of car value annually. Additional: NNW (personal accident), Assistance (roadside help), legal protection. New/expensive car: get AC. Old car (< 20,000 PLN value): often skip AC."
+        "title": "Compare Insurance Offers",
+        "description": "Use comparison websites like mubi.pl, rankomat.pl, or ubea.pl. Enter car details, driver information, and coverage preferences. Compare prices and terms from multiple insurers."
       },
       "step2": {
-        "title": "Compare Quotes Online",
-        "description": "Comparison sites: rankomat.pl (biggest), mubi.pl, ubezpieczenie.pl, mojpolisa.pl. Enter: personal data, car details (VIN, registration), coverage preferences. Get 20+ quotes instantly. Price range huge: same coverage 1,200-3,000 PLN depending on insurer. Major insurers: PZU (largest, reliable), Ergo Hestia, Warta, Allianz, Generali. Cheap insurers: Link4, Direct, Proama. Reviews: check opinie (reviews) before choosing unknown insurer."
+        "title": "Choose Coverage Type",
+        "description": "OC (mandatory): covers damage you cause to others. AC (optional): covers damage to your car from accidents, theft, vandalism, weather. Assistance packages add roadside help and replacement car."
       },
       "step3": {
-        "title": "Optimize Your Premium",
-        "description": "Factors lowering premium: older age (25+), long driving history (bring foreign proof!), no claims history, cheaper car, city with low accident rates, higher deductible (franszyza). Discounts: multi-policy (home + car), online purchase, continuous coverage (no gaps). Young driver: add experienced co-owner to policy. Foreign driving history: bring driving abstract from home country, submit to insurer = treat as experienced = lower rate. Re-quote annually: loyalty doesn't pay, switching saves 20-30%."
+        "title": "Purchase Policy",
+        "description": "Buy online, through agent, or at insurance office. Provide documents: ID, driving license, vehicle registration. Pay premium (annual or installments). Receive policy number (polisa) immediately via email."
       },
       "step4": {
-        "title": "Purchase and Receive Policy",
-        "description": "Buy online: fill form, enter payment, receive policy instantly via email. Physical card (zielona karta - green card): mailed or print temporary. Policy active: from chosen start date, must be continuous (no gaps = fines). Auto-renewal: many insurers default ON, remember to cancel if switching. Payment options: annual lump sum (5% discount typical), quarterly, monthly installments (more expensive). Keep policy in car always - police check during controls."
+        "title": "Register with UFG Database",
+        "description": "Insurance automatically enters your policy into central database. Police can check your coverage electronically. Keep policy number and insurer contact saved on phone."
       },
       "step5": {
-        "title": "Maintain and Renew Insurance",
-        "description": "Policy duration: typically 12 months. Renewal notice: 30 days before expiration. Don't auto-renew blindly - prices increase! Shop around 60 days before expiration. Claims: report immediately (24h), take photos, police report if required. Claim process: call insurer, fill forms, assessment, repair at approved garage or payout. Claim impact: premium increases next year (bonus-malus system). No claims: discount improves (up to 50% after years claim-free)."
+        "title": "Maintain Coverage",
+        "description": "Renew before expiration (insurer sends reminder 30 days before). Driving without OC results in 5,600 PLN fine. Switch insurers anytime - new policy cancels old one automatically."
       },
-      "doc1": "Vehicle registration document (dowód rejestracyjny)",
-      "doc2": "Driver's license (Polish or recognized foreign)",
-      "doc3": "PESEL or passport number",
-      "doc4": "Proof of foreign driving history (optional, for discounts)",
-      "costs": "OC mandatory, AC optional - budget accordingly based on car value.",
-      "cost1": "OC liability insurance (mandatory, annual)",
-      "cost1Amount": "800-2,500 PLN/year (varies by age, car, city)",
-      "cost2": "AC comprehensive insurance (optional, annual)",
-      "cost2Amount": "2-5% of car value/year (e.g. 1,500 PLN for 50,000 PLN car)",
-      "tip1": "Bring driving history abstract from home country (shows years licensed + claims). Submit to Polish insurer = treated as experienced driver = 30-50% lower premium! Huge savings for young people with clean records.",
-      "tip2": "Re-quote every year 60 days before renewal. Loyalty penalty real - staying with same insurer = price creep. Switching saves 20-30% easily. Takes 15 minutes online. Set calendar reminder!",
-      "tip3": "Register car in small city (parents' address?) if possible = lower premium. Warsaw/Kraków = high accident rates = expensive. Rural areas 30-40% cheaper. Legal as long as car 'primarily kept' there (gray area, common practice).",
-      "faq1Q": "How much does car insurance cost in Poland?",
-      "faq1A": "OC (mandatory liability): 800-2,500 PLN/year average. Factors: age (under 26 = expensive), experience, city, car type. AC (optional comprehensive): 2-5% of car value annually. Example: 30yo driver, 5yr experience, 50k PLN car in Wrocław = ~1,200 OC + 2,000 AC.",
-      "faq2Q": "What's the difference between OC and AC?",
-      "faq2A": "OC (liability): covers damage YOU cause to OTHERS. Mandatory, illegal without. AC (comprehensive): covers YOUR car damage (accident, theft, vandalism). Optional but recommended for new/expensive cars. Old cheap cars: skip AC, not worth cost.",
-      "faq3Q": "Can I use foreign driving history for lower rates?",
-      "faq3A": "Yes! Get driving abstract/certificate from home country showing years licensed and claims history. Submit to Polish insurer. Treat as experienced = much lower premium. Essential for young foreign drivers with clean records. Can save 30-50%.",
-      "faq4Q": "What happens if I drive without insurance?",
-      "faq4A": "Illegal. Fine: 500-5,000 PLN on-spot from police. UFG (insurance fund) tracks uninsured cars via registration database, sends penalty invoices. Accident without insurance: personally liable for ALL damages (can be hundreds of thousands PLN). Never risk it - OC required day 1."
+      "doc1": "Vehicle registration certificate (dowód rejestracyjny)",
+      "doc2": "Driver's license (prawo jazdy)",
+      "doc3": "PESEL number or passport",
+      "doc4": "Previous insurance history (for discounts)",
+      "costs": "OC insurance is mandatory and varies greatly. Young drivers and expensive cars pay more. AC typically costs 3-5% of car value annually.",
+      "cost1": "OC insurance (basic car, experienced driver)",
+      "cost1Amount": "800-1,500 PLN/year",
+      "cost2": "OC insurance (young driver under 26)",
+      "cost2Amount": "2,000-4,000 PLN/year",
+      "cost3": "AC insurance (comprehensive)",
+      "cost3Amount": "3-5% of car value/year",
+      "cost4": "Assistance package",
+      "cost4Amount": "200-400 PLN/year",
+      "tip1": "Shop around every year - loyalty doesn't pay. Switching insurers often saves 20-30%. Use comparison sites and check at least 3-4 different offers.",
+      "tip2": "Increase your 'own contribution' (franszyza) to lower AC premiums. If you have 1000 PLN deductible, your premium drops significantly.",
+      "tip3": "Register all drivers who will use the car - driving without being listed can void your insurance coverage in case of accident.",
+      "faq1Q": "What's the difference between OC and AC?",
+      "faq1A": "OC (mandatory) pays for damage you cause to OTHERS - their car, property, injuries. AC (optional) pays for damage to YOUR car from accidents, theft, weather. Most people have both.",
+      "faq2Q": "Can I drive immediately after buying insurance?",
+      "faq2A": "Yes! OC policy is valid immediately upon payment. You receive policy number (numer polisy) via email instantly. Police can verify coverage electronically.",
+      "faq3Q": "What happens if I let my OC expire?",
+      "faq3A": "Driving without OC is illegal - 5,600 PLN fine. Any accident you cause, you pay from pocket (potentially hundreds of thousands). UFG tracks gaps and may charge penalty loading.",
+      "faq4Q": "Does insurance cover other drivers?",
+      "faq4A": "OC covers damage regardless of who drives (with owner's permission). AC may require listing additional drivers. Check policy terms - some exclude young or inexperienced drivers."
     },
     "vehicle-registration": {
-      "overview": "All vehicles in Poland must be registered (rejestracja pojazdu) within 30 days of purchase or import. Process through county office (Wydział Komunikacji or Starostwo Powiatowe). Registration provides license plates (tablice rejestracyjne) and registration document (dowód rejestracyjny). Two scenarios: buying in Poland (dealer handles much paperwork) or importing from abroad (complex, requires homologation). EU imports easier than non-EU. Cost: ~500-1,000 PLN for registration + plates. Mandatory insurance (OC) before registration. Foreign plates allowed 6 months for residents, then must re-register. Penalties for late registration.",
-      "req1": "Proof of ownership (bill of sale or invoice)",
-      "req2": "Certificate of conformity or homologation for imports",
-      "req3": "Valid insurance (OC) policy",
-      "req4": "ID/passport and PESEL or residence permit",
+      "overview": "Registering a car in Poland involves visiting the local communication department (Wydział Komunikacji) at city/town hall. You must register within 30 days of purchase. Process includes document verification, payment of fees and excise tax (PCC), and issuance of new license plates (tablice rejestracyjne). Plates format: first letters indicate province, then numbers, ending with letters. Registration certificate (dowód rejestracyjny) proves ownership.",
+      "req1": "Signed purchase agreement (umowa kupna-sprzedaży) with seller's signature",
+      "req2": "Previous vehicle registration certificate (dowód rejestracyjny)",
+      "req3": "Valid OC insurance policy (minimum 30 days)",
+      "req4": "Technical inspection certificate (if applicable, valid for vehicles over 3 years)",
       "step1": {
-        "title": "Gather Required Documents",
-        "description": "Polish purchase: bill of sale (umowa kupna-sprzedaży), previous registration document (dowód rejestracyjny), technical inspection certificate (przegląd techniczny) if car > 3 years. EU import: certificate of conformity (COC), de-registration from previous country, customs documents if applicable. Non-EU import: homologation certificate (requires separate process, expensive), customs clearance, import duty paid. Insurance: OC policy must be active before registration appointment."
+        "title": "Prepare Required Documents",
+        "description": "Gather: purchase agreement, old registration certificate with Section III signed by seller, ID/passport, proof of address, valid OC insurance, technical inspection (if car over 3 years old)."
       },
       "step2": {
-        "title": "Complete Technical Inspection",
-        "description": "Cars > 3 years: technical inspection (przegląd techniczny) required before registration. Stations: Okręgowa Stacja Kontroli Pojazdów (OSKP), look for 'Przegląd' sign. Cost: 100-150 PLN. Check: brakes, lights, emissions, safety equipment. Pass: get certificate valid 1-3 years. Fail: fix issues, re-test. New cars (< 3 years): exempt from inspection. Bring: ID, car documents, car itself obviously!"
+        "title": "Visit Wydział Komunikacji",
+        "description": "Go to communication department at your local city hall (urząd miasta). Some offices require appointment booking online. Bring all documents and payment for fees."
       },
       "step3": {
-        "title": "Visit Registration Office",
-        "description": "Location: Wydział Komunikacji at county Starostwo Powiatowe. Online queue: many offices allow booking online (epuap.gov.pl). Walk-in: expect 1-3 hour wait. Required at appointment: all documents, ID, PESEL, insurance proof. Forms: fill out application (wniosek o rejestrację), available at office. Staff usually Polish-only: bring Polish speaker or translator. Processing time: 1-2 hours if all documents correct."
+        "title": "Submit Application",
+        "description": "Fill out registration application form. Officer verifies documents, VIN number, and checks if car is stolen or has outstanding fines. Present documents and proof of fee payment."
       },
       "step4": {
-        "title": "Pay Fees and Get Plates",
-        "description": "Registration fee: ~180 PLN (2024). Temporary plates (if needed): ~30 PLN. License plates: ~80 PLN. Registration document (dowód rejestracyjny): ~54 PLN. Total typical: 350-500 PLN. Payment: at office cashier or bank transfer before appointment. Receive: white registration card (dowód rejestracyjny - keep in car always!), license plates (tablice - affix front/back). Plates format: XX 12345 or XXX AB123 depending on region."
+        "title": "Pay Required Fees",
+        "description": "Pay at office cashier or bank transfer: registration fee (180.50 PLN for new plates + certificate) and PCC excise tax (2% of car value, minimum 1000 PLN). Keep payment receipts."
       },
       "step5": {
-        "title": "Affix Plates and Update Insurance",
-        "description": "Attach plates: front and back, secure with screws. Temporary paper plates: inside windshield until permanent arrive. Registration document: keep in car always (police check). Update insurance: inform insurer of registration number (if temporary policy). Vehicle tax (podatek od środków transportowych): automatically assessed by city, paid annually. De-register old vehicle (if replacing): notify previous country if imported. EU database updated automatically."
+        "title": "Receive Plates and Documents",
+        "description": "Receive new registration certificate (dowód rejestracyjny) and license plates immediately or within days. Attach plates to car. Old plates returned to previous owner or destroyed if temporary."
       },
-      "doc1": "Proof of ownership (bill of sale or import documents)",
-      "doc2": "Technical inspection certificate (if car > 3 years)",
-      "doc3": "Insurance policy (OC) - active before registration",
-      "doc4": "Certificate of conformity (for imports)",
-      "costs": "Registration process involves multiple fees - budget 500-1,000 PLN total.",
-      "cost1": "Registration fees and plates",
-      "cost1Amount": "350-500 PLN (registration + plates + document)",
-      "cost2": "Technical inspection (if required)",
-      "cost2Amount": "100-150 PLN",
-      "tip1": "Book online appointment (if available) via epuap.gov.pl or county website. Saves hours of waiting. Some offices mandatory online booking. Check website first. Warsaw/major cities: online system common. Small towns: walk-in typical.",
-      "tip2": "Import from Germany/EU? Most popular source for used cars. Get COC (certificate of conformity) from manufacturer before import. Makes registration much easier. Without COC: homologation needed (expensive, time-consuming). German TÜV inspection valid briefly.",
-      "tip3": "Buying used car in Poland? Seller should de-register (wyrejestrować) first OR provide full documents for transfer. Check car history at historiapojazdu.gov.pl (free) - shows accidents, mileage, theft status. Never skip this!",
+      "doc1": "Purchase agreement (umowa kupna-sprzedaży)",
+      "doc2": "Previous registration certificate (dowód rejestracyjny)",
+      "doc3": "Technical inspection certificate (przegląd techniczny)",
+      "doc4": "Proof of OC insurance",
+      "costs": "Registration costs include administrative fees and excise tax based on car value.",
+      "cost1": "Registration certificate (dowód rejestracyjny)",
+      "cost1Amount": "54 PLN",
+      "cost2": "License plates (tablice rejestracyjne)",
+      "cost2Amount": "80 PLN",
+      "cost3": "Excise tax PCC (2% of car value)",
+      "cost3Amount": "Minimum 1,000 PLN",
+      "cost4": "Temporary plates (if needed)",
+      "cost4Amount": "13.50 PLN",
+      "tip1": "Register within 30 days of purchase date on agreement to avoid late fees (from 200 PLN) and potential police fines if caught driving unregistered car.",
+      "tip2": "Check your city's Wydział Komunikacji website for online appointment booking - saves hours of waiting in line.",
+      "tip3": "If buying car with temporary plates (czerwone tablice), they expire quickly. Register ASAP or ask seller for standard plates to have more time.",
       "faq1Q": "How long does vehicle registration take?",
-      "faq1A": "Preparation: 1-2 weeks (gather docs, insurance, inspection if needed). Office visit: 1-3 hours. Receive plates/registration: same day usually. Total timeline: 1-3 weeks from purchase to fully registered. Deadline: 30 days from purchase/import. Late registration: fines apply.",
-      "faq2Q": "Can I drive with foreign plates in Poland?",
-      "faq2A": "Tourists: yes, unlimited with valid foreign registration/insurance. Residents: 6 months maximum from establishing residency. After 6 months must re-register to Polish plates. Enforcement: cameras catching foreign plates overstaying. Fines: 500-1,000 PLN. Play it safe: register within 30 days of settling.",
-      "faq3Q": "How much does it cost to register a car?",
-      "faq3A": "Registration fees: 180 PLN. Plates: 80 PLN. Registration document: 54 PLN. Technical inspection (if needed): 100-150 PLN. Total: 350-500 PLN typically. Imports: add homologation costs if non-EU (1,000-3,000 PLN). First registration of new car: higher fees (~1,500 PLN).",
-      "faq4Q": "What documents do I need to register imported car?",
-      "faq4A": "EU import: bill of sale, de-registration from previous country, certificate of conformity (COC), customs docs (if applicable), insurance, ID/PESEL. Non-EU import: all above PLUS homologation certificate (expensive separate process), proof of import duty paid. COC critical for EU cars - get from manufacturer/dealer."
+      "faq1A": "Usually 1-2 hours at the office if you have all documents. Some offices issue plates immediately, others within 3-5 business days. You can drive with temporary confirmation.",
+      "faq2Q": "Can I register a car from another EU country?",
+      "faq2A": "Yes, but more complex. Need: deregistration certificate from previous country, car specs card, customs declaration (if applicable), VAT proof. May require vehicle inspection at diagnostic station.",
+      "faq3Q": "What if the previous owner didn't sign the registration certificate?",
+      "faq3A": "You cannot register without seller's signature in Section III. Contact seller to get it signed or meet at notary. Without this, you cannot prove ownership.",
+      "faq4Q": "Do I need PESEL to register a car?",
+      "faq4A": "Technically passport works, but PESEL makes process easier. Some offices require proof of residence. Temporary residents may face additional requirements - call office beforehand."
     },
     "parking-rules": {
-      "overview": "Parking in Polish cities highly regulated. Paid parking zones (Strefa Płatnego Parkowania - SPP) in city centers, 8am-6pm weekdays typical. Payment: parking meters, SMS, mobile apps (moBILET, SkyCash, mPay). Rates: 3-6 PLN/hour center, cheaper in outer zones. Resident permits (abonament mieszkańca) available: 10-50 PLN/month. Illegal parking: tickets 50-200 PLN, towing possible (800-1,200 PLN recovery). Free parking: suburbs, shopping center lots, designated free areas. Disabled parking: blue badge (Karta Parkingowa) allows designated spots. Night/weekend: usually free in paid zones. Apps essential for convenience.",
-      "req1": "Vehicle registration number for payment registration",
-      "req2": "Mobile phone for SMS/app payments",
-      "req3": "Payment method (card or phone credit)",
-      "req4": "Understanding of local zone colors and hours",
+      "overview": "Polish cities use zoned parking systems (Strefa Płatnego Parkowania - SPP) with different hourly rates and time limits. Blue zones (strefa niebieska) are paid parking areas marked by signs and blue lines. Green zones offer reduced rates for residents. Pay via parking meters, mobile apps, or SMS. Disabled parking requires special permit (karta parkingowa). Parking on sidewalks is illegal unless specifically marked. Violations result in wheel clamps (blokada) or towing.",
+      "req1": "Understanding of local parking zone system and regulations",
+      "req2": "Payment method: coins for meters, mobile parking app, or SMS",
+      "req3": "Valid parking ticket displayed on dashboard (if paper ticket)",
+      "req4": "Resident permit (abonament mieszkańca) if eligible for reduced rates",
       "step1": {
-        "title": "Understand Parking Zone System",
-        "description": "Paid zones (SPP): city center streets, marked by signs and blue lines. Zone A (center): most expensive, 4-6 PLN/hour, 2-hour limit. Zone B: cheaper, 3-4 PLN/hour, longer limits. Zone C: cheapest, 2-3 PLN/hour. Hours: typically Mon-Fri 8:00-18:00. Sat: 10:00-16:00 or free. Sun/holidays: free. Resident zones: permit required, visitors can't park. Free parking: outside zones, residential streets (check signs!), some areas after 18:00. Underground/multi-story: 5-10 PLN/hour, 24/7 paid."
+        "title": "Identify Parking Zone",
+        "description": "Look for zone signs (usually blue with white 'P' and time restrictions). Check zone number and hourly rate. Free parking outside marked hours (usually evenings, Sundays) varies by city."
       },
       "step2": {
         "title": "Choose Payment Method",
-        "description": "Parking meters (parkomaty): coins or card, press zone button, enter registration, print ticket (display in windshield). SMS: text format varies by city (e.g. Warsaw: 'START [zone] [registration]' to 7915). Mobile apps: moBILET (most popular), SkyCash, mPay, local city apps. App benefits: start/stop remotely, extend time, notifications before expiry, stored registration. Setup: download app, add payment method, verify phone. Digital payment = most convenient, no searching for change."
+        "description": "Parking meters (coins), mobile apps (moBILET, SkyCash, mPay), or SMS (send zone number to designated number). Apps most convenient - shows remaining time and allows extensions remotely."
       },
       "step3": {
-        "title": "Get Resident Permit (if applicable)",
-        "description": "Eligibility: registered address (meldunek) in parking zone + car registered to you. Application: through city office (Urząd Miasta), online portal (ePUAP), or Strefa Płatnego Parkowania office. Required docs: meldunek confirmation, vehicle registration, ID, application form. Cost: 10-50 PLN/month depending on city, some cities free first permit. Processing: 7-14 days. Receive: physical permit (display in car) or digital (registered in system). Benefits: unlimited parking in resident zone, huge savings (would cost 500+ PLN/month otherwise)."
+        "title": "Purchase Parking Time",
+        "description": "Select zone and duration. Minimum usually 20-30 minutes. Maximum stay varies by zone (1-3 hours typical). Pay for entire duration upfront. Paper tickets must be visible on dashboard."
       },
       "step4": {
-        "title": "Park Legally and Display Proof",
-        "description": "Find legal spot: within marked lines, check signs for restrictions (no stopping, disabled only, loading zone, resident only). Paid zones: start payment immediately, display ticket if meter (not needed for SMS/app). Time limits: respect maximum (typically 2-3 hours Zone A). Extend: via app remotely if needed. What counts as illegal: on sidewalk, blocking entrance, double-parked, in resident zone without permit, unpaid in paid zone, over time limit. Sidewalk parking: technically illegal but common, usually not enforced unless obstructing."
+        "title": "Monitor Your Time",
+        "description": "Set phone reminder before expiration. Most apps send notifications. You can extend parking remotely via app if still within zone's maximum stay limit."
       },
       "step5": {
-        "title": "Handle Tickets and Towing",
-        "description": "Ticket (mandat): 50-200 PLN typically. Find: under wiper or sent by mail. Pay: within 7 days (30% discount), after 7 days full amount. Payment: bank transfer to city account (details on ticket), online portal. Towing: illegally parked = towed by City Guard (Straż Miejska). Recovery: go to impound lot (parking strzeżony), pay towing fee 400-800 PLN + storage 50-100 PLN/day. Prevent: pay parking, don't block, follow signs. Appeal: possible if ticket unjust, write to City Guard within 7 days."
+        "title": "Follow All Parking Rules",
+        "description": "Park between lines, don't block driveways/crosswalks, respect disabled spaces, follow no-parking signs. Parking wardens (straż miejska) patrol regularly and issue fines/clamps without warning."
       },
-      "doc1": "Vehicle registration document for payment setup",
-      "doc2": "Proof of address (meldunek) for resident permit",
-      "doc3": "Mobile phone for digital payment apps",
-      "doc4": "Payment method (credit card or phone credit)",
-      "costs": "Daily parking expensive in centers - resident permits huge savings.",
-      "cost1": "Hourly parking in city center zones",
-      "cost1Amount": "3-6 PLN/hour (varies by zone and city)",
-      "cost2": "Resident parking permit (monthly)",
-      "cost2Amount": "10-50 PLN/month (huge savings vs hourly)",
-      "tip1": "Install moBILET app immediately if living in city. Covers most Polish cities. Save registration, payment method = 10-second parking start. Can extend remotely without returning to car. Notifications 10 min before expiry = no tickets!",
-      "tip2": "Resident permit absolute must if meldunek in paid zone. Example: 4 PLN/hr × 8 hrs/day × 20 days = 640 PLN/month vs 20 PLN permit. Saves 600+ PLN monthly! Apply immediately after meldunek registration.",
-      "tip3": "Free parking hack: shopping centers (Galeria Mokotów, etc) = free 2-3 hours. Park there, walk/metro to destination. Suburbs just outside paid zones = free street parking, tram into center. Check zone maps online first.",
-      "faq1Q": "How much does parking cost in Polish cities?",
-      "faq1A": "City center: 3-6 PLN/hour, Zone A most expensive. Time limits: 2-3 hours typically. Parking 8 hrs = 24-48 PLN. Underground lots: 5-10 PLN/hour, 50-100 PLN/day. Resident permits: 10-50 PLN/month unlimited. Free: suburbs, evenings, weekends often.",
-      "faq2Q": "What are the parking zone hours?",
-      "faq2A": "Typical: Monday-Friday 8:00-18:00 paid. Saturday 10:00-16:00 or free. Sunday and holidays: free. Night (after 18:00): free. Varies by city and zone - check signs! Apps show zone hours. Outside hours: park free anywhere in zones.",
-      "faq3Q": "How do I pay for parking?",
-      "faq3A": "Options: 1) Parking meters (coins/card, display ticket) 2) SMS (text to city number with zone+registration) 3) Mobile apps (moBILET, SkyCash - most convenient). Apps recommended: remote start/stop, extend time, notifications, no searching for change. Setup once, use everywhere.",
-      "faq4Q": "What happens if I get a parking ticket or towed?",
-      "faq4A": "Ticket: 50-200 PLN fine. Pay within 7 days = 30% discount. Bank transfer or online. Ignore = higher fines + debt collection. Towing: vehicle moved to impound. Recovery cost: 400-800 PLN towing + 50-100 PLN/day storage. Expensive lesson! Always pay parking."
+      "doc1": "Vehicle registration number (needed for payment)",
+      "doc2": "Resident permit (for resident zones if applicable)",
+      "doc3": "Disabled parking permit (karta parkingowa for disabled spaces)",
+      "doc4": "Payment confirmation (mobile app receipt or paper ticket)",
+      "costs": "Parking costs vary by city and zone. City centers most expensive. Residential zones offer discounted permits.",
+      "cost1": "City center parking (per hour)",
+      "cost1Amount": "4-6 PLN/hour",
+      "cost2": "Outer zones parking (per hour)",
+      "cost2Amount": "2-4 PLN/hour",
+      "cost3": "Resident annual permit",
+      "cost3Amount": "300-600 PLN/year",
+      "cost4": "Parking fine",
+      "cost4Amount": "100-250 PLN",
+      "tip1": "Download moBILET or SkyCash app - works across most Polish cities, sends expiration reminders, and lets you extend parking remotely without returning to car.",
+      "tip2": "Look for Park&Ride (P+R) facilities on city outskirts - very cheap or free parking with quick public transport connection to center.",
+      "tip3": "If you live in paid parking zone, get resident permit (abonament mieszkańca) - costs 300-600 PLN yearly vs. 20-30 PLN daily. Huge savings.",
+      "faq1Q": "What happens if my parking expires?",
+      "faq1A": "Parking wardens scan plates and issue fines (100-250 PLN depending on violation). Multiple violations may result in wheel clamp (blokada) - 300 PLN removal fee plus original fine.",
+      "faq2Q": "Can I park on the sidewalk?",
+      "faq2A": "Only if explicitly marked with parking sign AND pavement markings. Otherwise illegal - 100 PLN fine minimum. Never block pedestrian access or ramps.",
+      "faq3Q": "Are Sundays free parking everywhere?",
+      "faq3A": "Usually yes in paid zones, but not always. Check zone signs for specific hours. Some city centers charge on Sundays. Shopping center parking may have different rules.",
+      "faq4Q": "How do I get a resident parking permit?",
+      "faq4A": "Apply at city hall (Urząd Miasta) with: ID, proof of residence, vehicle registration. Pay annual fee (300-600 PLN). Receive sticker or virtual permit tied to your plate number."
     },
     "public-transport": {
       "overview": "Polish cities have excellent public transport: buses, trams, metro (Warsaw only), suburban trains. Integrated ticket systems in major cities. Single tickets: 3-5 PLN, day passes 15-20 PLN, monthly passes 100-150 PLN. Apps essential: Jakdojade (journey planner), moBILET (tickets), city-specific apps. Validation required: stamp paper tickets, tap cards on readers. Inspectors (kontrolerzy) check tickets - fine 266 PLN for fare evasion. Students/seniors: 50% discount. Night buses available. Crowded peak hours (7-9am, 3-6pm). Clean, punctual, affordable. Google Maps integrates Polish transport.",
@@ -3446,6 +3466,856 @@
       "faq3A": "Poland IT bootcamps: 5,000-15,000 PLN typically for 3-6 month programs. Examples: CodersLab, Kodilla, Coders Lab. Teach: web development, Java, testing, data science. Job placement: many offer assistance or guarantees. Worth it? If career switch to tech, ROI fast (junior dev 8,000+ PLN/month). Compare: university free but 3-5 years, bootcamp expensive but months. Self-study: free but needs discipline.",
       "faq4Q": "What certifications are valuable in Polish job market?",
       "faq4A": "IT: AWS, Azure, CompTIA, Cisco (globally recognized, 5,000-10,000 PLN salary bump). Languages: Polish B1/B2 certificate (citizenship, job requirement). Trades: electrician, plumber licenses (good income, always in demand). Logistics: forklift license (quick employment), truck driving (category C). Healthcare: nursing assistant. Accounting: certified accountant. Research your field: check job postings to see which certs employers request."
+    },
+    "water-bills": {
+      "overview": "Water and sewage services in Poland are provided by local municipal companies (wodociągi). Bills typically come monthly or bi-monthly and include both water supply (woda) and sewage treatment (ścieki). Costs are calculated based on meter readings and per cubic meter rates. Average 2-person household uses 4-6 m³ monthly. Some apartments include water in building fees (czynsz), others require separate contracts. Water quality is high and safe to drink from tap in most cities.",
+      "req1": "Apartment with water meter (wodomierz) installed",
+      "req2": "Understanding if water is included in rent/building fees or separate",
+      "req3": "PESEL or passport for contract registration",
+      "req4": "Bank account for automatic payments (recommended)",
+      "step1": {
+        "title": "Check What's Included",
+        "description": "Ask landlord or building management if water/sewage is included in czynsz (building fees) or if you need separate contract with water company."
+      },
+      "step2": {
+        "title": "Register Meter Reading",
+        "description": "On move-in, photograph water meter and note exact reading. Send to landlord and water company to avoid being charged for previous tenant's usage."
+      },
+      "step3": {
+        "title": "Set Up Contract (if needed)",
+        "description": "If water not included in rent, visit local water company office (Miejskie Wodociągi) with ID, proof of address, and meter reading to set up account."
+      },
+      "step4": {
+        "title": "Understand Your Bill",
+        "description": "Bill shows: water supply (zużycie wody), sewage (odprowadzenie ścieków), meter rental, previous and current readings. Charged per m³."
+      },
+      "step5": {
+        "title": "Submit Regular Readings",
+        "description": "Report meter readings online, by phone, or via app monthly/bi-monthly as instructed. Failure to report results in estimated billing."
+      },
+      "doc1": "Passport or ID with PESEL number",
+      "doc2": "Rental contract or proof of residence",
+      "doc3": "Water meter reading documentation",
+      "doc4": "Bank account details for direct debit",
+      "costs": "Water and sewage costs vary by city but average 8-12 PLN per m³ combined (water + sewage). Typical 2-person household pays 40-80 PLN monthly.",
+      "cost1": "Water supply (per m³)",
+      "cost1Amount": "4-6 PLN",
+      "cost2": "Sewage treatment (per m³)",
+      "cost2Amount": "4-6 PLN",
+      "cost3": "Meter rental (monthly)",
+      "cost3Amount": "3-8 PLN",
+      "tip1": "Check if water is already included in czynsz before setting up separate contract - many rentals include it in building fees.",
+      "tip2": "Report meter readings on time to avoid estimated bills which are often higher than actual usage.",
+      "tip3": "Polish tap water is safe to drink in most cities - no need to buy bottled water, saving money and reducing plastic waste.",
+      "faq1Q": "Is tap water safe to drink in Poland?",
+      "faq1A": "Yes! Polish tap water meets EU standards and is safe to drink in all major cities. It's tested regularly and often tastes better than bottled water.",
+      "faq2Q": "Why is my water bill so high?",
+      "faq2A": "Common causes: water leak, estimated billing (submit actual reading), or you're being charged for previous tenant's usage. Check meter reading matches bill.",
+      "faq3Q": "What if I don't submit meter readings?",
+      "faq3A": "Water company will use estimated consumption based on average usage, which is often higher than actual. You'll get adjustment when you finally submit real reading.",
+      "faq4Q": "Can I choose my water provider?",
+      "faq4A": "No, water supply is a local monopoly. Each city/district has one designated water company. You cannot switch providers."
+    },
+    "making-polish-friends": {
+      "overview": "Making Polish friends requires patience and genuine effort, but leads to deep, lasting friendships. Poles may seem reserved initially but are warm and loyal once trust is built. Friendship culture values depth over quantity - expect fewer but closer friendships than in some cultures. Speaking Polish (even basic attempts) greatly helps. Common ways to meet people: language exchanges, hobby groups, coworking spaces, sports clubs, and workplace. Poles appreciate directness, reliability, and meaningful conversation.",
+      "req1": "Basic Polish language skills (even beginner level helps significantly)",
+      "req2": "Patience and cultural understanding - friendship takes time to develop",
+      "req3": "Willingness to participate in Polish social customs and activities",
+      "req4": "Openness to deep, meaningful conversations vs. surface-level small talk",
+      "step1": {
+        "title": "Learn Basic Polish",
+        "description": "Even basic Polish phrases show respect and effort. Join language exchange meetups where Poles want to practice English - mutual benefit builds rapport naturally."
+      },
+      "step2": {
+        "title": "Join Interest-Based Groups",
+        "description": "Sports clubs, hobby groups, board game cafes, book clubs, volunteer organizations. Shared activities provide natural conversation starters and regular contact."
+      },
+      "step3": {
+        "title": "Be Reliable and Direct",
+        "description": "Show up on time, follow through on commitments. Poles value reliability highly. Be direct in communication - indirect hints may be misunderstood."
+      },
+      "step4": {
+        "title": "Engage at Work or School",
+        "description": "Workplace friendships are common. Accept lunch invitations, join after-work activities. Be genuine rather than overly friendly - authenticity is valued."
+      },
+      "step5": {
+        "title": "Respect the Friendship Timeline",
+        "description": "Don't rush. Poles distinguish between znajomi (acquaintances) and przyjaciele (true friends). Deep friendship develops over months/years through consistent, quality interactions."
+      },
+      "doc1": "Not applicable - no documents needed",
+      "doc2": "Meetup.com account for finding social events",
+      "doc3": "Facebook groups for expat/Polish social communities",
+      "doc4": "Language exchange apps (Tandem, HelloTalk)",
+      "costs": "Making friends has minimal costs, though social activities may have expenses.",
+      "cost1": "Language exchange meetups",
+      "cost1Amount": "Free or coffee cost (15-25 PLN)",
+      "cost2": "Hobby clubs/sports membership",
+      "cost2Amount": "50-200 PLN/month",
+      "cost3": "Social events (board game cafes, activities)",
+      "cost3Amount": "20-100 PLN per event",
+      "tip1": "Use Meetup.com, Facebook groups (search 'Expats in [city]', 'Language Exchange Warsaw'), and apps like Tandem for structured ways to meet people.",
+      "tip2": "Accept invitations to name days (imieniny), birthdays, and informal gatherings. Bring small gifts (flowers, wine, chocolates) as is customary.",
+      "tip3": "Don't confuse Polish directness with rudeness. Poles value honest communication and may seem blunt compared to cultures that use indirect language.",
+      "tip4": "Join coworking spaces or attend professional networking events - many friendships form through work connections in Poland.",
+      "faq1Q": "Why do Poles seem cold or distant at first?",
+      "faq1A": "It's cultural - Poles distinguish between public formality and private warmth. Reserved behavior with strangers doesn't mean unfriendliness. Once you're friends, they're very warm.",
+      "faq2Q": "How long does it take to make real friends?",
+      "faq2A": "Expect 6-12 months of regular interaction to develop true friendship. Quick superficial friendships are less common than in some cultures, but deep bonds last longer.",
+      "faq3Q": "Do I need to speak Polish fluently?",
+      "faq3A": "No, but even basic Polish helps tremendously. Many younger Poles speak English, but using Polish shows effort and respect, which Poles greatly appreciate.",
+      "faq4Q": "What are good conversation topics?",
+      "faq4A": "Travel, history, current events, work, hobbies. Avoid: excessive complaints, bragging, invasive personal questions early on. Poles enjoy substantive discussions once comfortable."
+    },
+    "traffic-fines": {
+      "overview": "Traffic fines in Poland (mandaty) are issued by police (Policja) and traffic wardens (Straż Miejska). On-spot fines (mandat gotówkowy) can be paid immediately for 50% discount if you admit guilt. Otherwise, you receive ticket (mandat pocztowy) by mail to pay within 7 days. Fines range from 20 PLN for minor violations to 5,600 PLN for driving without insurance. Penalty points (punkty karne) added to license for serious violations. Foreign-registered vehicles receive fines via international cooperation agreements.",
+      "req1": "Understanding of Polish traffic rules (Kodeks Drogowy)",
+      "req2": "Valid driver's license and vehicle documents when driving",
+      "req3": "Payment method for settling fines (bank transfer or online payment)",
+      "req4": "Knowledge of your rights during traffic stops",
+      "step1": {
+        "title": "Receive the Fine",
+        "description": "Police stop you and issue on-spot fine (mandat gotówkowy) or send fine by post (mandat pocztowy) if caught by camera or parking warden. Fine includes: violation description, amount, payment deadline."
+      },
+      "step2": {
+        "title": "Understand Your Options",
+        "description": "Accept and pay: if you agree with fine, pay within 7 days. Contest: refuse mandat, case goes to court. On-spot payment with admission of guilt: 50% discount on certain fines."
+      },
+      "step3": {
+        "title": "Pay the Fine",
+        "description": "Pay via bank transfer to account on ticket, online at www.mandaty.pl, or at bank/post office. Include reference number. Payment must clear within deadline to avoid additional fees."
+      },
+      "step4": {
+        "title": "Keep Payment Proof",
+        "description": "Save payment confirmation. If fine shows as unpaid due to processing delay, proof of payment prevents enforcement. Database updates may take several days."
+      },
+      "step5": {
+        "title": "Contest if Necessary",
+        "description": "To contest, refuse to sign fine and request court hearing. You'll receive summons. Bring evidence and witnesses. If found guilty, pay full amount plus court costs."
+      },
+      "doc1": "Driver's license (prawo jazdy)",
+      "doc2": "Vehicle registration certificate (dowód rejestracyjny)",
+      "doc3": "Fine notice (mandat) with payment details",
+      "doc4": "Payment confirmation and receipt",
+      "costs": "Traffic fines vary by severity. Speeding, parking violations, and insurance offenses have different penalties.",
+      "cost1": "Parking violation",
+      "cost1Amount": "100-250 PLN",
+      "cost2": "Speeding (10-20 km/h over limit)",
+      "cost2Amount": "50-200 PLN + points",
+      "cost3": "Speeding (50+ km/h over limit)",
+      "cost3Amount": "1,500-5,000 PLN + points",
+      "cost4": "Driving without insurance",
+      "cost4Amount": "5,600 PLN",
+      "tip1": "Pay fines within 7 days to avoid enforcement fees. Late payment adds bailiff costs (komornik) which can double or triple the original amount.",
+      "tip2": "Check www.mandaty.pl website to view all your unpaid fines using PESEL or registration number. Pay online to avoid missing postal notices.",
+      "tip3": "Foreign drivers: Poland shares fine data with EU countries. Unpaid fines follow you home and can be enforced internationally or prevent future border crossings.",
+      "faq1Q": "Can I negotiate or reduce a traffic fine?",
+      "faq1A": "Generally no negotiation. However, paying on-spot when stopped (and admitting guilt) gives 50% discount on certain fines. Contesting in court risks higher penalty if you lose.",
+      "faq2Q": "What happens if I don't pay a fine?",
+      "faq2A": "Case goes to bailiff (komornik) who adds enforcement costs (often 200-500 PLN). Can result in bank account seizure, salary garnishment, or vehicle seizure. Unpaid fines prevent vehicle registration renewal.",
+      "faq3Q": "Do penalty points affect foreign licenses?",
+      "faq3A": "Yes, penalty points are recorded for violations in Poland even with foreign license. Accumulate 24 points = license suspension. Info may be shared with your home country.",
+      "faq4Q": "How do I check if I have unpaid fines?",
+      "faq4A": "Visit www.mandaty.pl and enter your PESEL, passport number, or vehicle registration. Shows all recorded fines. Also check mail regularly - postal notice is official."
+    },
+    "drivers-license": {
+      "overview": "Getting a Polish driver's license (prawo jazdy) requires attending driving school (ośrodek szkolenia kierowców - OSK), passing theoretical and practical exams, and obtaining medical certificate. Process takes 2-4 months and costs 3,000-4,500 PLN. EU/EEA license holders can drive in Poland without exchange for 6 months as tourists, but must exchange if becoming resident. Non-EU licenses valid for 6 months, then Polish license required. Categories: AM (mopeds), A (motorcycles), B (cars), C (trucks), D (buses).",
+      "req1": "Minimum age: 18 years for category B (cars), 16 for AM (mopeds)",
+      "req2": "Valid medical certificate (orzeczenie lekarskie) and psychological test",
+      "req3": "Completed driving school course (30 hours theory, 30 hours practice minimum)",
+      "req4": "PESEL number and registered address in Poland",
+      "step1": {
+        "title": "Get Medical Certificate",
+        "description": "Visit certified doctor (lekarz medycyny pracy) for driving fitness exam. Includes vision test, general health check. Costs 200-250 PLN. Valid for specific period. May also need psychologist approval (80-150 PLN)."
+      },
+      "step2": {
+        "title": "Enroll in Driving School",
+        "description": "Choose registered OSK (check reviews online). Course includes minimum 30 hours theory (lectures and learning materials) and 30 hours practical driving. Total cost: 2,500-4,000 PLN depending on city and school."
+      },
+      "step3": {
+        "title": "Pass Theory Test",
+        "description": "32 multiple-choice questions at WORD (traffic exam center). Must score minimum 68 points out of 74. Test available in Polish, English, German, and other languages. Can retake if failed (fee: 50 PLN per attempt)."
+      },
+      "step4": {
+        "title": "Pass Practical Exam",
+        "description": "50-minute driving test with examiner from WORD. Includes city driving, parking maneuvers, safety checks. Maximum 74 points, need minimum 41 to pass. Retake fee: 180 PLN."
+      },
+      "step5": {
+        "title": "Receive Your License",
+        "description": "After passing both exams, collect license at local Starostwo (district office) or it arrives by mail within 30 days. New licenses valid for 15 years. Temporary paper license issued immediately."
+      },
+      "doc1": "Medical certificate (orzeczenie lekarskie)",
+      "doc2": "Psychological assessment (if required)",
+      "doc3": "PESEL confirmation and proof of address",
+      "doc4": "Completion certificate from driving school",
+      "costs": "Total cost to get Polish driver's license ranges from 3,000-4,500 PLN depending on location and retakes needed.",
+      "cost1": "Medical examination",
+      "cost1Amount": "200-250 PLN",
+      "cost2": "Driving school course",
+      "cost2Amount": "2,500-4,000 PLN",
+      "cost3": "Theory exam",
+      "cost3Amount": "50 PLN (per attempt)",
+      "cost4": "Practical exam",
+      "cost4Amount": "180 PLN (per attempt)",
+      "tip1": "Practice theory test online for free at www.info-car.pl or eWodirej app. Real exam questions from official database. Practice until consistently scoring 70+ points.",
+      "tip2": "Choose driving school carefully - read reviews on Google and Facebook. Some schools rush students through, leading to multiple exam failures and extra costs.",
+      "tip3": "Schedule practical exam when you feel truly ready, not when school pushes you. Each failure costs 180 PLN plus additional driving lessons. Better to practice more upfront.",
+      "faq1Q": "Can I take the theory test in English?",
+      "faq1A": "Yes! Theory exam available in multiple languages including English, German, French, Russian, Ukrainian, Arabic, Vietnamese. Select language when registering at WORD.",
+      "faq2Q": "Do I need to exchange my EU license?",
+      "faq2A": "Not immediately. EU/EEA licenses valid in Poland. But if you become permanent resident or work as professional driver, exchange within 6 months. Non-EU licenses must be exchanged after 6 months.",
+      "faq3Q": "How long does the entire process take?",
+      "faq3A": "Typically 2-4 months. Medical exam: 1 week. Driving school: 1-3 months. Exam waiting times: 2-6 weeks per exam. Faster if you have flexible schedule and pass first try.",
+      "faq4Q": "What if I fail the exams?",
+      "faq4A": "You can retake unlimited times. Theory retake: 50 PLN, earliest 7 days after failure. Practical retake: 180 PLN, earliest 7 days after. Most people pass theory first try, practical on second or third attempt."
+    },
+    "international-driving-permit": {
+      "overview": "International Driving Permit (IDP - Międzynarodowe Prawo Jazdy) is a translation of your driver's license valid in countries that signed the 1949 Geneva Convention. Polish IDP valid for 3 years and must be carried with original license. EU/EEA citizens don't need IDP within EU. Non-EU visitors can drive in Poland for 6 months on home license or IDP. After 6 months of residency, must obtain Polish license. Some countries (US, Canada, Australia) licenses work without IDP for tourism but IDP recommended for clarity.",
+      "req1": "Valid driver's license from your home country",
+      "req2": "Residence in Poland (PESEL or temporary residence card) for Polish IDP",
+      "req3": "One passport-sized photo for IDP application",
+      "req4": "Understanding of time limits for using foreign licenses in Poland",
+      "step1": {
+        "title": "Determine If You Need IDP",
+        "description": "EU/EEA licenses: No IDP needed in Poland or EU. Non-EU tourists: Can drive 6 months on home license. Polish residents traveling abroad: Get Polish IDP for non-EU countries."
+      },
+      "step2": {
+        "title": "Prepare Required Documents",
+        "description": "For Polish IDP: valid Polish driver's license, one passport photo (35×45 mm), passport or ID. Apply at Starostwo Powiatowe (district office) or some city halls (Urząd Miasta)."
+      },
+      "step3": {
+        "title": "Submit Application",
+        "description": "Visit licensing office with documents. Fill out application form. No exam required. Pay fee at office or designated bank. Some offices allow online appointment booking."
+      },
+      "step4": {
+        "title": "Collect Your IDP",
+        "description": "IDP usually issued immediately or within few days. Valid for 3 years. Must be carried together with original license - IDP alone is not valid. Contains translations in multiple languages."
+      },
+      "step5": {
+        "title": "Know Usage Limits",
+        "description": "Non-EU residents in Poland: Foreign license valid 6 months from establishing residency, then must exchange for Polish license. IDP doesn't extend this period - it's just a translation document."
+      },
+      "doc1": "Valid driver's license from home country",
+      "doc2": "Passport or national ID card",
+      "doc3": "One passport-sized photo (35×45 mm)",
+      "doc4": "Proof of Polish residency (for Polish IDP applicants)",
+      "costs": "International Driving Permit is relatively inexpensive compared to getting new license.",
+      "cost1": "International Driving Permit (IDP)",
+      "cost1Amount": "35 PLN",
+      "cost2": "Passport photo",
+      "cost2Amount": "15-25 PLN",
+      "cost3": "License exchange (non-EU to Polish)",
+      "cost3Amount": "100-300 PLN (if required)",
+      "tip1": "If you're non-EU resident in Poland, start license exchange process before 6-month deadline. After expiration, you cannot legally drive and may need to retake exams.",
+      "tip2": "EU/EEA license holders becoming Polish residents don't need to exchange - your home EU license remains valid indefinitely in Poland.",
+      "tip3": "Traveling from Poland to non-EU countries (Turkey, Middle East, Asia, Africa)? Get Polish IDP before trip - many countries require it and rental companies often demand it.",
+      "faq1Q": "Can I drive in Poland with my US/Canadian/Australian license?",
+      "faq1A": "Yes, for tourism up to 6 months. If you become resident (get PESEL, temporary residence), you must exchange for Polish license within 6 months of residency start.",
+      "faq2Q": "Does IDP extend the 6-month limit for foreign licenses?",
+      "faq2A": "No. IDP is just a translation document. If you're resident in Poland, you must exchange to Polish license after 6 months regardless of having IDP.",
+      "faq3Q": "Where can I get an International Driving Permit?",
+      "faq3A": "In Poland: at Starostwo Powiatowe (district office). In your home country: through authorized automobile associations (AAA in US, CAA in Canada, etc) before traveling to Poland.",
+      "faq4Q": "Is my EU license valid in Poland forever?",
+      "faq4A": "Yes! If you have EU/EEA license, it's valid throughout EU including Poland indefinitely. No exchange needed even if you become permanent resident."
+    },
+    "train-travel-pkp": {
+      "overview": "PKP (Polskie Koleje Państwowe) operates Poland's extensive rail network with several types of trains: TLK (cheap, slower), IC (InterCity, medium speed), EIC (Express InterCity, fast), and EIP (Pendolino, fastest). Tickets purchased online, at stations, or via mobile app (PKP Intercity, PolRegio). Advance booking offers discounts up to 60%. Some routes operated by private carriers (Koleje Mazowieckie, PolRegio). Reserve seats on long distance trains. Student, senior, and family discounts available.",
+      "req1": "Valid ticket purchased before boarding or via mobile app",
+      "req2": "Seat reservation for InterCity, EIC, and EIP trains (mandatory)",
+      "req3": "Valid ID for discount tickets (student card, senior ID)",
+      "req4": "Understanding of different train types and pricing",
+      "step1": {
+        "title": "Choose Your Train Type",
+        "description": "TLK: cheapest, slowest, older trains. IC/EIC: modern, faster, more expensive. EIP Pendolino: fastest, Warsaw-Kraków/Gdańsk, premium price. Regional trains: short distances, frequent stops."
+      },
+      "step2": {
+        "title": "Purchase Tickets",
+        "description": "Book online at intercity.pl or rozklad-pkp.pl for best prices (up to 60% discount advance booking). Buy at station ticket office (kasa biletowa) or ticket machines. Mobile tickets via PKP Intercity app."
+      },
+      "step3": {
+        "title": "Reserve Your Seat",
+        "description": "Mandatory for IC, EIC, EIP trains (included in ticket price). Choose seat during online booking or at ticket office. Seat number shown on ticket. Regional trains (TLK, PolRegio) usually no reservation."
+      },
+      "step4": {
+        "title": "Board the Train",
+        "description": "Check departure board for platform (peron) and track number. Arrive 10-15 minutes early. Find your car number (marked on train exterior). Locate seat number inside. Conductor checks tickets during journey."
+      },
+      "step5": {
+        "title": "Use Available Discounts",
+        "description": "Students: up to 51% discount (need valid student ID). Seniors 60+: 37% discount. Children under 4: free. Family discounts available. 'Super Promo' online tickets: book 30 days advance for biggest savings."
+      },
+      "doc1": "Train ticket (paper or mobile)",
+      "doc2": "Seat reservation confirmation (for IC/EIC/EIP)",
+      "doc3": "Valid ID for discount eligibility",
+      "doc4": "Student card or senior ID for reduced fares",
+      "costs": "Train prices vary by distance, train type, and booking time. Advance online booking offers significant savings.",
+      "cost1": "Warsaw-Kraków (Pendolino EIP)",
+      "cost1Amount": "89-200 PLN (2.5 hours)",
+      "cost2": "Warsaw-Kraków (TLK slow train)",
+      "cost2Amount": "39-60 PLN (4.5 hours)",
+      "cost3": "Warsaw-Gdańsk (IC)",
+      "cost3Amount": "59-150 PLN (3 hours)",
+      "cost4": "Short regional trip (50-100km)",
+      "cost4Amount": "15-35 PLN",
+      "tip1": "Book 'Super Promo' tickets 30 days in advance at intercity.pl for up to 60% discount. Check calendar for cheapest dates. Non-refundable but huge savings.",
+      "tip2": "Download PKP Intercity app for mobile tickets - no need to print, conductor scans QR code. Also shows real-time delays and platform changes.",
+      "tip3": "Choose 'first class' (1 klasa) on Pendolino for extra legroom, power outlets, free coffee. Only 20-30 PLN more than economy on many routes.",
+      "faq1Q": "Do I need to reserve a seat on all trains?",
+      "faq1A": "Mandatory on IC, EIC, EIP (InterCity trains) - reservation included in price. Not required on TLK and regional trains (PolRegio), but you may stand if train full.",
+      "faq2Q": "Can I use my ticket on a later/earlier train?",
+      "faq2A": "Depends on ticket type. 'Open ticket' (bilet otwarty) allows any train that day on same route. Reserved seat tickets (IC/EIC/EIP) valid only for specific train and time.",
+      "faq3Q": "What if I miss my train?",
+      "faq3A": "Reserved tickets usually non-refundable. Regional tickets may work on next train. Contact ticket office - sometimes can exchange for fee (20-30 PLN). Promo tickets: no refunds/changes.",
+      "faq4Q": "Is there WiFi on trains?",
+      "faq4A": "Yes, free WiFi on most IC, EIC, and EIP trains (network name: 'PKP_IC_WIFI'). Quality varies. Power outlets at seats on modern trains. TLK trains often lack WiFi."
+    },
+    "airport-connections": {
+      "overview": "Poland has several international airports with good public transport connections. Main airports: Warsaw Chopin (WAW), Kraków Balice (KRK), Gdańsk Rębiechowo (GDN), Wrocław (WRO), Katowice Pyrzowice (KTW). Options include trains, buses, taxis, and ride-sharing. Airport trains fastest for Warsaw and Kraków. Public buses cheapest option. Licensed taxis wait at designated stands - avoid illegal taxis. Uber and Bolt available at major airports. Night buses operate when trains stop.",
+      "req1": "Understanding of transport options from your arrival airport",
+      "req2": "Payment method for tickets (cash, card, or mobile app)",
+      "req3": "Knowledge of destination address in Polish for taxi/Uber",
+      "req4": "Backup transport option if arriving late night",
+      "step1": {
+        "title": "Research Airport Connections",
+        "description": "Before arrival, check airport website for transport options. Warsaw: SKM train to city (20 min). Kraków: train to center (18 min). Other cities: buses and taxis. Note operating hours."
+      },
+      "step2": {
+        "title": "Choose Transport Method",
+        "description": "Train: fastest, runs day/night (Warsaw, Kraków). Bus: cheapest (10-15 PLN), frequent. Taxi: convenient but expensive (80-150 PLN to center). Uber/Bolt: good price compromise (40-100 PLN)."
+      },
+      "step3": {
+        "title": "Purchase Tickets",
+        "description": "Train: buy at ticket machines or windows in airport. Validate before boarding. Bus: ticket machines at stops, drivers, or mobile apps (Jakdojade, SkyCash). Taxi: fixed rates from official taxi stands."
+      },
+      "step4": {
+        "title": "Navigate to Transport",
+        "description": "Follow clear signs (Train/Pociąg, Bus/Autobus, Taxi). Train stations connected directly to terminals. Bus stops usually outside arrivals. Taxi ranks at designated areas - use only official stands."
+      },
+      "step5": {
+        "title": "Complete Your Journey",
+        "description": "Train: typically 20-30 minutes to city center. Bus: 30-60 minutes depending on traffic. Validate tickets on public transport. For taxi/Uber: confirm driver and car details before entering."
+      },
+      "doc1": "Valid ticket for public transport",
+      "doc2": "Destination address written in Polish",
+      "doc3": "Mobile phone for Uber/Bolt or mobile tickets",
+      "doc4": "Cash PLN for taxis or tickets (some places card-only)",
+      "costs": "Airport transport costs vary significantly by method. Public transport much cheaper than taxis.",
+      "cost1": "Airport train (Warsaw/Kraków)",
+      "cost1Amount": "4.40-9 PLN",
+      "cost2": "Airport bus",
+      "cost2Amount": "4.40-15 PLN",
+      "cost3": "Official taxi to city center",
+      "cost3Amount": "80-150 PLN",
+      "cost4": "Uber/Bolt to city center",
+      "cost4Amount": "40-100 PLN",
+      "tip1": "In Warsaw, take SKM train (kolej) from airport to Centralna station - only 4.40 PLN and 20 minutes. Runs 24/7. Much cheaper than taxi.",
+      "tip2": "Beware of illegal taxi touts inside airports approaching you. Use only official taxi ranks outside arrivals or book Uber/Bolt via app.",
+      "tip3": "Download city transport app before arrival (Jakdojade works for all Polish cities) - shows real-time schedules and lets you buy tickets for airport buses.",
+      "faq1Q": "How do I get from Warsaw airport to city center?",
+      "faq1A": "SKM train (kolej) is best: 4.40 PLN, 20 minutes to Warszawa Centralna, runs 24/7. Buy ticket at machines in arrivals hall. Alternative: buses 175, 188, N32 (night).",
+      "faq2Q": "Are taxis from airport safe and honest?",
+      "faq2A": "Official taxis from designated ranks (Sawa, Ele, MPT) use meters and are safe. Fixed rates to city center posted at stands. Avoid touts inside terminal - scam risk. Uber/Bolt more transparent.",
+      "faq3Q": "What if I arrive late at night?",
+      "faq3A": "Warsaw/Kraków: trains run 24/7. Other cities: night buses (marked N) or Uber/Bolt. Check schedules beforehand. Night taxis more expensive but available at official stands.",
+      "faq4Q": "Can I buy airport train tickets onboard?",
+      "faq4A": "Usually no. Must buy before boarding at ticket machines or windows in airport. Tickets also available via mobile apps (PKP InterCity app, mPay). Boarding without ticket = fine."
+    },
+    "finding-a-job": {
+      "overview": "Job market in Poland growing, especially in IT, business services, manufacturing, and healthcare. Main job portals: Pracuj.pl, NoFluffJobs (IT), Indeed.pl, LinkedIn. Large expat community in Warsaw, Kraków, Wrocław, Tricity. Many international companies operate in Poland. English-speaking jobs available in IT, customer service (BPO/SSC), teaching. Polish language knowledge significantly improves opportunities. Work permit required for non-EU citizens. Recruitment process typically includes multiple interviews, sometimes tests or case studies.",
+      "req1": "Updated CV/resume (European format recommended - CV Europass)",
+      "req2": "Valid work permit or EU citizenship for legal employment",
+      "req3": "Polish language skills (basic level helps, fluency for most roles)",
+      "req4": "LinkedIn profile optimized for Polish market",
+      "step1": {
+        "title": "Prepare Application Materials",
+        "description": "Create CV in European format (reverse chronological, 1-2 pages, include photo). Write tailored cover letter (list motywacyjny) for each application. Highlight relevant experience and why interested in Poland."
+      },
+      "step2": {
+        "title": "Search Job Portals",
+        "description": "Register on Pracuj.pl, LinkedIn, NoFluffJobs (tech), GoldenLine. Set job alerts. Filter by English language option. Join Facebook expat groups ('Expats in Warsaw', 'Jobs in Poland') for postings."
+      },
+      "step3": {
+        "title": "Apply and Network",
+        "description": "Apply directly via portals. Message hiring managers on LinkedIn. Attend networking events, job fairs, meetups. Reach out to recruitment agencies (Hays, Randstad, Adecco) specializing in expat placement."
+      },
+      "step4": {
+        "title": "Interview Process",
+        "description": "Expect 2-3 interview rounds: HR screening (phone/video), technical/department interview, final meeting. May include tests, presentations, case studies. Dress business casual. Research company beforehand."
+      },
+      "step5": {
+        "title": "Negotiate and Accept",
+        "description": "Discuss salary (gross vs net clarification), benefits (private medical, sports card), contract type. Common: umowa o pracę (employment), B2B (self-employed contractor). Negotiate respectfully - Polish culture values directness."
+      },
+      "doc1": "CV/Resume in PDF format",
+      "doc2": "Cover letter (list motywacyjny)",
+      "doc3": "Portfolio or work samples (if applicable)",
+      "doc4": "References from previous employers",
+      "costs": "Job searching has minimal direct costs, though some tools and preparation may require investment.",
+      "cost1": "Professional CV writing service",
+      "cost1Amount": "200-500 PLN (optional)",
+      "cost2": "LinkedIn Premium (optional)",
+      "cost2Amount": "139 PLN/month",
+      "cost3": "Networking events/job fairs",
+      "cost3Amount": "0-100 PLN",
+      "cost4": "Professional photo for CV",
+      "cost4Amount": "50-150 PLN",
+      "tip1": "NoFluffJobs.com is best for IT jobs - includes salary ranges, tech stack details, and English-friendly positions. Pracuj.pl better for non-IT roles.",
+      "tip2": "Include photo on CV - it's expected in Poland. Use professional headshot. Also include nationality/work permit status to avoid confusion.",
+      "tip3": "Join Facebook groups like 'Expats in Warsaw', 'Kraków Expats', 'Jobs in Poland' - many jobs posted there first, especially English-speaking roles.",
+      "faq1Q": "Can I find a job in Poland without speaking Polish?",
+      "faq1A": "Yes, especially in IT, customer service (BPO/SSC centers), teaching English, and international companies. However, Polish language significantly expands opportunities and career growth.",
+      "faq2Q": "What are typical salaries in Poland?",
+      "faq2A": "IT: 8,000-20,000+ PLN gross/month. Customer service: 4,500-7,000 PLN. English teachers: 3,000-5,000 PLN. Management: 10,000-25,000+ PLN. Varies by city and experience.",
+      "faq3Q": "How long does hiring process take?",
+      "faq3A": "Typically 2-8 weeks from application to offer. IT roles faster (1-3 weeks). Corporate roles longer (4-8 weeks). Polish companies generally slower than international firms.",
+      "faq4Q": "Do I need work permit before applying?",
+      "faq4A": "EU citizens: no permit needed. Non-EU: employer usually sponsors work permit after accepting job offer. Some companies only hire those with existing permit. Clarify in application."
+    },
+    "employment-contract": {
+      "overview": "Poland has several employment relationship types: umowa o pracę (traditional employment contract - most protection), umowa zlecenie (contract of mandate - less protection), umowa o dzieło (contract for specific work), and B2B (business-to-business - self-employed). Umowa o pracę offers best employee protection including paid leave, sick leave, ZUS contributions, and termination notice periods. Contracts specify salary (gross), position, working hours, and probation period. Always read carefully before signing.",
+      "req1": "Job offer from Polish employer with specified terms",
+      "req2": "Valid work permit (for non-EU citizens)",
+      "req3": "PESEL number for social security registration",
+      "req4": "Understanding of different contract types and protections",
+      "step1": {
+        "title": "Understand Contract Types",
+        "description": "Umowa o pracę: full employment, best protection, paid vacation, ZUS, notice period. Umowa zlecenie: flexible, lower ZUS, no paid vacation. B2B: self-employed contractor, highest pay but no employment protection."
+      },
+      "step2": {
+        "title": "Review Contract Terms",
+        "description": "Check: salary (brutto/gross), position (stanowisko), working hours, probation period (1-3 months), notice period (2 weeks-3 months), benefits. Request English translation if needed. Ask questions before signing."
+      },
+      "step3": {
+        "title": "Verify Trial Period",
+        "description": "Probation contracts (umowa na okres próbny) typical for 1-3 months before permanent contract. Check if convertible to permanent (umowa na czas nieokreślony). Trial period has shorter notice period."
+      },
+      "step4": {
+        "title": "Understand Notice Periods",
+        "description": "Trial period: 3 days-2 weeks notice. Fixed term: usually none or specified. Permanent contract: 2 weeks-3 months depending on tenure. Notice must be given in writing."
+      },
+      "step5": {
+        "title": "Sign and Register",
+        "description": "Sign contract (two copies - one for you). Employer registers you with ZUS (social security) and tax office. You should receive ZUS registration confirmation and tax deduction statement (PIT-2)."
+      },
+      "doc1": "Signed employment contract (umowa o pracę)",
+      "doc2": "PESEL number and identification",
+      "doc3": "Work permit (for non-EU citizens)",
+      "doc4": "Bank account details for salary payment",
+      "costs": "Employment contracts don't have direct costs for employees, but understanding deductions is important.",
+      "cost1": "ZUS employee contribution",
+      "cost1Amount": "~13.7% of gross salary",
+      "cost2": "Income tax (after deductions)",
+      "cost2Amount": "12% or 32% (progressive)",
+      "cost3": "Health insurance contribution",
+      "cost3Amount": "~9% of gross (ZUS-included)",
+      "tip1": "Always insist on umowa o pracę (employment contract) rather than B2B for first job in Poland - gives legal protection, paid vacation, sick leave, and unemployment rights.",
+      "tip2": "Use salary calculator (e.g., wynagrodzenie.pl/kalkulator) to understand net vs gross salary. Your contract shows gross - take-home is about 70-75% after ZUS and tax.",
+      "tip3": "Read contract carefully, especially probation period and notice requirements. If unclear, ask for English version or consult lawyer - better than signing blindly.",
+      "faq1Q": "What's the difference between gross and net salary?",
+      "faq1A": "Gross (brutto) is pre-deduction salary in contract. Net (netto) is take-home after ZUS (~13.7%), health insurance (~9%), and income tax (~12%). Net roughly 70-75% of gross.",
+      "faq2Q": "Can my employer fire me without reason?",
+      "faq2A": "Depends on contract type. Permanent umowa o pracę: employer needs justified reason and must follow notice period. Trial period or fixed term: easier termination. B2B: can end anytime per contract.",
+      "faq3Q": "Am I entitled to paid vacation?",
+      "faq3A": "Umowa o pracę: yes, 20 days first 10 years, 26 days after. Umowa zlecenie: no paid vacation. B2B: no vacation - you're contractor. Always clarify in contract.",
+      "faq4Q": "What happens if I want to quit?",
+      "faq4A": "Submit written resignation (wypowiedzenie) with required notice period: 2 weeks (trial), 2 weeks-3 months (permanent depending on tenure). Employer must accept. Negotiate shorter notice if needed."
+    },
+    "minimum-wage": {
+      "overview": "Poland's minimum wage (płaca minimalna) is set by government and increased annually. As of 2024: 4,242 PLN gross per month (approximately 3,261 PLN net) or 27.70 PLN gross per hour for specific task contracts. Applies to all employees on umowa o pracę and umowa zlecenie. Employers must pay at least minimum wage - violations can be reported to labor inspection (PIP). Regional variations don't exist - same nationwide. Minimum wage covers full-time (40 hours/week, 8 hours/day).",
+      "req1": "Employment contract (umowa o pracę or umowa zlecenie)",
+      "req2": "Understanding of gross vs net salary calculations",
+      "req3": "Knowledge of your rights regarding minimum wage enforcement",
+      "req4": "Awareness of exemptions (some internships, trial work arrangements)",
+      "step1": {
+        "title": "Verify Current Minimum Wage",
+        "description": "Check official rate at gov.pl or Ministry of Family and Social Policy website. Minimum wage updated typically January and July each year. 2024 rate: 4,242 PLN gross/month."
+      },
+      "step2": {
+        "title": "Calculate Your Hourly Rate",
+        "description": "Monthly minimum for full-time: 4,242 PLN gross. Hourly minimum: 27.70 PLN gross. Part-time wages calculated proportionally. Check contract specifies at least minimum or higher."
+      },
+      "step3": {
+        "title": "Understand Deductions",
+        "description": "Gross minimum 4,242 PLN becomes approximately 3,261 PLN net after ZUS (social security) and tax deductions. Use online calculator (wynagrodzenie.pl) to verify your net salary."
+      },
+      "step4": {
+        "title": "Check Your Payslip",
+        "description": "Monthly payslip (pasek płacowy) should show gross salary meets or exceeds minimum wage. Verify ZUS contributions, tax deductions, and net payment matches what you receive."
+      },
+      "step5": {
+        "title": "Report Violations",
+        "description": "If employer pays below minimum wage, contact State Labor Inspection (Państwowa Inspekcja Pracy - PIP) at pip.gov.pl. File complaint anonymously. PIP investigates and enforces compliance, can fine employers."
+      },
+      "doc1": "Employment contract showing wage agreement",
+      "doc2": "Monthly payslips (paski płacowe)",
+      "doc3": "Record of actual hours worked",
+      "doc4": "Bank statements showing salary payments",
+      "costs": "Understanding minimum wage helps ensure fair compensation. No costs to employees for verification or reporting violations.",
+      "cost1": "Minimum wage (gross monthly)",
+      "cost1Amount": "4,242 PLN (2024)",
+      "cost2": "Minimum wage (net monthly approx)",
+      "cost2Amount": "3,261 PLN",
+      "cost3": "Minimum wage (gross hourly)",
+      "cost3Amount": "27.70 PLN",
+      "tip1": "Minimum wage increases every year, usually in January and sometimes mid-year. Check gov.pl for current rates - employers must adjust your salary automatically.",
+      "tip2": "Some employers offer 'minimum wage + commission' or 'minimum wage + bonuses' - base salary must meet minimum even if no bonuses earned that month.",
+      "tip3": "B2B contractors (self-employed) are NOT covered by minimum wage laws - negotiate rates freely. Only applies to umowa o pracę and umowa zlecenie employees.",
+      "faq1Q": "Does minimum wage differ by city or region?",
+      "faq1A": "No, minimum wage is the same throughout Poland - 4,242 PLN gross monthly (2024). No regional variations like some countries. Applies nationwide equally.",
+      "faq2Q": "What if my employer pays less than minimum wage?",
+      "faq2A": "Illegal. Report to State Labor Inspection (PIP) at pip.gov.pl or call 800-101-202. PIP investigates, enforces compliance, and can fine employer. You can report anonymously.",
+      "faq3Q": "Does minimum wage apply to interns and students?",
+      "faq3A": "Depends. Paid internships and student employment contracts must meet minimum wage. Unpaid mandatory school internships (praktyki studenckie) may be exempt if part of curriculum.",
+      "faq4Q": "How often does minimum wage increase?",
+      "faq4A": "Annually, minimum. Government announces increases usually effective January 1st. Sometimes additional mid-year increase (July). Employers must adjust salaries automatically to meet new minimum."
+    },
+    "starting-a-business": {
+      "overview": "Registering a business in Poland (działalność gospodarcza) is relatively straightforward and can be done online or at city hall. Most foreigners start with sole proprietorship (jednoosobowa działalność gospodarcza - JDG). Process takes 1 day online via biznes.gov.pl portal. Requires PESEL and Polish address. Choose between standard ZUS (costly) or preferential ZUS rates for first 2 years (Mały ZUS Plus). Register for VAT if turnover exceeds threshold or working with VAT clients. Popular for freelancers, consultants, IT contractors.",
+      "req1": "PESEL number and registered address in Poland",
+      "req2": "Choosing business classification code (PKD - Polish business activity codes)",
+      "req3": "Decision on tax form: standard (księgowość pełna), simplified (książka przychodów i rozchodów), or flat tax (ryczałt)",
+      "req4": "Bank account for business finances (recommended, not mandatory)",
+      "step1": {
+        "title": "Prepare Required Information",
+        "description": "Need: PESEL, business address (can be home address), chosen business name, PKD codes (select main activity and additional ones from classifier), email for correspondence."
+      },
+      "step2": {
+        "title": "Register via biznes.gov.pl",
+        "description": "Create account at biznes.gov.pl using Trusted Profile (Profil Zaufany). Fill CEIDG form with business details. System automatically registers with: CEIDG (business registry), ZUS (social security), Urząd Skarbowy (tax office). Free."
+      },
+      "step3": {
+        "title": "Choose Tax and ZUS Options",
+        "description": "Tax: standard (18% progressive), flat rate (19%), or lump sum (ryczałt - 2-17% depending on activity). ZUS: preferential rate first 2 years (~700 PLN/month) or Mały ZUS Plus for lower income."
+      },
+      "step4": {
+        "title": "Register for VAT (if needed)",
+        "description": "Mandatory if: annual revenue over 200,000 PLN or working with VAT clients. Register at tax office or via biznes.gov.pl. Choose monthly or quarterly VAT settlements. VAT rates: 23% standard, 8%, 5%, 0%."
+      },
+      "step5": {
+        "title": "Set Up Accounting",
+        "description": "Hire accountant (księgowy) - costs 200-500 PLN/month, handles taxes, ZUS, VAT. Or use online accounting software (inFakt, Faktura.pl, Taxdoo). Keep all receipts and invoices for 5 years."
+      },
+      "doc1": "PESEL confirmation and ID",
+      "doc2": "Proof of business address",
+      "doc3": "Trusted Profile (Profil Zaufany) for online registration",
+      "doc4": "Bank account details for business",
+      "costs": "Starting a business in Poland has low initial costs but ongoing monthly obligations for ZUS and accounting.",
+      "cost1": "Business registration (CEIDG)",
+      "cost1Amount": "0 PLN (free)",
+      "cost2": "Preferential ZUS (first 2 years)",
+      "cost2Amount": "~700 PLN/month",
+      "cost3": "Standard ZUS (after preferential period)",
+      "cost3Amount": "~1,600 PLN/month",
+      "cost4": "Accountant services",
+      "cost4Amount": "200-500 PLN/month",
+      "tip1": "Choose preferential ZUS (Mały ZUS Plus) when registering - saves ~900 PLN/month for first 2 years. You can switch later if income grows significantly.",
+      "tip2": "Select multiple PKD codes even if unsure - adding later requires amendment. Choose main income source as primary PKD, add related activities as secondary.",
+      "tip3": "Hire accountant from day one unless you're expert in Polish tax law. Cost (200-500 PLN/month) is worth avoiding mistakes and PIT/ZUS payment stress.",
+      "faq1Q": "How long does business registration take?",
+      "faq1A": "Online via biznes.gov.pl: immediate (same day). You receive NIP (tax ID) and REGON instantly. Can start invoicing immediately. Paper registration at city hall: 1-3 days.",
+      "faq2Q": "Do I need Polish citizenship to start a business?",
+      "faq2A": "No, but need PESEL (requires residence permit or EU citizenship). EU citizens can register easily. Non-EU citizens need residence permit that allows business activity.",
+      "faq3Q": "What's the difference between działalność and sp. z o.o.?",
+      "faq3A": "Działalność gospodarcza (sole proprietorship): simple, cheap, personal liability. Sp. z o.o. (LLC): complex, requires 5,000 PLN capital, limited liability, good for larger ventures.",
+      "faq4Q": "Can I work on umowa o pracę and have business?",
+      "faq4A": "Yes! Many people have both employment and business. However, if working for your employer via your business (B2B), there may be legal issues. Consult accountant."
+    },
+    "freelancing-regulations": {
+      "overview": "Freelancing in Poland typically done via działalność gospodarcza (sole proprietorship) as independent contractor. Many freelancers work on B2B (business-to-business) contracts with clients/employers. Advantages: higher gross income, tax optimization, business expense deductions. Disadvantages: no paid vacation, no sick leave, you pay full ZUS contributions, less job security. Must issue invoices (faktury) for all work, maintain accounting records, pay monthly ZUS and quarterly taxes. Popular among IT professionals, designers, consultants, translators.",
+      "req1": "Registered działalność gospodarcza (business registration)",
+      "req2": "Understanding of invoicing and tax obligations",
+      "req3": "Accounting system or accountant for tax and ZUS management",
+      "req4": "Contracts or agreements with clients (umowa B2B)",
+      "step1": {
+        "title": "Register Your Business",
+        "description": "Register działalność gospodarcza via biznes.gov.pl (free, online, same day). Select appropriate PKD codes for your freelance services. Choose preferential ZUS for first 2 years to reduce costs."
+      },
+      "step2": {
+        "title": "Choose Tax System",
+        "description": "Options: standard progressive tax (18%/32%), flat tax 19% (ryczałt od przychodu), or lump sum (ryczałt ewidencjonowany 2-17%). Most freelancers choose flat 19%. Consult accountant for best option."
+      },
+      "step3": {
+        "title": "Set Up Invoicing",
+        "description": "Use accounting software (inFakt, Faktura.pl, WFirma) or accountant to issue invoices. VAT registration required if revenue exceeds 200,000 PLN/year or client requires VAT invoice. Issue invoice within 15 days of service."
+      },
+      "step4": {
+        "title": "Manage ZUS Payments",
+        "description": "Pay ZUS monthly (deadline: 10th of following month). Preferential rate ~700 PLN/month for first 2 years, then standard ~1,600 PLN/month. Accountant calculates exact amount. Set up automatic payments."
+      },
+      "step5": {
+        "title": "Handle Taxes and Reporting",
+        "description": "Pay advance income tax monthly or quarterly (depending on system). File annual PIT-36 tax return (March-April). Keep records 5 years. Accountant handles all filings - essential for freelancers."
+      },
+      "doc1": "Registered działalność gospodarcza confirmation",
+      "doc2": "NIP (tax identification number)",
+      "doc3": "B2B contracts with clients",
+      "doc4": "Invoices and expense receipts",
+      "costs": "Freelancing via działalność gospodarcza has ongoing costs that reduce take-home income but offer flexibility.",
+      "cost1": "Preferential ZUS (first 2 years)",
+      "cost1Amount": "~700 PLN/month",
+      "cost2": "Standard ZUS (after preferential)",
+      "cost2Amount": "~1,600 PLN/month",
+      "cost3": "Accountant services",
+      "cost3Amount": "200-500 PLN/month",
+      "cost4": "Income tax (flat rate)",
+      "cost4Amount": "19% of income",
+      "tip1": "Calculate total costs before going freelance: ZUS (~700-1,600 PLN), accountant (~300 PLN), taxes (19%). Need to earn significantly more than umowa o pracę net to break even.",
+      "tip2": "Deduct business expenses from taxable income: computer, software, phone, internet, coworking, courses, travel. Keep ALL receipts. Can save 20-30% on taxes.",
+      "tip3": "Negotiate B2B rates 30-50% higher than equivalent umowa o pracę salary to compensate for no benefits, vacation, sick leave, and higher costs.",
+      "faq1Q": "What's better: B2B freelance or umowa o pracę?",
+      "faq1A": "Depends. B2B: higher gross pay, flexibility, tax deductions, no paid vacation/sick leave. Umowa o pracę: paid vacation, sick leave, ZUS paid by employer, job security. Calculate net earnings for your situation.",
+      "faq2Q": "How much should I charge as freelancer?",
+      "faq2A": "Calculate: desired net income + ZUS + accountant + taxes (19%) + 20-30% buffer + business expenses. Generally B2B rates 30-50% higher than equivalent employment salary. Market rates vary by industry.",
+      "faq3Q": "Can I freelance without działalność gospodarcza?",
+      "faq3A": "For occasional work: use umowa zlecenie (contract of mandate). Regular freelancing: need działalność. Working without registration is illegal and can result in tax penalties and retroactive ZUS charges.",
+      "faq4Q": "Do I have to pay ZUS every month even with no income?",
+      "faq4A": "Yes, ZUS mandatory even with zero revenue. You can suspend business (zawieszenie działalności) for up to 36 months to avoid ZUS payments if not working temporarily."
+    },
+    "unemployment-benefits": {
+      "overview": "Unemployment benefits (zasiłek dla bezrobotnych) available for those who lost jobs through no fault of their own and meet qualifying criteria. Register at local labor office (Powiatowy Urząd Pracy - PUP) within 7 days of job loss. Benefit amount: approximately 1,668.40 PLN gross for first 3 months, then 1,313.70 PLN (2024 rates). Duration: 6-12 months depending on unemployment rate in region. Must actively seek work and accept reasonable job offers. Benefits also include access to training programs and career counseling.",
+      "req1": "Minimum 365 days of employment in last 18 months before registration",
+      "req2": "Termination of employment through no fault of own (not voluntary resignation)",
+      "req3": "PESEL number and proof of previous employment",
+      "req4": "Active job seeking and cooperation with labor office",
+      "step1": {
+        "title": "Register at PUP Immediately",
+        "description": "Visit local Powiatowy Urząd Pracy within 7 days of losing job. Bring ID, PESEL, employment certificate (świadectwo pracy), proof of termination. Register as unemployed (bezrobotny) or job-seeker."
+      },
+      "step2": {
+        "title": "Submit Benefit Application",
+        "description": "File application for zasiłek dla bezrobotnych at PUP. Officer reviews work history and eligibility. Decision within 30 days. If approved, benefits start 7th day after registration."
+      },
+      "step3": {
+        "title": "Attend Required Meetings",
+        "description": "PUP schedules regular meetings (every 2-4 weeks). Must attend all appointments - missing meeting can suspend benefits. Discuss job search progress, receive job offers, sign required documents."
+      },
+      "step4": {
+        "title": "Actively Seek Employment",
+        "description": "Apply for jobs, attend interviews, accept reasonable offers matching qualifications and location. Refusing suitable job without valid reason results in benefit loss. Report all job search activities to PUP."
+      },
+      "step5": {
+        "title": "Consider Training Programs",
+        "description": "PUP offers free training courses, certifications, language classes to improve employability. Participating extends benefit duration sometimes. Ask counselor about available programs."
+      },
+      "doc1": "Employment certificate (świadectwo pracy)",
+      "doc2": "PESEL and identification document",
+      "doc3": "Proof of previous employment and ZUS contributions",
+      "doc4": "Application form for unemployment benefits",
+      "costs": "Unemployment benefits are received, not paid. Understanding amounts helps financial planning during job search.",
+      "cost1": "Unemployment benefit (first 3 months)",
+      "cost1Amount": "~1,668 PLN gross/month",
+      "cost2": "Unemployment benefit (months 4-6/12)",
+      "cost2Amount": "~1,314 PLN gross/month",
+      "cost3": "Health insurance during unemployment",
+      "cost3Amount": "Covered by PUP",
+      "tip1": "Register at PUP within 7 days of job loss even if unsure about benefits - maintains your rights and access to free training programs.",
+      "tip2": "Don't resign voluntarily if you need unemployment benefits - voluntary resignation disqualifies you. Negotiate mutual agreement (porozumienie stron) with employer instead.",
+      "tip3": "Take advantage of free training and courses offered by PUP - improves skills and employability, extends benefit duration, and costs nothing.",
+      "faq1Q": "Can I receive unemployment benefits if I resigned?",
+      "faq1A": "Generally no. Must lose job through no fault of own (employer termination, layoff, mutual agreement). Voluntary resignation disqualifies unless special circumstances (mobbing, unpaid wages, employer violation).",
+      "faq2Q": "How long can I receive unemployment benefits?",
+      "faq2A": "6 months in regions with low unemployment (<150% national average), 12 months in high unemployment regions. Duration fixed when benefit granted. Extensions rare except during economic crises.",
+      "faq3Q": "What happens if I refuse a job offer from PUP?",
+      "faq3A": "Refusing reasonable offer matching your qualifications, experience, and location (within commuting distance) results in benefit suspension or termination. Can explain reasons - some valid (health, childcare).",
+      "faq4Q": "Can foreigners receive unemployment benefits?",
+      "faq4A": "Yes, if legally employed in Poland with ZUS contributions and meet eligibility criteria. EU citizens same rules as Poles. Non-EU requires work permit history and legal residence status."
+    },
+    "sick-leave": {
+      "overview": "Sick leave (zwolnienie lekarskie, commonly called L4) in Poland requires medical certificate from doctor. Employer pays 80% of salary for first 33 days (100% if pregnancy, accident, or occupational disease), then ZUS pays sickness benefit (zasiłek chorobowy) at 80% for up to 182 days. Longer illness may qualify for rehabilitation benefit or disability pension. Doctor issues electronic sick note (e-ZLA) sent directly to ZUS and employer. Employee cannot be fired during sick leave. Abuse of sick leave (working elsewhere) can result in termination and benefit repayment.",
+      "req1": "Employment contract (umowa o pracę) with ZUS contributions",
+      "req2": "Medical consultation with doctor who issues sick note (e-ZLA)",
+      "req3": "Electronic signature/profile for accessing ZUS patient portal",
+      "req4": "Compliance with sick leave rules (staying home, available for inspections)",
+      "step1": {
+        "title": "Visit Doctor for Examination",
+        "description": "Go to your registered family doctor (lekarz POZ) or specialist. Explain symptoms. If medically justified, doctor issues electronic sick note (e-ZLA) specifying leave duration (typically 5-14 days)."
+      },
+      "step2": {
+        "title": "Automatic Notification",
+        "description": "E-ZLA sent electronically to ZUS system and your employer simultaneously. No paper needed. Employer receives notification automatically. You can view your sick notes in PUE ZUS patient portal."
+      },
+      "step3": {
+        "title": "Follow Sick Leave Rules",
+        "description": "Stay at your registered address during sick leave. Cannot work elsewhere or engage in activities inconsistent with illness. ZUS can send inspectors to verify compliance. Violation results in benefit loss."
+      },
+      "step4": {
+        "title": "Extend If Necessary",
+        "description": "If still ill when e-ZLA expires, visit doctor before expiration for extension. Doctor can extend multiple times up to 182 days total. After 182 days, may apply for rehabilitation benefit."
+      },
+      "step5": {
+        "title": "Return to Work",
+        "description": "After sick leave ends, return to work on specified date. No additional documentation needed from doctor unless employer requests fitness-to-work certificate for certain jobs (heavy labor, safety-sensitive)."
+      },
+      "doc1": "Electronic sick note (e-ZLA) issued by doctor",
+      "doc2": "Access to PUE ZUS portal for verification",
+      "doc3": "Medical documentation supporting illness (if disputed)",
+      "doc4": "Employer notification (automatic via e-ZLA system)",
+      "costs": "Sick leave costs employee lost income (paid 80% instead of 100% in most cases) but no direct fees.",
+      "cost1": "Sick pay (days 1-33 from employer)",
+      "cost1Amount": "80% of salary (100% for specific cases)",
+      "cost2": "Sick pay (days 34-182 from ZUS)",
+      "cost2Amount": "80% of salary",
+      "cost3": "Doctor visit (NFZ public)",
+      "cost3Amount": "0 PLN (free)",
+      "cost4": "Doctor visit (private)",
+      "cost4Amount": "150-300 PLN",
+      "tip1": "First 3 days of sick leave in a year: some employers don't pay (check contract). From 4th day onward, 80% payment mandatory. Plan accordingly for short illnesses.",
+      "tip2": "Pregnancy-related illness paid at 100% not 80%. Tell doctor if illness is pregnancy-related so e-ZLA correctly coded for full payment.",
+      "tip3": "Never work elsewhere during sick leave - ZUS inspections are real. Getting caught results in losing all sick pay for that period and possible termination.",
+      "faq1Q": "How do I get a sick note (L4)?",
+      "faq1A": "Visit your registered family doctor (POZ) or specialist. If medically justified, doctor issues e-ZLA (electronic sick note) directly to ZUS and employer system. No paper needed. Immediate notification.",
+      "faq2Q": "How much will I be paid during sick leave?",
+      "faq2A": "Days 1-33: employer pays 80% of salary (100% if pregnancy, accident, occupational disease). Days 34-182: ZUS pays 80%. Note: some employers don't pay first 3 days per year (check contract).",
+      "faq3Q": "Can my employer fire me while on sick leave?",
+      "faq3A": "No. Dismissal during sick leave is illegal and void. Protection applies to sick leave up to 182 days. After that, different rules apply for long-term disability.",
+      "faq4Q": "What if I get sick while on vacation?",
+      "faq4A": "Get e-ZLA from doctor while on vacation. Sick days during vacation don't count as vacation - you get those vacation days back to use later. Notify employer immediately."
+    },
+    "maternity-paternity-leave": {
+      "overview": "Poland offers generous parental leave: maternity leave (urlop macierzyński) 20 weeks for first child, longer for multiples. Mother must take minimum 14 weeks; remaining shareable with father. Additional parental leave (urlop rodzicielski) 32 weeks shareable between parents. Father entitled to 2 weeks paternity leave within first year. Benefits paid by ZUS: 100% salary on maternity/paternity leave, 60-81.5% on parental leave (higher if taken together). Job protection during and after leave. Must have employment for 6 months before due date.",
+      "req1": "Employment contract (umowa o pracę) with ZUS contributions for 6+ months",
+      "req2": "Medical certificate confirming pregnancy or birth certificate",
+      "req3": "Application submitted to employer at least 7 days before leave start",
+      "req4": "Understanding of leave types and benefit calculations",
+      "step1": {
+        "title": "Understand Leave Types",
+        "description": "Maternity leave (urlop macierzyński): 20-37 weeks depending on children number, mother must take 14 weeks minimum. Parental leave (urlop rodzicielski): additional 32-34 weeks shareable. Paternity leave: 2 weeks for father."
+      },
+      "step2": {
+        "title": "Notify Employer",
+        "description": "Submit written application at least 7 days before leave start. Include: expected/actual birth date, desired leave duration, who takes which portion (if sharing). Attach medical certificate or birth certificate."
+      },
+      "step3": {
+        "title": "Take Maternity Leave",
+        "description": "Mother receives 100% salary during maternity leave (20-37 weeks). Can start up to 6 weeks before due date. Father can take portion after mother completes mandatory 14 weeks."
+      },
+      "step4": {
+        "title": "Decide on Parental Leave",
+        "description": "After maternity leave, optional parental leave: 32 weeks standard. Benefit: 60% salary (70% if taken part-time, 81.5% if both parents take simultaneously). Shareable between parents in multiple periods."
+      },
+      "step5": {
+        "title": "Return to Work",
+        "description": "Job guaranteed upon return. Can request flexible schedule or part-time. Notify employer about return date. Breastfeeding mothers entitled to two 30-minute breaks daily for feeding."
+      },
+      "doc1": "Medical certificate confirming pregnancy",
+      "doc2": "Birth certificate (for parental leave)",
+      "doc3": "Written application to employer",
+      "doc4": "ZUS benefit application forms",
+      "costs": "Parental leave provides benefits, not costs. Understanding payment rates helps financial planning.",
+      "cost1": "Maternity benefit (urlop macierzyński)",
+      "cost1Amount": "100% of salary",
+      "cost2": "Parental benefit (urlop rodzicielski standard)",
+      "cost2Amount": "60% of salary",
+      "cost3": "Parental benefit (parents together)",
+      "cost3Amount": "81.5% of salary",
+      "cost4": "Paternity benefit",
+      "cost4Amount": "100% of salary",
+      "tip1": "Take parental leave (urlop rodzicielski) simultaneously with partner for 81.5% benefit each instead of 60% alone - increases household income during leave.",
+      "tip2": "Consider part-time parental leave (70% benefit) - work 50% hours, receive 70% benefit plus 50% salary. Total income 120% of benefit-only option.",
+      "tip3": "Father should take 2 weeks paternity leave (urlop ojcowski) at 100% salary within first year - use it or lose it. Separate from shareable parental leave.",
+      "faq1Q": "How much maternity leave do I get?",
+      "faq1A": "20 weeks for one child, 31 weeks for twins, 33 for triplets, 35 for quadruplets, 37 for quintuplets or more. Mother must take minimum 14 weeks; rest shareable with father.",
+      "faq2Q": "What if I haven't worked 6 months before birth?",
+      "faq2A": "Still entitled to maternity leave and job protection, but benefit calculated differently (lower). Need any employment at conception. Less than 6 months: benefit based on shorter period or minimum wage.",
+      "faq3Q": "Can father take maternity leave instead of mother?",
+      "faq3A": "Partially. Mother must take mandatory 14 weeks. After that, father can take remaining maternity leave weeks (6+ weeks depending on total duration) while mother returns to work.",
+      "faq4Q": "What's the difference between maternity and parental leave?",
+      "faq4A": "Maternity (urlop macierzyński): 20-37 weeks, 100% salary, mother must take 14 weeks minimum. Parental (urlop rodzicielski): additional 32 weeks, 60-81.5% salary, fully shareable, more flexible."
+    },
+    "annual-leave": {
+      "overview": "Annual paid vacation (urlop wypoczynkowy) is mandatory benefit for all employees on umowa o pracę. Entitlement: 20 days per year for workers with less than 10 years total employment experience, 26 days for 10+ years experience. Vacation days accrue monthly (1/12 of annual entitlement). Employer decides timing but must consider employee preferences. Unused vacation doesn't expire but must be taken within 12 months of entitlement year end. Cannot be exchanged for money except upon employment termination.",
+      "req1": "Employment contract (umowa o pracę) - vacation mandatory for this type",
+      "req2": "Minimum one month employment to accrue vacation days",
+      "req3": "Written vacation request submitted to employer",
+      "req4": "Employer approval of vacation dates (required by law to grant)",
+      "step1": {
+        "title": "Check Your Entitlement",
+        "description": "20 days if less than 10 years total work experience. 26 days if 10+ years. Experience counts from all employment, including abroad if documented. First year: accrue proportionally (1.67 or 2.17 days per month)."
+      },
+      "step2": {
+        "title": "Plan Your Vacation",
+        "description": "Coordinate with employer and team. Many companies require advance notice (2-4 weeks typical). Popular vacation times (July-August, holidays) may have limited spots. Check company vacation policy for procedures."
+      },
+      "step3": {
+        "title": "Submit Vacation Request",
+        "description": "Submit written request (wniosek urlopowy) specifying dates and number of days. Employer must approve unless significant business reasons prevent it. Approval should be in writing or via company HR system."
+      },
+      "step4": {
+        "title": "Take Your Vacation",
+        "description": "During vacation, you receive full salary. Employer cannot contact you for work matters (unless emergency). Set out-of-office messages. Vacation days cannot be interrupted except in extraordinary circumstances."
+      },
+      "step5": {
+        "title": "Track Unused Days",
+        "description": "Unused vacation must be taken within 12 months after entitlement year ends. Employer obligated to remind employees and schedule unused vacation. Upon termination, unused days paid out in cash."
+      },
+      "doc1": "Employment contract specifying vacation entitlement",
+      "doc2": "Written vacation request (wniosek urlopowy)",
+      "doc3": "Vacation approval from employer",
+      "doc4": "Documentation of previous employment for experience calculation",
+      "costs": "Annual leave is paid benefit - employee receives full salary during vacation.",
+      "cost1": "Vacation pay",
+      "cost1Amount": "100% of regular salary",
+      "cost2": "Additional vacation benefit (if applicable)",
+      "cost2Amount": "Some employers offer vacation bonuses",
+      "tip1": "Use all vacation days each year - your health and employer legally obligated to ensure you take minimum 14 consecutive days per year.",
+      "tip2": "Request important vacation dates (weddings, trips) well in advance. Employer must grant vacation but can influence timing for business needs.",
+      "tip3": "If terminated, unused vacation days paid in cash in final settlement. Don't lose accrued days - ensure calculation correct in wypowiedzenie settlement.",
+      "faq1Q": "How many vacation days do I get?",
+      "faq1A": "20 days per year if less than 10 years total work experience (anywhere, including abroad). 26 days per year if 10+ years experience. First year accrued monthly: 1.67 or 2.17 days per month.",
+      "faq2Q": "Can my employer refuse my vacation request?",
+      "faq2A": "Legally employer can influence timing for business needs but must grant vacation. Cannot deny all requests. If denied repeatedly, employee can escalate to labor inspection. Employer must ensure minimum 14 consecutive days annually.",
+      "faq3Q": "What happens to unused vacation when I quit?",
+      "faq3A": "Unused vacation days paid out in cash as part of final settlement. Calculated at your regular salary rate. Cannot be forfeited - employer must pay for all accrued unused days.",
+      "faq4Q": "Do umowa zlecenie and B2B contracts get vacation?",
+      "faq4A": "No. Only umowa o pracę guarantees paid vacation. Umowa zlecenie and B2B (self-employed): no paid vacation. You can take time off but without pay. Factor this into rate negotiations."
+    },
+    "remote-work-regulations": {
+      "overview": "Remote work (praca zdalna) in Poland formalized by law in 2023. Distinguishes between occasional remote work and permanent hybrid/fully remote arrangements. Employees with 6+ months employment can request remote work; employer can refuse only with justified reason. Employer must provide necessary equipment or compensate for use of employee's tools (lump sum ~150 PLN/month typical). Working hours must be respected. Health and safety rules apply even at home. Can work remotely from anywhere in Poland unless contract specifies location. EU/international remote work has additional legal complexity.",
+      "req1": "Employment contract (umowa o pracę) for at least 6 months",
+      "req2": "Agreement with employer on remote work terms (written recommended)",
+      "req3": "Suitable workspace at home or remote location",
+      "req4": "Equipment and internet connection sufficient for work tasks",
+      "step1": {
+        "title": "Request Remote Work",
+        "description": "Submit written request to employer specifying: frequency (occasional, permanent, hybrid), location, proposed schedule. After 6 months employment, employer must respond and can refuse only with justified business reason."
+      },
+      "step2": {
+        "title": "Negotiate Terms",
+        "description": "Discuss: number of remote days per week, equipment provision (company laptop, phone, monitor), expense reimbursement (~150 PLN/month lump sum typical), communication expectations, availability requirements."
+      },
+      "step3": {
+        "title": "Formalize Arrangement",
+        "description": "Employer issues written confirmation or contract amendment (aneks do umowy) specifying remote work conditions. Include: location flexibility, equipment, expenses, working hours, conditions for ending arrangement."
+      },
+      "step4": {
+        "title": "Set Up Home Workspace",
+        "description": "Designate appropriate work area meeting basic health and safety requirements. Ensure reliable internet, adequate lighting, ergonomic furniture. Employer can inspect workspace for health and safety compliance (with notice)."
+      },
+      "step5": {
+        "title": "Follow Remote Work Rules",
+        "description": "Maintain regular working hours unless agreed otherwise. Be available during core hours. Use company equipment for work. Don't work from abroad without employer permission (tax and legal implications). Report any issues promptly."
+      },
+      "doc1": "Written remote work request",
+      "doc2": "Employer approval or contract amendment",
+      "doc3": "Equipment provision/reimbursement agreement",
+      "doc4": "Remote work policy document (if company has one)",
+      "costs": "Remote work may involve setup costs offset by employer reimbursement and commute savings.",
+      "cost1": "Home office setup (if employee-provided)",
+      "cost1Amount": "1,000-3,000 PLN (desk, chair, etc.)",
+      "cost2": "Increased utilities (electricity, internet)",
+      "cost2Amount": "50-150 PLN/month",
+      "cost3": "Employer equipment reimbursement",
+      "cost3Amount": "~150 PLN/month (typical)",
+      "tip1": "Negotiate equipment provision before starting remote work - employer should provide laptop, phone, monitor, or pay monthly lump sum (~150 PLN) for your equipment use.",
+      "tip2": "Get remote work agreement in writing (aneks do umowy) specifying terms, location flexibility, equipment, reimbursement. Protects both parties if disputes arise.",
+      "tip3": "Don't work remotely from abroad without employer approval - creates tax and legal complications for both parties. Even temporary work trips need employer knowledge.",
+      "faq1Q": "Can my employer force me to return to office?",
+      "faq1A": "Depends. If remote work in contract/annex: requires agreement or contract amendment. If informal arrangement: employer can end it with reasonable notice. New law gives employees with 6+ months right to request; employer must justify refusal.",
+      "faq2Q": "Who pays for internet and electricity when working from home?",
+      "faq2A": "Typically employer pays lump sum (~150 PLN/month) for equipment use and utilities, or provides all equipment. Must be agreed in writing. Some employers don't compensate - negotiate this upfront.",
+      "faq3Q": "Can I work remotely from anywhere in Poland?",
+      "faq3A": "Yes, unless contract specifies location restrictions. Can work from home, cafe, coworking space, family's place anywhere in Poland. Working abroad (even EU) requires employer permission due to tax/legal issues.",
+      "faq4Q": "Do remote workers have same rights as office workers?",
+      "faq4A": "Yes! Same rights to paid vacation, sick leave, working time limits, overtime pay. Employer cannot discriminate based on remote status. Career advancement and training must be equal."
     }
   },
   "pages": {
