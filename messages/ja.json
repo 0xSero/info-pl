@@ -22,11 +22,26 @@
       "req2": "Knowing which businesses are exempt from the ban",
       "req3": "Planning your shopping accordingly",
       "req4": "Being aware of public holiday exceptions",
-      "step1": { "title": "Check the Calendar", "description": "Verify which Sundays allow shopping - typically the last Sunday of each month and Sundays before major holidays." },
-      "step2": { "title": "Identify Exempt Businesses", "description": "Gas stations, pharmacies, bakeries, flower shops, and postal services can open on Sundays." },
-      "step3": { "title": "Plan Ahead", "description": "Do your grocery shopping on Saturday or weekdays to avoid Sunday closures." },
-      "step4": { "title": "Use Online Shopping", "description": "Many stores offer online ordering with delivery or pickup options available on Sundays." },
-      "step5": { "title": "Know Your Rights", "description": "If you work retail, understand your rights regarding Sunday work under Polish labor law." },
+      "step1": {
+        "title": "Check the Calendar",
+        "description": "Verify which Sundays allow shopping - typically the last Sunday of each month and Sundays before major holidays."
+      },
+      "step2": {
+        "title": "Identify Exempt Businesses",
+        "description": "Gas stations, pharmacies, bakeries, flower shops, and postal services can open on Sundays."
+      },
+      "step3": {
+        "title": "Plan Ahead",
+        "description": "Do your grocery shopping on Saturday or weekdays to avoid Sunday closures."
+      },
+      "step4": {
+        "title": "Use Online Shopping",
+        "description": "Many stores offer online ordering with delivery or pickup options available on Sundays."
+      },
+      "step5": {
+        "title": "Know Your Rights",
+        "description": "If you work retail, understand your rights regarding Sunday work under Polish labor law."
+      },
       "doc1": "Calendar of trading Sundays (published annually)",
       "doc2": "List of exempt business categories",
       "doc3": "Store opening hours policies",
@@ -54,11 +69,26 @@
       "req2": "Registered address in Poland (meldunek)",
       "req3": "Valid passport or national ID",
       "req4": "Completed application form",
-      "step1": { "title": "Register Your Address", "description": "First, you must register your residential address (meldunek) at the local city office (Urząd Miasta)." },
-      "step2": { "title": "Gather Documents", "description": "Prepare your passport, residence permit, proof of address, and any other required documents." },
-      "step3": { "title": "Visit the Office", "description": "Go to the population registration office (Wydział Spraw Obywatelskich) in your city." },
-      "step4": { "title": "Submit Application", "description": "Fill out the application form and submit it with your documents. The process is usually free." },
-      "step5": { "title": "Receive Your PESEL", "description": "You'll receive your PESEL number immediately or within a few days. It's usually included in your residence permit card." },
+      "step1": {
+        "title": "Register Your Address",
+        "description": "First, you must register your residential address (meldunek) at the local city office (Urząd Miasta)."
+      },
+      "step2": {
+        "title": "Gather Documents",
+        "description": "Prepare your passport, residence permit, proof of address, and any other required documents."
+      },
+      "step3": {
+        "title": "Visit the Office",
+        "description": "Go to the population registration office (Wydział Spraw Obywatelskich) in your city."
+      },
+      "step4": {
+        "title": "Submit Application",
+        "description": "Fill out the application form and submit it with your documents. The process is usually free."
+      },
+      "step5": {
+        "title": "Receive Your PESEL",
+        "description": "You'll receive your PESEL number immediately or within a few days. It's usually included in your residence permit card."
+      },
       "doc1": "Valid passport or national ID card",
       "doc2": "Residence permit (Karta Pobytu) or visa",
       "doc3": "Proof of registered address (meldunek confirmation)",
@@ -86,11 +116,26 @@
       "req2": "Understanding which services remain open",
       "req3": "Planning shopping and errands around holidays",
       "req4": "Awareness of religious vs. secular holidays",
-      "step1": { "title": "Check the Annual Calendar", "description": "Review the list of 13 official Polish holidays for the current year." },
-      "step2": { "title": "Plan Shopping", "description": "Stock up on essentials before holidays as most stores will be closed." },
-      "step3": { "title": "Emergency Services", "description": "Know that emergency services, pharmacies, and some gas stations remain open." },
-      "step4": { "title": "Public Transport", "description": "Check modified schedules - public transport often runs on reduced Sunday schedules." },
-      "step5": { "title": "Workplace Rights", "description": "Understand your rights to time off and holiday pay under Polish labor law." },
+      "step1": {
+        "title": "Check the Annual Calendar",
+        "description": "Review the list of 13 official Polish holidays for the current year."
+      },
+      "step2": {
+        "title": "Plan Shopping",
+        "description": "Stock up on essentials before holidays as most stores will be closed."
+      },
+      "step3": {
+        "title": "Emergency Services",
+        "description": "Know that emergency services, pharmacies, and some gas stations remain open."
+      },
+      "step4": {
+        "title": "Public Transport",
+        "description": "Check modified schedules - public transport often runs on reduced Sunday schedules."
+      },
+      "step5": {
+        "title": "Workplace Rights",
+        "description": "Understand your rights to time off and holiday pay under Polish labor law."
+      },
       "doc1": "Official Polish holiday calendar",
       "doc2": "Employment contract (for holiday pay rights)",
       "doc3": "Public transport holiday schedules",
@@ -114,205 +159,405 @@
     }
   },
   "pages": {
-    "pesel.title": "PESEL Number - Polish ID Number",
-    "pesel.description": "Learn how to obtain your PESEL number, the essential identification number for living in Poland",
-    "nip.title": "NIP Tax ID Number",
-    "nip.description": "Get your NIP (tax identification number) for working and doing business in Poland",
-    "tempResidence.title": "Temporary Residence Permit",
-    "tempResidence.description": "Apply for temporary residence (Karta Pobytu) to live legally in Poland",
-    "permResidence.title": "Permanent Residence Permit",
-    "permResidence.description": "Obtain permanent residence status in Poland after years of legal stay",
-    "workPermit.title": "Work Permit",
-    "workPermit.description": "Everything you need to know about getting a work permit in Poland",
-    "blueCard.title": "EU Blue Card",
-    "blueCard.description": "Apply for an EU Blue Card for highly skilled workers in Poland",
-    "citizenship.title": "Polish Citizenship",
-    "citizenship.description": "Requirements and process for obtaining Polish citizenship",
-    "address.title": "Registering Your Address (Meldunek)",
-    "address.description": "How to register your residential address at the local city office",
-    "passport.title": "Passport Requirements",
-    "passport.description": "Passport validity and requirements for staying in Poland",
-    "visa.title": "Visa Types",
-    "visa.description": "Different types of visas available for entering and staying in Poland",
-    "kartaPobytu.title": "Karta Pobytu (Residence Card)",
-    "kartaPobytu.description": "Your physical residence permit card - how to apply and renew",
-    "meldunek.title": "Meldunek Registration",
-    "meldunek.description": "Registering your address in Poland - a required first step",
-    "licenseExchange.title": "Exchanging Foreign Driver's License",
-    "licenseExchange.description": "How to exchange your foreign driver's license for a Polish one",
-    "birthCert.title": "Birth Certificate Registration",
-    "birthCert.description": "Registering a birth and obtaining Polish birth certificates",
-    "marriage.title": "Marriage Registration",
-    "marriage.description": "Getting married in Poland or registering foreign marriage",
-    "nfz.title": "NFZ Health Insurance",
-    "nfz.description": "Poland's public health insurance system and how to access it",
-    "doctor.title": "Finding a Doctor (POZ)",
-    "doctor.description": "How to register with a primary care physician (POZ) in Poland",
-    "emergency.title": "Emergency Services - 112",
-    "emergency.description": "Emergency numbers, ambulance, and urgent medical care in Poland",
-    "pharmacy.title": "Pharmacies and Prescriptions",
-    "pharmacy.description": "Finding pharmacies, getting prescriptions, and buying medications",
-    "dental.title": "Dental Care",
-    "dental.description": "Public and private dental services in Poland",
-    "mentalHealth.title": "Mental Health Services",
-    "mentalHealth.description": "Accessing mental health support and therapy in Poland",
-    "vaccinations.title": "Vaccinations",
-    "vaccinations.description": "Required and recommended vaccinations in Poland",
-    "healthInsurance.title": "Health Insurance for Foreigners",
-    "healthInsurance.description": "Private and public health insurance options for foreigners",
-    "hospital.title": "Hospital Care",
-    "hospital.description": "How to access hospital services through NFZ or privately",
-    "maternity.title": "Pregnancy and Maternity Care",
-    "maternity.description": "Healthcare services for pregnant women and new mothers",
-    "bankAccount.title": "Opening a Bank Account",
-    "bankAccount.description": "Step-by-step guide to opening a Polish bank account",
-    "creditCard.title": "Credit Cards in Poland",
-    "creditCard.description": "Applying for credit cards and building credit history",
-    "loans.title": "Loans for Foreigners",
-    "loans.description": "Personal loans and lending options for foreigners in Poland",
-    "pit.title": "PIT Tax Returns",
-    "pit.description": "Filing annual income tax returns (PIT) in Poland",
-    "zus.title": "ZUS Social Security",
-    "zus.description": "Social security contributions and benefits in Poland",
-    "currencyExchange.title": "Currency Exchange",
-    "currencyExchange.description": "Best places to exchange currency and get good rates",
-    "moneyAbroad.title": "Sending Money Abroad",
-    "moneyAbroad.description": "International money transfers from Poland",
-    "mortgage.title": "Mortgage for Foreigners",
-    "mortgage.description": "Getting a home loan as a foreigner in Poland",
-    "taxDeductions.title": "Tax Deductions",
-    "taxDeductions.description": "Claiming tax deductions and reducing your tax burden",
-    "crypto.title": "Cryptocurrency Regulations",
-    "crypto.description": "Trading and taxing cryptocurrencies in Poland",
-    "renting.title": "Renting an Apartment",
-    "renting.description": "Finding, renting, and signing lease agreements in Poland",
-    "buyingProperty.title": "Buying Property",
-    "buyingProperty.description": "Real estate purchase process for foreigners",
-    "utilities.title": "Setting Up Utilities",
-    "utilities.description": "Connecting electricity, gas, water, and internet services",
-    "internet.title": "Internet Providers",
-    "internet.description": "Choosing and setting up home internet in Poland",
-    "tenantRights.title": "Tenant Rights",
-    "tenantRights.description": "Understanding your rights and protections as a tenant",
-    "realEstate.title": "Real Estate Agencies",
-    "realEstate.description": "Working with real estate agents in Poland",
-    "deposit.title": "Security Deposits",
-    "deposit.description": "Understanding rental deposits and getting them back",
-    "rentalContract.title": "Rental Contracts",
-    "rentalContract.description": "Understanding Polish rental agreements",
-    "housingPrices.title": "Housing Prices by City",
-    "housingPrices.description": "Rent and property prices across Polish cities",
-    "studentHousing.title": "Student Housing",
-    "studentHousing.description": "Dormitories and accommodation for students",
-    "publicTransport.title": "Public Transportation",
-    "publicTransport.description": "Buses, trams, metro, and tickets in Polish cities",
-    "buyingCar.title": "Buying a Car",
-    "buyingCar.description": "Purchasing new or used vehicles in Poland",
-    "carInsurance.title": "Car Insurance",
-    "carInsurance.description": "Required OC and optional AC car insurance",
-    "vehicleReg.title": "Vehicle Registration",
-    "vehicleReg.description": "Registering a car and getting Polish license plates",
-    "parking.title": "Parking Rules",
-    "parking.description": "Parking zones, fees, and regulations in Polish cities",
-    "trafficFines.title": "Traffic Fines",
-    "trafficFines.description": "Understanding and paying traffic violations",
-    "driversLicense.title": "Driver's License",
-    "driversLicense.description": "Getting a Polish driver's license",
-    "intlDriving.title": "International Driving Permit",
-    "intlDriving.description": "Using foreign licenses and international permits",
-    "trains.title": "Train Travel (PKP)",
-    "trains.description": "Using Polish railways for domestic and international travel",
-    "airport.title": "Airport Connections",
-    "airport.description": "Getting to and from airports in major Polish cities",
-    "sundayShopping.title": "Sunday Shopping Laws",
-    "sundayShopping.description": "Understanding Poland's Sunday trading restrictions and exceptions",
-    "holidays.title": "Polish Public Holidays",
-    "holidays.description": "Complete guide to Poland's 13 official public holidays",
-    "wasteSorting.title": "Waste Sorting and Recycling",
-    "wasteSorting.description": "How to properly sort garbage in Poland's color-coded system",
-    "supermarkets.title": "Supermarkets Guide",
-    "supermarkets.description": "Major grocery chains and shopping options in Poland",
-    "postal.title": "Polish Post (Poczta Polska)",
-    "postal.description": "Using postal services, sending packages, and PO boxes",
-    "mobile.title": "Mobile Phone Plans",
-    "mobile.description": "Prepaid and contract mobile phone options",
-    "electricity.title": "Electricity Providers",
-    "electricity.description": "Choosing electricity suppliers and understanding bills",
-    "water.title": "Water Bills",
-    "water.description": "Water and sewage services and billing",
-    "heating.title": "Heating Systems",
-    "heating.description": "Central heating, gas, and electric heating options",
-    "languageCourses.title": "Polish Language Courses",
-    "languageCourses.description": "Free and paid Polish language learning opportunities",
-    "pets.title": "Pet Registration and Care",
-    "pets.description": "Registering pets, veterinary care, and pet regulations",
-    "recycling.title": "Recycling Rules",
-    "recycling.description": "What can be recycled and where to take recyclables",
-    "emergencyNumbers.title": "Emergency Contact Numbers",
-    "emergencyNumbers.description": "Police (997), Fire (998), Ambulance (999), EU (112)",
-    "weather.title": "Weather and Seasons",
-    "weather.description": "Understanding Poland's climate and seasonal changes",
-    "timeZones.title": "Time Zone",
-    "timeZones.description": "Poland uses Central European Time (CET/CEST)",
-    "findingJob.title": "Finding a Job",
-    "findingJob.description": "Job search resources and hiring process in Poland",
-    "employment.title": "Employment Contracts",
-    "employment.description": "Types of employment contracts and your rights",
-    "minWage.title": "Minimum Wage",
-    "minWage.description": "Current minimum wage rates in Poland",
-    "business.title": "Starting a Business",
-    "business.description": "Registering a company and entrepreneurship in Poland",
-    "freelancing.title": "Freelancing and Self-Employment",
-    "freelancing.description": "Working as a freelancer (działalność gospodarcza)",
-    "unemployment.title": "Unemployment Benefits",
-    "unemployment.description": "Registering as unemployed and receiving benefits",
-    "sickLeave.title": "Sick Leave",
-    "sickLeave.description": "Medical leave (L4) and sickness benefits",
-    "parentalLeave.title": "Maternity and Paternity Leave",
-    "parentalLeave.description": "Parental leave rights and benefits",
-    "annualLeave.title": "Annual Leave (Vacation)",
-    "annualLeave.description": "Vacation days and leave entitlements",
-    "remoteWork.title": "Remote Work Regulations",
-    "remoteWork.description": "Working from home and remote work laws",
-    "schoolEnrollment.title": "School Enrollment",
-    "schoolEnrollment.description": "Enrolling children in Polish public schools",
-    "universities.title": "Universities for Foreigners",
-    "universities.description": "Higher education options and admission process",
-    "scholarships.title": "Scholarship Programs",
-    "scholarships.description": "Financial aid and scholarships for students",
-    "kindergarten.title": "Kindergartens (Przedszkole)",
-    "kindergarten.description": "Enrolling children in preschool and kindergarten",
-    "certification.title": "Polish Language Certification",
-    "certification.description": "Official Polish language exams and certificates",
-    "studentVisa.title": "Student Visa",
-    "studentVisa.description": "Visa and residence permits for students",
-    "diplomaRecognition.title": "Recognizing Foreign Diplomas",
-    "diplomaRecognition.description": "Getting foreign degrees recognized in Poland",
-    "intlSchools.title": "International Schools",
-    "intlSchools.description": "English and international schools in Poland",
-    "vocational.title": "Vocational Training",
-    "vocational.description": "Technical and vocational education programs",
-    "adultEducation.title": "Adult Education",
-    "adultEducation.description": "Continuing education and professional development",
-    "customs.title": "Polish Customs and Etiquette",
-    "customs.description": "Social norms and cultural expectations in Poland",
-    "religiousHolidays.title": "Religious Holidays",
-    "religiousHolidays.description": "Catholic holidays and traditions in Poland",
-    "nameDays.title": "Name Days (Imieniny)",
-    "nameDays.description": "Understanding the Polish tradition of name days",
-    "cuisine.title": "Polish Cuisine",
-    "cuisine.description": "Traditional Polish foods and dining culture",
-    "expat.title": "Expat Communities",
-    "expat.description": "Finding expat groups and international communities",
-    "integration.title": "Integration Programs",
-    "integration.description": "Government and NGO integration support for foreigners",
-    "history.title": "Polish History Basics",
-    "history.description": "Essential Polish history every foreigner should know",
-    "events.title": "Cultural Events",
-    "events.description": "Festivals, concerts, and cultural activities",
-    "sports.title": "Sports and Recreation",
-    "sports.description": "Gyms, sports clubs, and recreational activities",
-    "friends.title": "Making Polish Friends",
-    "friends.description": "Tips for socializing and building friendships in Poland"
+    "pesel": {
+      "title": "PESEL Number - Polish ID Number",
+      "description": "Learn how to obtain your PESEL number, the essential identification number for living in Poland"
+    },
+    "nip": {
+      "title": "NIP Tax ID Number",
+      "description": "Get your NIP (tax identification number) for working and doing business in Poland"
+    },
+    "tempResidence": {
+      "title": "Temporary Residence Permit",
+      "description": "Apply for temporary residence (Karta Pobytu) to live legally in Poland"
+    },
+    "permResidence": {
+      "title": "Permanent Residence Permit",
+      "description": "Obtain permanent residence status in Poland after years of legal stay"
+    },
+    "workPermit": {
+      "title": "Work Permit",
+      "description": "Everything you need to know about getting a work permit in Poland"
+    },
+    "blueCard": {
+      "title": "EU Blue Card",
+      "description": "Apply for an EU Blue Card for highly skilled workers in Poland"
+    },
+    "citizenship": {
+      "title": "Polish Citizenship",
+      "description": "Requirements and process for obtaining Polish citizenship"
+    },
+    "address": {
+      "title": "Registering Your Address (Meldunek)",
+      "description": "How to register your residential address at the local city office"
+    },
+    "passport": {
+      "title": "Passport Requirements",
+      "description": "Passport validity and requirements for staying in Poland"
+    },
+    "visa": {
+      "title": "Visa Types",
+      "description": "Different types of visas available for entering and staying in Poland"
+    },
+    "kartaPobytu": {
+      "title": "Karta Pobytu (Residence Card)",
+      "description": "Your physical residence permit card - how to apply and renew"
+    },
+    "meldunek": {
+      "title": "Meldunek Registration",
+      "description": "Registering your address in Poland - a required first step"
+    },
+    "licenseExchange": {
+      "title": "Exchanging Foreign Driver's License",
+      "description": "How to exchange your foreign driver's license for a Polish one"
+    },
+    "birthCert": {
+      "title": "Birth Certificate Registration",
+      "description": "Registering a birth and obtaining Polish birth certificates"
+    },
+    "marriage": {
+      "title": "Marriage Registration",
+      "description": "Getting married in Poland or registering foreign marriage"
+    },
+    "nfz": {
+      "title": "NFZ Health Insurance",
+      "description": "Poland's public health insurance system and how to access it"
+    },
+    "doctor": {
+      "title": "Finding a Doctor (POZ)",
+      "description": "How to register with a primary care physician (POZ) in Poland"
+    },
+    "emergency": {
+      "title": "Emergency Services - 112",
+      "description": "Emergency numbers, ambulance, and urgent medical care in Poland"
+    },
+    "pharmacy": {
+      "title": "Pharmacies and Prescriptions",
+      "description": "Finding pharmacies, getting prescriptions, and buying medications"
+    },
+    "dental": {
+      "title": "Dental Care",
+      "description": "Public and private dental services in Poland"
+    },
+    "mentalHealth": {
+      "title": "Mental Health Services",
+      "description": "Accessing mental health support and therapy in Poland"
+    },
+    "vaccinations": {
+      "title": "Vaccinations",
+      "description": "Required and recommended vaccinations in Poland"
+    },
+    "healthInsurance": {
+      "title": "Health Insurance for Foreigners",
+      "description": "Private and public health insurance options for foreigners"
+    },
+    "hospital": {
+      "title": "Hospital Care",
+      "description": "How to access hospital services through NFZ or privately"
+    },
+    "maternity": {
+      "title": "Pregnancy and Maternity Care",
+      "description": "Healthcare services for pregnant women and new mothers"
+    },
+    "bankAccount": {
+      "title": "Opening a Bank Account",
+      "description": "Step-by-step guide to opening a Polish bank account"
+    },
+    "creditCard": {
+      "title": "Credit Cards in Poland",
+      "description": "Applying for credit cards and building credit history"
+    },
+    "loans": {
+      "title": "Loans for Foreigners",
+      "description": "Personal loans and lending options for foreigners in Poland"
+    },
+    "pit": {
+      "title": "PIT Tax Returns",
+      "description": "Filing annual income tax returns (PIT) in Poland"
+    },
+    "zus": {
+      "title": "ZUS Social Security",
+      "description": "Social security contributions and benefits in Poland"
+    },
+    "currencyExchange": {
+      "title": "Currency Exchange",
+      "description": "Best places to exchange currency and get good rates"
+    },
+    "moneyAbroad": {
+      "title": "Sending Money Abroad",
+      "description": "International money transfers from Poland"
+    },
+    "mortgage": {
+      "title": "Mortgage for Foreigners",
+      "description": "Getting a home loan as a foreigner in Poland"
+    },
+    "taxDeductions": {
+      "title": "Tax Deductions",
+      "description": "Claiming tax deductions and reducing your tax burden"
+    },
+    "crypto": {
+      "title": "Cryptocurrency Regulations",
+      "description": "Trading and taxing cryptocurrencies in Poland"
+    },
+    "renting": {
+      "title": "Renting an Apartment",
+      "description": "Finding, renting, and signing lease agreements in Poland"
+    },
+    "buyingProperty": {
+      "title": "Buying Property",
+      "description": "Real estate purchase process for foreigners"
+    },
+    "utilities": {
+      "title": "Setting Up Utilities",
+      "description": "Connecting electricity, gas, water, and internet services"
+    },
+    "internet": {
+      "title": "Internet Providers",
+      "description": "Choosing and setting up home internet in Poland"
+    },
+    "tenantRights": {
+      "title": "Tenant Rights",
+      "description": "Understanding your rights and protections as a tenant"
+    },
+    "realEstate": {
+      "title": "Real Estate Agencies",
+      "description": "Working with real estate agents in Poland"
+    },
+    "deposit": {
+      "title": "Security Deposits",
+      "description": "Understanding rental deposits and getting them back"
+    },
+    "rentalContract": {
+      "title": "Rental Contracts",
+      "description": "Understanding Polish rental agreements"
+    },
+    "housingPrices": {
+      "title": "Housing Prices by City",
+      "description": "Rent and property prices across Polish cities"
+    },
+    "studentHousing": {
+      "title": "Student Housing",
+      "description": "Dormitories and accommodation for students"
+    },
+    "publicTransport": {
+      "title": "Public Transportation",
+      "description": "Buses, trams, metro, and tickets in Polish cities"
+    },
+    "buyingCar": {
+      "title": "Buying a Car",
+      "description": "Purchasing new or used vehicles in Poland"
+    },
+    "carInsurance": {
+      "title": "Car Insurance",
+      "description": "Required OC and optional AC car insurance"
+    },
+    "vehicleReg": {
+      "title": "Vehicle Registration",
+      "description": "Registering a car and getting Polish license plates"
+    },
+    "parking": {
+      "title": "Parking Rules",
+      "description": "Parking zones, fees, and regulations in Polish cities"
+    },
+    "trafficFines": {
+      "title": "Traffic Fines",
+      "description": "Understanding and paying traffic violations"
+    },
+    "driversLicense": {
+      "title": "Driver's License",
+      "description": "Getting a Polish driver's license"
+    },
+    "intlDriving": {
+      "title": "International Driving Permit",
+      "description": "Using foreign licenses and international permits"
+    },
+    "trains": {
+      "title": "Train Travel (PKP)",
+      "description": "Using Polish railways for domestic and international travel"
+    },
+    "airport": {
+      "title": "Airport Connections",
+      "description": "Getting to and from airports in major Polish cities"
+    },
+    "sundayShopping": {
+      "title": "Sunday Shopping Laws",
+      "description": "Understanding Poland's Sunday trading restrictions and exceptions"
+    },
+    "holidays": {
+      "title": "Polish Public Holidays",
+      "description": "Complete guide to Poland's 13 official public holidays"
+    },
+    "wasteSorting": {
+      "title": "Waste Sorting and Recycling",
+      "description": "How to properly sort garbage in Poland's color-coded system"
+    },
+    "supermarkets": {
+      "title": "Supermarkets Guide",
+      "description": "Major grocery chains and shopping options in Poland"
+    },
+    "postal": {
+      "title": "Polish Post (Poczta Polska)",
+      "description": "Using postal services, sending packages, and PO boxes"
+    },
+    "mobile": {
+      "title": "Mobile Phone Plans",
+      "description": "Prepaid and contract mobile phone options"
+    },
+    "electricity": {
+      "title": "Electricity Providers",
+      "description": "Choosing electricity suppliers and understanding bills"
+    },
+    "water": {
+      "title": "Water Bills",
+      "description": "Water and sewage services and billing"
+    },
+    "heating": {
+      "title": "Heating Systems",
+      "description": "Central heating, gas, and electric heating options"
+    },
+    "languageCourses": {
+      "title": "Polish Language Courses",
+      "description": "Free and paid Polish language learning opportunities"
+    },
+    "pets": {
+      "title": "Pet Registration and Care",
+      "description": "Registering pets, veterinary care, and pet regulations"
+    },
+    "recycling": {
+      "title": "Recycling Rules",
+      "description": "What can be recycled and where to take recyclables"
+    },
+    "emergencyNumbers": {
+      "title": "Emergency Contact Numbers",
+      "description": "Police (997), Fire (998), Ambulance (999), EU (112)"
+    },
+    "weather": {
+      "title": "Weather and Seasons",
+      "description": "Understanding Poland's climate and seasonal changes"
+    },
+    "timeZones": {
+      "title": "Time Zone",
+      "description": "Poland uses Central European Time (CET/CEST)"
+    },
+    "findingJob": {
+      "title": "Finding a Job",
+      "description": "Job search resources and hiring process in Poland"
+    },
+    "employment": {
+      "title": "Employment Contracts",
+      "description": "Types of employment contracts and your rights"
+    },
+    "minWage": {
+      "title": "Minimum Wage",
+      "description": "Current minimum wage rates in Poland"
+    },
+    "business": {
+      "title": "Starting a Business",
+      "description": "Registering a company and entrepreneurship in Poland"
+    },
+    "freelancing": {
+      "title": "Freelancing and Self-Employment",
+      "description": "Working as a freelancer (działalność gospodarcza)"
+    },
+    "unemployment": {
+      "title": "Unemployment Benefits",
+      "description": "Registering as unemployed and receiving benefits"
+    },
+    "sickLeave": {
+      "title": "Sick Leave",
+      "description": "Medical leave (L4) and sickness benefits"
+    },
+    "parentalLeave": {
+      "title": "Maternity and Paternity Leave",
+      "description": "Parental leave rights and benefits"
+    },
+    "annualLeave": {
+      "title": "Annual Leave (Vacation)",
+      "description": "Vacation days and leave entitlements"
+    },
+    "remoteWork": {
+      "title": "Remote Work Regulations",
+      "description": "Working from home and remote work laws"
+    },
+    "schoolEnrollment": {
+      "title": "School Enrollment",
+      "description": "Enrolling children in Polish public schools"
+    },
+    "universities": {
+      "title": "Universities for Foreigners",
+      "description": "Higher education options and admission process"
+    },
+    "scholarships": {
+      "title": "Scholarship Programs",
+      "description": "Financial aid and scholarships for students"
+    },
+    "kindergarten": {
+      "title": "Kindergartens (Przedszkole)",
+      "description": "Enrolling children in preschool and kindergarten"
+    },
+    "certification": {
+      "title": "Polish Language Certification",
+      "description": "Official Polish language exams and certificates"
+    },
+    "studentVisa": {
+      "title": "Student Visa",
+      "description": "Visa and residence permits for students"
+    },
+    "diplomaRecognition": {
+      "title": "Recognizing Foreign Diplomas",
+      "description": "Getting foreign degrees recognized in Poland"
+    },
+    "intlSchools": {
+      "title": "International Schools",
+      "description": "English and international schools in Poland"
+    },
+    "vocational": {
+      "title": "Vocational Training",
+      "description": "Technical and vocational education programs"
+    },
+    "adultEducation": {
+      "title": "Adult Education",
+      "description": "Continuing education and professional development"
+    },
+    "customs": {
+      "title": "Polish Customs and Etiquette",
+      "description": "Social norms and cultural expectations in Poland"
+    },
+    "religiousHolidays": {
+      "title": "Religious Holidays",
+      "description": "Catholic holidays and traditions in Poland"
+    },
+    "nameDays": {
+      "title": "Name Days (Imieniny)",
+      "description": "Understanding the Polish tradition of name days"
+    },
+    "cuisine": {
+      "title": "Polish Cuisine",
+      "description": "Traditional Polish foods and dining culture"
+    },
+    "expat": {
+      "title": "Expat Communities",
+      "description": "Finding expat groups and international communities"
+    },
+    "integration": {
+      "title": "Integration Programs",
+      "description": "Government and NGO integration support for foreigners"
+    },
+    "history": {
+      "title": "Polish History Basics",
+      "description": "Essential Polish history every foreigner should know"
+    },
+    "events": {
+      "title": "Cultural Events",
+      "description": "Festivals, concerts, and cultural activities"
+    },
+    "sports": {
+      "title": "Sports and Recreation",
+      "description": "Gyms, sports clubs, and recreational activities"
+    },
+    "friends": {
+      "title": "Making Polish Friends",
+      "description": "Tips for socializing and building friendships in Poland"
+    }
   }
 }

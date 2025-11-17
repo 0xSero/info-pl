@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import { pagesConfig } from '@/lib/pages-config';
 import { AdBanner } from '@/components/AdBanner';
@@ -30,27 +30,60 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const t = await getTranslations({ locale, namespace: 'pages' });
+  const title = t(page.titleKey);
+  const description = t(page.descriptionKey);
+  const baseUrl = 'https://info-poland.com'; // Replace with your actual domain
+
+  // Import locales for alternates
+  const { locales } = await import('@/i18n');
+
   return {
-    title: `${page.titleKey} - Info Poland`,
-    description: page.descriptionKey,
+    title: title,
+    description: description,
+    keywords: [
+      'Poland',
+      'foreigners',
+      'expats',
+      slug.replace(/-/g, ' '),
+      title,
+    ],
+    authors: [{ name: 'Info Poland' }],
     alternates: {
-      canonical: `/${locale}/${slug}`,
-      languages: {
-        'en': `/en/${slug}`,
-        'uk': `/uk/${slug}`,
-        'ru': `/ru/${slug}`,
-        'de': `/de/${slug}`,
-        'es': `/es/${slug}`,
-        'fr': `/fr/${slug}`,
-        'it': `/it/${slug}`,
-        'pl': `/pl/${slug}`,
-      },
+      canonical: `${baseUrl}/${locale}/${slug}`,
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `${baseUrl}/${l}/${slug}`])
+      ),
     },
     openGraph: {
-      title: `${page.titleKey} - Info Poland`,
-      description: page.descriptionKey,
+      title: `${title} | Info Poland`,
+      description: description,
       type: 'article',
       locale: locale,
+      url: `${baseUrl}/${locale}/${slug}`,
+      siteName: 'Info Poland',
+      images: [
+        {
+          url: `${baseUrl}/og-image.png`,
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${title} | Info Poland`,
+      description: description,
+      images: [`${baseUrl}/og-image.png`],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+      },
     },
   };
 }
@@ -63,8 +96,8 @@ export default async function PageDetail({ params }: PageProps) {
     notFound();
   }
 
-  const t = useTranslations('pages');
-  const tc = useTranslations('content');
+  const t = await getTranslations('pages');
+  const tc = await getTranslations('content');
 
   // Get related pages from the same category
   const relatedPages = pagesConfig

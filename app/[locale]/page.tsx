@@ -1,12 +1,15 @@
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import { pagesConfig, categoryNames, type Category } from '@/lib/pages-config';
 import { AdBanner } from '@/components/AdBanner';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 import * as Icons from 'lucide-react';
 import { LucideIcon } from 'lucide-react';
 
-export default function HomePage({ params }: { params: Promise<{ locale: string }> }) {
-  const t = useTranslations('pages');
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations('pages');
 
   // Group pages by category
   const pagesByCategory = pagesConfig.reduce((acc, page) => {
@@ -18,27 +21,27 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
   }, {} as Record<string, typeof pagesConfig>);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-white to-gray-50">
+    <div className="min-h-screen bg-gradient-to-b from-background to-muted/20">
       {/* Hero Section */}
-      <section className="bg-red-600 py-12 text-white md:py-20">
+      <section className="bg-gradient-to-r from-primary to-primary/90 py-16 text-primary-foreground md:py-24">
         <div className="container mx-auto px-4">
           <div className="text-center">
-            <h1 className="mb-4 text-4xl font-bold md:text-6xl">
+            <h1 className="mb-6 text-5xl font-extrabold tracking-tight md:text-7xl">
               Welcome to Poland! 🇵🇱
             </h1>
-            <p className="mx-auto mb-8 max-w-2xl text-lg md:text-xl">
+            <p className="mx-auto mb-10 max-w-3xl text-lg leading-relaxed md:text-xl">
               Your comprehensive guide to living in Poland. Find all the information you need about documents, healthcare, housing, work, and daily life.
             </p>
-            <div className="flex flex-wrap justify-center gap-4 text-sm md:text-base">
-              <div className="rounded-lg bg-white/10 px-4 py-2 backdrop-blur-sm">
+            <div className="flex flex-wrap justify-center gap-3">
+              <Badge variant="secondary" className="px-4 py-2 text-base">
                 📚 100+ Detailed Guides
-              </div>
-              <div className="rounded-lg bg-white/10 px-4 py-2 backdrop-blur-sm">
+              </Badge>
+              <Badge variant="secondary" className="px-4 py-2 text-base">
                 🌍 Available in 20 Languages
-              </div>
-              <div className="rounded-lg bg-white/10 px-4 py-2 backdrop-blur-sm">
+              </Badge>
+              <Badge variant="secondary" className="px-4 py-2 text-base">
                 ✅ Always Up-to-Date
-              </div>
+              </Badge>
             </div>
           </div>
         </div>
@@ -60,27 +63,33 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
                     {categoryNames[categoryKey]}
                   </h2>
 
-                  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+                  <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                     {pages.map((page) => {
                       const IconComponent = (Icons[page.icon as keyof typeof Icons] || Icons.FileText) as LucideIcon;
 
                       return (
                         <Link
                           key={page.slug}
-                          href={`/${page.slug}`}
-                          className="group relative overflow-hidden rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-all hover:border-red-500 hover:shadow-md"
+                          href={`/${locale}/${page.slug}`}
+                          className="group transition-all hover:scale-[1.02]"
                         >
-                          <div className="mb-3 flex items-start justify-between">
-                            <div className="rounded-lg bg-red-50 p-3 text-red-600 transition-colors group-hover:bg-red-600 group-hover:text-white">
-                              <IconComponent size={24} />
-                            </div>
-                          </div>
-                          <h3 className="mb-2 font-semibold text-gray-900 group-hover:text-red-600">
-                            {t(`${page.titleKey}`)}
-                          </h3>
-                          <p className="line-clamp-2 text-sm text-gray-600">
-                            {t(`${page.descriptionKey}`)}
-                          </p>
+                          <Card className="h-full transition-all hover:shadow-lg hover:border-primary">
+                            <CardHeader>
+                              <div className="mb-3 flex items-start justify-between">
+                                <div className="rounded-xl bg-primary/10 p-3.5 text-primary transition-colors group-hover:bg-primary group-hover:text-primary-foreground">
+                                  <IconComponent className="h-6 w-6" />
+                                </div>
+                              </div>
+                              <CardTitle className="text-lg group-hover:text-primary transition-colors">
+                                {t(`${page.titleKey}`)}
+                              </CardTitle>
+                            </CardHeader>
+                            <CardContent>
+                              <CardDescription className="line-clamp-2">
+                                {t(`${page.descriptionKey}`)}
+                              </CardDescription>
+                            </CardContent>
+                          </Card>
                         </Link>
                       );
                     })}
@@ -103,27 +112,51 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
       <AdBanner slot="9876543210" format="auto" />
 
       {/* Quick Links Section */}
-      <section className="bg-gray-100 py-12">
+      <section className="bg-muted/40 py-16">
         <div className="container mx-auto px-4">
-          <h2 className="mb-8 text-center text-3xl font-bold text-gray-900">
+          <h2 className="mb-10 text-center text-3xl font-bold tracking-tight">
             Most Popular Topics
           </h2>
-          <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-4">
-            <Link href="/sunday-shopping-laws" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
-              <div className="text-2xl">🛒</div>
-              <h3 className="mt-2 font-semibold">Sunday Shopping</h3>
+          <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-4">
+            <Link href={`/${locale}/sunday-shopping-laws`} className="group transition-all hover:scale-[1.02]">
+              <Card className="h-full text-center transition-all hover:shadow-lg hover:border-primary">
+                <CardHeader>
+                  <div className="mx-auto mb-3 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-4xl transition-all group-hover:bg-primary group-hover:scale-110">
+                    🛒
+                  </div>
+                  <CardTitle className="text-lg group-hover:text-primary transition-colors">Sunday Shopping</CardTitle>
+                </CardHeader>
+              </Card>
             </Link>
-            <Link href="/pesel-number" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
-              <div className="text-2xl">📋</div>
-              <h3 className="mt-2 font-semibold">PESEL Number</h3>
+            <Link href={`/${locale}/pesel-number`} className="group transition-all hover:scale-[1.02]">
+              <Card className="h-full text-center transition-all hover:shadow-lg hover:border-primary">
+                <CardHeader>
+                  <div className="mx-auto mb-3 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-4xl transition-all group-hover:bg-primary group-hover:scale-110">
+                    📋
+                  </div>
+                  <CardTitle className="text-lg group-hover:text-primary transition-colors">PESEL Number</CardTitle>
+                </CardHeader>
+              </Card>
             </Link>
-            <Link href="/polish-holidays" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
-              <div className="text-2xl">📅</div>
-              <h3 className="mt-2 font-semibold">Polish Holidays</h3>
+            <Link href={`/${locale}/polish-holidays`} className="group transition-all hover:scale-[1.02]">
+              <Card className="h-full text-center transition-all hover:shadow-lg hover:border-primary">
+                <CardHeader>
+                  <div className="mx-auto mb-3 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-4xl transition-all group-hover:bg-primary group-hover:scale-110">
+                    📅
+                  </div>
+                  <CardTitle className="text-lg group-hover:text-primary transition-colors">Polish Holidays</CardTitle>
+                </CardHeader>
+              </Card>
             </Link>
-            <Link href="/nfz-health-insurance" className="rounded-lg bg-white p-6 shadow-sm hover:shadow-md">
-              <div className="text-2xl">🏥</div>
-              <h3 className="mt-2 font-semibold">Healthcare (NFZ)</h3>
+            <Link href={`/${locale}/nfz-health-insurance`} className="group transition-all hover:scale-[1.02]">
+              <Card className="h-full text-center transition-all hover:shadow-lg hover:border-primary">
+                <CardHeader>
+                  <div className="mx-auto mb-3 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-4xl transition-all group-hover:bg-primary group-hover:scale-110">
+                    🏥
+                  </div>
+                  <CardTitle className="text-lg group-hover:text-primary transition-colors">Healthcare (NFZ)</CardTitle>
+                </CardHeader>
+              </Card>
             </Link>
           </div>
         </div>
