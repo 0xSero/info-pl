@@ -4316,6 +4316,563 @@
       "faq3A": "Yes, unless contract specifies location restrictions. Can work from home, cafe, coworking space, family's place anywhere in Poland. Working abroad (even EU) requires employer permission due to tax/legal issues.",
       "faq4Q": "Do remote workers have same rights as office workers?",
       "faq4A": "Yes! Same rights to paid vacation, sick leave, working time limits, overtime pay. Employer cannot discriminate based on remote status. Career advancement and training must be equal."
+    },
+    "waste-sorting": {
+      "overview": "Poland has a mandatory color-coded waste segregation system implemented nationwide. Households and businesses must separate waste into designated colored containers: yellow (plastics/metals), blue (paper), green (glass), brown (bio-waste), and black/gray (mixed waste). Proper sorting is enforced by law with fines for violations. Waste collection fees are included in property maintenance costs or billed separately for houses. Segregation helps Poland meet EU recycling targets and reduces landfill usage.",
+      "req1": "Access to color-coded waste containers at your residence",
+      "req2": "Understanding which materials go in which colored bin",
+      "req3": "Cleaning and preparing recyclables (no food residue)",
+      "req4": "Following local collection schedule for each waste type",
+      "step1": {
+        "title": "Identify Your Containers",
+        "description": "Locate waste containers at your building or property. Apartments typically have shared bins in designated areas. Houses receive individual bins from waste management company. Verify you have yellow, blue, green, brown, and mixed waste containers."
+      },
+      "step2": {
+        "title": "Learn the Color System",
+        "description": "Yellow: plastic bottles, metal cans, packaging. Blue: paper, cardboard, newspapers. Green: glass bottles and jars. Brown: biodegradable waste (food scraps, garden waste). Black/gray: everything else (mixed/residual waste). Each bin has pictograms showing accepted items."
+      },
+      "step3": {
+        "title": "Prepare Recyclables",
+        "description": "Rinse containers to remove food residue. Flatten cardboard boxes. Remove caps from bottles. Don't bag recyclables in plastic - put items loose in bins. Dirty/greasy items like pizza boxes go to mixed waste, not recycling."
+      },
+      "step4": {
+        "title": "Check Collection Schedule",
+        "description": "Mixed waste collected most frequently (weekly or bi-weekly). Recyclables collected less often (every 2-4 weeks per type). Check schedule on waste company website, mobile app, or information posted at containers. Don't put bins out on wrong days."
+      },
+      "step5": {
+        "title": "Handle Special Waste",
+        "description": "Electronics, batteries, chemicals, furniture cannot go in regular bins. Take to PSZOK (Punkt Selektywnej Zbiórki Odpadów Komunalnych) - free municipal waste collection points. Large items: schedule pickup or take to PSZOK. Batteries: drop in collection boxes at stores."
+      },
+      "doc1": "Waste collection schedule (from property manager or waste company)",
+      "doc2": "Waste segregation guide (usually provided by municipality)",
+      "doc3": "PSZOK locations and hours in your city",
+      "doc4": "Waste management company contact information",
+      "costs": "Waste collection fees usually included in property costs or billed separately for houses.",
+      "cost1": "Apartment building (included in rent/maintenance)",
+      "cost1Amount": "Usually included, ~30-60 PLN/month per household",
+      "cost2": "Private house waste collection",
+      "cost2Amount": "40-80 PLN/month depending on city",
+      "cost3": "Violation fine for improper sorting",
+      "cost3Amount": "500-5,000 PLN",
+      "tip1": "When in doubt, put it in mixed waste rather than contaminating recycling bins. One dirty item can spoil entire recycling batch, leading to fines for the building.",
+      "tip2": "Download your city's waste management app - shows collection schedules, sorting guide with photos, and PSZOK locations. Available in most major cities.",
+      "tip3": "Glass bottles: remove metal caps (yellow bin) but ceramic/porcelain caps stay on glass. Broken glass goes to mixed waste, not green bin (safety hazard).",
+      "faq1Q": "What happens if I don't sort waste properly?",
+      "faq1A": "Building can be fined 500-5,000 PLN for improper sorting. In apartment buildings, property manager may identify violators through surveillance or witness reports and pass fine to responsible household. Repeated violations can lead to higher fines.",
+      "faq2Q": "Can I put plastic bags in the yellow bin?",
+      "faq2A": "Only clean, dry plastic bags and packaging. Not plastic bags used for food waste or contaminated with food. Better: reuse shopping bags or put recyclables loose in bin, not in plastic bags.",
+      "faq3Q": "Where do I dispose of electronics and batteries?",
+      "faq3A": "Take to PSZOK (municipal collection point) for free, or return to electronics stores when buying new items (stores must accept old electronics). Small batteries: collection boxes in supermarkets, pharmacies, electronics stores. Never in regular trash!",
+      "faq4Q": "What is bio-waste (brown bin)?",
+      "faq4A": "Food scraps (fruit, vegetables, eggshells, coffee grounds), garden waste (leaves, grass, small branches), paper towels and napkins. Not: meat, bones, dairy, cooking oil, or animal waste - these go to mixed waste."
+    },
+    "supermarkets-guide": {
+      "overview": "Poland has diverse grocery shopping options from budget supermarkets to premium chains. Major players: Biedronka (cheapest, most locations), Lidl (budget-friendly), Kaufland and Auchan (hypermarkets), Carrefour (various formats), Żabka (convenience stores). Fresh markets (targowisko) offer produce and local products. Discount chains dominate but premium options like Alma and Auchan Gourmet exist. Sunday shopping heavily restricted - plan accordingly. Most stores accept cards, cash still widely used.",
+      "req1": "Payment method (cash or card - Visa/Mastercard widely accepted)",
+      "req2": "Reusable shopping bags (plastic bags cost 0.20-0.40 PLN)",
+      "req3": "Understanding Sunday shopping restrictions",
+      "req4": "Loyalty cards for discounts at major chains (optional)",
+      "step1": {
+        "title": "Choose Store Type",
+        "description": "Budget: Biedronka, Lidl, Netto (cheapest prices, limited selection). Mid-range: Carrefour, Kaufland, Auchan (good variety, moderate prices). Premium: Alma, Auchan Gourmet (imported products, organic options). Convenience: Żabka, Freshmarket (open late/Sundays, higher prices)."
+      },
+      "step2": {
+        "title": "Shopping Process",
+        "description": "Take shopping basket/cart at entrance. Most stores require 1-2 PLN deposit coin for cart (refunded). Browse and select items. Self-weigh produce at scales in produce section and print price sticker (not all stores). Bring items to checkout."
+      },
+      "step3": {
+        "title": "Checkout Procedure",
+        "description": "Queue at checkout (cashiers don't bag items - pack yourself). Place items on conveyor belt, use separator bar. Bag items quickly while cashier scans - bring your own bags or buy at checkout. Pay by card/cash. Keep receipt - may be checked at exit."
+      },
+      "step4": {
+        "title": "Use Loyalty Programs",
+        "description": "Biedronka: Moja Biedronka app (personalized discounts). Lidl: Lidl Plus app (coupons, weekly offers). Kaufland: Kaufland Card app. Carrefour: Carrefour app. Free to join, show barcode at checkout for discounts. Can save 10-20% with regular use."
+      },
+      "step5": {
+        "title": "Plan for Sunday Restrictions",
+        "description": "Most supermarkets closed Sundays except last Sunday of month and pre-holiday Sundays. Żabka, gas station shops, and bakeries open Sundays. Stock up Saturday or shop at exempt stores. Check annual trading Sunday calendar."
+      },
+      "doc1": "Loyalty app for chosen supermarket chain",
+      "doc2": "Sunday trading calendar for current year",
+      "doc3": "Store locations app or Google Maps",
+      "doc4": "Receipt (keep until leaving store)",
+      "costs": "Grocery prices vary by store type and shopping habits.",
+      "cost1": "Budget shopping (Biedronka, Lidl)",
+      "cost1Amount": "800-1,200 PLN/month for 1 person",
+      "cost2": "Mid-range shopping (Carrefour, Kaufland)",
+      "cost2Amount": "1,000-1,500 PLN/month for 1 person",
+      "cost3": "Premium/imported products (Alma)",
+      "cost3Amount": "1,500-2,500 PLN/month for 1 person",
+      "cost4": "Reusable shopping bag (if needed)",
+      "cost4Amount": "2-5 PLN",
+      "tip1": "Cheapest options: Biedronka and Lidl. Biedronka has most locations and lowest everyday prices. Lidl has better quality and weekly special offers (check Monday catalogs for deals).",
+      "tip2": "Fresh markets (targowisko/bazar) often cheaper than supermarkets for fruits, vegetables, and local products. Cash only. Open mornings, busiest Saturday mornings. Bargaining not customary.",
+      "tip3": "Download store apps for digital coupons and promotions. Lidl Plus, Moja Biedronka, and Kaufland apps offer significant savings. Stack promotions: app coupon + weekly sale + loyalty points.",
+      "faq1Q": "Which supermarket is cheapest in Poland?",
+      "faq1A": "Biedronka consistently cheapest for basic groceries, followed by Lidl and Netto. Price difference vs mid-range stores: 15-25%. Lidl has better quality meat/produce. Kaufland/Auchan best for bulk buying and variety.",
+      "faq2Q": "Are supermarkets open on Sundays?",
+      "faq2A": "Most closed due to Sunday trading law. Exceptions: last Sunday of each month, Sundays before Christmas/Easter. Żabka convenience stores, gas stations, and bakeries open Sundays. Plan Saturday shopping or use exempt stores.",
+      "faq3Q": "Do I need cash or can I pay by card?",
+      "faq3A": "Cards widely accepted (Visa, Mastercard, contactless). Biedronka, Lidl, Kaufland all accept cards for any amount. Fresh markets and small local shops: cash preferred or required. ATMs abundant. Bring some cash as backup.",
+      "faq4Q": "Why do I need to weigh produce myself?",
+      "faq4A": "Some stores (Biedronka, some Kaufland locations) require self-weighing produce in produce section - find item number, place on scale, print sticker, affix to bag. Other stores (Lidl, Carrefour) weigh at checkout. If unsure, ask staff."
+    },
+    "polish-postal-service": {
+      "overview": "Poczta Polska is Poland's national postal service, providing mail delivery, parcel shipping, financial services, and administrative functions. Recognizable by yellow-red logo and yellow post boxes. Services include domestic/international mail, package tracking, registered mail, PO boxes, bill payments, and basic banking. Generally reliable but slower than private couriers. Offices throughout Poland, longer queues at month-end (pension days). Competitive pricing for international shipping.",
+      "req1": "Items to send (properly packaged)",
+      "req2": "Recipient's complete address including postal code",
+      "req3": "Identification document for registered or collect services",
+      "req4": "Payment method (cash or card at most locations)",
+      "step1": {
+        "title": "Find Post Office",
+        "description": "Locate nearest Poczta Polska office using poczta-polska.pl website or mobile app. Opening hours typically 8:00-18:00 weekdays, Saturday mornings, closed Sundays. Avoid month-end (crowds collecting pensions). Take queue ticket upon entry - select service type on machine."
+      },
+      "step2": {
+        "title": "Prepare Shipment",
+        "description": "Package items securely - post office sells boxes and envelopes. Don't seal package until staff inspects contents (for valuable items). Fill out address clearly: recipient name, street address, postal code (XX-XXX format), city. Include return address."
+      },
+      "step3": {
+        "title": "Choose Service Type",
+        "description": "Standard mail (zwykła): cheapest, no tracking. Registered (polecona): tracking, proof of delivery. Priority (priorytet): faster delivery. Economic (ekonomiczna): slower, cheaper for international. Packages (paczka): tracked, up to 10kg domestic, 20kg international. Specify delivery confirmation if needed."
+      },
+      "step4": {
+        "title": "Pay and Send",
+        "description": "Staff weighs item and calculates price based on weight, size, destination. Pay in cash or card. Receive receipt with tracking number (if applicable). For valuable items: declare value, pay insurance (ubezpieczenie). Keep receipt - needed if problems arise."
+      },
+      "step5": {
+        "title": "Track Shipment",
+        "description": "Use tracking number at poczta-polska.pl or mobile app. Domestic registered mail: 2-4 days. Standard international: 7-21 days depending on destination. For packages awaiting collection: bring ID and notification slip to post office within 7 days. Uncollected items returned to sender."
+      },
+      "doc1": "Identification document (for registered mail, collecting packages)",
+      "doc2": "Customs declaration (for international packages over 50 EUR value)",
+      "doc3": "Tracking number receipt",
+      "doc4": "Collection notification (delivered to mailbox if not home)",
+      "costs": "Postal costs depend on item weight, size, destination, and service level.",
+      "cost1": "Domestic standard letter (up to 50g)",
+      "cost1Amount": "4.40 PLN",
+      "cost2": "Domestic registered letter",
+      "cost2Amount": "10-15 PLN",
+      "cost3": "Domestic package up to 1kg",
+      "cost3Amount": "14-20 PLN",
+      "cost4": "International letter to EU",
+      "cost4Amount": "8.50-12 PLN",
+      "tip1": "For parcels, consider InPost Paczkomaty (parcel lockers) - often cheaper and more convenient than Poczta Polska. 24/7 access, extensive network, mobile app tracking. Poczta Polska also has automated parcel lockers (yellow).",
+      "tip2": "Avoid post offices at month-end (25th-5th of next month) - long queues of pensioners collecting pensions. Best time: mid-month, mid-morning. Some offices have separate package windows - look for signs.",
+      "tip3": "For international shipping, compare Poczta Polska prices with private couriers (DHL, UPS, FedEx). Poczta Polska often competitive for light items to EU. Heavier packages: private couriers may be faster and similarly priced.",
+      "faq1Q": "How long does domestic mail take?",
+      "faq1A": "Standard letter: 2-4 business days. Registered mail: 2-3 days with tracking. Priority: 1-2 days. Packages: 2-5 days depending on distance. Delays possible in peak seasons (December, holidays). Track registered items at poczta-polska.pl.",
+      "faq2Q": "What if I'm not home when package arrives?",
+      "faq2A": "Postal worker leaves notification slip (awizo) in mailbox. Take slip and ID to specified post office within 7 days. Package stored free for 7 days, then 1 PLN/day storage fee. After 14 days, returned to sender.",
+      "faq3Q": "Can I rent a PO Box at Poczta Polska?",
+      "faq3A": "Yes, skrytka pocztowa (PO Box) available at most offices. Cost: ~100-150 PLN/year depending on size and location. Useful if no permanent address or want private address. Requires ID and registration. Mail held securely, access during office hours.",
+      "faq4Q": "How do I send valuable items safely?",
+      "faq4A": "Use registered mail with declared value (list przewozowy). Declare item value, pay insurance fee (~1% of value). Maximum compensation: 5,000 PLN domestic, varies for international. Staff inspects contents before sealing. Keep receipt - required for claims."
+    },
+    "mobile-phone-plans": {
+      "overview": "Poland offers competitive mobile phone plans through major networks (Orange, T-Mobile, Plus, Play) and MVNOs (Mobile Virtual Network Operators like Lycamobile, Nju, Virgin Mobile). Prepaid (na kartę) popular among foreigners - no contract, pay-as-you-go. Postpaid (abonament) offers better rates for high usage. 5G available in major cities. Number portability easy. EU roaming included at no extra cost. SIM cards widely available at stores, kiosks, and online.",
+      "req1": "Valid identification (passport or residence permit)",
+      "req2": "PESEL number (for contract plans) or can use passport for prepaid",
+      "req3": "Payment method (cash, card, or bank account for contracts)",
+      "req4": "Unlocked phone compatible with Polish networks (GSM/LTE/5G)",
+      "step1": {
+        "title": "Choose Plan Type",
+        "description": "Prepaid (na kartę): no commitment, buy credit as needed, good for short stays or uncertain usage. Postpaid (abonament): monthly contract (24 months typical), better rates, bundled data/calls, requires PESEL. Flexible subscriptions (bez zobowiązań): monthly, no long-term contract, moderate pricing."
+      },
+      "step2": {
+        "title": "Select Carrier",
+        "description": "Orange: largest network, best coverage in rural areas. T-Mobile: good urban coverage, competitive prices. Plus: merged with Play, extensive 4G/5G. Play: cheapest unlimited plans. MVNOs: Lycamobile (cheap international calls), Nju, Virgin (budget-friendly, use main networks)."
+      },
+      "step3": {
+        "title": "Get SIM Card",
+        "description": "Buy at carrier stores, Żabka, newspaper kiosks (RUCH), supermarkets, online. Prepaid: show passport, register SIM (required by law), receive number immediately. Contract: visit store with ID and PESEL, sign agreement, credit check for postpaid. Starter pack: 5-20 PLN including initial credit."
+      },
+      "step4": {
+        "title": "Activate and Top Up",
+        "description": "Insert SIM, follow activation instructions (usually automatic or call helpline). Prepaid: top up at stores, ATMs, mobile apps, online banking. Postpaid: set up direct debit or pay monthly bills. Choose package (pakiet): unlimited calls, SMS, data packages typically 10-100GB. Configure internet (APN) if not automatic."
+      },
+      "step5": {
+        "title": "Manage Your Plan",
+        "description": "Download carrier app for balance checks, top-ups, package changes. Monitor data usage to avoid extra charges. EU roaming included - use plan in EU countries at no extra cost. Transfer number between carriers: request port-out code, give to new carrier, process takes 1-3 days."
+      },
+      "doc1": "Passport or residence permit (ID verification)",
+      "doc2": "PESEL number (for contracts)",
+      "doc3": "Proof of address (for some postpaid plans)",
+      "doc4": "Bank account details (for contract direct debit)",
+      "costs": "Mobile plan costs vary from budget prepaid to premium unlimited contracts.",
+      "cost1": "Prepaid starter SIM",
+      "cost1Amount": "5-20 PLN (includes initial credit)",
+      "cost2": "Prepaid monthly package (calls + 10-20GB)",
+      "cost2Amount": "20-40 PLN/month",
+      "cost3": "Postpaid unlimited plan (calls + 50-100GB)",
+      "cost3Amount": "50-100 PLN/month",
+      "cost4": "Contract with phone (24-month commitment)",
+      "cost4Amount": "80-150 PLN/month",
+      "tip1": "Best budget prepaid: Play ePłatność (20 PLN - unlimited calls/SMS + 20GB), Lycamobile (cheap international calls). Best value contract: Orange Flex (flexible, no commitment, 35-80 PLN, app-based).",
+      "tip2": "Don't pay for SIM card at stores - most networks offer free SIM delivery when ordered online. Starter packs at stores overpriced (20 PLN vs free online). Compare online offers before visiting store.",
+      "tip3": "EU roaming: use your Polish plan in EU countries at no extra cost (same data, calls, SMS). Required by EU law. Non-EU countries: expensive roaming - buy local SIM or international package before travel.",
+      "faq1Q": "Can I get a SIM card without PESEL?",
+      "faq1A": "Yes, prepaid SIMs require only passport. Postpaid contracts need PESEL, but some carriers accept passport number for foreigners (verification required). Prepaid best option for new arrivals without PESEL.",
+      "faq2Q": "Which carrier has best coverage?",
+      "faq2A": "Orange has best overall coverage, especially rural areas. T-Mobile and Play/Plus strong in cities. Coverage excellent nationwide for all major carriers. Check coverage maps on carrier websites for specific locations. 5G available in major cities for all networks.",
+      "faq3Q": "How much data do I need?",
+      "faq3A": "Light use (messaging, browsing): 5-10GB. Moderate (social media, streaming): 20-30GB. Heavy (video, work): 50GB+. Unlimited plans available ~60-80 PLN/month. WiFi widely available at home/cafes, reduces data needs. Most choose 20-30GB packages.",
+      "faq4Q": "Can I keep my number if I change carriers?",
+      "faq4A": "Yes, number portability guaranteed by law. Request port-out code from current carrier (free), provide to new carrier with transfer request. Process takes 1-3 business days. Can port prepaid to contract and vice versa. Number stays yours."
+    },
+    "electricity-providers": {
+      "overview": "Poland's electricity market is liberalized - consumers can choose providers (sprzedawca energii) though distribution remains monopolized by regional operators (OSDs). Default suppliers exist but switching to competitive providers can save 10-30%. Billing typically bi-monthly based on meter readings. Most households use provider's standard tariff (G11) or two-tier (G12 - cheaper night rate). Smart meters being rolled out. Electricity consumption charged per kWh plus distribution fees and taxes. Average household: 200-400 kWh monthly.",
+      "req1": "Property address and meter number",
+      "req2": "Previous electricity bills (to verify consumption)",
+      "req3": "Bank account for direct debit (optional but recommended)",
+      "req4": "Identification document and PESEL for contract",
+      "step1": {
+        "title": "Understand Your Current Situation",
+        "description": "Check current provider on electricity bill (rachunek za energię). Identify your OSD (distribution operator) - doesn't change when switching providers. Note meter number (numer licznika), tariff type (G11 or G12), and average monthly consumption (kWh). This info needed for comparisons."
+      },
+      "step2": {
+        "title": "Compare Providers",
+        "description": "Use comparison websites: Total Money, Porówneo, RynekEnergetyczny.pl. Compare unit prices (PLN per kWh), subscription fees, contract terms. Major providers: PGE, Tauron, Enea, Energa (regional defaults), competitive suppliers: Greeco, Polska Energia, Lubelski Węgiel Bogdanka. Savings potential: 10-30%."
+      },
+      "step3": {
+        "title": "Choose and Switch",
+        "description": "Select provider with best rate for your consumption profile. Apply online or in-person - provide meter number, current contract details. No need to notify current provider (new provider handles). No service interruption during switch. Process: 2-4 weeks. Termination fees rare for household customers."
+      },
+      "step4": {
+        "title": "Set Up Billing",
+        "description": "Provide meter readings online/by phone monthly or bi-monthly. Smart meters automatically report readings. Bills calculated on actual readings or estimates (later balanced). Payment: direct debit (safest), bank transfer, PayPo (split payment). Pay by due date to avoid 10% late fees and disconnection."
+      },
+      "step5": {
+        "title": "Monitor and Optimize",
+        "description": "Track consumption via provider app or online portal. Consider G12 tariff if can shift usage to nights/weekends (cheaper rate 22:00-6:00, weekends). Energy-saving measures: LED bulbs, efficient appliances, unplug devices. Winter heating spikes typical - budget accordingly. Review rates annually, switch if better offers available."
+      },
+      "doc1": "Recent electricity bill (showing meter number and consumption)",
+      "doc2": "Identification document and PESEL",
+      "doc3": "Property ownership or rental agreement",
+      "doc4": "Bank account details for direct debit",
+      "costs": "Electricity costs include energy price, distribution fees, and taxes.",
+      "cost1": "Average monthly electricity (apartment, 2 people)",
+      "cost1Amount": "100-200 PLN",
+      "cost2": "Average monthly electricity (house, 4 people)",
+      "cost2Amount": "250-500 PLN",
+      "cost3": "Connection fee for new service",
+      "cost3Amount": "100-300 PLN (one-time)",
+      "cost4": "Smart meter installation",
+      "cost4Amount": "Usually free (OSD covers cost)",
+      "tip1": "Don't stick with default provider assigned to your address - they're often most expensive. Switching takes 15 minutes online and saves 10-30% annually. No service interruption, no fees for switching residential contracts.",
+      "tip2": "G12 tariff (two-tier) worth it if: use washing machine/dishwasher at night, electric heating on timers, charge EV overnight. Night rate ~40% cheaper. Requires tariff change request to OSD, may need meter replacement (free).",
+      "tip3": "Set up direct debit to avoid late fees (10% penalty). Electricity can be disconnected after 2 missed payments and reconnection costs 150-300 PLN plus unpaid balance. Apps send payment reminders.",
+      "faq1Q": "Can I choose any electricity provider in Poland?",
+      "faq1A": "Yes, residential customers can switch providers freely since market liberalization. Distribution operator (OSD) remains same (determined by location), but you choose supplier who bills you. No fees for switching, process takes 2-4 weeks, no service interruption.",
+      "faq2Q": "How much does electricity cost in Poland?",
+      "faq2A": "Average 0.70-0.90 PLN per kWh including distribution and taxes (2024 rates). Typical apartment (2 people, 200 kWh/month): 140-180 PLN. House (4 people, 400 kWh/month): 280-360 PLN. Prices vary by provider and tariff. Night rate (G12): ~40% cheaper.",
+      "faq3Q": "What is G11 vs G12 tariff?",
+      "faq3A": "G11: single rate, same price 24/7, simple billing. G12: two rates - cheaper at night (22:00-6:00) and weekends, higher daytime rate weekdays. G12 benefits households using appliances at night or electric heating on timers. Switch requires meter compatibility check.",
+      "faq4Q": "What happens if I don't pay electricity bill?",
+      "faq4A": "10% late fee added after due date. After 2 missed payments (usually 60+ days): disconnection warning. After 3 missed payments: service disconnected. Reconnection: pay all arrears plus 150-300 PLN reconnection fee. Affects credit score. Set up payment plan if struggling."
+    },
+    "heating-systems": {
+      "overview": "Polish residential heating varies by property type and age. Options: district heating (ciepło miejskie - most common in apartments), gas central heating (piece gazowe), electric heating, coal/wood boilers (older buildings, rural areas). District heating dominant in cities - radiators connected to municipal heat network. Billing typically includes heating and hot water. Heating season: October-April. Costs significant portion of living expenses, especially winter. Energy efficiency improvements ongoing.",
+      "req1": "Understanding heating type in your property",
+      "req2": "Access to heating controls (thermostats, valves)",
+      "req3": "Payment method for heating bills",
+      "req4": "Knowledge of heating season timing and regulations",
+      "step1": {
+        "title": "Identify Your Heating System",
+        "description": "District heating (most apartments): radiators connected to municipal network, no boiler in apartment, heat supplied by city heating plant (ciepłownia). Gas central heating: gas boiler (kocioł gazowy) in apartment/house, individual control. Electric: electric radiators or underfloor heating. Coal/wood: traditional boiler (older properties)."
+      },
+      "step2": {
+        "title": "Understand Billing",
+        "description": "District heating: billed based on apartment size (m²) and consumption (if heat meters installed). Included in rent (czynsze) or separate bill from heating company. Gas heating: pay for gas consumption (m³) plus boiler maintenance. Electric: included in electricity bill. Bills higher October-April (heating season)."
+      },
+      "step3": {
+        "title": "Control Temperature",
+        "description": "District heating: adjust thermostatic radiator valves (if installed), can't control when system runs. Heating company determines season start/end based on outdoor temperature. Gas heating: full control via thermostat, set temperature and schedule. Electric: individual radiator controls or central thermostat."
+      },
+      "step4": {
+        "title": "Optimize Costs",
+        "description": "Install thermostatic valves on radiators (saves 20-30%). Don't heat unused rooms. Keep windows closed when heating on. Insulate windows with sealing strips. Lower temperature at night (18-19°C vs 21-22°C daytime). Consider smart thermostats for gas heating. Bleed radiators annually for efficiency."
+      },
+      "step5": {
+        "title": "Handle Issues",
+        "description": "Cold radiators: bleed to remove air, check valves open. District heating not working: report to property manager or heating company. Gas boiler problems: call certified technician (required annual service). High bills: check for leaks, valve issues, improve insulation. Heat allocation meters (podzielniki): fair cost splitting in buildings."
+      },
+      "doc1": "Heating bills or inclusion in rent statement",
+      "doc2": "Gas boiler service records (if applicable)",
+      "doc3": "Heat allocation meter readings (if building uses them)",
+      "doc4": "Heating provider contact information",
+      "costs": "Heating costs vary significantly by system type and property size.",
+      "cost1": "District heating (50m² apartment)",
+      "cost1Amount": "200-400 PLN/month (winter), 50-100 PLN (summer - hot water only)",
+      "cost2": "Gas central heating (100m² house)",
+      "cost2Amount": "300-600 PLN/month (winter)",
+      "cost3": "Electric heating (50m² apartment)",
+      "cost3Amount": "400-800 PLN/month (winter)",
+      "cost4": "Gas boiler annual service",
+      "cost4Amount": "150-300 PLN",
+      "tip1": "District heating can't be turned off individually - heating company determines season (typically Oct 1 - Apr 30). If too hot: adjust radiator valves, open windows, or use thermostatic valves. Can't withhold payment for over-heating.",
+      "tip2": "Gas heating offers most control and often lower costs than district heating, but requires boiler maintenance (annual service mandatory ~200 PLN). Set thermostat to 19-20°C, lower at night. Programmable thermostats save 15-25% on gas bills.",
+      "tip3": "If moving to apartment with district heating, ask about heat meters (ciepłomierze) vs fixed cost by m². Metered billing fairer - pay for actual usage. Buildings with meters: can save by using less heat. Fixed by m²: can't reduce costs regardless of usage.",
+      "faq1Q": "What is district heating (ciepło miejskie)?",
+      "faq1A": "Central heating system where entire city/district supplied by municipal heat plant. Hot water flows through underground pipes to buildings. Most common in Polish apartments. No individual boiler needed. Can't choose provider or timing. Reliable but expensive. Includes heating and hot water.",
+      "faq2Q": "When does the heating season start in Poland?",
+      "faq2A": "Typically October 1 to April 30, but exact dates determined by outdoor temperature (heating starts when average below 12-15°C for 2-3 consecutive days). Heating company decides, residents can't turn on/off early. Varies by city. Cold September/warm October: may wait for heating.",
+      "faq3Q": "How can I reduce heating costs?",
+      "faq3A": "Install thermostatic valves on radiators (20-30% savings). Insulate windows, seal drafts. Heat only used rooms. Lower thermostat 1-2°C (saves ~10% per degree). Close curtains at night. Bleed radiators. Gas heating: programmable thermostat, lower temperature at night. Consider energy audit (audyt energetyczny).",
+      "faq4Q": "Can I choose my heating provider?",
+      "faq4A": "District heating: no choice, monopoly by location (e.g., MPEC, PEC). Gas heating: can choose gas provider. Building renovations may switch from district to gas but requires building-wide decision and major investment. Most stick with existing system - switching impractical for individual apartments."
+    },
+    "pet-registration": {
+      "overview": "Pet ownership in Poland requires registration for dogs in most cities (mandatory dog registration - rejestracja psa), while cats and other pets generally don't need registration. Dogs must be microchipped, vaccinated against rabies, and licensed with municipality. Annual dog fee (opłata za psa) varies by city. Pets entering Poland need EU Pet Passport, microchip, rabies vaccination. Veterinary care widely available. Public spaces have pet waste rules with fines for violations.",
+      "req1": "Microchip for dogs (required by law)",
+      "req2": "Rabies vaccination (valid for at least 21 days before travel/registration)",
+      "req3": "EU Pet Passport (for pets coming from abroad) or vet records",
+      "req4": "Registration with municipality (for dogs)",
+      "step1": {
+        "title": "Microchip and Vaccination",
+        "description": "Visit veterinarian for microchip implantation (50-100 PLN) if not already done. Get rabies vaccination (required by law, valid 1-3 years). Vet registers microchip in national database. Obtain documentation: vaccination record book or EU Pet Passport (for international travel). Keep records updated."
+      },
+      "step2": {
+        "title": "Register Your Dog",
+        "description": "Register at local city office (Urząd Miasta) within 14 days of acquiring dog or moving to city. Provide: ID, proof of address, dog's microchip number, rabies vaccination certificate. Fill registration form with dog details (breed, name, chip number). Receive registration confirmation."
+      },
+      "step3": {
+        "title": "Pay Annual Dog Fee",
+        "description": "Municipality issues annual fee (opłata za psa): typically 50-150 PLN per dog, varies by city. Trained assistance/guide dogs usually exempt. Pay by bank transfer or at city office. Failure to register or pay: fines 500-5,000 PLN. Some cities offer discounts for sterilized dogs."
+      },
+      "step4": {
+        "title": "Follow Public Space Rules",
+        "description": "Dogs must be leashed in public (required by law). Muzzles required for dangerous breeds and large dogs on public transport. Clean up after your dog - carry waste bags. Designated dog parks (wybiegi dla psów) in most cities for off-leash play. Fines for violations: 100-500 PLN."
+      },
+      "step5": {
+        "title": "Ongoing Care and Compliance",
+        "description": "Annual rabies vaccination renewal required. Update registration if moving cities. Notify municipality if dog dies or changes ownership. Keep EU Pet Passport updated for international travel. Find vet for regular check-ups - veterinary care not covered by NFZ, private only."
+      },
+      "doc1": "Microchip implantation certificate",
+      "doc2": "Rabies vaccination record (current, valid)",
+      "doc3": "EU Pet Passport (for international travel)",
+      "doc4": "Municipal dog registration confirmation",
+      "costs": "Pet ownership costs include registration, veterinary care, and supplies.",
+      "cost1": "Microchip implantation",
+      "cost1Amount": "50-100 PLN (one-time)",
+      "cost2": "Rabies vaccination",
+      "cost2Amount": "50-80 PLN (annual or every 3 years)",
+      "cost3": "Annual dog registration fee",
+      "cost3Amount": "50-150 PLN (varies by city)",
+      "cost4": "Veterinary check-up",
+      "cost4Amount": "100-200 PLN per visit",
+      "tip1": "Register dog immediately after getting it or moving to new city - registration offices can check microchip database and issue fines for unregistered dogs (500-5,000 PLN). Some cities conduct random checks in parks.",
+      "tip2": "EU Pet Passport essential for international travel (even to EU countries). Costs 50-100 PLN from vet, lasts pet's lifetime. Contains microchip number, rabies vaccination record, vet visits. Required to cross borders - without it, pet may be quarantined.",
+      "tip3": "Pet insurance (ubezpieczenie zwierzęcia) available from providers like Allianz, PZU, Warta - covers vet costs, liability, travel. Costs 20-60 PLN/month. Worth it for expensive breeds or chronic conditions. Compare coverage limits and exclusions.",
+      "faq1Q": "Do I need to register my dog in Poland?",
+      "faq1A": "Yes, mandatory in most cities. Must register within 14 days of acquiring dog or moving. Requires microchip and rabies vaccination. Annual fee 50-150 PLN (varies by city). Unregistered dog: fines 500-5,000 PLN. Cats and other pets: no registration required (except exotic animals).",
+      "faq2Q": "What documents do I need to bring a pet to Poland?",
+      "faq2A": "From EU: EU Pet Passport, microchip, valid rabies vaccination (21+ days old). From non-EU: health certificate, microchip, rabies vaccination + antibody test, 3-month wait after test. Check specific country requirements. Can enter through any border. Customs may check documents.",
+      "faq3Q": "Are dogs allowed on public transport?",
+      "faq3A": "Yes, allowed on buses, trams, trains. Small pets in carriers usually free. Larger dogs: may need ticket (50% of standard fare), muzzle and leash required. Service dogs travel free. Rules vary by city - check local transport authority. Some drivers strict, some lenient.",
+      "faq4Q": "Where can I find veterinary care?",
+      "faq4A": "Private vet clinics (przychodnia weterynaryjna) widely available in cities. No public/NFZ coverage - all pet care private and paid. Costs moderate: check-up 100-200 PLN, vaccinations 50-80 PLN, surgery 500-3,000 PLN. Emergency vet clinics (24/7) available in major cities. Pet insurance can offset costs."
+    },
+    "recycling-rules": {
+      "overview": "Poland implements EU-mandated recycling targets through color-coded waste segregation system. Recyclables collected in yellow (plastics/metals), blue (paper), green (glass) bins. Proper preparation essential: rinse containers, flatten cardboard, remove caps. Contaminated recyclables rejected. Electronics, batteries, hazardous waste taken to PSZOK collection points. Deposit-return system (kaucja) being introduced for bottles/cans. Fines for improper segregation. Recycling rates improving but still below EU targets.",
+      "req1": "Understanding which materials are recyclable in each colored bin",
+      "req2": "Proper cleaning and preparation of recyclables",
+      "req3": "Access to recycling bins at your residence",
+      "req4": "Knowledge of special waste collection points (PSZOK)",
+      "step1": {
+        "title": "Know What Goes Where",
+        "description": "Yellow bin: plastic bottles, containers, film, metal cans, beverage cartons (Tetra Pak). Blue bin: paper, cardboard, newspapers, magazines (clean and dry only). Green bin: glass bottles and jars (separate by color if available). Brown bin: organic/bio-waste. Mixed waste (black/gray): everything else. Check bin labels for pictograms."
+      },
+      "step2": {
+        "title": "Prepare Items Correctly",
+        "description": "Rinse all containers - no food residue (contaminates batch). Flatten cardboard boxes and plastic bottles. Remove caps from bottles (caps to yellow if plastic, glass bottles can keep metal caps). Remove labels optional but helpful. Paper: keep dry, wet/greasy paper to mixed waste. No plastic bags around recyclables."
+      },
+      "step3": {
+        "title": "Use Recycling Bins",
+        "description": "Deposit recyclables loose in bins, not in plastic bags. Apartment buildings: shared bins in designated areas. Houses: individual bins provided by waste company. Don't overfill - close lids properly. Follow collection schedule (recyclables collected every 2-4 weeks depending on type and location)."
+      },
+      "step4": {
+        "title": "Handle Special Waste",
+        "description": "Electronics (WEEE): take to PSZOK, return to store when buying new, or schedule large item pickup. Batteries: collection boxes at stores, never in regular bins. Hazardous waste (paint, chemicals): PSZOK only. Large items (furniture, appliances): schedule gabaryt pickup or take to PSZOK. Textiles: donation bins or charity shops."
+      },
+      "step5": {
+        "title": "Use Deposit-Return System",
+        "description": "Deposit system (kaucja) being rolled out: 0.50 PLN deposit on bottles/cans, refunded when returned to reverse vending machines (empty machines) at stores. Look for machines at supermarkets. Collect bottles, insert in machine, receive receipt for refund or donate to charity. Reduces waste, increases recycling."
+      },
+      "doc1": "Waste collection schedule (from municipality or waste company)",
+      "doc2": "PSZOK locations and accepted items list",
+      "doc3": "Segregation guide with images (usually on waste company website)",
+      "doc4": "Building waste disposal rules (for apartments)",
+      "costs": "Recycling is included in waste collection fees, special items may have costs.",
+      "cost1": "Recycling collection (included in waste fees)",
+      "cost1Amount": "Included in 40-80 PLN/month waste fee",
+      "cost2": "PSZOK drop-off (municipal residents)",
+      "cost2Amount": "Free for residents with ID/proof of address",
+      "cost3": "Large item (gabaryt) collection",
+      "cost3Amount": "Often free, 1-2 times/year, or 20-50 PLN on-demand",
+      "cost4": "Deposit on bottles/cans (kaucja)",
+      "cost4Amount": "0.50 PLN (refunded when returned)",
+      "tip1": "Biggest recycling mistake: contamination. One greasy pizza box in blue bin can spoil entire truck of recycling, leading to rejection and fines. When in doubt: mixed waste. Better safe than contaminating entire batch.",
+      "tip2": "PSZOK (Punkt Selektywnej Zbiórki Odpadów Komunalnych) accepts electronics, batteries, paint, motor oil, large items - all free for residents. Bring ID and proof of address. Find locations on city website. Most open Saturdays, some weekdays. Save up items for quarterly trip.",
+      "tip3": "Deposit-return machines (empty machines) at supermarkets refund 0.50 PLN per bottle/can. Collect bottles at home, return weekly. Family of 4 can get 20-40 PLN/month. Can donate refund to charity via machine. Coming to all Poland by 2025.",
+      "faq1Q": "What cannot be recycled in colored bins?",
+      "faq1A": "Cannot recycle: greasy/wet paper (pizza boxes), dirty containers, styrofoam, ceramics/porcelain (to mixed waste), broken glass, plastic bags with food residue, disposable diapers, cigarette butts. Special handling: electronics, batteries, light bulbs (to PSZOK), textiles (donation bins), medical waste (pharmacy return).",
+      "faq2Q": "Do I need to remove labels from bottles and cans?",
+      "faq2A": "Labels don't need removal - recycling process handles them. More important: rinse containers, remove caps, flatten bottles. Caps to yellow bin separately (different plastic type). Glass bottles can keep metal caps but remove cork/plastic tops. Focus on cleanliness over labels.",
+      "faq3Q": "Where do I take old electronics and batteries?",
+      "faq3A": "Options: 1) PSZOK (free for residents), 2) Electronics stores (must accept old when buying new, free), 3) Collection events (organized by cities), 4) Battery collection boxes (supermarkets, stores). NEVER in regular bins - electronics contain hazardous materials, recoverable valuable metals.",
+      "faq4Q": "What is the deposit-return system (kaucja)?",
+      "faq4A": "Pay 0.50 PLN extra per bottle/can (marked with kaucja symbol). Return empties to reverse vending machine at store, get refund receipt (exchange for cash or shopping credit, or donate). Encourages recycling, reduces littering. Common in Europe, being implemented across Poland. Machines at major supermarkets."
+    },
+    "emergency-numbers": {
+      "overview": "Poland's emergency services accessible via unified EU emergency number 112 (English available) or specific national numbers. Key numbers: 112 (general emergency), 999 (ambulance), 998 (fire brigade), 997 (police). All services free, 24/7 availability. 112 operators multilingual, can coordinate appropriate services. Mobile phones work without SIM card for emergency calls. Response times good in cities, longer in rural areas. Non-emergency: contact local police, health clinics, or city services.",
+      "req1": "Working phone (landline or mobile, SIM not required for 112)",
+      "req2": "Knowledge of your location and address",
+      "req3": "Basic information about the emergency",
+      "req4": "Calm communication with operator",
+      "step1": {
+        "title": "Recognize Emergency Situations",
+        "description": "Life-threatening: severe injury, chest pain, difficulty breathing, unconsciousness, severe bleeding, poisoning, major accident. Safety threat: fire, crime in progress, violence, immediate danger. Non-emergency: minor injuries (visit clinic), property crime after-the-fact (visit police station), noise complaints (city guard)."
+      },
+      "step2": {
+        "title": "Call Appropriate Number",
+        "description": "General emergency or unsure: 112 (EU emergency number, English available). Ambulance needed: 999 or 112. Fire/rescue: 998 or 112. Police urgently needed: 997 or 112. Gas leak: 992. Energy emergency: 991. All free from any phone, mobile works without SIM for 112."
+      },
+      "step3": {
+        "title": "Provide Essential Information",
+        "description": "Clearly state: 1) What happened (injury, fire, crime), 2) Where (full address, landmarks, city), 3) How many people affected, 4) Current condition/danger. Follow operator's questions. Don't hang up until told. Operator may give first aid instructions - follow carefully. Stay on line if possible."
+      },
+      "step4": {
+        "title": "Wait for Services",
+        "description": "Stay at scene if safe. Make location visible - turn on lights, send someone to guide responders. If medical: don't move injured person unless immediate danger, perform first aid if trained. If fire: evacuate, close doors, wait outside. If crime: ensure safety, preserve evidence if possible."
+      },
+      "step5": {
+        "title": "Non-Emergency Contacts",
+        "description": "Medical non-emergency: POZ doctor (primary care) or night/holiday clinic (NFZ). Police report (non-urgent): visit local police station (komisariat). City issues: Straż Miejska (city guard) 986. Mental health crisis: +48 116 123 (suicide prevention), +48 800 70 2222 (mental health line). Roadside assistance: varies by insurance, check policy."
+      },
+      "doc1": "Emergency contact card (with your address, medical info)",
+      "doc2": "Medical conditions list and medications (for ambulance)",
+      "doc3": "Insurance information (for hospital admission)",
+      "doc4": "Important phone numbers saved in phone",
+      "costs": "Emergency services are free in life-threatening situations.",
+      "cost1": "Emergency calls (112, 999, 998, 997)",
+      "cost1Amount": "Free from any phone",
+      "cost2": "Ambulance emergency service",
+      "cost2Amount": "Free (covered by NFZ)",
+      "cost3": "Non-emergency ambulance transport",
+      "cost3Amount": "200-500 PLN (if not medically justified)",
+      "cost4": "False emergency call fine",
+      "cost4Amount": "Up to 3,000 PLN",
+      "tip1": "112 is best number for foreigners - operators speak English and can coordinate all services (police, ambulance, fire). National numbers (997, 998, 999) may have language barriers. 112 works across entire EU with same number.",
+      "tip2": "Download Emergency+ app or save your home address in phone notes. In emergency, stress makes it hard to remember address/location. App automatically sends GPS coordinates to 112. Especially useful in unfamiliar areas.",
+      "tip3": "Keep list of emergency contacts: nearest hospital, 24-hour pharmacy, your doctor, embassy/consulate, trusted friend/family. Mental health crisis: 116 123 (free, 24/7 suicide prevention). Poison control: +48 42 631 46 24. Save before emergency happens.",
+      "faq1Q": "Can I call 112 if I don't speak Polish?",
+      "faq1A": "Yes! 112 operators speak English and other languages. Clearly state 'English please' when connected. Operators trained for multilingual emergencies. Can also coordinate translation if needed. National numbers (997, 998, 999) may only speak Polish - use 112 if unsure.",
+      "faq2Q": "Will I be charged for calling an ambulance?",
+      "faq2A": "Genuine medical emergencies: free (NFZ covers). Non-emergency use of ambulance (calling for minor issue, taxi replacement): may be charged 200-500 PLN. If ambulance dispatched and you refuse service without valid reason: possible charge. When in doubt about emergency: call anyway, better safe.",
+      "faq3Q": "What if I can't speak during emergency call?",
+      "faq3A": "Stay on line - 112 traces location even if silent. Tap phone, make any sound if possible. If mobile: SMS to 112 available in some areas (check 112.pl website). If someone else present: put call on speaker. Operator will send help based on location even without information.",
+      "faq4Q": "What are non-emergency police reporting options?",
+      "faq4A": "Non-urgent crimes (theft, vandalism discovered hours/days later): visit local police station (komisariat) or call non-emergency +48 47 721 78 00 (for some regions). Noise complaints, parking violations: Straż Miejska (city guard) 986. Don't use 112/997 for non-emergencies - clogs lines for real emergencies."
+    },
+    "weather-and-seasons": {
+      "overview": "Poland has temperate continental climate with four distinct seasons. Winters cold with snow (December-February, -5 to 0°C), springs mild (March-May, 5-15°C), summers warm (June-August, 20-25°C), autumns cool (September-November, 10-15°C). Regional variations: warmer south (mountains), colder northeast, moderate west. Weather unpredictable - sudden changes common. Rainfall distributed year-round. Daylight varies dramatically: long summer days (16+ hours), short winter days (8 hours). Prepare for all seasons.",
+      "req1": "Seasonal clothing and footwear for all weather",
+      "req2": "Understanding of temperature patterns by season",
+      "req3": "Preparation for rapid weather changes",
+      "req4": "Awareness of regional climate variations",
+      "step1": {
+        "title": "Winter (December-February)",
+        "description": "Coldest season: -10 to +5°C, average 0°C. Snow common, especially January-February. Days short: sunrise ~7:30, sunset ~16:00. Prepare: heavy coat, warm boots, hat, gloves, layers. Heating season active. Roads salted/sanded. Icy sidewalks hazard. Blizzards occasional. Indoor activities peak."
+      },
+      "step2": {
+        "title": "Spring (March-May)",
+        "description": "Transitional, unpredictable: 0-20°C range. March often cold/snowy, May warm. Frequent rain. Days lengthen rapidly. Prepare: layers, waterproof jacket, umbrella. Mud season (March). Trees bloom April-May. Easter weather varies yearly. Outdoor activities resume. Heating season ends April."
+      },
+      "step3": {
+        "title": "Summer (June-August)",
+        "description": "Warmest season: 15-30°C, occasional 35°C heatwaves. Long days: sunrise ~4:30, sunset ~21:00. Thunderstorms common, especially July-August. Prepare: light clothing, sunscreen, hat, water bottle. AC uncommon in older buildings. Peak tourist season. Outdoor festivals. Beaches popular Baltic coast."
+      },
+      "step4": {
+        "title": "Autumn (September-November)",
+        "description": "Cooling, increasingly rainy: 5-15°C. September pleasant (Polish golden autumn), November gray/damp. Days shorten rapidly. Prepare: layers, rain gear, transitional jacket. Colorful foliage October. Heating season starts October. First frost November. Fog common. Daylight saving ends late October."
+      },
+      "step5": {
+        "title": "Adapt to Polish Climate",
+        "description": "Invest in quality winter gear - essential for comfort. Check weather daily (weather.gov.pl, mobile apps). Layer clothing - indoor heating strong. Prepare for rain any season. Respect seasonal traditions (winter sports, summer lakes). Vitamin D supplement winter (limited sunlight). Home: ensure good heating, consider dehumidifier autumn/winter."
+      },
+      "doc1": "Weather forecast apps (IMGW, Weather.gov.pl)",
+      "doc2": "Seasonal clothing checklist",
+      "doc3": "Regional climate information for your area",
+      "doc4": "Extreme weather alerts (IMGW warnings)",
+      "costs": "Seasonal preparation requires investment in appropriate clothing and adjustments.",
+      "cost1": "Winter wardrobe (coat, boots, accessories)",
+      "cost1Amount": "500-1,500 PLN",
+      "cost2": "Rain gear (jacket, umbrella)",
+      "cost2Amount": "100-300 PLN",
+      "cost3": "Summer cooling (fan, portable AC)",
+      "cost3Amount": "200-1,500 PLN",
+      "cost4": "Increased heating costs (winter vs summer)",
+      "cost4Amount": "+150-300 PLN/month in winter",
+      "tip1": "Polish winters serious - invest in proper gear: insulated boots (not sneakers), heavy coat rated for -20°C, warm hat covering ears, waterproof gloves. Locals layer: thermal underwear + sweater + coat. Don't underestimate cold - frostbite risk is real.",
+      "tip2": "Weather extremely changeable - check forecast daily, especially spring/autumn. Morning sun can become afternoon rain/snow. Carry umbrella in bag March-November. Poles say 'nie ma złej pogody, są tylko złe ubrania' (no bad weather, only bad clothing) - dress appropriately.",
+      "tip3": "Daylight varies dramatically: June sunset ~21:00 (16 hours daylight), December sunset ~15:30 (8 hours). Affects mood, energy. Winter: vitamin D supplements recommended (limited sunlight), use bright lights indoors. Summer: blackout curtains for sleeping, enjoy long evenings.",
+      "faq1Q": "How cold does Polish winter get?",
+      "faq1A": "Average: -5 to +2°C (December-February). Cold snaps: -15 to -20°C possible, especially January-February. Northeast colder than west. Cities slightly warmer than countryside. Snow common but not constant. Proper winter gear essential. Indoor heating excellent - buildings very warm inside.",
+      "faq2Q": "Does Poland get a lot of snow?",
+      "faq2A": "Varies by region and year. Mountains (south): heavy snow, ski season December-March. Lowlands: moderate snow, 20-40 snowy days per winter. Cities clear snow promptly. January-February snowiest. Recent winters milder due to climate change. Some years significant snow, others minimal. Always possible December-March.",
+      "faq3Q": "What's the best season to visit/live in Poland?",
+      "faq3A": "Late spring (May) and early autumn (September): pleasant temperatures (15-20°C), less rain, beautiful nature. Summer (June-August): warmest, longest days, festivals, but crowded and occasional heatwaves. Winter: cold but festive (Christmas markets), winter sports. March and November: least pleasant (gray, wet, unpredictable).",
+      "faq4Q": "Is air conditioning necessary in Polish homes?",
+      "faq4A": "Most homes lack AC - not traditionally necessary. Recent summers hotter (occasional 30-35°C heatwaves). Older buildings with thick walls stay cool. New apartments: can get hot July-August. Solutions: fans (100-300 PLN), portable AC (1,000-2,000 PLN), blackout curtains, open windows at night. AC becoming more common in new construction."
+    },
+    "time-zones": {
+      "overview": "Poland operates on Central European Time (CET), UTC+1 in winter and Central European Summer Time (CEST), UTC+2 in summer. Entire country uses same time zone - no regional variations. Daylight saving time observed: clocks forward last Sunday of March (+1 hour), back last Sunday of October (-1 hour). Same time zone as Germany, France, Italy, most of continental EU. Important for coordinating with international contacts and travel.",
+      "req1": "Understanding CET/CEST time zone (UTC+1/+2)",
+      "req2": "Awareness of daylight saving time changes",
+      "req3": "Ability to coordinate with other time zones",
+      "req4": "Proper time settings on devices",
+      "step1": {
+        "title": "Understand Polish Time Zone",
+        "description": "Poland uses CET (Central European Time): UTC+1 in winter (November-March), CEST (Central European Summer Time): UTC+2 in summer (March-October). Same as most continental EU countries. 1 hour ahead of UK, 6 hours ahead of US East Coast, 7 hours ahead of US West Coast (varies with their DST)."
+      },
+      "step2": {
+        "title": "Note Daylight Saving Changes",
+        "description": "Spring forward: Last Sunday of March at 2:00 AM → 3:00 AM (lose 1 hour sleep). Fall back: Last Sunday of October at 3:00 AM → 2:00 AM (gain 1 hour). Automatic on most devices. Manual adjustment needed: analog watches, wall clocks, car clocks, older devices. Affects: sleep schedule, meetings, travel times."
+      },
+      "step3": {
+        "title": "Coordinate International Time",
+        "description": "When scheduling with other countries, account for time differences. Tools: worldtimebuddy.com, timeanddate.com. Common differences (during CET): UK: -1h, USA East: -6h, USA West: -9h, India: +4.5h, China: +7h, Australia East: +9-11h. Note: countries change DST on different dates - verify during March/October."
+      },
+      "step4": {
+        "title": "Set Devices Correctly",
+        "description": "Smartphones, computers: set to automatic time zone and DST (uses location). Verify timezone: Europe/Warsaw. Manual clocks: adjust twice yearly during DST changes. Meeting apps (Zoom, Google Calendar): verify timezone settings to avoid confusion. Travel: adjust watches when crossing time zones."
+      },
+      "step5": {
+        "title": "Plan Around Time Changes",
+        "description": "Spring DST (March): lose sleep - go to bed earlier night before, expect grogginess next day. Fall DST (October): extra hour - good for catching up sleep. Flights: check departure/arrival times carefully around DST changes. Medications: adjust timing if on strict schedule. Children: gradual sleep schedule adjustment helps."
+      },
+      "doc1": "Time zone reference guide for international coordination",
+      "doc2": "DST change dates for current year (last Sunday March/October)",
+      "doc3": "Device timezone settings (Europe/Warsaw)",
+      "doc4": "World clock app or website for conversions",
+      "costs": "Time zone awareness has no direct costs but affects scheduling and planning.",
+      "cost1": "World clock app (optional)",
+      "cost1Amount": "Free (built-in on phones)",
+      "cost2": "Automatic time-setting devices",
+      "cost2Amount": "Standard feature on modern devices",
+      "cost3": "International call timing (off-peak planning)",
+      "cost3Amount": "Varies by provider",
+      "tip1": "Business hours in Poland typically: offices 9:00-17:00, shops 10:00-20:00 (varies). When scheduling international calls, consider Polish work hours. Example: 9:00 AM Poland = 3:00 AM US East Coast (too early), 15:00 Poland = 9:00 AM US East (better).",
+      "tip2": "DST changes can affect: 1) International meeting times (US changes DST different weeks than EU - verify in March/November), 2) Medication schedules (adjust gradually), 3) Sleep (spring forward hardest - prepare day before). Phone reminders adjust automatically but verify important appointments.",
+      "tip3": "Poland same time zone as: Germany, France, Italy, Spain, Netherlands, most EU. Different from: UK (-1h), Greece/Finland (+1h), Portugal (-1h). Useful when traveling within Europe - minimal jet lag between CET countries. Crossing to UK: 1 hour difference affects train/flight schedules.",
+      "faq1Q": "What time zone is Poland in?",
+      "faq1A": "Central European Time (CET) - UTC+1 in winter, UTC+2 in summer (CEST). Same as most continental Europe: Germany, France, Italy, Spain. Entire Poland uses same time zone. Changes to daylight saving time last Sunday of March (forward) and October (back).",
+      "faq2Q": "When does Poland change to daylight saving time?",
+      "faq2A": "Spring: Last Sunday of March at 2:00 AM clocks move to 3:00 AM (lose 1 hour). Autumn: Last Sunday of October at 3:00 AM clocks move to 2:00 AM (gain 1 hour). Same dates as entire EU. Most devices adjust automatically. Remember: 'Spring forward, fall back'.",
+      "faq3Q": "What's the time difference between Poland and the US?",
+      "faq3A": "Poland ahead: US East Coast +6 hours, US West Coast +9 hours (when both on standard time). Varies when DST changes don't align (March and November). Example: 12:00 noon in Poland = 6:00 AM New York, 3:00 AM Los Angeles. Use time converter for accuracy.",
+      "faq4Q": "Do I need to manually change my phone's time in Poland?",
+      "faq4A": "No, if automatic time zone enabled. Smartphones detect Poland's timezone (Europe/Warsaw) via cell network/GPS and adjust automatically, including DST changes. Verify setting: Phone Settings → Date & Time → Automatic. Manual clocks (wall, car, watch) need manual adjustment twice yearly for DST."
     }
   },
   "pages": {
