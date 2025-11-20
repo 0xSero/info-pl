@@ -4316,6 +4316,443 @@
       "faq3A": "Yes, unless contract specifies location restrictions. Can work from home, cafe, coworking space, family's place anywhere in Poland. Working abroad (even EU) requires employer permission due to tax/legal issues.",
       "faq4Q": "Do remote workers have same rights as office workers?",
       "faq4A": "Yes! Same rights to paid vacation, sick leave, working time limits, overtime pay. Employer cannot discriminate based on remote status. Career advancement and training must be equal."
+    },
+    "polish-customs-etiquette": {
+      "overview": "Understanding Polish customs and etiquette is crucial for successful integration. Poles value politeness, formality in professional settings, and traditional social norms. Direct communication mixed with warmth characterizes Polish interactions. Key aspects include proper greetings, gift-giving traditions, dining etiquette, and respect for religious and national symbols. Mastering these cultural nuances helps build relationships and avoid unintentional offense.",
+      "req1": "Learning basic Polish greetings and phrases",
+      "req2": "Understanding formal vs. informal address (Pan/Pani)",
+      "req3": "Respecting religious and national traditions",
+      "req4": "Adapting to local social expectations",
+      "step1": {
+        "title": "Master Greetings and Address Forms",
+        "description": "Use 'Dzień dobry' (good day) formally. Address people as Pan (Mr.) or Pani (Mrs.) with surnames until invited to use first names. Handshakes are standard; maintain eye contact. Remove shoes when entering homes."
+      },
+      "step2": {
+        "title": "Learn Gift-Giving Etiquette",
+        "description": "Bring flowers when visiting homes (odd numbers only, never white or chrysanthemums). Small gifts from your country appreciated. Always unwrap gifts immediately. Chocolates and wine acceptable for casual visits."
+      },
+      "step3": {
+        "title": "Understand Dining Customs",
+        "description": "Wait for host to begin eating. Say 'Smacznego' (bon appetit) before meals. Keep hands visible on table, not in lap. Finish everything on your plate. Toast with 'Na zdrowie' while making eye contact."
+      },
+      "step4": {
+        "title": "Respect Religious Traditions",
+        "description": "Poland is predominantly Catholic. Show respect in churches (dress modestly, silence phones). Be aware of religious holidays affecting schedules. Don't schedule important meetings on major feast days."
+      },
+      "step5": {
+        "title": "Navigate Social Expectations",
+        "description": "Punctuality expected for business, but 10-15 minutes acceptable socially. Dress more formally than in Western Europe. Avoid discussing politics unless invited. Strong handshakes valued; maintain personal space."
+      },
+      "doc1": "Polish language phrase book or app",
+      "doc2": "Cultural guide to Polish customs",
+      "doc3": "List of Polish holidays and observances",
+      "doc4": "Business etiquette guidelines for your industry",
+      "costs": "Learning Polish customs requires minimal financial investment but significant cultural awareness.",
+      "cost1": "Polish language course materials",
+      "cost1Amount": "100-500 PLN",
+      "cost2": "Cultural integration workshops",
+      "cost2Amount": "0-300 PLN",
+      "tip1": "Never arrive empty-handed when invited to Polish homes. Flowers (odd numbers) or good wine/spirits show respect and are always appreciated.",
+      "tip2": "Use Pan/Pani (Mr./Mrs.) with surnames in professional settings until explicitly invited to use first names. Poles maintain formal address longer than Western Europeans.",
+      "tip3": "Stand when Polish anthem plays (sporting events, ceremonies). Show respect for national symbols. Avoid jokes about Polish history or stereotypes - history is taken seriously.",
+      "faq1Q": "Should I kiss hands when greeting Polish women?",
+      "faq1A": "Hand-kissing (całowanie w rękę) is old-fashioned and rare, mostly among older generation in very formal settings. Standard handshake appropriate for foreigners. Don't attempt unless you're very familiar with the custom.",
+      "faq2Q": "Why odd numbers of flowers?",
+      "faq2A": "Even numbers of flowers are for funerals and cemeteries only. Always bring odd numbers (3, 5, 7, 9) when giving flowers as gifts. Avoid white, red-white combinations, and chrysanthemums (funeral flowers).",
+      "faq3Q": "Is it rude to refuse vodka toasts?",
+      "faq3A": "Not rude if explained politely ('nie piję' - I don't drink, or health reasons). However, participating in toasts (even with water) shows respect. You don't have to finish the glass - small sips acceptable.",
+      "faq4Q": "How formal should I dress in Poland?",
+      "faq4A": "More formal than UK/US. Business: suits standard for men, professional attire for women. Social: smart casual minimum. Poles dress well for restaurants, theater, churches. Avoid overly casual clothing (flip-flops, shorts) in cities."
+    },
+    "religious-holidays": {
+      "overview": "Poland is predominantly Roman Catholic (over 85% identify as Catholic), and religious holidays significantly impact daily life, business operations, and cultural celebrations. Major Catholic holidays are public holidays with shops, offices, and services closed. Understanding these observances helps plan activities and shows cultural respect. Key holidays include Christmas (Boże Narodzenie), Easter (Wielkanoc), Corpus Christi (Boże Ciało), and various saints' feast days.",
+      "req1": "Awareness of public religious holidays and their dates",
+      "req2": "Understanding Polish Christmas and Easter traditions",
+      "req3": "Respecting church attendance and religious observances",
+      "req4": "Planning business and travel around major feast days",
+      "step1": {
+        "title": "Learn Major Religious Public Holidays",
+        "description": "Memorize key dates: Christmas (Dec 25-26), Easter (movable, March/April), Corpus Christi (movable, May/June), Assumption (Aug 15), All Saints' Day (Nov 1), Epiphany (Jan 6). All are non-working days with widespread closures."
+      },
+      "step2": {
+        "title": "Understand Christmas Traditions",
+        "description": "Christmas Eve (Wigilia, Dec 24) is most important celebration. Families share opłatek (blessed wafer), eat 12 meatless dishes, attend Midnight Mass (Pasterka). Dec 25-26 are public holidays for family visits and rest."
+      },
+      "step3": {
+        "title": "Experience Easter Celebrations",
+        "description": "Easter involves Holy Week observances, including Palm Sunday processions, Good Friday solemnity, Holy Saturday food blessing (Święconka), and Easter Sunday feast. Easter Monday (Śmigus-Dyngus) involves water-throwing tradition."
+      },
+      "step4": {
+        "title": "Recognize Other Important Observances",
+        "description": "Corpus Christi features street processions with decorated altars. All Saints' Day (Wszystkich Świętych) sees families visiting cemeteries with flowers and candles. Assumption (Wniebowzięcie) marks mid-August holiday."
+      },
+      "step5": {
+        "title": "Respect Religious Practices",
+        "description": "Understand that many Poles attend Mass weekly (Sundays) and on holy days. Show respect near churches during services. Be aware religious holidays affect business schedules - plan important meetings accordingly."
+      },
+      "doc1": "Annual calendar of Polish religious holidays",
+      "doc2": "Catholic liturgical calendar for Poland",
+      "doc3": "Guide to Polish religious traditions and customs",
+      "doc4": "Business holiday schedule for current year",
+      "costs": "Participating in religious holidays involves minimal costs for foreigners, mainly for cultural experiences.",
+      "cost1": "Easter food basket blessing",
+      "cost1Amount": "Free (optional church donation)",
+      "cost2": "Cemetery flowers/candles (All Saints)",
+      "cost2Amount": "20-100 PLN",
+      "tip1": "All major religious holidays mean closed shops and offices. Stock up on groceries and essentials beforehand. Only gas stations and some restaurants open.",
+      "tip2": "If invited to Wigilia (Christmas Eve dinner), it's a great honor. Bring flowers or small gift. Expect no meat, 12 dishes, opłatek sharing, and family warmth.",
+      "tip3": "Visit Polish cemeteries on All Saints' Day evening (Nov 1) to see beautiful sea of candles (Zaduszki tradition). Respectful observing welcomed, even for non-Catholics.",
+      "faq1Q": "Do I need to attend church to integrate in Poland?",
+      "faq1A": "No requirement, but understanding Catholic traditions helps integration. Many cultural events tied to religious calendar. Respect for traditions matters more than personal participation. Poles generally tolerant of other faiths.",
+      "faq2Q": "What is Wigilia and how important is it?",
+      "faq2A": "Wigilia (Christmas Eve, Dec 24) is Poland's most important family celebration. Features 12 meatless dishes, sharing blessed wafer (opłatek), empty chair for unexpected guest, caroling. More significant than Christmas Day itself.",
+      "faq3Q": "Are businesses open on religious holidays?",
+      "faq3A": "No. All major religious holidays (Christmas, Easter, Corpus Christi, Assumption, All Saints, Epiphany) are public holidays with shops, offices, banks, most restaurants closed. Plan ahead. Only emergency services, gas stations, some pharmacies open.",
+      "faq4Q": "What is Śmigus-Dyngus?",
+      "faq4A": "Easter Monday tradition of playfully throwing water on others (especially young people splashing girls). Originates from old courtship customs. Expect water pranks in public. Shops closed as it's public holiday."
+    },
+    "name-days": {
+      "overview": "Name days (Imieniny) are celebrated in Poland with similar importance to birthdays, sometimes even more so. Each day of the year is associated with specific Catholic saints' names, and people celebrate their imieniny on their name saint's feast day. It's customary to congratulate colleagues, friends, and family, often with flowers, cards, or small gatherings. Many Polish calendars list daily name day saints. Understanding this tradition helps build social relationships and avoid awkward oversights.",
+      "req1": "Knowledge of your own name day (if your name has Polish equivalent)",
+      "req2": "Polish calendar showing daily name days (Imieniny)",
+      "req3": "Understanding celebration customs and gift expectations",
+      "req4": "Awareness of workplace name day etiquette",
+      "step1": {
+        "title": "Find Your Name Day",
+        "description": "Check Polish name day calendar (Kalendarz Imienin) for your name. Many names have multiple dates. Common names like Jan, Maria, Anna have several. If no Polish equivalent, explain your name's origin - Poles appreciate it."
+      },
+      "step2": {
+        "title": "Learn Celebration Customs",
+        "description": "Person celebrating may bring cake to office. Colleagues offer congratulations ('Sto lat!' - 100 years, or 'Wszystkiego najlepszego z okazji imienin'). Small gifts like flowers, cards, chocolates appropriate. Less formal than birthdays but meaningful."
+      },
+      "step3": {
+        "title": "Recognize Workplace Traditions",
+        "description": "In offices, check daily name days and congratulate colleagues. Person celebrating sometimes treats coworkers to cake or sweets. Not obligatory but common. Creates social bonding opportunities."
+      },
+      "step4": {
+        "title": "Celebrate Close Relationships",
+        "description": "For friends and family, name days merit phone calls, texts, visits. Flowers for women, small gifts or drinks for men. Some families celebrate with dinner parties. More low-key than birthdays but still significant."
+      },
+      "step5": {
+        "title": "Use as Integration Tool",
+        "description": "Remembering Polish colleagues' and friends' name days shows cultural awareness and respect. Download name day app or set calendar reminders. Small gesture with big impact on relationships."
+      },
+      "doc1": "Polish name day calendar (Kalendarz Imienin)",
+      "doc2": "Name day app or website (e.g., imieniny.pl)",
+      "doc3": "List of common Polish names and their dates",
+      "doc4": "Greeting phrases for name day wishes",
+      "costs": "Name day celebrations involve modest costs for gifts and treats.",
+      "cost1": "Flowers for colleagues",
+      "cost1Amount": "20-50 PLN",
+      "cost2": "Cake for office celebration",
+      "cost2Amount": "30-80 PLN",
+      "tip1": "Keep name day calendar at your desk or download imieniny app. Set reminders for close colleagues and friends. Remembering their name days builds strong relationships.",
+      "tip2": "If it's your name day, consider bringing cake to office. Not obligatory but appreciated gesture. Colleagues will congratulate you - accept graciously with thanks.",
+      "tip3": "When congratulating: 'Wszystkiego najlepszego z okazji imienin!' (All the best on your name day) or simple 'Sto lat!' (100 years). Text messages perfectly acceptable.",
+      "faq1Q": "Is name day more important than birthday in Poland?",
+      "faq1A": "Traditionally yes, especially for older generations and in Catholic families. Younger people celebrate both. Name days more common in workplaces. Birthdays more private, name days more public celebrations.",
+      "faq2Q": "What if my name isn't in the Polish calendar?",
+      "faq2A": "Many foreign names have Polish equivalents (John=Jan, Mary=Maria). If no equivalent, you can adopt closest version or simply explain you don't have Polish name day. Most Poles understand and find it interesting.",
+      "faq3Q": "Do I have to celebrate my name day?",
+      "faq3A": "No obligation, especially for foreigners. However, if colleagues discover your name day, they may congratulate you. You can acknowledge politely without making big celebration. Optional to bring cake.",
+      "faq4Q": "Should I give gifts on name days?",
+      "faq4A": "Small gifts appropriate for close friends/family: flowers, chocolates, cards. Workplace: congratulations sufficient, maybe flowers for close colleagues. Less elaborate than birthday gifts. Thoughtful gesture matters most."
+    },
+    "polish-cuisine": {
+      "overview": "Polish cuisine features hearty, flavorful dishes influenced by centuries of history and neighboring cultures. Staples include pierogi (dumplings), bigos (hunter's stew), żurek (sour rye soup), and various meat dishes. Meals emphasize bread, potatoes, cabbage, and seasonal ingredients. Polish food culture values home cooking, traditional recipes, and generous portions. Understanding Polish cuisine helps appreciate culture, navigate restaurants, and participate in social gatherings. Regional variations add diversity from mountains to coast.",
+      "req1": "Willingness to try traditional Polish dishes",
+      "req2": "Knowledge of common ingredients and dietary options",
+      "req3": "Understanding restaurant and dining customs",
+      "req4": "Learning basic Polish food vocabulary",
+      "step1": {
+        "title": "Try Essential Polish Dishes",
+        "description": "Must-try: pierogi (dumplings with various fillings), bigos (hunter's stew), żurek (sour rye soup), kotlet schabowy (breaded pork cutlet), gołąbki (cabbage rolls), barszcz (beet soup). Visit milk bars (bar mleczny) for affordable traditional food."
+      },
+      "step2": {
+        "title": "Understand Key Ingredients",
+        "description": "Polish cuisine heavily uses: potatoes, cabbage (fresh and fermented), mushrooms (especially wild), dill, sour cream (śmietana), rye bread, pork, beef. Meals often meat-heavy; vegetarian options traditionally limited but improving."
+      },
+      "step3": {
+        "title": "Navigate Restaurant Customs",
+        "description": "Restaurants serve lunch (obiad) as main meal (12-4pm) and lighter dinner (kolacja). 'Zestaw dnia' (set menu) offers good value. Tipping 10% standard. Service can be direct - not rude, just efficient Polish style."
+      },
+      "step4": {
+        "title": "Explore Regional Specialties",
+        "description": "Górale (mountain) cuisine: oscypek cheese, kwaśnica soup. Coastal: fish dishes, especially herring. Silesia: kluski śląskie (dumplings), rolada. Each region proud of local traditions. Food festivals showcase regional diversity."
+      },
+      "step5": {
+        "title": "Experience Food Traditions",
+        "description": "Wigilia (Christmas Eve) features 12 meatless dishes. Fat Thursday (Tłusty Czwartek) means eating pączki (donuts). Easter brings święconka (blessed food basket) with eggs, bread, sausage. Food integral to Polish celebrations."
+      },
+      "doc1": "Polish food dictionary and menu translator app",
+      "doc2": "List of traditional dishes and ingredients",
+      "doc3": "Restaurant review platforms (TripAdvisor, Google Maps)",
+      "doc4": "Polish cookbook or recipe websites",
+      "costs": "Polish cuisine offers options from budget-friendly milk bars to fine dining.",
+      "cost1": "Bar mleczny (milk bar) meal",
+      "cost1Amount": "15-30 PLN",
+      "cost2": "Mid-range restaurant meal",
+      "cost2Amount": "40-80 PLN",
+      "cost3": "Fine dining experience",
+      "cost3Amount": "150-300 PLN per person",
+      "tip1": "Visit 'bar mleczny' (milk bars) for authentic, cheap traditional Polish food. Government-subsidized cafeterias serving pierogi, soups, cutlets for 15-30 PLN. No-frills but delicious.",
+      "tip2": "Learn key food words: pierogi (dumplings), barszcz (beet soup), kotlet (cutlet), ziemniaki (potatoes), kapusta (cabbage), grzyby (mushrooms). Makes ordering easier, impresses Poles.",
+      "tip3": "Try regional specialties: oscypek (smoked cheese) in Zakopane, obwarzanek (pretzel) in Kraków, pączki (donuts) on Fat Thursday. Food connects you to local culture and traditions.",
+      "faq1Q": "Is Polish food vegetarian-friendly?",
+      "faq1A": "Traditional Polish cuisine meat-heavy, but changing. Cities have vegetarian/vegan options. Traditional veggie dishes: pierogi ruskie (cheese/potato), kopytka (potato dumplings), mushroom soups. Specify 'bez mięsa' (without meat).",
+      "faq2Q": "What are pierogi and what fillings are common?",
+      "faq2A": "Pierogi are dumplings (like ravioli). Sweet: fruit (strawberry, blueberry), cheese. Savory: ruskie (potato/cheese - most popular), meat, cabbage/mushroom, spinach. Served with sour cream, fried onions, or butter. National dish of Poland.",
+      "faq3Q": "Are Polish restaurants expensive?",
+      "faq3A": "Varies widely. Milk bars: 15-30 PLN. Casual restaurants: 40-80 PLN per meal. Fine dining: 150+ PLN. Generally more affordable than Western Europe. Major cities pricier than small towns. Lunch sets (zestaw dnia) offer best value.",
+      "faq4Q": "What should I drink with Polish food?",
+      "faq4A": "Beer (piwo) very popular - try Polish brands like Tyskie, Żywiec. Vodka (wódka) traditional spirit. Kompot (fruit drink) with meals. Herbata (tea) more common than coffee after meals. Nalewka (fruit liqueurs) for special occasions."
+    },
+    "expat-communities": {
+      "overview": "Poland hosts diverse expat communities, particularly in major cities like Warsaw, Kraków, Wrocław, and Gdańsk. Expats come from Ukraine, Belarus, UK, US, Germany, India, and many other countries. Established communities offer support through social groups, cultural associations, language exchanges, and networking events. Online forums, Facebook groups, and meetup organizations connect newcomers with experienced expats. These communities help with practical advice, friendship, cultural adjustment, and combating isolation during relocation.",
+      "req1": "Identifying relevant expat communities for your nationality/interests",
+      "req2": "Joining online platforms and social media groups",
+      "req3": "Attending meetups and community events",
+      "req4": "Contributing to community knowledge and support",
+      "step1": {
+        "title": "Join Online Expat Platforms",
+        "description": "Key platforms: Expats in Poland (Facebook), InterNations Poland chapters, Polish forums on Reddit (r/poland, r/warsaw). Join city-specific groups. Search 'expats [your city]' on Facebook for active communities."
+      },
+      "step2": {
+        "title": "Find Nationality-Specific Groups",
+        "description": "Most nationalities have dedicated organizations: American Chamber of Commerce, British Poles, Indian Association, Ukrainian communities. Embassy websites list cultural associations. These offer familiar cultural touchpoints during adjustment."
+      },
+      "step3": {
+        "title": "Attend Meetups and Events",
+        "description": "Check Meetup.com, Couchsurfing events, Facebook events for language exchanges, coffee meetups, hiking groups, professional networking. Most cities have regular international gatherings. English-speaking events abundant in major cities."
+      },
+      "step4": {
+        "title": "Engage with Professional Networks",
+      "description": "Join industry associations, chambers of commerce, coworking spaces. LinkedIn groups for Poland professionals. Attend conferences, workshops. Professional connections provide career opportunities and social integration."
+      },
+      "step5": {
+        "title": "Balance Expat and Local Integration",
+        "description": "While expat communities provide comfort, actively seek Polish friendships too. Join mixed Polish-international groups. Learn Polish. Balanced approach prevents expat bubble while maintaining international connections."
+      },
+      "doc1": "List of expat Facebook groups for your city",
+      "doc2": "InterNations membership or alternative platforms",
+      "doc3": "Embassy/consulate contact information",
+      "doc4": "Meetup.com and event platform accounts",
+      "costs": "Joining expat communities ranges from free to paid memberships.",
+      "cost1": "Free online groups and meetups",
+      "cost1Amount": "0 PLN",
+      "cost2": "InterNations membership",
+      "cost2Amount": "60-100 EUR/year",
+      "cost3": "Event participation (drinks, activities)",
+      "cost3Amount": "30-100 PLN per event",
+      "tip1": "Search '[Your City] Expats' on Facebook for active communities. Warsaw, Kraków, Wrocław have huge international groups with daily advice, events, housing tips, friend-finding.",
+      "tip2": "Attend language exchange meetups (Tandem, Speaking Cafes) - meet both Poles learning English and other expats. Practice Polish, make friends, free or cheap events in cafes/bars.",
+      "tip3": "Don't stay only in expat bubble. Join hobby groups with Poles (sports, book clubs, volunteering). Balanced approach: expat community for support, Polish friends for integration.",
+      "faq1Q": "What are the largest expat communities in Poland?",
+      "faq1A": "Largest: Ukrainian (over 1 million), Belarusian. Western expats concentrated in Warsaw, Kraków, Wrocław. Growing Indian, Asian, Middle Eastern communities. Each major city has diverse international population, active social scenes.",
+      "faq2Q": "How do I find English-speaking friends in Poland?",
+      "faq2A": "Join expat Facebook groups, attend language exchanges, use Meetup.com, try InterNations events, join sports leagues, coworking spaces. Most young Poles speak English. Apps like Bumble BFF also work.",
+      "faq3Q": "Are expats welcomed in Poland?",
+      "faq3A": "Generally yes, especially in cities. Young, educated Poles very international and welcoming. Some xenophobia exists (mainly political rhetoric). Expats report positive experiences overall. Learning basic Polish greatly improves reception.",
+      "faq4Q": "Should I join InterNations or similar paid platforms?",
+      "faq4A": "Optional. InterNations offers organized events, vetted members, professional networking. Free alternatives: Facebook groups, Meetup, Couchsurfing work well. Paid platforms useful for professionals, newcomers wanting structured community. Try free options first."
+    },
+    "integration-programs": {
+      "overview": "Poland offers various integration programs for foreigners through government initiatives, NGOs, and cultural organizations. These programs help with language learning, cultural orientation, legal assistance, job placement, and social integration. Offerings include Polish language courses (often subsidized), cultural workshops, mentorship programs, and practical guidance on living in Poland. Programs target different groups: refugees, EU citizens, highly skilled workers, students. Major cities have better resources, but online options expand access.",
+      "req1": "Determining eligibility for integration programs",
+      "req2": "Researching available programs in your city",
+      "req3": "Understanding language requirements and course options",
+      "req4": "Accessing social and professional support services",
+      "step1": {
+        "title": "Assess Integration Program Eligibility",
+        "description": "Check eligibility based on residence status. Refugees and beneficiaries of international protection have access to government integration programs. EU citizens, other legal residents can access NGO and municipal programs. Universities offer student integration."
+      },
+      "step2": {
+        "title": "Find Polish Language Courses",
+        "description": "Government programs offer free/subsidized Polish for eligible groups. Universities have Polish for foreigners (Polonicum). Private schools: €300-600 for semester. Online: Duolingo, iTalki, language exchange apps. Check local cultural centers (Dom Kultury)."
+      },
+      "step3": {
+        "title": "Access NGO Integration Services",
+        "description": "Organizations like Fundacja Ocalenie, Stowarzyszenie Interwencji Prawnej, Caritas offer legal aid, language classes, cultural orientation, employment help. Many provide free services. Check local migrant support centers (Centra dla Cudzoziemców)."
+      },
+      "step4": {
+        "title": "Join Cultural Orientation Programs",
+        "description": "Many cities offer 'Welcome to Poland' orientation sessions covering practical life skills, Polish customs, legal rights, healthcare, education. Some employers provide relocation support. International clubs organize cultural introduction events."
+      },
+      "step5": {
+        "title": "Utilize Professional Integration Support",
+        "description": "Job centers (Urzędy Pracy) assist with employment. Chambers of commerce offer networking. Coworking spaces provide community. Professional associations aid career development. LinkedIn Poland groups connect job seekers and employers."
+      },
+      "doc1": "List of integration NGOs in your region",
+      "doc2": "Polish language course options and schedules",
+      "doc3": "Government integration program information",
+      "doc4": "Local migrant support center contact details",
+      "costs": "Integration programs range from free government/NGO services to paid private options.",
+      "cost1": "Government/NGO integration programs",
+      "cost1Amount": "Free (for eligible groups)",
+      "cost2": "Private Polish language courses",
+      "cost2Amount": "300-600 EUR per semester",
+      "cost3": "Online language learning",
+      "cost3Amount": "0-50 PLN per month",
+      "tip1": "Contact Urzędy Miasta (city offices) about local integration programs. Many cities offer free Polish courses, cultural orientation, legal consultations for registered foreign residents.",
+      "tip2": "Universities' 'Polonicum' or language centers offer quality Polish courses. Academic year courses more structured than private schools. Often include cultural activities, student community, affordable prices.",
+      "tip3": "Join 'Language Exchange' meetups for free practice. Native Poles want to practice English, you practice Polish. Tandem partnerships effective: regular meetings, mutual teaching, often turn into friendships.",
+      "faq1Q": "Are there free Polish language courses?",
+      "faq1A": "Yes, for certain groups. Refugees get free government courses. Some NGOs offer free/subsidized classes. EU citizens may access municipal programs. Check local cultural centers (Dom Kultury) for affordable community courses (50-200 PLN).",
+      "faq2Q": "What is Individual Integration Program?",
+      "faq2A": "Government program (Indywidualny Program Integracji) for refugees and beneficiaries of international protection. Provides: 12 months financial support, free Polish lessons, social worker assistance, job placement help, legal aid. Apply through social assistance office.",
+      "faq3Q": "How can I get help with legal/administrative issues?",
+      "faq3A": "NGOs offer free legal aid: Stowarzyszenie Interwencji Prawnej, Fundacja Ocalenie, local migrant centers. University law clinics provide consultations. Halina Nieć Legal Aid Center specializes in foreigners' rights. Many offer free services.",
+      "faq4Q": "Do employers provide integration support?",
+      "faq4A": "Varies widely. International companies often provide relocation packages: language courses, cultural training, housing help, visa support. Polish SMEs rarely provide formal support. Negotiate integration assistance when accepting job offers, especially for senior positions."
+    },
+    "polish-history-basics": {
+      "overview": "Understanding Polish history is essential for cultural integration and comprehending national identity. Poland has a complex history of glory and tragedy: medieval kingdom, powerful Commonwealth, partitions erasing it from maps for 123 years, WWII devastation (6 million deaths, Holocaust), Soviet domination, and Solidarity movement leading to freedom. Historical awareness shapes Polish mentality, values, and sensitivities. Key periods: Piast dynasty, Jagiellonian era, partitions, interwar independence, WWII, communism, and modern democracy since 1989.",
+      "req1": "Basic knowledge of major historical periods",
+      "req2": "Understanding WWII and Holocaust significance",
+      "req3": "Awareness of Soviet/communist period",
+      "req4": "Recognizing national symbols and heroes",
+      "step1": {
+        "title": "Learn Pre-Partition Poland (966-1795)",
+        "description": "Poland baptized 966 CE under Mieszko I. Powerful medieval kingdom, Jagiellonian dynasty created Polish-Lithuanian Commonwealth (1569) - major European power. Golden Age of tolerance, culture, territory from Baltic to Black Sea. Partitioned by Russia, Prussia, Austria in 1795."
+      },
+      "step2": {
+        "title": "Understand Partitions and Lost Independence (1795-1918)",
+        "description": "Poland disappeared from maps for 123 years, divided between empires. Multiple uprisings (1830, 1863) suppressed. Poles fought in foreign armies hoping for independence. Culture, language preserved despite Russification/Germanization. Independence regained 1918 after WWI."
+      },
+      "step3": {
+        "title": "Recognize WWII Trauma (1939-1945)",
+        "description": "Nazi invasion Sept 1939, Soviet invasion Sept 17. Six years of occupation, 6 million Polish deaths (half Jewish). Warsaw Uprising (1944) destroyed capital. Holocaust: Poland site of Nazi death camps (Auschwitz, Treblinka). Liberation brought Soviet domination, not freedom."
+      },
+      "step4": {
+        "title": "Comprehend Communist Period (1945-1989)",
+        "description": "Soviet-imposed communist rule. Political repression, censorship, economic hardship. Workers' protests (1956, 1970, 1976) violently suppressed. Solidarity trade union (1980) challenged regime. Martial law (1981-83). Communist system collapsed 1989, first free elections. Lech Wałęsa symbol of peaceful transition."
+      },
+      "step5": {
+        "title": "Appreciate Modern Poland (1989-present)",
+        "description": "Democratic transformation since 1989. Joined NATO (1999), EU (2004). Economic growth, modernization. Regional power in Central Europe. History remembered through museums (POLIN, Warsaw Rising, Auschwitz), anniversaries, education. Past shapes present identity and politics."
+      },
+      "doc1": "Polish history overview books (Norman Davies recommended)",
+      "doc2": "Museum visits: POLIN, Warsaw Rising, Auschwitz",
+      "doc3": "Documentary films about Polish history",
+      "doc4": "Timeline of key dates in Polish history",
+      "costs": "Learning Polish history involves modest costs for museum visits and books.",
+      "cost1": "Museum entrance fees",
+      "cost1Amount": "20-40 PLN (many free on certain days)",
+      "cost2": "History books and resources",
+      "cost2Amount": "50-150 PLN",
+      "cost3": "Guided historical tours",
+      "cost3Amount": "100-200 PLN",
+      "tip1": "Visit key museums: POLIN (Jewish history), Warsaw Rising Museum, Auschwitz-Birkenau. Essential for understanding Poland. Audio guides in English. Emotional but crucial educational experiences.",
+      "tip2": "Read Norman Davies 'Heart of Europe' or 'God's Playground' for accessible Polish history overview. Understanding history helps grasp current politics, social attitudes, national pride.",
+      "tip3": "Never joke about WWII, partitions, or Polish suffering. History deeply felt, personally relevant (grandparents' generation). Show respect when visiting historical sites, especially cemeteries, monuments, former camps.",
+      "faq1Q": "Why is history so important to Poles?",
+      "faq1A": "Centuries of struggle for independence, survival, sovereignty shape national consciousness. Lost statehood for 123 years, regained 1918, lost again 1939-89. History lessons teach resilience, value of freedom, distrust of powerful neighbors. Personal - affects grandparents' generation directly.",
+      "faq2Q": "What was the Solidarity movement?",
+      "faq2A": "Solidarity (Solidarność) - independent trade union founded 1980 at Gdańsk shipyards, led by Lech Wałęsa. First independent labor organization in Soviet bloc. Challenged communist regime through strikes, negotiations. Suppressed by martial law 1981. Triumphed 1989, peaceful end to communism. Symbol of Polish freedom struggle.",
+      "faq3Q": "Why does Poland have so many WWII memorials?",
+      "faq3A": "WWII killed 6 million Poles (17% of population), destroyed 85% of Warsaw, devastated country. Every family affected. Holocaust murdered 3 million Polish Jews on Polish soil. Memorials honor victims, educate future generations, prevent forgetting. Remembrance central to national identity.",
+      "faq4Q": "What are the Three Partitions?",
+      "faq4A": "Series of divisions (1772, 1793, 1795) by Russia, Prussia, Austria that erased Poland from European maps. Poland lost independence for 123 years until 1918. Despite attempts to erase culture/language, Poles preserved identity. Traumatic period explaining Polish emphasis on sovereignty, distrust of powerful neighbors."
+    },
+    "cultural-events": {
+      "overview": "Poland offers rich cultural events throughout the year: music festivals, film screenings, theater performances, art exhibitions, street fairs, and traditional celebrations. Major cities host international festivals attracting global artists. Summer brings outdoor concerts and cultural events to city squares and parks. Religious and national holidays feature parades, ceremonies, and public festivities. Cultural calendar includes high culture (opera, classical music, museums) and popular entertainment (pop concerts, street festivals, sports events). Participation connects foreigners to Polish culture and community.",
+      "req1": "Awareness of major annual festivals and events",
+      "req2": "Understanding ticket purchasing and event platforms",
+      "req3": "Knowledge of cultural venues in your city",
+      "req4": "Willingness to explore both Polish and international culture",
+      "step1": {
+        "title": "Explore Major Music Festivals",
+        "description": "Summer festivals: Open'er (Gdynia, July), Tauron Nowa Muzyka (Katowice), Orange Warsaw Festival. Classical: Chopin concerts in Warsaw's Łazienki Park (free, summer Sundays). Jazz: Jazz Jamboree (Warsaw). Variety of genres, international artists, energetic crowds."
+      },
+      "step2": {
+        "title": "Attend Film and Theater Events",
+        "description": "Film festivals: Off Camera (Kraków), New Horizons (Wrocław), Warsaw Film Festival. Theaters offer English-subtitled performances occasionally. Cinemas show original-language films with Polish subtitles. Culture Pass program offers discounted tickets for young people."
+      },
+      "step3": {
+        "title": "Participate in Traditional Celebrations",
+        "description": "Annual events: Lajkonik parade (Kraków, June), Wianki (summer solstice, June), St. John's Night (midsummer). Independence Day (Nov 11) has patriotic marches, concerts. Christmas markets (Jarmarki Bożonarodzeniowe) December in all major cities."
+      },
+      "step4": {
+        "title": "Visit Museums and Exhibitions",
+        "description": "Most museums have free entry one day per week. Major exhibitions at National Museum, MOCAK (contemporary art), European Solidarity Centre. Night of Museums (Noc Muzeów, May) opens venues late with special programs. Active art scene in all cities."
+      },
+      "step5": {
+        "title": "Discover Local Events",
+        "description": "Check local event websites: GoOut.pl, Eventim.pl, Facebook Events, city cultural centers (Centrum Kultury). Neighborhoods host street festivals, markets, concerts. Churches offer concerts (often free organ recitals). Universities organize public lectures, performances."
+      },
+      "doc1": "Event ticketing platforms (GoOut, Eventim, eBilet)",
+      "doc2": "City cultural center websites and newsletters",
+      "doc3": "Festival schedules and lineups",
+      "doc4": "Culture Pass eligibility and registration",
+      "costs": "Cultural events range from free public events to premium festival tickets.",
+      "cost1": "Free events (parks, museums, street festivals)",
+      "cost1Amount": "0 PLN",
+      "cost2": "Theater/concert tickets",
+      "cost2Amount": "50-200 PLN",
+      "cost3": "Major festival passes",
+      "cost3Amount": "300-800 PLN",
+      "tip1": "Check which day museums are free in your city (usually Tuesday or Thursday). Plan museum visits accordingly. Night of Museums (Noc Muzeów) in May has free late-night access to dozens of venues.",
+      "tip2": "Use Culture Pass (Bon Kulturalny) if you're under 30. Government program gives eligible young people 500 PLN for cultural events, concerts, books, museums. Apply online, use at registered venues.",
+      "tip3": "Attend free summer concerts: Chopin in Łazienki Park (Warsaw, Sundays), open-air cinema, city-sponsored festivals. Major cities fill parks with free cultural programming June-August. Check city websites.",
+      "faq1Q": "What are Poland's biggest cultural festivals?",
+      "faq1A": "Music: Open'er Festival (rock/pop, July), Tauron Nowa Muzyka, Orange Warsaw Festival. Film: New Horizons (Wrocław), Off Camera (Kraków). Art: Night of Museums (nationwide, May). Jewish Culture Festival (Kraków, summer). Each city has signature festivals.",
+      "faq2Q": "Are cultural events expensive in Poland?",
+      "faq2A": "Generally affordable compared to Western Europe. Museum entry 20-40 PLN (often free days). Concert tickets 80-250 PLN. Theater 50-150 PLN. Festival passes 300-800 PLN. Many free events: parks, churches, street festivals. Culture Pass subsidizes for young people.",
+      "faq3Q": "Do I need to speak Polish to enjoy cultural events?",
+      "faq3A": "Not necessarily. Music/art universal. Museums have English descriptions/audio guides. Some theaters offer English subtitles. International films shown in original language with Polish subtitles. Festivals attract international crowds. Language helps but not essential for participation.",
+      "faq4Q": "Where can I find information about cultural events?",
+      "faq4A": "Platforms: GoOut.pl, Eventim.pl, eBilet.pl for tickets. Facebook Events, city tourism websites, local cultural centers (Dom Kultury, Centrum Kultury). Many events promoted through social media. Expat groups share recommendations. Subscribe to venue newsletters."
+    },
+    "sports-and-recreation": {
+      "overview": "Poland offers diverse sports and recreational opportunities: fitness clubs, swimming pools, sports leagues, outdoor activities, and spectator sports. Poles are passionate about football (soccer), volleyball, and ski jumping. Cities have modern gyms, public sports facilities, and parks for running and cycling. Outdoor activities thrive: hiking in Tatra Mountains, cycling trails, water sports on Baltic coast and Masurian Lakes. Winter sports popular in mountain regions. Participation in sports clubs and recreational activities provides fitness, social connections, and cultural integration.",
+      "req1": "Understanding available sports facilities and clubs",
+      "req2": "Knowledge of membership costs and requirements",
+      "req3": "Awareness of popular Polish sports and teams",
+      "req4": "Access to outdoor recreational areas",
+      "step1": {
+        "title": "Join Fitness and Sports Clubs",
+        "description": "Major gym chains: CityFit, Zdrofit, Calypso, McFit (budget option). Monthly memberships 80-200 PLN. Most include group classes, gym equipment, sometimes pool. Municipal sports centers (MOSiR) offer affordable facilities. Many neighborhoods have outdoor gyms (siłownia plenerowa) - free."
+      },
+      "step2": {
+        "title": "Participate in Sports Leagues",
+        "description": "Join amateur leagues: football, volleyball, basketball. Expat sports groups active in major cities (check Facebook). Running clubs welcome newcomers. Companies organize corporate leagues. Warsaw Sports Club, Kraków Sports Club connect English-speaking athletes."
+      },
+      "step3": {
+        "title": "Explore Outdoor Activities",
+        "description": "Hiking: Tatra Mountains (Zakopane), Karkonosze, Bieszczady. Cycling: extensive bike paths in cities, long-distance trails (Velo Dunajec, Green Velo). Water sports: Masurian Lakes (sailing, kayaking), Baltic coast beaches. Winter: skiing in Zakopane, Szczyrk, Białka Tatrzańska."
+      },
+      "step4": {
+        "title": "Experience Spectator Sports",
+        "description": "Football most popular: Ekstraklasa league (Legia Warsaw, Lech Poznań major teams). Volleyball (world-class level). Ski jumping (national obsession, especially Adam Małysz, Kamil Stoch). Basketball gaining popularity. Tickets affordable 20-100 PLN. Stadium atmosphere intense, passionate fans."
+      },
+      "step5": {
+        "title": "Use Public Recreational Facilities",
+        "description": "Cities maintain public pools, sports halls, tennis courts at low cost. MOSiR (Municipal Sports and Recreation Centers) offer swimming, skating, sports facilities. Parks have running/cycling paths, outdoor fitness equipment. Promenades for walking/jogging along rivers, in forests."
+      },
+      "doc1": "Gym membership comparison websites",
+      "doc2": "Local sports club and league directories",
+      "doc3": "Hiking trail maps and guides (especially Tatra Mountains)",
+      "doc4": "Sports event calendars and ticket platforms",
+      "costs": "Sports and recreation costs range from free outdoor activities to premium gym memberships.",
+      "cost1": "Budget gym membership (McFit)",
+      "cost1Amount": "49-89 PLN/month",
+      "cost2": "Mid-range gym (Zdrofit, CityFit)",
+      "cost2Amount": "120-200 PLN/month",
+      "cost3": "Public swimming pool entry",
+      "cost3Amount": "15-30 PLN per visit",
+      "cost4": "Sports league registration",
+      "cost4Amount": "100-500 PLN per season",
+      "tip1": "Try municipal sports centers (MOSiR) for affordable swimming, gym, sports courts. Much cheaper than commercial gyms. Facilities simple but functional. Check your city's MOSiR website for locations, prices.",
+      "tip2": "Join expat sports groups on Facebook: 'Warsaw Sports Club,' '[City] Football Expats.' Regular games, leagues, social events. Great way to meet people, stay fit, practice Polish or English.",
+      "tip3": "Explore free outdoor options: park runs (parkrun Poland - free timed 5K every Saturday), outdoor gyms (siłownia plenerowa), cycling paths, forest trails. Poland has beautiful nature easily accessible.",
+      "faq1Q": "How much do gym memberships cost in Poland?",
+      "faq1A": "Budget gyms (McFit, Bee Fit): 49-89 PLN/month, basic equipment. Mid-range (Zdrofit, CityFit): 120-200 PLN/month, classes, pools, better facilities. Premium clubs: 300+ PLN/month. No-commitment options available. Municipal centers (MOSiR) cheaper but simpler.",
+      "faq2Q": "What sports are popular in Poland?",
+      "faq2A": "Football (soccer) most popular spectator and participation sport. Volleyball (Poland world-class, passionate fans). Ski jumping (national pride). Basketball, handball growing. Recreational: running, cycling, gym fitness, hiking. Winter sports in mountains. Strong sports culture, active population.",
+      "faq3Q": "Are there English-speaking sports groups?",
+      "faq3A": "Yes, especially in major cities. Search Facebook for '[City] Sports Club,' 'Expat Football [City],' 'International Running [City].' Regular games, leagues, social events. Mixed Polish-international groups common. Some communication in English, good Polish learning opportunity.",
+      "faq4Q": "Where can I go hiking near major cities?",
+      "faq4A": "Warsaw: Kampinos Forest, Mazovia trails. Kraków: Tatra Mountains (2hrs), Ojców National Park (30min). Wrocław: Karkonosze Mountains, Sudetes trails. Most cities have accessible forests, parks within 30-60 minutes. Poland has excellent marked hiking trails (szlaki turystyczne) nationwide."
     }
   },
   "pages": {
